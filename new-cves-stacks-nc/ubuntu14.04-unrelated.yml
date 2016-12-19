@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3158-1: Samba vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3157-1: Apport vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3155-1: Firefox vulnerabilities'
