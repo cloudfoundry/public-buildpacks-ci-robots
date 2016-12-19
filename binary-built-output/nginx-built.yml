@@ -1,0 +1,120 @@
+---
+nginx:
+- version: 1.11.2
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJXe9mFAAoJEFIKmZOhwFL4Ix4H/0L+M1e2p1lA4Wihf36Vk0OL
+    JBTz7/ludPDwTTwMI1EfReU5zx3Ctx9pmKurXoOWSb04R59lLCjEHlwM6PgHbG25
+    +xmnQYlMYRsGY/P9aV3VTmomccXjCbtWeTwEceE5NK2Xsm3jqObJhuTvvHBw5oaF
+    IJiElpzeWidkXI3vaUtCZREP46LZeGb7BNCzz8RvWtGW4ZlOfMn9ELkzFBm99KTA
+    aXT9bSOn6tIApxPyPYxRopVrWrkMNr9WBX/8XzDdjX+8RItC1xsIdH2lbC9oPKiE
+    KKMWmcV7dEjpXLEeI7MKi3OtThCzsFArTEDYVvFruAXjDbZiidCr0DZB4To2Lnc=
+    =zDLQ
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-07-18 15:19:48 UTC
+- version: 1.10.1
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJXTZiIAAoJEFIKmZOhwFL4hSoIAJ+MxGiL10ZL9Xb5wsPKBWsE
+    RhLehAWLi/C+By0SZs3OPyOjFybjM8Bxy8gBcOogmRnMK/LmcJHmaektIy/wEwG2
+    h6+hHQNUN/NkKdEPgAOmSck071IEb4nBdsrgnmrxZKoY6/w/GKiwQ1//S6d5bhmC
+    tkjOtLeEpEUe7XKZUvuQcA8bKhjLC8spiLIpOkeS8C/q2/iK59RsRIV01W/oAbbT
+    qRGVPJHCJelnm6ttK/UO79kWcjkICedaiYvcXYD5Mt1ndxUrSoWYlhDHFaZ4QWu0
+    /j4md4G9FWtOuUNgkSy/+F6POe9Ie88B+FemuEGMlqnZREJzPbK/aDW9UwKCRgg=
+    =6+ap
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-07-18 15:20:41 UTC
+- version: 1.11.3
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJXl2zVAAoJEFIKmZOhwFL4L30IAMXQIwLWJU+rd8IGeclGDzzL
+    FU0nD/LJs8mzMD+m+IjO4/tk3ADzkZHtjEWyb1tzi2GazhqsEnmoYfbthGT+jWDO
+    xj/JhNBpllEKFeUXN8BiJ3NXoBtPzPEM7OOK5xIeZ1DQC2Ob/LwpiN9UwZUf6Jsn
+    rpgSkiz2ZnSxxzH329rJSZCXI3RhGabBG0voN54z8ugWslvEm7Ud6fhQRQxh5xFi
+    6Z22xTo184GUQktG5BSeDp1tKqww9P+os7m7FuhNnKl7ADDnAnI1s59tvUf1icCC
+    ZpCRCONaXnWxlmrimA/6nJGIp6zARe6IDClb8PWloxef2SR72bQXH4Q9uUPoZMc=
+    =kC5f
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-07-26 16:05:48 UTC
+- version: 1.11.4
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJX2B3pAAoJEFIKmZOhwFL46d4H/3/d5OZyxzc6fmpr4MvonsNq
+    JEoeHJQ2Rz23nB9tzqgsNEIIu8t6PpgvlKxd1lvVAz99JAEJuwU72PAb6ZHVm3ov
+    G7YD9m+mLYjsrirdF8KkQqqPnf51eGBiICPR2lndD/kIZp/pvVZ/RsQUXoljiZmh
+    6REFAMqlClKep42wRZXeMdcoGBHsWw0WPIewXHZIpgNUD2Cv4eeCSORX8nyF93JD
+    +WoBVyjXmXBqEkPS8a+l2zohHBAIvKq2T4A2HEWyJnM3sAK18rbWgTTJ6fxUqS5I
+    DmJGqiLUHjzeG8X5pmhI8tOXwJUP7qR4VZevu0FvziIOJtzJ0leK0XbrC/EjOZs=
+    =F2t5
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-09-13 16:06:09 UTC
+- version: 1.11.5
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJX/P9pAAoJEFIKmZOhwFL4CZwH/jsxeNwEfdnMpYzyJePS+OpC
+    FTIFzMIKa1giJBjC2Em7JNOI0o8dzHziVF97bKJl35v15hLDaBYGIgZ2Ggv+7bqV
+    hJ0+EeJpeYG42a+76GS/Ioj9jOgzAflCoFTKRbxowGMezINnFWaCWSMjcWsei+Fo
+    ILGjUAE48wXZCvJk3oVW0Pi1tItehRRzeDJhTip6Ru74JnZqaufHbtPtT73qAF1h
+    vMGS717ShcAX1BXh8aUeg9MYnBHtmB9NOgjkJW2LRjFwwrTgkD8xQoUrK7USs3g+
+    55uQWWJU7yuy7UJoiJl6sCP0MG5ZU2si9MRlU0KIoNR8SJWIgKZCWpVFB2ippVE=
+    =3/BP
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-10-11 16:07:17 UTC
+- version: 1.10.2
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v2
+
+    iQEcBAABCAAGBQJYBjoRAAoJEFIKmZOhwFL4ScQH+wfGY2GnqHvgC0erte1lUtSA
+    bOKYrHsNE/kGkkIXpIy8ksYyfIf93NRhBjT55ZGhnEgIuYeqMSZhqxQUet4JCrU/
+    H+g7yb3oFtV1Uwv/5ALnsXsOHdGSvAUj/QFxyiwYOLDxK/riajMcELv/3Dh4fKTr
+    N4TS9stXXjYl0s57iGbJUe0ov+UX4GTVQqKqLRYSsmuyCBtVofUoEzOQz9rR/7RZ
+    3l6sAI2b/WgtkHpxsMxt45UMq8HuhwZLcae3qW+o/DadyBfT1oXCTfoePI644AaQ
+    S9fs2WNJLRMUyb1djRzU5CfwgYGmuAwJDjYuFp1cclpGKyxp8g0vPxnEQWAD8hI=
+    =imev
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-10-18 16:06:16 UTC
+- version: 1.11.6
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABCAAGBQJYKyZSAAoJEFIKmZOhwFL4HwwH/314HqIjkDJ098PWF1cLYDNu
+    PaWrJIxSSOwmqPnRhEyXciPLF718ppEoEEvRwMnoAY/ypz9imbvL2hI8tvIy3i5s
+    cwZzFNjnTOt1dT5eC1JWHNOG+p0CUjzASDzHLx8IaV7+9N27MnM5bEL4S0EaIlOX
+    kH44CUctKI2YUAV0bdtvpX544zbj7Nryz9dcRAx41UKpQfnh2dfpKBGkZPUYQOcF
+    h327UxxhkdjWuX9UvyJG4EEmCy0C/fD8yWoHIsKiJ+V/XrN4JLWbbqphNvSJOBGF
+    ag/oHL8Cd2j6O0SQGCwHMyyiIKDwwWQQhA4NY28Eq/bq84+XHU2WSTKwONkyGxg=
+    =4Kps
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-11-15 16:04:32 UTC
+- version: 1.11.7
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABCAAGBQJYUBItAAoJEFIKmZOhwFL49qQIAJn6l90q5NPCOnZfxAKNYQ3u
+    /KOe2uewuqVWWgd6rcqfF+8lFXPfAA8OQMGGXiPkfmgpHsYTWt7P1z2a20I2e0r/
+    s6vYPnZE6ZGEReQQeeG1/St+l+x5GB8wuT81h/cWUyhRldM9vpz839F8bW+7h8j1
+    D77XRQlzl/I1QCkT1XXjY/Z96mlTGdXj9Oyo4W9x6I6y86G7kMfArihMid4pDQ/+
+    4hyFKkjqm5XxhzorLkvTpQLQnA1RwY2U8qtRwpRALf3MnLrSgxwZeGWY6r+WPgN2
+    LWs7C2zVN43lp2Cu+w9N22/NtKVIfmbur/EXLgLuQyg/nmCvhyO9cnxjeoBtNuY=
+    =3NFz
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-12-13 16:04:23 UTC

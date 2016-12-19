@@ -1,0 +1,21 @@
+---
+- title: 'USN-3156-1: APT vulnerability'
+  stack_release: 0.9.0
+- title: 'USN-3142-1: ImageMagick vulnerabilities'
+  stack_release: 0.8.0
+- title: 'USN-3139-1: Vim vulnerability'
+  stack_release: 0.8.0
+- title: 'USN-3134-1: Python vulnerabilities'
+  stack_release: 0.8.0
+- title: 'USN-3132-1: tar vulnerability'
+  stack_release: 0.8.0
+- title: 'USN-3131-1: ImageMagick vulnerabilities'
+  stack_release: 0.8.0
+- title: 'USN-3123-1: curl vulnerabilities'
+  stack_release: 0.6.0
+- title: 'USN-3119-1: Bind vulnerability'
+  stack_release: 0.6.0
+- title: 'USN-3117-1: GD library vulnerabilities'
+  stack_release: 0.6.0
+- title: 'USN-3116-1: DBus vulnerabilities'
+  stack_release: 0.6.0

@@ -1,0 +1,83 @@
+---
+node:
+- version: 6.3.0
+  sha256: 4ed7a99985f8afee337cc22d5fef61b495ab4238dfff3750ac9019e87fc6aae6
+  timestamp: 2016-07-18 15:31:35 UTC
+- version: 6.3.1
+  sha256: 3f6144dcf13c210b11c83dc0b0a841219347a769b5a3b883b20f7ab8dc4008f6
+  timestamp: 2016-07-21 23:24:01 UTC
+- version: 4.4.7
+  sha256: cbe1c6e421969dd5639d0fbaa6d3c1f56c0463b87efe75be8594638da4d8fc4f
+  timestamp: 2016-08-10 13:20:23 UTC
+- version: 4.5.0
+  sha256: 74ced83b8d890d90e2a8b0d54b0d0e9b5e01d6fd6148cec6e9911ff6eaf0cf21
+  timestamp: 2016-08-16 17:09:10 UTC
+- version: 6.4.0
+  sha256: a58c930618cf5b0862aa329a626e850519036acfcd746983010c9946df1797d0
+  timestamp: 2016-08-23 15:13:16 UTC
+- version: 6.5.0
+  sha256: d7742558bb3331e41510d6e6f1f7b13c0527aecc00a63c3e05fcfd44427ff778
+  timestamp: 2016-08-29 14:18:07 UTC
+- version: 6.6.0
+  sha256: 11b957de855a392ceaa8b300ec66236d6f9c6baa184837d00bdaba2da4aefe91
+  timestamp: 2016-09-15 21:11:27 UTC
+- version: 6.7.0
+  sha256: 02b8ee1719a11b9ab22bef9279519efaaf31dd0d39cba4c3a1176ccda400b8d6
+  timestamp: 2016-09-28 16:29:59 UTC
+- version: 4.6.0
+  sha256: 0838f12e329edb252e6e6baddca85632bf5ff2ec900e737e88f9bf9b38946b1b
+  timestamp: 2016-09-28 16:45:05 UTC
+- version: 0.12.16
+  sha256: 312c0b74b0815f0514de9bf00667850d4f6ce184126f02f3d8dbf40fd48235eb
+  timestamp: 2016-09-28 16:59:53 UTC
+- version: 0.10.47
+  sha256: 5281fa7ddff755c34602a09ef8027f0bda0f7851b1e374fd0e0c33da93123056
+  timestamp: 2016-09-28 17:09:46 UTC
+- version: 6.8.0
+  sha256: a8a2d4b74734991dd45e5b2b0b13617864f1283f6d6bc262e1e4d30741114352
+  timestamp: 2016-10-12 21:14:19 UTC
+- version: 6.8.1
+  sha256: 736f7651f59a78d5a0d88ab2430c93fc29a8efd1c06fd3fb4eb915b262bc2769
+  timestamp: 2016-10-15 02:14:47 UTC
+- version: 4.6.1
+  sha256: b8ca4db42c5a1fed95baf6996ff776db3c95ad2bcf73c7aed2f1f921a1225de3
+  timestamp: 2016-10-18 17:16:53 UTC
+- version: 0.12.17
+  sha256: ddea5e253812f167608fbdda6ff29ffc30dc6f669cf2f6e4249938d28b9cd44d
+  timestamp: 2016-10-18 17:23:49 UTC
+- version: 0.10.48
+  sha256: 27a1765b86bf4ec9833e2f89e8421ba4bc01a326b883f125de2f0b3494bd5549
+  timestamp: 2016-10-18 17:28:12 UTC
+- version: 6.9.0
+  sha256: 2e2657d2ece89782ca9e2cc0300f9119998e73382caa7ad2995ab81cc26ad923
+  timestamp: 2016-10-18 18:19:45 UTC
+- version: 6.9.1
+  sha256: a98997ca3a4d10751f0ebe97839b2308a31ae884b4203cda0c99cf36bc7fe3bf
+  timestamp: 2016-10-19 23:13:59 UTC
+- version: 7.0.0
+  sha256: 95ae4a37b8cf57816f96588ebe9ce5dbbb2c5452d177edd75fcfe6caf3b12b9b
+  timestamp: 2016-10-25 15:17:45 UTC
+- version: 4.6.2
+  sha256: 3c8f3af398c348cdf90fef9b983e4b46aae96a56238236542925e0bb4ee27ee8
+  timestamp: 2016-11-08 20:15:21 UTC
+- version: 7.1.0
+  sha256: 595e7e2a37d1e0573044a90077bb12c0f750e5d8851899ffa74038238da9a983
+  timestamp: 2016-11-08 22:38:27 UTC
+- version: 5.11.1
+  sha256: be1211ce415ecc48412ce3e9d5b48cf9ec8e99b34f25b4e1909a02679cc72fab
+  timestamp: 2016-11-22 23:44:12 UTC
+- version: 5.12.0
+  sha256: 250c12a561d7319e71e142ee92ab682494c7823d81ce24703c80eb52bdf9ba42
+  timestamp: 2016-11-22 23:52:59 UTC
+- version: 7.2.0
+  sha256: c3f53a5d8cea145e25706bb21cdac62f1b3314db35785bcf468558a29cfc352f
+  timestamp: 2016-11-23 00:18:24 UTC
+- version: 6.9.2
+  sha256: 997121460f3b4757907c2d7ff68ebdbf87af92b85bf2d07db5a7cb7aa5dae7d9
+  timestamp: 2016-12-06 20:18:46 UTC
+- version: 4.7.0
+  sha256: 0bc45fc02e425746001a8f012d6781fa5da6e629a43654c84ab7e767368fec61
+  timestamp: 2016-12-06 21:12:33 UTC
+- version: 7.2.1
+  sha256: fd08b8ba43b0596a7160b09a37113ac03b4b0976ec7e48980b7b8c078aa51b02
+  timestamp: 2016-12-06 23:21:54 UTC

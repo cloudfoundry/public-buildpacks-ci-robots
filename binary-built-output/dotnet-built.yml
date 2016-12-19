@@ -1,0 +1,17 @@
+---
+dotnet:
+- version: v1.0.0-preview2.0.1
+  git-commit-sha: 635cf40e58ede8a53e8b9555e19a6e1ccd6f9fbe
+  timestamp: 2016-10-06 13:24:12 UTC
+- version: v1.0.0-preview2
+  git-commit-sha: 1e9d529bc54ed49f33102199e109526ea9c6b3c4
+  timestamp: 2016-10-06 13:38:36 UTC
+- version: v1.0.0-preview2.1
+  git-commit-sha: d7b0190bd4ce49121a7cd5bdc0423ab85229a085
+  timestamp: 2016-10-24 18:16:05 UTC
+- version: v1.0.0-preview2-1-3177
+  git-commit-sha: a2df9c2576b79cc713967e5b801c30e7f30b9c9b
+  timestamp: 2016-11-16 17:16:17 UTC
+- version: v1.0.0-preview3-004056
+  git-commit-sha: ccc4968bc315e0010b7526b4d4f00c044f771020
+  timestamp: 2016-12-06 21:45:08 UTC
