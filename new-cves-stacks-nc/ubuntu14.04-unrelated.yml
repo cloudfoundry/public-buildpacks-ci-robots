@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3160-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3158-1: Samba vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3157-1: Apport vulnerabilities'
