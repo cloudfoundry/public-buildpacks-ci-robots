@@ -84,3 +84,6 @@ node:
 - version: 7.3.0
   sha256: 5ba8a26e5341ec738ee6f1aacdd82be4002aef64716d069e060d901ade13c5b0
   timestamp: 2016-12-20 22:24:11 UTC
+- version: 0.12.18
+  sha256: 6b48461dff7a002cedba45a016af81f66a79b465cee1d7bfe5bd74910c1a7bfa
+  timestamp: 2016-12-21 15:08:16 UTC
