@@ -12,3 +12,5 @@
 - http://go.googlecode.com/files/go1.2.1.linux-amd64.tar.gz
 # Accidentally rebuilt by java buildpack team: https://cloudfoundry.slack.com/archives/java-buildpack/p1472571161000078
 - https://java-buildpack.cloudfoundry.org/openjdk/trusty/x86_64/openjdk-1.8.0_101.tar.gz
+# Artifact part of a release that was created by the IBM maintainers before the CF Buildpacks started maintaining the dotnet-core-buildpack
+- https://github.com/cloudfoundry-community/asp.net5-buildpack/releases/download/v0.8/gettext-cflinuxfs2-0.19.7.tar.gz
