@@ -118,3 +118,17 @@ nginx:
     =3NFz
     -----END PGP SIGNATURE-----
   timestamp: 2016-12-13 16:04:23 UTC
+- version: 1.11.8
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABCAAGBQJYYnm7AAoJEFIKmZOhwFL4//wH/3zzLHNkO9HQgrPUHdniETiV
+    Sm+Hs138LxgL9GPI8Yj+Wct80r0yAEudBDk9irTlw6YYCx2toWilKW30X3Fquoi6
+    ZCUO8rg79T86GWuT9iieBbEQRizG2CEgcEprpb1l55d6/Kp03zAxJEASgEvTV9NS
+    idUHp49/fS0zL+baREjYdD+p3Xk2B7bXYsHNpPBufRIBGKtZo1dbriGAGgbwOEDP
+    55l1m7OmhObJBXpNMTspjpVIfyM7UJwkixDkZFodJgGlxXhPBUelNbgMsw2+Bzy0
+    pP6pcVWAjihHDoslMzPMEK/K7uxxN+PFfNtZ+xJMcYpDZwZfMn7I7pyuIeMeusA=
+    =0/Aw
+    -----END PGP SIGNATURE-----
+  timestamp: 2016-12-27 14:43:49 UTC
