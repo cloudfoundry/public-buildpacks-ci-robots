@@ -6,3 +6,6 @@ godep:
 - version: v75
   sha256: a9508db6a792170f9815864b70a70a8e0e66ca0bf57f1a9cc087d811ec105494
   timestamp: 2016-11-04 19:08:31 UTC
+- version: v76
+  sha256: f52ddbb3c784decfefb60436efb96adf525cc4c7d080ab7953a2eb1dddc65a83
+  timestamp: 2017-01-10 18:05:26 UTC
