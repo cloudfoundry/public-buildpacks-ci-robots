@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3171-1: LibVNCServer vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3169-2: Linux kernel (Xenial HWE) vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3168-1: Linux kernel vulnerabilities'
