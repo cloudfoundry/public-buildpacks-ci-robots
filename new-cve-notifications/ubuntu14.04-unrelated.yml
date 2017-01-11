@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3168-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3164-1: Exim vulnerability'
   stack_release: unreleased
 - title: 'USN-3163-1: NSS vulnerabilities'
