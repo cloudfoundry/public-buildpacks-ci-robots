@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3172-1: Bind vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3156-1: APT vulnerability'
   stack_release: 0.9.0
 - title: 'USN-3142-1: ImageMagick vulnerabilities'
