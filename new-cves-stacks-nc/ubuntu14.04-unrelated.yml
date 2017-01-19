@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3174-1: MySQL vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3173-1: NVIDIA graphics drivers vulnerability'
   stack_release: unreleased
 - title: 'USN-3171-1: LibVNCServer vulnerabilities'
