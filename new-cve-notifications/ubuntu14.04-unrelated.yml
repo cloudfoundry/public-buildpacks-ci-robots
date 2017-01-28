@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3165-1: Thunderbird vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3175-1: Firefox vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3177-1: Tomcat vulnerabilities'
