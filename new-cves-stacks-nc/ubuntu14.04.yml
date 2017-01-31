@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3181-1: OpenSSL vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3172-1: Bind vulnerabilities'
   stack_release: 0.11.0
 - title: 'USN-3156-1: APT vulnerability'
