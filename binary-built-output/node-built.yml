@@ -105,3 +105,6 @@ node:
 - version: 6.9.5
   sha256: f7e9ab702c5d1f5a3521199c04cc670fda3cf4b0e48548b09ac7ac874ccb504a
   timestamp: 2017-02-01 00:23:29 UTC
+- version: 4.7.3
+  sha256: 1549d4e0aeb9419ddb85ba4dffdba8d0e2f9a9b904e80765b044c4f7d9f485ed
+  timestamp: 2017-02-01 01:13:15 UTC
