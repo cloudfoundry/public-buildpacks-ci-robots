@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3185-1: libXpm vulnerability'
+  stack_release: unreleased
+- title: 'USN-3183-1: GnuTLS vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3181-1: OpenSSL vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3172-1: Bind vulnerabilities'
