@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3180-1: Oxide vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3175-2: Firefox regression'
   stack_release: unreleased
 - title: 'USN-3192-1: Squid vulnerabilities'
