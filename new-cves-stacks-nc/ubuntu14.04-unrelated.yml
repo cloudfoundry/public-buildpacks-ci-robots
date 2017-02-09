@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3194-1: OpenJDK 7 vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3180-1: Oxide vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3175-2: Firefox regression'
