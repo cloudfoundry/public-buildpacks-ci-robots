@@ -1,4 +1,10 @@
 ---
+- title: 'USN-3204-1: Tomcat vulnerability'
+  stack_release: unreleased
+- title: 'USN-3203-1: gtk-vnc vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3202-1: Spice vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3199-2: Python Crypto regression'
   stack_release: unreleased
 - title: 'USN-3199-1: Python Crypto vulnerability'
