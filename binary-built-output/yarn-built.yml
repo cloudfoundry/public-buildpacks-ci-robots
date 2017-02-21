@@ -18,3 +18,6 @@ yarn:
 - version: 0.20.1
   sha256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
   timestamp: 2017-02-14 21:15:31 UTC
+- version: 0.21.2
+  sha256: 1ccd5676112dd1aa99759cde942f9c2e9ec22c15977f910d8d298210deb6797e
+  timestamp: 2017-02-21 14:55:07 UTC
