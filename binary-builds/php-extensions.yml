@@ -50,6 +50,10 @@ extensions:
   version: 1.1.2
   md5: fb3bc8df2d017048726d5654459e8433
   klass: PeclRecipe
+- name: geoip
+  version: 1.1.1
+  md5: 4f5f4b8a41a5802de6591c79b85cc838
+  klass: GeoipRecipe
 - name: rdkafka
   version: 3.0.0
   md5: c798343029fd4a7c8fe3fae365d438df
