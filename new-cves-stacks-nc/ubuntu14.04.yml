@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3142-2: ImageMagick regression'
+  stack_release: unreleased
 - title: 'USN-3205-1: tcpdump vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3201-1: Bind vulnerabilities'
