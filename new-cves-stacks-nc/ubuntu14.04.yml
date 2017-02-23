@@ -2,9 +2,9 @@
 - title: 'USN-3142-2: ImageMagick regression'
   stack_release: unreleased
 - title: 'USN-3205-1: tcpdump vulnerabilities'
-  stack_release: unreleased
+  stack_release: 0.16.0
 - title: 'USN-3201-1: Bind vulnerabilities'
-  stack_release: unreleased
+  stack_release: 0.16.0
 - title: 'USN-3193-1: Nettle vulnerability'
   stack_release: 0.14.0
 - title: 'USN-3185-1: libXpm vulnerability'
