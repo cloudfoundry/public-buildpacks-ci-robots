@@ -99,6 +99,7 @@ extensions:
 - name: twigpecl
   version: 2.2.0
   md5: cbcd0878a1b202bedf8ebdb5c126435d
+  klass: TwigPeclRecipe
 
 #Oracle client stuff. Not included unless libs are present
 - name: oci8
