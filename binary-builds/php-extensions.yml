@@ -4,8 +4,8 @@ native_modules:
   md5: 51d5827651328236ecb7c60517c701c2
   klass: RabbitMQRecipe
 - name: lua
-  version: 5.3.3
-  md5: 703f75caa4fdf4a911c1a72e67a27498
+  version: 5.3.4
+  md5: 53a9c68bcc0eda58bdc2095ad5cdfc63
   klass: LuaRecipe
 - name: hiredis
   version: 0.13.3
@@ -20,8 +20,8 @@ native_modules:
   md5: b3958716b4e53ddc5992e6c49d97e819
   klass: LibmemcachedRecipe
 - name: librdkafka
-  version: 0.9.2
-  md5: f2cc5ca6a149928c3cb34398379a5024
+  version: 0.9.4
+  md5: 6f40198e6068475c34ae8c9faafa6e8a
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
   version: 2.5.0
@@ -43,8 +43,8 @@ extensions:
   md5: 9fedba9b02ee639cb19807cf924f576c
   klass: PeclRecipe
 - name: imagick
-  version: 3.4.3RC2
-  md5: d488ccdedbf8077e690548dd27acf820
+  version: 3.4.3
+  md5: d0ee25c007cd2a28cefccc0b9ee63a28
   klass: PeclRecipe
 - name: gearman
   version: 1.1.2
@@ -55,8 +55,8 @@ extensions:
   md5: 4f5f4b8a41a5802de6591c79b85cc838
   klass: GeoipRecipe
 - name: rdkafka
-  version: 3.0.0
-  md5: c798343029fd4a7c8fe3fae365d438df
+  version: 3.0.1
+  md5: 000b94423e260ae7da21bc113fb6863d
   klass: PeclRecipe
 - name: mailparse
   version: 2.1.6
@@ -71,8 +71,8 @@ extensions:
   md5: 19cd8bd94494f924ce8314f304fd83b6
   klass: PeclRecipe
 - name: mongodb
-  version: 1.2.3
-  md5: 133c77a004c5b26fa2cea8eff2cf46a1
+  version: 1.2.5
+  md5: 8b2fc409f1f28a559a93c83ca5f98c27
   klass: PeclRecipe
 - name: msgpack
   version: 0.5.7
@@ -83,8 +83,8 @@ extensions:
   md5: a304ca632b0d7c5710d5590ac06248a9
   klass: PeclRecipe
 - name: redis
-  version: 3.1.0
-  md5: 897400f375ef6a9288fa3cb07c971786
+  version: 3.1.1
+  md5: 6fb69b97a7db4efb5503fa844a3193d5
   klass: PeclRecipe
 - name: solr
   version: 2.4.0
@@ -95,8 +95,8 @@ extensions:
   md5: c1397e9d3312226ec6c84e8e34c717a6
   klass: PeclRecipe
 - name: xdebug
-  version: 2.5.0
-  md5: 5306da5948e195c2e4585c9abd7741f9
+  version: 2.5.1
+  md5: 6167b1e104f1108d77f08eb561a12b22
   klass: PeclRecipe
 - name: yaf
   version: 2.3.5
@@ -105,12 +105,12 @@ extensions:
 
   #non-standard
 - name: amqp
-  version: 1.7.1
-  md5: 901befb3ba9c906e88ae810f83599baf
+  version: 1.8.0
+  md5: 0d5701c30384b9f091ccce1645f08c32
   klass: AmqpPeclRecipe
 - name: ioncube
-  version: 6.0.8
-  md5: 49851554b1e448142b8576e399ae3b19
+  version: 6.0.9
+  md5: f6fa004a7473c96fe97769ad39741b35
   klass: IonCubeRecipe
 - name: lua
   version: 1.1.0
@@ -121,8 +121,8 @@ extensions:
   md5: 28937c6144f734e000c6300242f44ce6
   klass: MemcachedPeclRecipe
 - name: phalcon
-  version: 3.0.3
-  md5: 5a6c376782e50c63735601f92aec6a7d
+  version: 3.0.4
+  md5: 5311de259e40135169eadb741f1be29a
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
@@ -137,8 +137,8 @@ extensions:
   md5: 0c26402752b0aff69e4b891f062a52bf
   klass: SuhosinPeclRecipe
 - name: twigpecl
-  version: 1.27.0
-  md5: 9f1f740e3fd0570b16a8b150fb0380de
+  version: 1.32.0
+  md5: aaa5a77bdcf6a71d878b601f56dc0090
   klass: TwigPeclRecipe
 - name: xcachepecl
   version: 3.2.0
