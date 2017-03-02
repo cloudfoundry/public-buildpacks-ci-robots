@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3215-1: Munin vulnerability'
+  stack_release: unreleased
+- title: 'USN-3214-1: w3m vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3210-1: LibreOffice vulnerability'
   stack_release: unreleased
 - title: 'USN-3208-2: Linux kernel (Xenial HWE) vulnerabilities'
