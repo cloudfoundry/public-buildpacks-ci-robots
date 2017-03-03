@@ -96,10 +96,6 @@ extensions:
   version: 1.0.0
   md5: d84a6e7e3a54744269fd776d7be80be1
   klass: PHPIRedisRecipe
-- name: twigpecl
-  version: 2.2.0
-  md5: cbcd0878a1b202bedf8ebdb5c126435d
-  klass: TwigPeclRecipe
 
 #Oracle client stuff. Not included unless libs are present
 - name: oci8
