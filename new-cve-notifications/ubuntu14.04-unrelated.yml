@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3215-2: Munin regression'
+  stack_release: unreleased
 - title: 'USN-3215-1: Munin vulnerability'
   stack_release: unreleased
 - title: 'USN-3214-1: w3m vulnerabilities'
