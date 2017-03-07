@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3217-1: network-manager-applet vulnerability'
+  stack_release: unreleased
 - title: 'USN-3215-2: Munin regression'
   stack_release: unreleased
 - title: 'USN-3215-1: Munin vulnerability'
