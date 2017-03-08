@@ -1,2 +1,5 @@
 ---
-hwc: []
+hwc:
+- version: 1.0.1
+  sha256: 43839c40ffc0833192c2dac3fcc02ae7015ccab1df7717d2fc1c6c684368d81f
+  timestamp: 2017-03-08 21:12:11 UTC
