@@ -1,4 +1,4 @@
 ---
 node:
-- version: 7.7.1
-  sha256: 9e87ec5420d558ca9651d13b10dd4a1be954fea0fc7a909016a1cc4aedfa651c
+- version: 7.7.2
+  sha256: a6a1041337bae3e3b5645316672cd3b3867fdfc569f561aec824c0ea622fff9c
