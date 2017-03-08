@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3222-1: ImageMagick vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3213-1: GD library vulnerabilities'
   stack_release: 0.18.0
 - title: 'USN-3212-1: LibTIFF vulnerabilities'
