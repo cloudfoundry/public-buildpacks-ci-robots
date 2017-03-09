@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3223-1: KDE-Libs vulnerability'
+  stack_release: unreleased
 - title: 'USN-3220-2: Linux kernel (Xenial HWE) vulnerability'
   stack_release: unreleased
 - title: 'USN-3219-1: Linux kernel vulnerability'
