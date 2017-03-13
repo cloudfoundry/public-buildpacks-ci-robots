@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3230-1: Pillow vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3228-1: libevent vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3224-1: LXC vulnerability'
   stack_release: unreleased
 - title: 'USN-3223-1: KDE-Libs vulnerability'
