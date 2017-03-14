@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3232-1: ImageMagick vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3227-1: ICU vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3225-1: libarchive vulnerabilities'
