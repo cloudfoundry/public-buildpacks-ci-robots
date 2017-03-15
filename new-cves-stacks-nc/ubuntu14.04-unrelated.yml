@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3234-2: Linux kernel (Xenial HWE) vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3231-1: Pidgin vulnerability'
   stack_release: unreleased
 - title: 'USN-3230-1: Pillow vulnerabilities'
