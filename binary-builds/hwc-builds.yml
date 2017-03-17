@@ -1,4 +1,4 @@
 ---
 hwc:
-- version: 2.0.0
-  sha256: dc5c5d228a61e96cf3e2b25f794fb8029dbd7e5ab6a212ccc63a259b85e13af1
+- version: 3.0.0
+  sha256: f44decc8890bad1d86341b184f195e16b5fe2cef3d6c5c7368249d451119e3ac
