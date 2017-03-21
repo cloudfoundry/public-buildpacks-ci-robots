@@ -177,3 +177,18 @@ nginx:
     =m8p8
     -----END PGP SIGNATURE-----
   timestamp: 2017-02-14 16:31:12 UTC
+- version: 1.11.11
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEzBAABCAAdFiEEsPQlM3P49vUQ1CF4UgqZk6HAUvgFAljRQWIACgkQUgqZk6HA
+    UvhC+Af+MbVUqe/dJwneTAesgppyfO/YKG6624H3JjS+V2ZxoHRbREu2cfbHLl9A
+    PHDv/IbAWycCpHU9Z32Hd8RoDZkzJMbRdR8NclgUtJaETB/ByCKkmppRSTSLVSuU
+    GKTy2UEm7EoigwpzqzCQNOQa10QJTaZh+vLo8CDsllWjVKS96ZHw5vnTCLGx7mij
+    Xw5b3q9IlQfaQ0ooLVvh30rAWpzu0g89dFRYx53W0PB6p0XwZFqctXoGQ4LZEiWo
+    RqJVAGs5lXw51eOjIhpbVktnQBl/j9orazmL0p+NKZRGPtZ/+w6pdF+fUlpONNcx
+    k2gd8iFdP4mSNiCZWV+D47tsicrZSg==
+    =yM4E
+    -----END PGP SIGNATURE-----
+  timestamp: 2017-03-21 16:05:39 UTC
