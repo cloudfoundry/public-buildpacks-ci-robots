@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3240-1: NVIDIA graphics vulnerability'
+  stack_release: unreleased
+- title: 'USN-3173-2: NVIDIA graphics drivers vulnerability'
+  stack_release: unreleased
 - title: 'USN-3238-1: Firefox vulnerability'
   stack_release: unreleased
 - title: 'USN-3234-2: Linux kernel (Xenial HWE) vulnerabilities'
