@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3239-2: GNU C Library Regression'
+  stack_release: unreleased
 - title: 'USN-3239-1: GNU C Library vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3183-2: GnuTLS vulnerability'
