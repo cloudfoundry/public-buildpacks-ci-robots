@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3242-1: Samba vulnerability'
+  stack_release: unreleased
 - title: 'USN-3240-1: NVIDIA graphics vulnerability'
 - title: 'USN-3173-2: NVIDIA graphics drivers vulnerability'
 - title: 'USN-3238-1: Firefox vulnerability'
