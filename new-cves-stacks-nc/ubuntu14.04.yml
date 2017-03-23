@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3243-1: Git vulnerability'
+  stack_release: unreleased
 - title: 'USN-3241-1: audiofile vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3239-2: GNU C Library Regression'
