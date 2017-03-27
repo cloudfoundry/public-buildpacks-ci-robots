@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3245-1: GStreamer Good Plugins vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3244-1: GStreamer Base Plugins vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3233-1: Thunderbird vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3242-1: Samba vulnerability'
