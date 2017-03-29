@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3236-1: Oxide vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3247-1: AppArmor vulnerability'
   stack_release: unreleased
 - title: 'USN-3245-1: GStreamer Good Plugins vulnerabilities'
