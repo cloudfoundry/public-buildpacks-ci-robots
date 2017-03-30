@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3242-2: Samba regression'
+  stack_release: unreleased
 - title: 'USN-3249-2: Linux kernel (Xenial HWE) vulnerability'
   stack_release: unreleased
 - title: 'USN-3250-1: Linux kernel vulnerability'
