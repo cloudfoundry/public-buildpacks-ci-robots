@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1491339929:
+empty_1491346917:
 
 ```
--ii  initramfs-tools      0.103ubuntu4.6                all   tools for generating an initramfs
--ii  initramfs-tools-bin  0.103ubuntu4.6                amd64 binaries used by initramfs-tools
-+ii  initramfs-tools      0.103ubuntu4.7                all   tools for generating an initramfs
-+ii  initramfs-tools-bin  0.103ubuntu4.7                amd64 binaries used by initramfs-tools
--ii  linux-libc-dev:amd64 3.13.0-113.160                amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-116.163                amd64 Linux Kernel Headers for development
--ii  makedev              2.3.1-93ubuntu1               all   creates device files in /dev
-+ii  makedev              2.3.1-93ubuntu2~ubuntu14.04.1 all   creates device files in /dev
 ```
