@@ -1,6 +1,4 @@
 ---
 python:
-- version: 2.7.13
-  md5: 17add4bf0ad0ec2f08e0cae6d205c700
 - version: 2.7.12
   md5: 88d61f82e3616a4be952828b3694109d
