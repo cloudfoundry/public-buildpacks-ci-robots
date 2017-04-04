@@ -24,8 +24,8 @@ native_modules:
   md5: 6f40198e6068475c34ae8c9faafa6e8a
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.5.0
-  md5: 342b18b9a0a8088be06b6ea3b7a7dec6
+  version: 2.6.0
+  md5: 27208254727f6d0ba6fb2e386deb5d86
   klass: CassandraCppDriverRecipe
 
 extensions:
@@ -71,8 +71,8 @@ extensions:
   md5: 19cd8bd94494f924ce8314f304fd83b6
   klass: PeclRecipe
 - name: mongodb
-  version: 1.2.5
-  md5: 8b2fc409f1f28a559a93c83ca5f98c27
+  version: 1.2.8
+  md5: 7c871c22fe7c8afdbe055e24075e95cf
   klass: PeclRecipe
 - name: msgpack
   version: 0.5.7
@@ -83,8 +83,8 @@ extensions:
   md5: a304ca632b0d7c5710d5590ac06248a9
   klass: PeclRecipe
 - name: redis
-  version: 3.1.1
-  md5: 6fb69b97a7db4efb5503fa844a3193d5
+  version: 3.1.2
+  md5: 90dbb6388c886356adea361df3c5c413
   klass: PeclRecipe
 - name: solr
   version: 2.4.0
@@ -105,8 +105,8 @@ extensions:
 
   #non-standard
 - name: amqp
-  version: 1.8.0
-  md5: 0d5701c30384b9f091ccce1645f08c32
+  version: 1.9.0
+  md5: d7e82b73db69fbe265596c60f6b08ee9
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.0.9
@@ -121,8 +121,8 @@ extensions:
   md5: 28937c6144f734e000c6300242f44ce6
   klass: MemcachedPeclRecipe
 - name: phalcon
-  version: 3.0.4
-  md5: 5311de259e40135169eadb741f1be29a
+  version: 3.1.1
+  md5: 93458a96679ba8c6693d99cb133af965
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
@@ -137,8 +137,8 @@ extensions:
   md5: 0c26402752b0aff69e4b891f062a52bf
   klass: SuhosinPeclRecipe
 - name: twigpecl
-  version: 1.32.0
-  md5: aaa5a77bdcf6a71d878b601f56dc0090
+  version: 1.33.0
+  md5: 125a66dcdbe29fbe87e1725df6760137
   klass: TwigPeclRecipe
 - name: xcachepecl
   version: 3.2.0
