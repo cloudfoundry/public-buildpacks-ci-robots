@@ -35,8 +35,8 @@ extensions:
   md5: 13c0c0dd676e5a7905d54fa985d0ee62
   klass: PeclRecipe
 - name: cassandra
-  version: 1.2.2
-  md5: 2226a4d66f8e0a4de85656f10472afc5
+  version: 1.3.0
+  md5: fb1e24048e47e48947debbe7ba2f2d6f
   klass: PeclRecipe
 - name: igbinary
   version: 2.0.1
