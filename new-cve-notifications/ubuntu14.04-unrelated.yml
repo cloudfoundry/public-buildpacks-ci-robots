@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3254-1: Django vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3253-1: Nagios vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3216-2: Firefox regression'
