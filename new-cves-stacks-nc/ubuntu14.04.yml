@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3259-1: Bind vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3246-1: Eject vulnerability'
   stack_release: 0.23.0
 - title: 'USN-3243-1: Git vulnerability'
