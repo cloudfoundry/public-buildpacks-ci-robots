@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1492744284:
+empty_1492777445:
 
 ```
--ii  libfreetype6:amd64 2.5.2-1ubuntu2.6  amd64  FreeType 2 font engine, shared library files
--ii  libfreetype6-dev   2.5.2-1ubuntu2.6  amd64  FreeType 2 font engine, development files
-+ii  libfreetype6:amd64 2.5.2-1ubuntu2.7  amd64  FreeType 2 font engine, shared library files
-+ii  libfreetype6-dev   2.5.2-1ubuntu2.7  amd64  FreeType 2 font engine, development files
 ```
