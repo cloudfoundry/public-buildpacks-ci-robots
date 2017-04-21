@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3260-1: Firefox vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3261-1: QEMU vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3256-2: Linux kernel (HWE) vulnerability'
