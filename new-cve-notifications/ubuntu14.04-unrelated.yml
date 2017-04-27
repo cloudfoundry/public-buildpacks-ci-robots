@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3269-1: MySQL vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3265-2: Linux kernel (Xenial HWE) vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3264-1: Linux kernel vulnerability'
