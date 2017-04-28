@@ -1,4 +1,22 @@
-empty_1493025023:
+newpackages_cflinuxfs2-nc_1493360073:
 
 ```
+-ii  libcdt5                2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - cdt library
++ii  libcdt5                2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - cdt library
+-ii  libcgraph6             2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - cgraph library
++ii  libcgraph6             2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - cgraph library
+-ii  libgvc6                2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - gvc library
+-ii  libgvpr2               2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - gvpr library
++ii  libgvc6                2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvc library
++ii  libgvpr2               2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvpr library
+-rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1 amd64 MySQL database client library
++rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1 amd64 MySQL database client library
+-ii  libpathplan4           2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - pathplan library
++ii  libpathplan4           2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - pathplan library
+-ii  libxdot4               2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - xdot library
++ii  libxdot4               2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - xdot library
+-ii  libxslt1.1:amd64       1.1.28-2build1          amd64 XSLT 1.0 processing library - runtime library
++ii  libxslt1.1:amd64       1.1.28-2ubuntu0.1       amd64 XSLT 1.0 processing library - runtime library
+-ii  mysql-common           5.5.54-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common           5.5.55-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
 ```
