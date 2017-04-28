@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3272-1: Ghostscript vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3270-1: NSS vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3269-1: MySQL vulnerabilities'
