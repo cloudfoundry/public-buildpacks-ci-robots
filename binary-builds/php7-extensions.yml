@@ -16,8 +16,8 @@ native_modules:
   md5: nil
   klass: SnmpRecipe
 - name: librdkafka
-  version: 0.9.4
-  md5: 6f40198e6068475c34ae8c9faafa6e8a
+  version: 0.9.5
+  md5: 8e5685baa01554108ae8c8e9c97dc495
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
   version: 2.6.0
@@ -71,8 +71,8 @@ extensions:
   md5: 2c9accf66681a3daaaf371bc07e44902
   klass: PeclRecipe
 - name: xdebug
-  version: 2.5.1
-  md5: 6167b1e104f1108d77f08eb561a12b22
+  version: 2.5.3
+  md5: daefc2b4dc85c47ddd3a3d50b258342e
   klass: PeclRecipe
 - name: yaf
   version: 3.0.4
@@ -93,8 +93,8 @@ extensions:
   md5: f1acc6f17d56491ab0a24ed3b3d3b1fb
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.1.1
-  md5: 93458a96679ba8c6693d99cb133af965
+  version: 3.1.2
+  md5: 7e140cec01ecc6f0b5f3c8ef0009773c
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
