@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3273-1: LibreOffice vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3272-1: Ghostscript vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3270-1: NSS vulnerabilities'
