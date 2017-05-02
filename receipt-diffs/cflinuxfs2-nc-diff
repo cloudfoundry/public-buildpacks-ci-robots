@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1493629973:
+newpackages_cflinuxfs2-nc_1493756134:
 
 ```
 -ii  libcdt5                2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - cdt library
@@ -9,6 +9,8 @@ newpackages_cflinuxfs2-nc_1493629973:
 -ii  libgvpr2               2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - gvpr library
 +ii  libgvc6                2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvc library
 +ii  libgvpr2               2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvpr library
+-ii  libicu52:amd64         52.1-3ubuntu0.5         amd64 International Components for Unicode
++ii  libicu52:amd64         52.1-3ubuntu0.6         amd64 International Components for Unicode
 -rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1 amd64 MySQL database client library
 +rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1 amd64 MySQL database client library
 -ii  libpathplan4           2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - pathplan library
