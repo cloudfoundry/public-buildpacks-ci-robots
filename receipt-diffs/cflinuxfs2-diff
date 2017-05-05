@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1493971876:
+empty_1493977024:
 
 ```
--ii  bash   4.3-7ubuntu1.5       amd64  GNU Bourne Again SHell
-+ii  bash   4.3-7ubuntu1.6       amd64  GNU Bourne Again SHell
--ii  login  1:4.1.5.1-1ubuntu9.2 amd64  system login tools
-+ii  login  1:4.1.5.1-1ubuntu9.4 amd64  system login tools
--ii  passwd 1:4.1.5.1-1ubuntu9.2 amd64  change and administer password and group data
-+ii  passwd 1:4.1.5.1-1ubuntu9.4 amd64  change and administer password and group data
 ```
