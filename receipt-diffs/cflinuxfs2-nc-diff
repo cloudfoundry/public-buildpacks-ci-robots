@@ -1,30 +1,34 @@
-newpackages_cflinuxfs2-nc_1494234648:
+newpackages_cflinuxfs2-nc_1494346255:
 
 ```
--ii  bash                   4.3-7ubuntu1.5          amd64 GNU Bourne Again SHell
-+ii  bash                   4.3-7ubuntu1.6          amd64 GNU Bourne Again SHell
--ii  libcdt5                2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - cdt library
-+ii  libcdt5                2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - cdt library
--ii  libcgraph6             2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - cgraph library
-+ii  libcgraph6             2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - cgraph library
--ii  libgvc6                2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - gvc library
--ii  libgvpr2               2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - gvpr library
-+ii  libgvc6                2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvc library
-+ii  libgvpr2               2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - gvpr library
--ii  libicu52:amd64         52.1-3ubuntu0.5         amd64 International Components for Unicode
-+ii  libicu52:amd64         52.1-3ubuntu0.6         amd64 International Components for Unicode
--rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1 amd64 MySQL database client library
-+rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1 amd64 MySQL database client library
--ii  libpathplan4           2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - pathplan library
-+ii  libpathplan4           2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - pathplan library
--ii  libxdot4               2.36.0-0ubuntu3.1       amd64 rich set of graph drawing tools - xdot library
-+ii  libxdot4               2.36.0-0ubuntu3.2       amd64 rich set of graph drawing tools - xdot library
--ii  libxslt1.1:amd64       1.1.28-2build1          amd64 XSLT 1.0 processing library - runtime library
-+ii  libxslt1.1:amd64       1.1.28-2ubuntu0.1       amd64 XSLT 1.0 processing library - runtime library
--ii  login                  1:4.1.5.1-1ubuntu9.2    amd64 system login tools
-+ii  login                  1:4.1.5.1-1ubuntu9.4    amd64 system login tools
--ii  mysql-common           5.5.54-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
-+ii  mysql-common           5.5.55-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
--ii  passwd                 1:4.1.5.1-1ubuntu9.2    amd64 change and administer password and group data
-+ii  passwd                 1:4.1.5.1-1ubuntu9.4    amd64 change and administer password and group data
+-ii  bash                   4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
++ii  bash                   4.3-7ubuntu1.6                     amd64 GNU Bourne Again SHell
+-ii  libcdt5                2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cdt library
++ii  libcdt5                2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cdt library
+-ii  libcgraph6             2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cgraph library
++ii  libcgraph6             2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
+-ii  libfreetype6:amd64     2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
++ii  libfreetype6:amd64     2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
+-ii  libgvc6                2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvc library
+-ii  libgvpr2               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvpr library
++ii  libgvc6                2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvc library
++ii  libgvpr2               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvpr library
+-ii  libicu52:amd64         52.1-3ubuntu0.5                    amd64 International Components for Unicode
++ii  libicu52:amd64         52.1-3ubuntu0.6                    amd64 International Components for Unicode
+-rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
++rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
+-ii  libpathplan4           2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - pathplan library
++ii  libpathplan4           2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - pathplan library
+-ii  librtmp0:amd64         2.4+20121230.gitdf6c518-1          amd64 toolkit for RTMP streams (shared library)
++ii  librtmp0:amd64         2.4+20121230.gitdf6c518-1ubuntu0.1 amd64 toolkit for RTMP streams (shared library)
+-ii  libxdot4               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - xdot library
++ii  libxdot4               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - xdot library
+-ii  libxslt1.1:amd64       1.1.28-2build1                     amd64 XSLT 1.0 processing library - runtime library
++ii  libxslt1.1:amd64       1.1.28-2ubuntu0.1                  amd64 XSLT 1.0 processing library - runtime library
+-ii  login                  1:4.1.5.1-1ubuntu9.2               amd64 system login tools
++ii  login                  1:4.1.5.1-1ubuntu9.4               amd64 system login tools
+-ii  mysql-common           5.5.54-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common           5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
+-ii  passwd                 1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
++ii  passwd                 1:4.1.5.1-1ubuntu9.4               amd64 change and administer password and group data
 ```
