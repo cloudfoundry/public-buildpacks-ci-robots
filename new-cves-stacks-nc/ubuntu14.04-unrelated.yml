@@ -1,4 +1,10 @@
 ---
+- title: 'USN-3281-1: Apache Fop vulnerability'
+  stack_release: unreleased
+- title: 'USN-3280-1: Apache Batik vulnerability'
+  stack_release: unreleased
+- title: 'USN-3279-1: Apache HTTP Server vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3273-1: LibreOffice vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3272-1: Ghostscript vulnerabilities'
