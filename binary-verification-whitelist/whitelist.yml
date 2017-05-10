@@ -16,3 +16,5 @@
 - https://github.com/cloudfoundry-community/asp.net5-buildpack/releases/download/v0.8/gettext-cflinuxfs2-0.19.7.tar.gz
 - https://s3.amazonaws.com/aspnet5/libunwind-lucid64-1.1.tar.gz
 - https://s3.amazonaws.com/aspnet5/libunwind-cflinuxfs2-1.1.tar.gz
+# Java team rebuilt openjdk
+- https://java-buildpack.cloudfoundry.org/openjdk/trusty/x86_64/openjdk-1.8.0_131.tar.gz
