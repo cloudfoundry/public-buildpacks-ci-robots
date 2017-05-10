@@ -36,3 +36,6 @@ dotnet:
 - version: v1.0.4
   git-commit-sha: af1e6684fd694616ec5070e1d05a7b501a98783f
   timestamp: 2017-05-09 18:32:53 UTC
+- version: v2.0.0-preview1
+  git-commit-sha: 414cab8a0be019d7656c8a0afa384ef227e976b4
+  timestamp: 2017-05-10 16:18:23 UTC
