@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3260-2: Firefox regression'
+  stack_release: unreleased
 - title: 'USN-3281-1: Apache Fop vulnerability'
   stack_release: unreleased
 - title: 'USN-3280-1: Apache Batik vulnerability'
