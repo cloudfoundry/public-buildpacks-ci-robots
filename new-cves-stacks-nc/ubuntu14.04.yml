@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3287-1: Git vulnerability'
+  stack_release: unreleased
 - title: 'USN-3283-1: rtmpdump vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3282-1: FreeType vulnerabilities'
