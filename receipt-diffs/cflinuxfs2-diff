@@ -1,4 +1,10 @@
-empty_1494839549:
+newpackages_cflinuxfs2_1494861223:
 
 ```
+-ii  git      1:1.9.1-1ubuntu0.4  amd64 fast, scalable, distributed revision control system
+-ii  git-core 1:1.9.1-1ubuntu0.4  all   fast, scalable, distributed revision control system (obsolete)
+-ii  git-man  1:1.9.1-1ubuntu0.4  all   fast, scalable, distributed revision control system (manual pages)
++ii  git      1:1.9.1-1ubuntu0.5  amd64 fast, scalable, distributed revision control system
++ii  git-core 1:1.9.1-1ubuntu0.5  all   fast, scalable, distributed revision control system (obsolete)
++ii  git-man  1:1.9.1-1ubuntu0.5  all   fast, scalable, distributed revision control system (manual pages)
 ```
