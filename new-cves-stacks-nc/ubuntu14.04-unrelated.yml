@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3286-1: KDE-Libs vulnerability'
+  stack_release: unreleased
 - title: 'USN-3260-2: Firefox regression'
   stack_release: unreleased
 - title: 'USN-3281-1: Apache Fop vulnerability'
