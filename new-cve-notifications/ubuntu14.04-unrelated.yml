@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3275-2: OpenJDK 7 vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3288-1: libytnef vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3286-1: KDE-Libs vulnerability'
