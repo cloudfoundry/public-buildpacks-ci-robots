@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1495131124:
+empty_1495137059:
 
 ```
--ii  libjasper-dev    1.900.1-14ubuntu3.3  amd64  Development files for the JasPer JPEG-2000 library
--ii  libjasper1:amd64 1.900.1-14ubuntu3.3  amd64  JasPer JPEG-2000 runtime library
-+ii  libjasper-dev    1.900.1-14ubuntu3.4  amd64  Development files for the JasPer JPEG-2000 library
-+ii  libjasper1:amd64 1.900.1-14ubuntu3.4  amd64  JasPer JPEG-2000 runtime library
 ```
