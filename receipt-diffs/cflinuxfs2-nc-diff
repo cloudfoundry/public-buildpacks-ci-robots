@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1495044728:
+newpackages_cflinuxfs2-nc_1495131183:
 
 ```
 -ii  bash                   4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -21,6 +21,8 @@ newpackages_cflinuxfs2-nc_1495044728:
 +ii  libgvpr2               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvpr library
 -ii  libicu52:amd64         52.1-3ubuntu0.5                    amd64 International Components for Unicode
 +ii  libicu52:amd64         52.1-3ubuntu0.6                    amd64 International Components for Unicode
+-ii  libjasper1:amd64       1.900.1-14ubuntu3.3                amd64 JasPer JPEG-2000 runtime library
++ii  libjasper1:amd64       1.900.1-14ubuntu3.4                amd64 JasPer JPEG-2000 runtime library
 -rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
 +rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
 -ii  libpathplan4           2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - pathplan library
