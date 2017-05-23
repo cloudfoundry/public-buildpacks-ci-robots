@@ -57,3 +57,6 @@ yarn:
 - version: 0.24.5
   sha256: a7492431eedee0203faeac64e75f484e4911ab707c96c5bee4c7b97bf19c102c
   timestamp: 2017-05-15 19:05:45 UTC
+- version: 0.24.6
+  sha256: '0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5'
+  timestamp: 2017-05-23 20:02:36 UTC
