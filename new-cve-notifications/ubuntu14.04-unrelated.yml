@@ -1,4 +1,10 @@
 ---
+- title: 'USN-3298-1: MiniUPnP vulnerability'
+  stack_release: unreleased
+- title: 'USN-3297-1: jbig2dec vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3296-1: Samba vulnerability'
+  stack_release: unreleased
 - title: 'USN-3275-3: OpenJDK 7 regression'
   stack_release: unreleased
 - title: 'USN-3291-3: Linux kernel (Xenial HWE) vulnerabilities'
