@@ -1,4 +1,4 @@
 ---
 bundler:
-- version: v1.0.3
-  sha256: a004f551099fc532cab3258f13fafacd8fb0ac72d4d4019feb75c6ba86ae1ff1
+- version: v1.0.2
+  sha256: 7e50537feaabdc1bf0c16d70a5cc96ec22b8af01e4bb8e3d6a743fa15a124a27
