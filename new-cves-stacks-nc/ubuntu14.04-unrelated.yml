@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3299-1: Firefox update'
+  stack_release: unreleased
 - title: 'USN-3298-1: MiniUPnP vulnerability'
   stack_release: unreleased
 - title: 'USN-3297-1: jbig2dec vulnerabilities'
