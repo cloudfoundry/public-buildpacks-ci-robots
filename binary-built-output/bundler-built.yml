@@ -1,2 +1,5 @@
 ---
-bundler: []
+bundler:
+- version: 1.15.0
+  sha256: a23a86cc41385dfa9c3a90f453635eb9bc81adf5d36b491c8ddb3e1620a9fc79
+  timestamp: 2017-05-25 15:28:47 UTC
