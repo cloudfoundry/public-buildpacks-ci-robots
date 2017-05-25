@@ -1,2 +1,4 @@
 ---
-bundler: []
+bundler:
+- version: v1.15.0
+  sha256: 4068d382fd62eca87d2efc581f13694fd8b4d2a0671c777e95032c7e0e2e1c0e
