@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1495444316:
+newpackages_cflinuxfs2-nc_1496049119:
 
 ```
 -ii  bash                   4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -9,6 +9,10 @@ newpackages_cflinuxfs2-nc_1495444316:
 +ii  git                    1:1.9.1-1ubuntu0.5                 amd64 fast, scalable, distributed revision control system
 +ii  git-core               1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (obsolete)
 +ii  git-man                1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (manual pages)
+-ii  isc-dhcp-client        4.2.4-7ubuntu12.8                  amd64 ISC DHCP client
+-ii  isc-dhcp-common        4.2.4-7ubuntu12.8                  amd64 common files used by all the isc-dhcp* packages
++ii  isc-dhcp-client        4.2.4-7ubuntu12.9                  amd64 ISC DHCP client
++ii  isc-dhcp-common        4.2.4-7ubuntu12.9                  amd64 common files used by all the isc-dhcp* packages
 -ii  libcdt5                2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cdt library
 +ii  libcdt5                2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cdt library
 -ii  libcgraph6             2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cgraph library
