@@ -1,46 +1,60 @@
-newpackages_cflinuxfs2-nc_1496049119:
+newpackages_cflinuxfs2-nc_1496157189:
 
 ```
--ii  bash                   4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
-+ii  bash                   4.3-7ubuntu1.7                     amd64 GNU Bourne Again SHell
--ii  git                    1:1.9.1-1ubuntu0.4                 amd64 fast, scalable, distributed revision control system
--ii  git-core               1:1.9.1-1ubuntu0.4                 all   fast, scalable, distributed revision control system (obsolete)
--ii  git-man                1:1.9.1-1ubuntu0.4                 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                    1:1.9.1-1ubuntu0.5                 amd64 fast, scalable, distributed revision control system
-+ii  git-core               1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (obsolete)
-+ii  git-man                1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (manual pages)
--ii  isc-dhcp-client        4.2.4-7ubuntu12.8                  amd64 ISC DHCP client
--ii  isc-dhcp-common        4.2.4-7ubuntu12.8                  amd64 common files used by all the isc-dhcp* packages
-+ii  isc-dhcp-client        4.2.4-7ubuntu12.9                  amd64 ISC DHCP client
-+ii  isc-dhcp-common        4.2.4-7ubuntu12.9                  amd64 common files used by all the isc-dhcp* packages
--ii  libcdt5                2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cdt library
-+ii  libcdt5                2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cdt library
--ii  libcgraph6             2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cgraph library
-+ii  libcgraph6             2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
--ii  libfreetype6:amd64     2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
-+ii  libfreetype6:amd64     2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
--ii  libgvc6                2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvc library
--ii  libgvpr2               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvpr library
-+ii  libgvc6                2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvc library
-+ii  libgvpr2               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvpr library
--ii  libicu52:amd64         52.1-3ubuntu0.5                    amd64 International Components for Unicode
-+ii  libicu52:amd64         52.1-3ubuntu0.6                    amd64 International Components for Unicode
--ii  libjasper1:amd64       1.900.1-14ubuntu3.3                amd64 JasPer JPEG-2000 runtime library
-+ii  libjasper1:amd64       1.900.1-14ubuntu3.4                amd64 JasPer JPEG-2000 runtime library
--rc  libmysqlclient18:amd64 5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
-+rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
--ii  libpathplan4           2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - pathplan library
-+ii  libpathplan4           2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - pathplan library
--ii  librtmp0:amd64         2.4+20121230.gitdf6c518-1          amd64 toolkit for RTMP streams (shared library)
-+ii  librtmp0:amd64         2.4+20121230.gitdf6c518-1ubuntu0.1 amd64 toolkit for RTMP streams (shared library)
--ii  libxdot4               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - xdot library
-+ii  libxdot4               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - xdot library
--ii  libxslt1.1:amd64       1.1.28-2build1                     amd64 XSLT 1.0 processing library - runtime library
-+ii  libxslt1.1:amd64       1.1.28-2ubuntu0.1                  amd64 XSLT 1.0 processing library - runtime library
--ii  login                  1:4.1.5.1-1ubuntu9.2               amd64 system login tools
-+ii  login                  1:4.1.5.1-1ubuntu9.5               amd64 system login tools
--ii  mysql-common           5.5.54-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
-+ii  mysql-common           5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
--ii  passwd                 1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
-+ii  passwd                 1:4.1.5.1-1ubuntu9.5               amd64 change and administer password and group data
+-ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
++ii  bash                       4.3-7ubuntu1.7                     amd64 GNU Bourne Again SHell
+-ii  git                        1:1.9.1-1ubuntu0.4                 amd64 fast, scalable, distributed revision control system
+-ii  git-core                   1:1.9.1-1ubuntu0.4                 all   fast, scalable, distributed revision control system (obsolete)
+-ii  git-man                    1:1.9.1-1ubuntu0.4                 all   fast, scalable, distributed revision control system (manual pages)
++ii  git                        1:1.9.1-1ubuntu0.5                 amd64 fast, scalable, distributed revision control system
++ii  git-core                   1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (obsolete)
++ii  git-man                    1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (manual pages)
+-ii  imagemagick                8:6.7.7.10-6ubuntu3.6              amd64 image manipulation programs
+-ii  imagemagick-common         8:6.7.7.10-6ubuntu3.6              all   image manipulation programs -- infrastructure
++ii  imagemagick                8:6.7.7.10-6ubuntu3.7              amd64 image manipulation programs
++ii  imagemagick-common         8:6.7.7.10-6ubuntu3.7              all   image manipulation programs -- infrastructure
+-ii  isc-dhcp-client            4.2.4-7ubuntu12.8                  amd64 ISC DHCP client
+-ii  isc-dhcp-common            4.2.4-7ubuntu12.8                  amd64 common files used by all the isc-dhcp* packages
++ii  isc-dhcp-client            4.2.4-7ubuntu12.9                  amd64 ISC DHCP client
++ii  isc-dhcp-common            4.2.4-7ubuntu12.9                  amd64 common files used by all the isc-dhcp* packages
+-ii  libcdt5                    2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cdt library
++ii  libcdt5                    2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cdt library
+-ii  libcgraph6                 2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cgraph library
++ii  libcgraph6                 2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
+-ii  libfreetype6:amd64         2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
++ii  libfreetype6:amd64         2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
+-ii  libgvc6                    2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvc library
+-ii  libgvpr2                   2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvpr library
++ii  libgvc6                    2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvc library
++ii  libgvpr2                   2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvpr library
+-ii  libicu52:amd64             52.1-3ubuntu0.5                    amd64 International Components for Unicode
++ii  libicu52:amd64             52.1-3ubuntu0.6                    amd64 International Components for Unicode
+-ii  libjasper1:amd64           1.900.1-14ubuntu3.3                amd64 JasPer JPEG-2000 runtime library
++ii  libjasper1:amd64           1.900.1-14ubuntu3.4                amd64 JasPer JPEG-2000 runtime library
+-ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.6              amd64 low-level image manipulation library
+-ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.6              amd64 low-level image manipulation library - extra codecs
+-ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.6              amd64 image manipulation library
++ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 low-level image manipulation library
++ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.7              amd64 low-level image manipulation library - extra codecs
++ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 image manipulation library
+-rc  libmysqlclient18:amd64     5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
++rc  libmysqlclient18:amd64     5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
+-ii  libpathplan4               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - pathplan library
++ii  libpathplan4               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - pathplan library
+-ii  librtmp0:amd64             2.4+20121230.gitdf6c518-1          amd64 toolkit for RTMP streams (shared library)
++ii  librtmp0:amd64             2.4+20121230.gitdf6c518-1ubuntu0.1 amd64 toolkit for RTMP streams (shared library)
+-ii  libtiff5:amd64             4.0.3-7ubuntu0.6                   amd64 Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64           4.0.3-7ubuntu0.6                   amd64 Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff5:amd64             4.0.3-7ubuntu0.7                   amd64 Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64           4.0.3-7ubuntu0.7                   amd64 Tag Image File Format (TIFF) library -- C++ interface
+-ii  libxdot4                   2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - xdot library
++ii  libxdot4                   2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - xdot library
+-ii  libxslt1.1:amd64           1.1.28-2build1                     amd64 XSLT 1.0 processing library - runtime library
++ii  libxslt1.1:amd64           1.1.28-2ubuntu0.1                  amd64 XSLT 1.0 processing library - runtime library
+-ii  login                      1:4.1.5.1-1ubuntu9.2               amd64 system login tools
++ii  login                      1:4.1.5.1-1ubuntu9.5               amd64 system login tools
+-ii  mysql-common               5.5.54-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common               5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
+-ii  passwd                     1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
++ii  passwd                     1:4.1.5.1-1ubuntu9.5               amd64 change and administer password and group data
 ```
