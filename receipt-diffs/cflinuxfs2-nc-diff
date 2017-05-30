@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1496157189:
+newpackages_cflinuxfs2-nc_1496164509:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -57,4 +57,6 @@ newpackages_cflinuxfs2-nc_1496157189:
 +ii  mysql-common               5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
 -ii  passwd                     1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
 +ii  passwd                     1:4.1.5.1-1ubuntu9.5               amd64 change and administer password and group data
+-ii  sudo                       1.8.9p5-1ubuntu1.3                 amd64 Provide limited super user privileges to specific users
++ii  sudo                       1.8.9p5-1ubuntu1.4                 amd64 Provide limited super user privileges to specific users
 ```
