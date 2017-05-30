@@ -1,24 +1,6 @@
-newpackages_cflinuxfs2_1496157293:
+newpackages_cflinuxfs2_1496162308:
 
 ```
--ii  imagemagick                8:6.7.7.10-6ubuntu3.6 amd64 image manipulation programs
--ii  imagemagick-common         8:6.7.7.10-6ubuntu3.6 all   image manipulation programs -- infrastructure
-+ii  imagemagick                8:6.7.7.10-6ubuntu3.7 amd64 image manipulation programs
-+ii  imagemagick-common         8:6.7.7.10-6ubuntu3.7 all   image manipulation programs -- infrastructure
--ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.6 amd64 low-level image manipulation library - development files
--ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.6 amd64 low-level image manipulation library
--ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.6 amd64 low-level image manipulation library - extra codecs
--ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.6 amd64 image manipulation library - development files
--ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.6 amd64 image manipulation library
-+ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.7 amd64 low-level image manipulation library - development files
-+ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.7 amd64 low-level image manipulation library
-+ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.7 amd64 low-level image manipulation library - extra codecs
-+ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.7 amd64 image manipulation library - development files
-+ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7 amd64 image manipulation library
--ii  libtiff5:amd64             4.0.3-7ubuntu0.6      amd64 Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64         4.0.3-7ubuntu0.6      amd64 Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64           4.0.3-7ubuntu0.6      amd64 Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff5:amd64             4.0.3-7ubuntu0.7      amd64 Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64         4.0.3-7ubuntu0.7      amd64 Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64           4.0.3-7ubuntu0.7      amd64 Tag Image File Format (TIFF) library -- C++ interface
+-ii  sudo  1.8.9p5-1ubuntu1.3  amd64  Provide limited super user privileges to specific users
++ii  sudo  1.8.9p5-1ubuntu1.4  amd64  Provide limited super user privileges to specific users
 ```
