@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3305-1: NVIDIA graphics drivers vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3301-1: strongSwan vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3300-1: juju-core vulnerability'
