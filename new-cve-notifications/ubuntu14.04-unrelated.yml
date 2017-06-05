@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3308-1: Puppet vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3307-1: OpenLDAP vulnerability'
   stack_release: unreleased
 - title: 'USN-3306-1: libsndfile vulnerabilities'
