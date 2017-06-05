@@ -1,2 +1,4 @@
 ---
-jruby: []
+jruby:
+- version: 9.1.10.0_ruby-2.3.3
+  sha256: 93ec6b55fa0d5b37e9f8131f76adc01efa82bebcef8df3e0de49e83dad3ee958
