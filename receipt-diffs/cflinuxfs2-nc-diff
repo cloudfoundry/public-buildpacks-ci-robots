@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1496653926:
+newpackages_cflinuxfs2-nc_1496687128:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -47,6 +47,8 @@ newpackages_cflinuxfs2-nc_1496653926:
 +ii  libpq5                     9.3.17-0ubuntu0.14.04              amd64 PostgreSQL C client library
 -ii  librtmp0:amd64             2.4+20121230.gitdf6c518-1          amd64 toolkit for RTMP streams (shared library)
 +ii  librtmp0:amd64             2.4+20121230.gitdf6c518-1ubuntu0.1 amd64 toolkit for RTMP streams (shared library)
+-ii  libtasn1-6:amd64           3.4-3ubuntu0.4                     amd64 Manage ASN.1 structures (runtime)
++ii  libtasn1-6:amd64           3.4-3ubuntu0.5                     amd64 Manage ASN.1 structures (runtime)
 -ii  libtiff5:amd64             4.0.3-7ubuntu0.6                   amd64 Tag Image File Format (TIFF) library
 -ii  libtiffxx5:amd64           4.0.3-7ubuntu0.6                   amd64 Tag Image File Format (TIFF) library -- C++ interface
 +ii  libtiff5:amd64             4.0.3-7ubuntu0.7                   amd64 Tag Image File Format (TIFF) library
