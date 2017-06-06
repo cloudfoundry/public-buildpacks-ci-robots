@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1496687128:
+newpackages_cflinuxfs2-nc_1496776412:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -41,6 +41,10 @@ newpackages_cflinuxfs2-nc_1496687128:
 +ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 image manipulation library
 -rc  libmysqlclient18:amd64     5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
 +rc  libmysqlclient18:amd64     5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
+-ii  libnl-3-200:amd64          3.2.21-1ubuntu4                    amd64 library for dealing with netlink sockets
+-ii  libnl-genl-3-200:amd64     3.2.21-1ubuntu4                    amd64 library for dealing with netlink sockets - generic netlink
++ii  libnl-3-200:amd64          3.2.21-1ubuntu4.1                  amd64 library for dealing with netlink sockets
++ii  libnl-genl-3-200:amd64     3.2.21-1ubuntu4.1                  amd64 library for dealing with netlink sockets - generic netlink
 -ii  libpathplan4               2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - pathplan library
 +ii  libpathplan4               2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - pathplan library
 -ii  libpq5                     9.3.16-0ubuntu0.14.04              amd64 PostgreSQL C client library
