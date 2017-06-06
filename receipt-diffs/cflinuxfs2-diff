@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1496776493:
+empty_1496781653:
 
 ```
--ii  libnl-3-200:amd64      3.2.21-1ubuntu4   amd64  library for dealing with netlink sockets
--ii  libnl-genl-3-200:amd64 3.2.21-1ubuntu4   amd64  library for dealing with netlink sockets - generic netlink
-+ii  libnl-3-200:amd64      3.2.21-1ubuntu4.1 amd64  library for dealing with netlink sockets
-+ii  libnl-genl-3-200:amd64 3.2.21-1ubuntu4.1 amd64  library for dealing with netlink sockets - generic netlink
 ```
