@@ -1,10 +1,8 @@
 ---
 php7:
- - version: 7.1.5
-   sha256: f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17
- - version: 7.1.4
-   sha256: ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f
- - version: 7.0.18
-   sha256: e0fb336749d72e6c9cfcebb9b48497f004fa99f93b68c21cb3eb657053665e1d
- - version: 7.0.19
-   sha256: 4b4120acdbb8cbf5f7a18625c2eb5cdd2fdb4fc69a4831bc7ffdfd1ee78b1ce0
+- version: 7.1.4
+  sha256: ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f
+- version: 7.0.18
+  sha256: e0fb336749d72e6c9cfcebb9b48497f004fa99f93b68c21cb3eb657053665e1d
+- version: 7.0.19
+  sha256: 4b4120acdbb8cbf5f7a18625c2eb5cdd2fdb4fc69a4831bc7ffdfd1ee78b1ce0
