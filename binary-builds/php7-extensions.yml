@@ -20,8 +20,8 @@ native_modules:
   md5: 8e5685baa01554108ae8c8e9c97dc495
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.6.0
-  md5: 27208254727f6d0ba6fb2e386deb5d86
+  version: 2.7.0
+  md5: e5b54fd77a256f4985447aaca3905e62
   klass: CassandraCppDriverRecipe
 
 extensions:
@@ -51,16 +51,16 @@ extensions:
   md5: 4bd96a980013374f23a7461cc0a919aa
   klass: PeclRecipe
 - name: mongodb
-  version: 1.2.8
-  md5: 7c871c22fe7c8afdbe055e24075e95cf
+  version: 1.2.9
+  md5: 55476d7b915bf3c0c86302ce5f9b5191
   klass: PeclRecipe
 - name: msgpack
   version: 2.0.2
   md5: 02f7e109d438072c4b642b01cf78533e
   klass: PeclRecipe
 - name: rdkafka
-  version: 3.0.1
-  md5: 000b94423e260ae7da21bc113fb6863d
+  version: 3.0.3
+  md5: a24d669dfb68742150ad8bc9b1f47cc9
   klass: PeclRecipe
 - name: redis
   version: 3.1.2
@@ -71,8 +71,8 @@ extensions:
   md5: 2c9accf66681a3daaaf371bc07e44902
   klass: PeclRecipe
 - name: xdebug
-  version: 2.5.3
-  md5: daefc2b4dc85c47ddd3a3d50b258342e
+  version: 2.5.4
+  md5: 5ace88583b0c7a85161cd3650f69cb23
   klass: PeclRecipe
 - name: yaf
   version: 3.0.4
@@ -85,8 +85,8 @@ extensions:
   md5: d7e82b73db69fbe265596c60f6b08ee9
   klass: AmqpPeclRecipe
 - name: ioncube
-  version: 6.0.9
-  md5: f6fa004a7473c96fe97769ad39741b35
+  version: 6.1.0
+  md5: f173c4d285440a7dc5f3fb1b20cacefc
   klass: IonCubeRecipe
 - name: lua
   version: 2.0.3
