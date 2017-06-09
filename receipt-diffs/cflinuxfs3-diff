@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3_1496653614:
+newpackages_cflinuxfs3_1497033049:
 
 ```
 +ii  adduser                     3.113+nmu3ubuntu4                          all   add and remove users and groups
@@ -224,13 +224,13 @@ newpackages_cflinuxfs3_1496653614:
 +ii  libsqlite3-0:amd64          3.11.0-1ubuntu1                            amd64 SQLite 3 shared library
 +ii  libsqlite3-dev:amd64        3.11.0-1ubuntu1                            amd64 SQLite 3 development files
 +ii  libss2:amd64                1.42.13-1ubuntu1                           amd64 command-line interface parsing library
-+ii  libssl-dev:amd64            1.0.2g-1ubuntu4.6                          amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64           1.0.2g-1ubuntu4.6                          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64            1.0.2g-1ubuntu4.8                          amd64 Secure Sockets Layer toolkit - development files
++ii  libssl1.0.0:amd64           1.0.2g-1ubuntu4.8                          amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libstdc++-5-dev:amd64       5.4.0-6ubuntu1~16.04.4                     amd64 GNU Standard C++ Library v3 (development files)
 +ii  libstdc++6:amd64            5.4.0-6ubuntu1~16.04.4                     amd64 GNU Standard C++ Library v3
 +ii  libsvn1:amd64               1.9.3-2ubuntu1                             amd64 Shared libraries used by Apache Subversion
 +ii  libsystemd0:amd64           229-4ubuntu17                              amd64 systemd utility library
-+ii  libtasn1-6:amd64            4.7-3ubuntu0.16.04.1                       amd64 Manage ASN.1 structures (runtime)
++ii  libtasn1-6:amd64            4.7-3ubuntu0.16.04.2                       amd64 Manage ASN.1 structures (runtime)
 +ii  libtext-charwidth-perl      0.04-7build5                               amd64 get display widths of characters on the terminal
 +ii  libtext-iconv-perl          1.7-5build4                                amd64 converts between character sets in Perl
 +ii  libtext-wrapi18n-perl       0.06-7.1                                   all   internationalized substitute of Text::Wrap
@@ -255,7 +255,7 @@ newpackages_cflinuxfs3_1496653614:
 +ii  libxslt1.1:amd64            1.1.28-2.1ubuntu0.1                        amd64 XSLT 1.0 processing library - runtime library
 +ii  libyaml-0-2:amd64           0.1.6-3                                    amd64 Fast YAML 1.1 parser and emitter library
 +ii  linux-base                  4.0ubuntu1                                 all   Linux image base package
-+ii  linux-libc-dev:amd64        4.4.0-78.99                                amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64        4.4.0-79.100                               amd64 Linux Kernel Headers for development
 +ii  locales                     2.23-0ubuntu7                              all   GNU C Library: National Language (locale) data [support]
 +ii  login                       1:4.2-3.1ubuntu5.3                         amd64 system login tools
 +ii  lsb-base                    9.20160110ubuntu0.2                        all   Linux Standard Base init script functionality
@@ -274,7 +274,7 @@ newpackages_cflinuxfs3_1496653614:
 +ii  net-tools                   1.60-26ubuntu1                             amd64 NET-3 networking toolkit
 +ii  netbase                     5.3                                        all   Basic TCP/IP networking system
 +ii  netcat-openbsd              1.105-7ubuntu1                             amd64 TCP/IP swiss army knife
-+ii  openssl                     1.0.2g-1ubuntu4.6                          amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                     1.0.2g-1ubuntu4.8                          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  passwd                      1:4.2-3.1ubuntu5.3                         amd64 change and administer password and group data
 +ii  patch                       2.7.5-1                                    amd64 Apply a diff file to an original
 +ii  perl                        5.22.1-9                                   amd64 Larry Wall's Practical Extraction and Report Language
