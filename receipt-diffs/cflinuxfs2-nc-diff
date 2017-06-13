@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1497258691:
+newpackages_cflinuxfs2-nc_1497377906:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -23,6 +23,12 @@ newpackages_cflinuxfs2-nc_1497258691:
 +ii  libcgraph6                 2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
 -ii  libfreetype6:amd64         2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
 +ii  libfreetype6:amd64         2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
+-ii  libgnutls-openssl27:amd64  2.12.23-12ubuntu2.7                amd64 GNU TLS library - OpenSSL wrapper
+-ii  libgnutls26:amd64          2.12.23-12ubuntu2.7                amd64 GNU TLS library - runtime library
+-ii  libgnutlsxx27:amd64        2.12.23-12ubuntu2.7                amd64 GNU TLS library - C++ runtime library
++ii  libgnutls-openssl27:amd64  2.12.23-12ubuntu2.8                amd64 GNU TLS library - OpenSSL wrapper
++ii  libgnutls26:amd64          2.12.23-12ubuntu2.8                amd64 GNU TLS library - runtime library
++ii  libgnutlsxx27:amd64        2.12.23-12ubuntu2.8                amd64 GNU TLS library - C++ runtime library
 -ii  libgvc6                    2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvc library
 -ii  libgvpr2                   2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - gvpr library
 +ii  libgvc6                    2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - gvc library
