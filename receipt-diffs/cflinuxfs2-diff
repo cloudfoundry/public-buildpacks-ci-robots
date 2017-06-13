@@ -1,4 +1,12 @@
-empty_1497298284:
+newpackages_cflinuxfs2_1497377840:
 
 ```
+-ii  libgnutls-dev             2.12.23-12ubuntu2.7  amd64  GNU TLS library - development files
+-ii  libgnutls-openssl27:amd64 2.12.23-12ubuntu2.7  amd64  GNU TLS library - OpenSSL wrapper
+-ii  libgnutls26:amd64         2.12.23-12ubuntu2.7  amd64  GNU TLS library - runtime library
+-ii  libgnutlsxx27:amd64       2.12.23-12ubuntu2.7  amd64  GNU TLS library - C++ runtime library
++ii  libgnutls-dev             2.12.23-12ubuntu2.8  amd64  GNU TLS library - development files
++ii  libgnutls-openssl27:amd64 2.12.23-12ubuntu2.8  amd64  GNU TLS library - OpenSSL wrapper
++ii  libgnutls26:amd64         2.12.23-12ubuntu2.8  amd64  GNU TLS library - runtime library
++ii  libgnutlsxx27:amd64       2.12.23-12ubuntu2.8  amd64  GNU TLS library - C++ runtime library
 ```
