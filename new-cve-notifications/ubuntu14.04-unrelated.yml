@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3320-1: zziplib vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3319-1: libmwaw vulnerability'
+  stack_release: unreleased
 - title: 'USN-3315-1: Firefox vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3317-1: Irssi vulnerabilities'
