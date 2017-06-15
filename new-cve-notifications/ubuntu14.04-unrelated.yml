@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3315-1: Firefox vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3317-1: Irssi vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3253-2: Nagios regression'
