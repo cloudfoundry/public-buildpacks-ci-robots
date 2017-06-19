@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3322-1: Exim vulnerability'
+  stack_release: unreleased
 - title: 'USN-3320-1: zziplib vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3319-1: libmwaw vulnerability'
