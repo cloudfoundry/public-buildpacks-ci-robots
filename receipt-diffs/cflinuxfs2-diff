@@ -1,14 +1,4 @@
-newpackages_cflinuxfs2_1497892432:
+empty_1497896734:
 
 ```
--ii  libc-bin          2.19-0ubuntu6.11  amd64  Embedded GNU C Library: Binaries
--ii  libc-dev-bin      2.19-0ubuntu6.11  amd64  Embedded GNU C Library: Development binaries
--ii  libc6:amd64       2.19-0ubuntu6.11  amd64  Embedded GNU C Library: Shared libraries
--ii  libc6-dev:amd64   2.19-0ubuntu6.11  amd64  Embedded GNU C Library: Development Libraries and Header Files
-+ii  libc-bin          2.19-0ubuntu6.13  amd64  Embedded GNU C Library: Binaries
-+ii  libc-dev-bin      2.19-0ubuntu6.13  amd64  Embedded GNU C Library: Development binaries
-+ii  libc6:amd64       2.19-0ubuntu6.13  amd64  Embedded GNU C Library: Shared libraries
-+ii  libc6-dev:amd64   2.19-0ubuntu6.13  amd64  Embedded GNU C Library: Development Libraries and Header Files
--ii  multiarch-support 2.19-0ubuntu6.11  amd64  Transitional package to ensure multiarch compatibility
-+ii  multiarch-support 2.19-0ubuntu6.13  amd64  Transitional package to ensure multiarch compatibility
 ```
