@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1497863482:
+newpackages_cflinuxfs2-nc_1497892392:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -17,6 +17,10 @@ newpackages_cflinuxfs2-nc_1497863482:
 -ii  isc-dhcp-common            4.2.4-7ubuntu12.8                  amd64 common files used by all the isc-dhcp* packages
 +ii  isc-dhcp-client            4.2.4-7ubuntu12.10                 amd64 ISC DHCP client
 +ii  isc-dhcp-common            4.2.4-7ubuntu12.10                 amd64 common files used by all the isc-dhcp* packages
+-ii  libc-bin                   2.19-0ubuntu6.11                   amd64 Embedded GNU C Library: Binaries
+-ii  libc6:amd64                2.19-0ubuntu6.11                   amd64 Embedded GNU C Library: Shared libraries
++ii  libc-bin                   2.19-0ubuntu6.13                   amd64 Embedded GNU C Library: Binaries
++ii  libc6:amd64                2.19-0ubuntu6.13                   amd64 Embedded GNU C Library: Shared libraries
 -ii  libcdt5                    2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cdt library
 +ii  libcdt5                    2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cdt library
 -ii  libcgraph6                 2.36.0-0ubuntu3.1                  amd64 rich set of graph drawing tools - cgraph library
@@ -71,7 +75,9 @@ newpackages_cflinuxfs2-nc_1497863482:
 -ii  logrotate                  3.8.7-1ubuntu1                     amd64 Log rotation utility
 +ii  login                      1:4.1.5.1-1ubuntu9.5               amd64 system login tools
 +ii  logrotate                  3.8.7-1ubuntu1.1                   amd64 Log rotation utility
+-ii  multiarch-support          2.19-0ubuntu6.11                   amd64 Transitional package to ensure multiarch compatibility
 -ii  mysql-common               5.5.54-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  multiarch-support          2.19-0ubuntu6.13                   amd64 Transitional package to ensure multiarch compatibility
 +ii  mysql-common               5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
 -ii  passwd                     1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
 +ii  passwd                     1:4.1.5.1-1ubuntu9.5               amd64 change and administer password and group data
