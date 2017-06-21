@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3337-1: Valgrind vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3336-1: NSS vulnerability'
+  stack_release: unreleased
 - title: 'USN-3335-1: Linux kernel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3334-1: Linux kernel (Xenial HWE) vulnerabilities'
