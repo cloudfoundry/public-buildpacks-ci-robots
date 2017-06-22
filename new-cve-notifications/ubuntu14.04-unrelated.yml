@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3339-1: OpenVPN vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3335-1: Linux kernel vulnerability'
   stack_release: unreleased
 - title: 'USN-3334-1: Linux kernel (Xenial HWE) vulnerability'
