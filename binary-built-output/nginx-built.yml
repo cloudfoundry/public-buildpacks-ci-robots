@@ -267,3 +267,18 @@ nginx:
     =okoc
     -----END PGP SIGNATURE-----
   timestamp: 2017-05-30 15:04:00 UTC
+- version: 1.13.2
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEzBAABCAAdFiEEsPQlM3P49vUQ1CF4UgqZk6HAUvgFAllScTEACgkQUgqZk6HA
+    Uvhl1wf+JmYODF7SPMn4aT0+lIgLfHLBGWJH6EcjcB53dMpMOIT2w6zguYdQfxHW
+    ukY6fku09SLQTOCG4JyBChZ1vgloeoiyhk7a6HZViu02b22TuTHbHweYkwCZ4AAS
+    df+MRPT+hP9BLOWrImEDED3tylPNjRgYfPxkTMXS6eSTyYyBK+reC7eyB+//vM/I
+    LRN6YC4yxu0dB9DiYlupq6MU0//mEnODoJxeLGqoiX9Vh5T1k/pk/gTLtd0T2hNS
+    D9wMc17Sw1VddMyEoqgkkDliKZKdJsgNjscJLo4EYeRLfM1zD6v+nNpbhPUIOYYi
+    lsIEri8kHTDGJxTWzr+sUjzyEASFNw==
+    =iPZ3
+    -----END PGP SIGNATURE-----
+  timestamp: 2017-06-27 15:06:06 UTC
