@@ -1,32 +1,4 @@
-newpackages_cflinuxfs2_1498778276:
+empty_1498782781:
 
 ```
--ii  bind9-host               1:9.9.5.dfsg-3ubuntu0.14 amd64 Version of 'host' bundled with BIND 9.X
-+ii  bind9-host               1:9.9.5.dfsg-3ubuntu0.15 amd64 Version of 'host' bundled with BIND 9.X
--ii  dnsutils                 1:9.9.5.dfsg-3ubuntu0.14 amd64 Clients provided with BIND
-+ii  dnsutils                 1:9.9.5.dfsg-3ubuntu0.15 amd64 Clients provided with BIND
--ii  klibc-utils              2.0.3-0ubuntu1.14.04.2   amd64 small utilities built with klibc for early boot
-+ii  klibc-utils              2.0.3-0ubuntu1.14.04.3   amd64 small utilities built with klibc for early boot
--ii  libbind9-90              1:9.9.5.dfsg-3ubuntu0.14 amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-90              1:9.9.5.dfsg-3ubuntu0.15 amd64 BIND9 Shared Library used by BIND
--ii  libdns100                1:9.9.5.dfsg-3ubuntu0.14 amd64 DNS Shared Library used by BIND
-+ii  libdns100                1:9.9.5.dfsg-3ubuntu0.15 amd64 DNS Shared Library used by BIND
--ii  libisc95                 1:9.9.5.dfsg-3ubuntu0.14 amd64 ISC Shared Library used by BIND
--ii  libisccc90               1:9.9.5.dfsg-3ubuntu0.14 amd64 Command Channel Library used by BIND
--ii  libisccfg90              1:9.9.5.dfsg-3ubuntu0.14 amd64 Config File Handling Library used by BIND
-+ii  libisc95                 1:9.9.5.dfsg-3ubuntu0.15 amd64 ISC Shared Library used by BIND
-+ii  libisccc90               1:9.9.5.dfsg-3ubuntu0.15 amd64 Command Channel Library used by BIND
-+ii  libisccfg90              1:9.9.5.dfsg-3ubuntu0.15 amd64 Config File Handling Library used by BIND
--ii  libklibc                 2.0.3-0ubuntu1.14.04.2   amd64 minimal libc subset for use with initramfs
-+ii  libklibc                 2.0.3-0ubuntu1.14.04.3   amd64 minimal libc subset for use with initramfs
--ii  liblwres90               1:9.9.5.dfsg-3ubuntu0.14 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres90               1:9.9.5.dfsg-3ubuntu0.15 amd64 Lightweight Resolver Library used by BIND
--ii  libmariadbclient-dev     5.5.54-1ubuntu0.14.04.1  amd64 MariaDB database development files
--ii  libmariadbclient18:amd64 5.5.54-1ubuntu0.14.04.1  amd64 MariaDB database client library
-+ii  libmariadbclient-dev     5.5.56-1ubuntu0.14.04.1  amd64 MariaDB database development files
-+ii  libmariadbclient18:amd64 5.5.56-1ubuntu0.14.04.1  amd64 MariaDB database client library
--ii  linux-libc-dev:amd64     3.13.0-121.170           amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64     3.13.0-123.172           amd64 Linux Kernel Headers for development
--ii  mariadb-common           5.5.54-1ubuntu0.14.04.1  all   MariaDB common metapackage
-+ii  mariadb-common           5.5.56-1ubuntu0.14.04.1  all   MariaDB common metapackage
 ```
