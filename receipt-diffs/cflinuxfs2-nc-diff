@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1499073110:
+newpackages_cflinuxfs2-nc_1499112836:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -37,6 +37,8 @@ newpackages_cflinuxfs2-nc_1499073110:
 +ii  libdns100                  1:9.9.5.dfsg-3ubuntu0.15           amd64 DNS Shared Library used by BIND
 -ii  libfreetype6:amd64         2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
 +ii  libfreetype6:amd64         2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
+-ii  libgcrypt11:amd64          1.5.3-2ubuntu4.4                   amd64 LGPL Crypto library - runtime library
++ii  libgcrypt11:amd64          1.5.3-2ubuntu4.5                   amd64 LGPL Crypto library - runtime library
 -ii  libgnutls-openssl27:amd64  2.12.23-12ubuntu2.7                amd64 GNU TLS library - OpenSSL wrapper
 -ii  libgnutls26:amd64          2.12.23-12ubuntu2.7                amd64 GNU TLS library - runtime library
 -ii  libgnutlsxx27:amd64        2.12.23-12ubuntu2.7                amd64 GNU TLS library - C++ runtime library
