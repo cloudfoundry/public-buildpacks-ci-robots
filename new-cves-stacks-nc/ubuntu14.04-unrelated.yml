@@ -1,4 +1,8 @@
 ---
+- title: 'USN-3321-1: Thunderbird vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-3348-1: Samba vulnerability'
+  stack_release: unreleased
 - title: 'USN-3343-1: Linux kernel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3344-2: Linux kernel (Xenial HWE) vulnerabilities'
