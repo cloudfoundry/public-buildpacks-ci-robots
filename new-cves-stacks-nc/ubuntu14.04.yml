@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3349-1: NTP vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3347-1: Libgcrypt vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3346-1: bind9 vulnerabilities'
