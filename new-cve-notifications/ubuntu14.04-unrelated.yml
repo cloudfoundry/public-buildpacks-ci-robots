@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3350-1: poppler vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3321-1: Thunderbird vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3348-1: Samba vulnerability'
