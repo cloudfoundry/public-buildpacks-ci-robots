@@ -95,8 +95,8 @@ extensions:
   md5: c1397e9d3312226ec6c84e8e34c717a6
   klass: PeclRecipe
 - name: xdebug
-  version: 2.5.4
-  md5: 5ace88583b0c7a85161cd3650f69cb23
+  version: 2.5.5
+  md5: 81bca42ea6a1f7080f501b00d8122a01
   klass: PeclRecipe
 - name: yaf
   version: 2.3.5
@@ -105,8 +105,8 @@ extensions:
 
   #non-standard
 - name: amqp
-  version: 1.9.0
-  md5: d7e82b73db69fbe265596c60f6b08ee9
+  version: 1.9.1
+  md5: 67a59a95e47636cff13baa4e3abf7fce
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.1.0
@@ -121,8 +121,8 @@ extensions:
   md5: 28937c6144f734e000c6300242f44ce6
   klass: MemcachedPeclRecipe
 - name: phalcon
-  version: 3.1.2
-  md5: 7e140cec01ecc6f0b5f3c8ef0009773c
+  version: 3.2.1
+  md5: ebc65a566dfe4edcc78cf8f779fb6f5f
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
@@ -137,8 +137,8 @@ extensions:
   md5: 0c26402752b0aff69e4b891f062a52bf
   klass: SuhosinPeclRecipe
 - name: twigpecl
-  version: 1.33.2
-  md5: b270289bd1f33b105caabe89e386f919
+  version: 1.34.4
+  md5: 548b9a1ebc479612abbc5ba2979b87e8
   klass: TwigPeclRecipe
 - name: xcachepecl
   version: 3.2.0

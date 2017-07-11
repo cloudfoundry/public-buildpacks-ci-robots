@@ -71,18 +71,18 @@ extensions:
   md5: 2c9accf66681a3daaaf371bc07e44902
   klass: PeclRecipe
 - name: xdebug
-  version: 2.5.4
-  md5: 5ace88583b0c7a85161cd3650f69cb23
+  version: 2.5.5
+  md5: 81bca42ea6a1f7080f501b00d8122a01
   klass: PeclRecipe
 - name: yaf
-  version: 3.0.4
-  md5: 1420d91ca5deb31147b25bd08124e400
+  version: 3.0.5
+  md5: f04d05f9458856c58fc2c2e8dd2173fd
   klass: PeclRecipe
 
 #non-standard
 - name: amqp
-  version: 1.9.0
-  md5: d7e82b73db69fbe265596c60f6b08ee9
+  version: 1.9.1
+  md5: 67a59a95e47636cff13baa4e3abf7fce
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.1.0
@@ -93,8 +93,8 @@ extensions:
   md5: f1acc6f17d56491ab0a24ed3b3d3b1fb
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.1.2
-  md5: 7e140cec01ecc6f0b5f3c8ef0009773c
+  version: 3.2.1
+  md5: ebc65a566dfe4edcc78cf8f779fb6f5f
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
