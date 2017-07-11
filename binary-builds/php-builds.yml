@@ -1,6 +1,4 @@
 ---
 php:
-- version: 5.6.31
-  sha256: 6687ed2f09150b2ad6b3780ff89715891f83a9c331e69c90241ef699dec4c43f
 - version: 5.6.30
   sha256: 8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2
