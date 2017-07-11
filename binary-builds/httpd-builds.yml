@@ -1,6 +1,6 @@
 ---
 httpd:
-- version: 2.2.27
+- version: 2.4.27
   md5: 97b6bbfa83c866dbe20ef317e3afd108
 - version: 2.2.34
   md5: c0bf1bdb779a3b5e6e294caf9ca20441
