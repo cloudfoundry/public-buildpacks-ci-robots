@@ -1,4 +1,2 @@
 ---
-httpd:
-- version: 2.2.34
-  md5: c0bf1bdb779a3b5e6e294caf9ca20441
+httpd: []
