@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3354-1: Apport vulnerability'
+  stack_release: unreleased
 - title: 'USN-3353-2: Samba vulnerability'
   stack_release: unreleased
 - title: 'USN-3352-1: nginx vulnerability'
