@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3355-1: Spice vulnerability'
+  stack_release: unreleased
 - title: 'USN-3354-1: Apport vulnerability'
   stack_release: unreleased
 - title: 'USN-3353-2: Samba vulnerability'
