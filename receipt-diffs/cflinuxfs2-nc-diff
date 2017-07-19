@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1500282785:
+newpackages_cflinuxfs2-nc_1500488145:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -37,6 +37,8 @@ newpackages_cflinuxfs2-nc_1500282785:
 +ii  libcgraph6                 2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
 -ii  libdns100                  1:9.9.5.dfsg-3ubuntu0.14           amd64 DNS Shared Library used by BIND
 +ii  libdns100                  1:9.9.5.dfsg-3ubuntu0.15           amd64 DNS Shared Library used by BIND
+-ii  libexpat1:amd64            2.1.0-4ubuntu1.3                   amd64 XML parsing C library - runtime library
++ii  libexpat1:amd64            2.1.0-4ubuntu1.4                   amd64 XML parsing C library - runtime library
 -ii  libfreetype6:amd64         2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
 +ii  libfreetype6:amd64         2.5.2-1ubuntu2.8                   amd64 FreeType 2 font engine, shared library files
 -ii  libgcrypt11:amd64          1.5.3-2ubuntu4.4                   amd64 LGPL Crypto library - runtime library
