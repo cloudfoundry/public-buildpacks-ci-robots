@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3356-1: Expat vulnerability'
+  stack_release: unreleased
 - title: 'USN-3353-1: Heimdal vulnerability'
   stack_release: unreleased
 - title: 'USN-3349-1: NTP vulnerabilities'
