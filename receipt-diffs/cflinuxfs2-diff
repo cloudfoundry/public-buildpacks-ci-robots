@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1500488237:
+empty_1500560359:
 
 ```
--ii  libexpat1:amd64      2.1.0-4ubuntu1.3 amd64  XML parsing C library - runtime library
--ii  libexpat1-dev:amd64  2.1.0-4ubuntu1.3 amd64  XML parsing C library - development kit
-+ii  libexpat1:amd64      2.1.0-4ubuntu1.4 amd64  XML parsing C library - runtime library
-+ii  libexpat1-dev:amd64  2.1.0-4ubuntu1.4 amd64  XML parsing C library - development kit
--ii  linux-libc-dev:amd64 3.13.0-123.172   amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-125.174   amd64  Linux Kernel Headers for development
 ```
