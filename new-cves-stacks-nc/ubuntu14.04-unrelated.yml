@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3360-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3357-1: MySQL vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3355-1: Spice vulnerability'
