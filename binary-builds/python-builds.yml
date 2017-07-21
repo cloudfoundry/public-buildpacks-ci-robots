@@ -1,2 +1,4 @@
 ---
-python: []
+python:
+- version: 3.6.2
+  md5: e1a36bfffdd1d3a780b1825daf16e56c
