@@ -1,4 +1,8 @@
-empty_1500560359:
+newpackages_cflinuxfs2_1500887569:
 
 ```
+-rc  libmysqlclient18:amd64 5.5.55-0ubuntu0.14.04.1  amd64 MySQL database client library
++rc  libmysqlclient18:amd64 5.5.57-0ubuntu0.14.04.1  amd64 MySQL database client library
+-ii  mysql-common           5.5.55-0ubuntu0.14.04.1  all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common           5.5.57-0ubuntu0.14.04.1  all   MySQL database common files, e.g. /etc/mysql/my.cnf
 ```
