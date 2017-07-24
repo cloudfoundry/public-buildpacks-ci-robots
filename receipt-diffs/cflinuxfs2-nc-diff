@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1500488145:
+newpackages_cflinuxfs2-nc_1500887528:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -90,7 +90,7 @@ newpackages_cflinuxfs2-nc_1500488145:
 +ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 image manipulation library
 +ii  libmariadbclient18:amd64   5.5.56-1ubuntu0.14.04.1            amd64 MariaDB database client library
 -rc  libmysqlclient18:amd64     5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
-+rc  libmysqlclient18:amd64     5.5.55-0ubuntu0.14.04.1            amd64 MySQL database client library
++rc  libmysqlclient18:amd64     5.5.57-0ubuntu0.14.04.1            amd64 MySQL database client library
 -ii  libnl-3-200:amd64          3.2.21-1ubuntu4                    amd64 library for dealing with netlink sockets
 -ii  libnl-genl-3-200:amd64     3.2.21-1ubuntu4                    amd64 library for dealing with netlink sockets - generic netlink
 +ii  libnl-3-200:amd64          3.2.21-1ubuntu4.1                  amd64 library for dealing with netlink sockets
@@ -124,7 +124,7 @@ newpackages_cflinuxfs2-nc_1500488145:
 -ii  multiarch-support          2.19-0ubuntu6.11                   amd64 Transitional package to ensure multiarch compatibility
 -ii  mysql-common               5.5.54-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
 +ii  multiarch-support          2.19-0ubuntu6.13                   amd64 Transitional package to ensure multiarch compatibility
-+ii  mysql-common               5.5.55-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common               5.5.57-0ubuntu0.14.04.1            all   MySQL database common files, e.g. /etc/mysql/my.cnf
 -ii  ntpdate                    1:4.2.6.p5+dfsg-3ubuntu2.14.04.10  amd64 client for setting system time from NTP servers
 +ii  ntpdate                    1:4.2.6.p5+dfsg-3ubuntu2.14.04.11  amd64 client for setting system time from NTP servers
 -ii  passwd                     1:4.1.5.1-1ubuntu9.2               amd64 change and administer password and group data
