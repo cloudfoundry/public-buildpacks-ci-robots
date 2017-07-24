@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2-nc_1500887528:
+newpackages_cflinuxfs2-nc_1500920124:
 
 ```
 -ii  bash                       4.3-7ubuntu1.5                     amd64 GNU Bourne Again SHell
@@ -15,8 +15,8 @@ newpackages_cflinuxfs2-nc_1500887528:
 +ii  git-man                    1:1.9.1-1ubuntu0.5                 all   fast, scalable, distributed revision control system (manual pages)
 -ii  imagemagick                8:6.7.7.10-6ubuntu3.6              amd64 image manipulation programs
 -ii  imagemagick-common         8:6.7.7.10-6ubuntu3.6              all   image manipulation programs -- infrastructure
-+ii  imagemagick                8:6.7.7.10-6ubuntu3.7              amd64 image manipulation programs
-+ii  imagemagick-common         8:6.7.7.10-6ubuntu3.7              all   image manipulation programs -- infrastructure
++ii  imagemagick                8:6.7.7.10-6ubuntu3.8              amd64 image manipulation programs
++ii  imagemagick-common         8:6.7.7.10-6ubuntu3.8              all   image manipulation programs -- infrastructure
 -ii  isc-dhcp-client            4.2.4-7ubuntu12.8                  amd64 ISC DHCP client
 -ii  isc-dhcp-common            4.2.4-7ubuntu12.8                  amd64 common files used by all the isc-dhcp* packages
 +ii  isc-dhcp-client            4.2.4-7ubuntu12.10                 amd64 ISC DHCP client
@@ -37,6 +37,14 @@ newpackages_cflinuxfs2-nc_1500887528:
 +ii  libcgraph6                 2.36.0-0ubuntu3.2                  amd64 rich set of graph drawing tools - cgraph library
 -ii  libdns100                  1:9.9.5.dfsg-3ubuntu0.14           amd64 DNS Shared Library used by BIND
 +ii  libdns100                  1:9.9.5.dfsg-3ubuntu0.15           amd64 DNS Shared Library used by BIND
+-ii  libdrm-intel1:amd64        2.4.67-1ubuntu0.14.04.1            amd64 Userspace interface to intel-specific kernel DRM services -- runtime
+-ii  libdrm-nouveau2:amd64      2.4.67-1ubuntu0.14.04.1            amd64 Userspace interface to nouveau-specific kernel DRM services -- runtime
+-ii  libdrm-radeon1:amd64       2.4.67-1ubuntu0.14.04.1            amd64 Userspace interface to radeon-specific kernel DRM services -- runtime
+-ii  libdrm2:amd64              2.4.67-1ubuntu0.14.04.1            amd64 Userspace interface to kernel DRM services -- runtime
++ii  libdrm-intel1:amd64        2.4.67-1ubuntu0.14.04.2            amd64 Userspace interface to intel-specific kernel DRM services -- runtime
++ii  libdrm-nouveau2:amd64      2.4.67-1ubuntu0.14.04.2            amd64 Userspace interface to nouveau-specific kernel DRM services -- runtime
++ii  libdrm-radeon1:amd64       2.4.67-1ubuntu0.14.04.2            amd64 Userspace interface to radeon-specific kernel DRM services -- runtime
++ii  libdrm2:amd64              2.4.67-1ubuntu0.14.04.2            amd64 Userspace interface to kernel DRM services -- runtime
 -ii  libexpat1:amd64            2.1.0-4ubuntu1.3                   amd64 XML parsing C library - runtime library
 +ii  libexpat1:amd64            2.1.0-4ubuntu1.4                   amd64 XML parsing C library - runtime library
 -ii  libfreetype6:amd64         2.5.2-1ubuntu2.7                   amd64 FreeType 2 font engine, shared library files
@@ -85,9 +93,9 @@ newpackages_cflinuxfs2-nc_1500887528:
 -ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.6              amd64 low-level image manipulation library - extra codecs
 -ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.6              amd64 image manipulation library
 -ii  libmariadbclient18:amd64   5.5.54-1ubuntu0.14.04.1            amd64 MariaDB database client library
-+ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 low-level image manipulation library
-+ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.7              amd64 low-level image manipulation library - extra codecs
-+ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7              amd64 image manipulation library
++ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.8              amd64 low-level image manipulation library
++ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.8              amd64 low-level image manipulation library - extra codecs
++ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.8              amd64 image manipulation library
 +ii  libmariadbclient18:amd64   5.5.56-1ubuntu0.14.04.1            amd64 MariaDB database client library
 -rc  libmysqlclient18:amd64     5.5.54-0ubuntu0.14.04.1            amd64 MySQL database client library
 +rc  libmysqlclient18:amd64     5.5.57-0ubuntu0.14.04.1            amd64 MySQL database client library
