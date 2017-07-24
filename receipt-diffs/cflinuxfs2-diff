@@ -1,28 +1,4 @@
-newpackages_cflinuxfs2_1500920237:
+empty_1500924361:
 
 ```
--ii  imagemagick                8:6.7.7.10-6ubuntu3.7   amd64 image manipulation programs
--ii  imagemagick-common         8:6.7.7.10-6ubuntu3.7   all   image manipulation programs -- infrastructure
-+ii  imagemagick                8:6.7.7.10-6ubuntu3.8   amd64 image manipulation programs
-+ii  imagemagick-common         8:6.7.7.10-6ubuntu3.8   all   image manipulation programs -- infrastructure
--ii  libdrm-intel1:amd64        2.4.67-1ubuntu0.14.04.1 amd64 Userspace interface to intel-specific kernel DRM services -- runtime
--ii  libdrm-nouveau2:amd64      2.4.67-1ubuntu0.14.04.1 amd64 Userspace interface to nouveau-specific kernel DRM services -- runtime
--ii  libdrm-radeon1:amd64       2.4.67-1ubuntu0.14.04.1 amd64 Userspace interface to radeon-specific kernel DRM services -- runtime
--ii  libdrm2:amd64              2.4.67-1ubuntu0.14.04.1 amd64 Userspace interface to kernel DRM services -- runtime
-+ii  libdrm-intel1:amd64        2.4.67-1ubuntu0.14.04.2 amd64 Userspace interface to intel-specific kernel DRM services -- runtime
-+ii  libdrm-nouveau2:amd64      2.4.67-1ubuntu0.14.04.2 amd64 Userspace interface to nouveau-specific kernel DRM services -- runtime
-+ii  libdrm-radeon1:amd64       2.4.67-1ubuntu0.14.04.2 amd64 Userspace interface to radeon-specific kernel DRM services -- runtime
-+ii  libdrm2:amd64              2.4.67-1ubuntu0.14.04.2 amd64 Userspace interface to kernel DRM services -- runtime
--ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.7   amd64 low-level image manipulation library - development files
--ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.7   amd64 low-level image manipulation library
--ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.7   amd64 low-level image manipulation library - extra codecs
--ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.7   amd64 image manipulation library - development files
--ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.7   amd64 image manipulation library
-+ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.8   amd64 low-level image manipulation library - development files
-+ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.8   amd64 low-level image manipulation library
-+ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.8   amd64 low-level image manipulation library - extra codecs
-+ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.8   amd64 image manipulation library - development files
-+ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.8   amd64 image manipulation library
--ii  xtrans-dev                 1.3.5-1~ubuntu14.04.1   all   X transport library (development files)
-+ii  xtrans-dev                 1.3.5-1~ubuntu14.04.2   all   X transport library (development files)
 ```
