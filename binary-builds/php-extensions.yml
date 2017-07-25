@@ -27,6 +27,10 @@ native_modules:
   version: 2.7.0
   md5: e5b54fd77a256f4985447aaca3905e62
   klass: CassandraCppDriverRecipe
+- name: unixodbc
+  version: 2.3.4
+  md5: bd25d261ca1808c947cb687e2034be81
+  klass: UnixOdbcRecipe
 
 extensions:
   #standard pecl
@@ -120,6 +124,10 @@ extensions:
   version: 2.2.0
   md5: 28937c6144f734e000c6300242f44ce6
   klass: MemcachedPeclRecipe
+- name: pdo_odbc
+  version: nil
+  md5: nil
+  klass: PdoOdbcRecipe
 - name: phalcon
   version: 3.2.1
   md5: ebc65a566dfe4edcc78cf8f779fb6f5f

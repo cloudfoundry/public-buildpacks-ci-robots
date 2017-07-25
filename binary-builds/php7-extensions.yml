@@ -23,6 +23,10 @@ native_modules:
   version: 2.5.0
   md5: 342b18b9a0a8088be06b6ea3b7a7dec6
   klass: CassandraCppDriverRecipe
+- name: unixodbc
+  version: 2.3.4
+  md5: bd25d261ca1808c947cb687e2034be81
+  klass: UnixOdbcRecipe
 
 extensions:
 #standard pecl
@@ -58,6 +62,10 @@ extensions:
   version: 2.0.2
   md5: 02f7e109d438072c4b642b01cf78533e
   klass: PeclRecipe
+- name: pdo_odbc
+  version: nil
+  md5: nil
+  klass: PdoOdbcRecipe
 - name: rdkafka
   version: 3.0.3
   md5: a24d669dfb68742150ad8bc9b1f47cc9
