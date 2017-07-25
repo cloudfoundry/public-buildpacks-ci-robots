@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3365-1: Ruby vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-3364-2: Linux kernel (Xenial HWE) vulnerabilities'
   stack_release: unreleased
 - title: 'USN-3362-1: X.Org X server vulnerabilities'
