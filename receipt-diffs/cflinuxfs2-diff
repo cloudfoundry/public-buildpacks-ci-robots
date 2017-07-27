@@ -1,6 +1,4 @@
-newpackages_cflinuxfs2_1501169549:
+empty_1501175318:
 
 ```
--ii  rsyslog  7.4.4-1ubuntu2.6  amd64  reliable system and kernel logging daemon
-+ii  rsyslog  7.4.4-1ubuntu2.7  amd64  reliable system and kernel logging daemon
 ```
