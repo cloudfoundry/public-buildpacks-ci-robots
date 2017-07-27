@@ -1,6 +1,6 @@
-newpackages_cflinuxfs2_1501089666:
+newpackages_cflinuxfs2_1501169549:
 
 ```
--ii  gdb  7.7.1-0ubuntu5~14.04.2  amd64  GNU Debugger
-+ii  gdb  7.7.1-0ubuntu5~14.04.3  amd64  GNU Debugger
+-ii  rsyslog  7.4.4-1ubuntu2.6  amd64  reliable system and kernel logging daemon
++ii  rsyslog  7.4.4-1ubuntu2.7  amd64  reliable system and kernel logging daemon
 ```
