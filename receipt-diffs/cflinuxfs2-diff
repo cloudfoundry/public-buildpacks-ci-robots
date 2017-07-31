@@ -1,18 +1,4 @@
-newpackages_cflinuxfs2_1501525281:
+empty_1501530486:
 
 ```
--ii  imagemagick                8:6.7.7.10-6ubuntu3.8  amd64 image manipulation programs
--ii  imagemagick-common         8:6.7.7.10-6ubuntu3.8  all   image manipulation programs -- infrastructure
-+ii  imagemagick                8:6.7.7.10-6ubuntu3.9  amd64 image manipulation programs
-+ii  imagemagick-common         8:6.7.7.10-6ubuntu3.9  all   image manipulation programs -- infrastructure
--ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.8  amd64 low-level image manipulation library - development files
--ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.8  amd64 low-level image manipulation library
--ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.8  amd64 low-level image manipulation library - extra codecs
--ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.8  amd64 image manipulation library - development files
--ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.8  amd64 image manipulation library
-+ii  libmagickcore-dev          8:6.7.7.10-6ubuntu3.9  amd64 low-level image manipulation library - development files
-+ii  libmagickcore5:amd64       8:6.7.7.10-6ubuntu3.9  amd64 low-level image manipulation library
-+ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.9  amd64 low-level image manipulation library - extra codecs
-+ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.9  amd64 image manipulation library - development files
-+ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.9  amd64 image manipulation library
 ```
