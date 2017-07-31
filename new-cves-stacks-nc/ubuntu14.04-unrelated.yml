@@ -1,4 +1,6 @@
 ---
+- title: 'USN-3374-1: RabbitMQ vulnerability'
+  stack_release: unreleased
 - title: 'USN-3370-1: Apache HTTP Server vulnerability'
   stack_release: unreleased
 - title: 'USN-3369-1: FreeRADIUS vulnerabilities'
