@@ -1,4 +1,6 @@
-empty_1501175318:
+newpackages_cflinuxfs2_1501492746:
 
 ```
+-ii  ntpdate  1:4.2.6.p5+dfsg-3ubuntu2.14.04.11  amd64  client for setting system time from NTP servers
++ii  ntpdate  1:4.2.6.p5+dfsg-3ubuntu2.14.04.12  amd64  client for setting system time from NTP servers
 ```
