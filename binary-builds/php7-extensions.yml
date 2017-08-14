@@ -66,6 +66,10 @@ extensions:
   version: nil
   md5: nil
   klass: PdoOdbcRecipe
+- name: odbc
+  version: nil
+  md5: nil
+  klass: OdbcRecipe
 - name: rdkafka
   version: 3.0.3
   md5: a24d669dfb68742150ad8bc9b1f47cc9
