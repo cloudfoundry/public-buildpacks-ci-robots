@@ -1,16 +1,14 @@
-newpackages_cflinuxfs2_1502702245:
+newpackages_cflinuxfs2_1502980956:
 
 ```
--ii  git                  1:1.9.1-1ubuntu0.5 amd64 fast, scalable, distributed revision control system
--ii  git-core             1:1.9.1-1ubuntu0.5 all   fast, scalable, distributed revision control system (obsolete)
--ii  git-man              1:1.9.1-1ubuntu0.5 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                  1:1.9.1-1ubuntu0.6 amd64 fast, scalable, distributed revision control system
-+ii  git-core             1:1.9.1-1ubuntu0.6 all   fast, scalable, distributed revision control system (obsolete)
-+ii  git-man              1:1.9.1-1ubuntu0.6 all   fast, scalable, distributed revision control system (manual pages)
--ii  libsvn1:amd64        1.8.8-1ubuntu3.2   amd64 Shared libraries used by Apache Subversion
-+ii  libsvn1:amd64        1.8.8-1ubuntu3.3   amd64 Shared libraries used by Apache Subversion
--ii  linux-libc-dev:amd64 3.13.0-126.175     amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-128.177     amd64 Linux Kernel Headers for development
--ii  subversion           1.8.8-1ubuntu3.2   amd64 Advanced version control system
-+ii  subversion           1.8.8-1ubuntu3.3   amd64 Advanced version control system
+-ii  libgd-dev:amd64  2.1.0-3ubuntu0.6        amd64 GD Graphics Library (development version)
+-ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.6        all   GD Graphics Library (transitional package)
+-ii  libgd3:amd64     2.1.0-3ubuntu0.6        amd64 GD Graphics Library
++ii  libgd-dev:amd64  2.1.0-3ubuntu0.7        amd64 GD Graphics Library (development version)
++ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.7        all   GD Graphics Library (transitional package)
++ii  libgd3:amd64     2.1.0-3ubuntu0.7        amd64 GD Graphics Library
+-ii  libpq-dev        9.3.17-0ubuntu0.14.04   amd64 header files for libpq5 (PostgreSQL library)
+-ii  libpq5           9.3.17-0ubuntu0.14.04   amd64 PostgreSQL C client library
++ii  libpq-dev        9.3.18-0ubuntu0.14.04.1 amd64 header files for libpq5 (PostgreSQL library)
++ii  libpq5           9.3.18-0ubuntu0.14.04.1 amd64 PostgreSQL C client library
 ```
