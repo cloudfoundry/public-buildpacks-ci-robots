@@ -1,14 +1,4 @@
-newpackages_cflinuxfs2_1502980956:
+empty_1502988953:
 
 ```
--ii  libgd-dev:amd64  2.1.0-3ubuntu0.6        amd64 GD Graphics Library (development version)
--ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.6        all   GD Graphics Library (transitional package)
--ii  libgd3:amd64     2.1.0-3ubuntu0.6        amd64 GD Graphics Library
-+ii  libgd-dev:amd64  2.1.0-3ubuntu0.7        amd64 GD Graphics Library (development version)
-+ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.7        all   GD Graphics Library (transitional package)
-+ii  libgd3:amd64     2.1.0-3ubuntu0.7        amd64 GD Graphics Library
--ii  libpq-dev        9.3.17-0ubuntu0.14.04   amd64 header files for libpq5 (PostgreSQL library)
--ii  libpq5           9.3.17-0ubuntu0.14.04   amd64 PostgreSQL C client library
-+ii  libpq-dev        9.3.18-0ubuntu0.14.04.1 amd64 header files for libpq5 (PostgreSQL library)
-+ii  libpq5           9.3.18-0ubuntu0.14.04.1 amd64 PostgreSQL C client library
 ```
