@@ -58,6 +58,10 @@ extensions:
   version: 1.1.1
   md5: 4f5f4b8a41a5802de6591c79b85cc838
   klass: GeoipRecipe
+- name: gnupg
+  version: 1.4.0
+  md5: 2354cb56168d8ea0f643e548e139d013
+  klass: PeclRecipe
 - name: rdkafka
   version: 3.0.3
   md5: a24d669dfb68742150ad8bc9b1f47cc9
