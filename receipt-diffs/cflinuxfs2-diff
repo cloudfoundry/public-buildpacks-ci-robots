@@ -1,6 +1,4 @@
-newpackages_cflinuxfs2_1503307048:
+empty_1503312045:
 
 ```
--ii  logrotate  3.8.7-1ubuntu1.1  amd64  Log rotation utility
-+ii  logrotate  3.8.7-1ubuntu1.2  amd64  Log rotation utility
 ```
