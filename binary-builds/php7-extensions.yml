@@ -15,6 +15,10 @@ native_modules:
   version: nil
   md5: nil
   klass: SnmpRecipe
+- name: libmemcached
+  version: 1.0.18
+  md5: b3958716b4e53ddc5992e6c49d97e819
+  klass: LibmemcachedRecipe
 - name: librdkafka
   version: 0.11.0
   md5: 68f4712491a92423c9722be9054678d8
@@ -90,6 +94,10 @@ extensions:
   version: 3.0.5
   md5: f04d05f9458856c58fc2c2e8dd2173fd
   klass: PeclRecipe
+- name: memcached
+  version: 3.0.3
+  md5: 001341afeded3724c19a740148737444
+  klass: MemcachedPeclRecipe
 
 #non-standard
 - name: amqp
