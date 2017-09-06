@@ -105,3 +105,6 @@ yarn:
 - version: 0.28.0
   sha256: '0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5'
   timestamp: 2017-09-06 17:12:48 UTC
+- version: 0.27.2
+  sha256: 29c96fd079d08b78b05cc6d8996428a0d4a333468e22e9247d828cf227cf5a85
+  timestamp: 2017-09-06 17:14:40 UTC
