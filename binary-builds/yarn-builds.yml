@@ -1,4 +1,4 @@
 ---
 yarn:
-- version: 0.20.0
-  sha256: 4622f3c7a2fdf0dac3ef38b49eb636b813734e06a5a688fb2545df857792ebe3
+- version: 0.19.0
+  sha256: f7ce03b06b7499153176f2650111ab2b6b95bc8f819d146da5bc60c71b9bfdef
