@@ -1,10 +1,8 @@
-newpackages_cflinuxfs2_1504632255:
+newpackages_cflinuxfs2_1504668003:
 
 ```
--ii  libgd-dev:amd64  2.1.0-3ubuntu0.7  amd64 GD Graphics Library (development version)
--ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.7  all   GD Graphics Library (transitional package)
--ii  libgd3:amd64     2.1.0-3ubuntu0.7  amd64 GD Graphics Library
-+ii  libgd-dev:amd64  2.1.0-3ubuntu0.8  amd64 GD Graphics Library (development version)
-+ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.8  all   GD Graphics Library (transitional package)
-+ii  libgd3:amd64     2.1.0-3ubuntu0.8  amd64 GD Graphics Library
+-ii  bzr           2.6.0+bzr6593-1ubuntu1.5  all   easy to use distributed version control system
++ii  bzr           2.6.0+bzr6593-1ubuntu1.6  all   easy to use distributed version control system
+-ii  python-bzrlib 2.6.0+bzr6593-1ubuntu1.5  amd64 distributed version control system - python library
++ii  python-bzrlib 2.6.0+bzr6593-1ubuntu1.6  amd64 distributed version control system - python library
 ```
