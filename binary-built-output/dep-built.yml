@@ -1,2 +1,5 @@
 ---
-dep: []
+dep:
+- version: v0.2.0
+  sha256: f7887b1aae33ea6555eef82b8f597dbd670faf808af2c744e8eade338e51e9c3
+  timestamp: 2017-09-08 19:37:52 UTC
