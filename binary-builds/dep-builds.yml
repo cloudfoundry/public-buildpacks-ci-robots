@@ -1,2 +1,4 @@
 ---
-dep: []
+dep:
+- version: v0.3.0
+  sha256: 7d816ffb14f57c4b01352676998a8cda9e4fb24eaec92bd79526e1045c5a0c83
