@@ -1,4 +1,4 @@
 ---
 dotnet:
-- version: v1.0.0-rc3-004517
-  git-commit-sha: 691189ef9195d28c7901fc7d278494ba4ad08b7e
+- version: v1.1.3
+  git-commit-sha: 6d95aa5415e2b8d791a99471cad2cab45a52a156
