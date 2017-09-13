@@ -9,3 +9,6 @@ bower:
 - version: 1.8.2
   sha256: 6bcf10e9c192fdbd6e89f98e431e095764c8571f66bcd6dd08fbcbd52e8dd722
   timestamp: 2017-09-13 17:05:06 UTC
+- version: 1.7.10
+  sha256: 2c5faff41338e6c289fb461b8c2d8eae5c51493b7b1660dd38722f073f913116
+  timestamp: 2017-09-13 18:04:30 UTC
