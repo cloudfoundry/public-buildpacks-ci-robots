@@ -20,8 +20,8 @@ native_modules:
   md5: 68f4712491a92423c9722be9054678d8
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.5.0
-  md5: 342b18b9a0a8088be06b6ea3b7a7dec6
+  version: 2.7.0
+  md5: e5b54fd77a256f4985447aaca3905e62
   klass: CassandraCppDriverRecipe
 - name: unixodbc
   version: 2.3.4
@@ -55,8 +55,8 @@ extensions:
   md5: 4bd96a980013374f23a7461cc0a919aa
   klass: PeclRecipe
 - name: mongodb
-  version: 1.2.9
-  md5: 55476d7b915bf3c0c86302ce5f9b5191
+  version: 1.2.10
+  md5: 59304b6fc87feed3f369918d1d3e002d
   klass: PeclRecipe
 - name: msgpack
   version: 2.0.2
@@ -71,8 +71,8 @@ extensions:
   md5: nil
   klass: OdbcRecipe
 - name: rdkafka
-  version: 3.0.3
-  md5: a24d669dfb68742150ad8bc9b1f47cc9
+  version: 3.0.4
+  md5: 607cf4089dddae913b075e4601b70440
   klass: PeclRecipe
 - name: redis
   version: 3.1.3
@@ -105,8 +105,8 @@ extensions:
   md5: 19b1f657fea7d0da323e11408f5e1fe0
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.2.1
-  md5: ebc65a566dfe4edcc78cf8f779fb6f5f
+  version: 3.2.2
+  md5: 6381acbf764e2373c2f5e505ad9e2f79
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
