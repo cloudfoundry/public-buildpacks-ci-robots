@@ -1,7 +1,5 @@
 ---
 ruby:
-- version: 2.2.8
-  sha256: 8f37b9d8538bf8e50ad098db2a716ea49585ad1601bbd347ef84ca0662d9268a
 - version: 2.3.5
   sha256: 5462f7bbb28beff5da7441968471ed922f964db1abdce82b8860608acc23ddcc
 - version: 2.4.2
