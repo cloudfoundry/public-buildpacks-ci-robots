@@ -1,2 +1,22 @@
 ---
-python: []
+python:
+- version: 2.7.12
+  md5: 88d61f82e3616a4be952828b3694109d
+- version: 2.7.13
+  md5: 17add4bf0ad0ec2f08e0cae6d205c700
+- version: 3.3.5
+  md5: 803a75927f8f241ca78633890c798021
+- version: 3.3.6
+  md5: cdb3cd08f96f074b3f3994ccb51063e9
+- version: 3.4.6
+  md5: 74a7cbe1bd9652013ae6087ef346b9da
+- version: 3.4.7
+  md5: 47bc789829ca7fc06eaa46588a261624
+- version: 3.5.3
+  md5: 6192f0e45f02575590760e68c621a488
+- version: 3.5.4
+  md5: 2ed4802b7a2a7e40d2e797272bf388ec
+- version: 3.6.1
+  md5: 2d0fc9f3a5940707590e07f03ecb08b9
+- version: 3.6.2
+  md5: e1a36bfffdd1d3a780b1825daf16e56c
