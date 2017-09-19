@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2_1505764083:
+newpackages_cflinuxfs2_1505784063:
 
 ```
 -ii  bind9-host               1:9.9.5.dfsg-3ubuntu0.15 amd64 Version of 'host' bundled with BIND 9.X
@@ -25,6 +25,10 @@ newpackages_cflinuxfs2_1505764083:
 +ii  libisccfg90              1:9.9.5.dfsg-3ubuntu0.16 amd64 Config File Handling Library used by BIND
 -ii  liblwres90               1:9.9.5.dfsg-3ubuntu0.15 amd64 Lightweight Resolver Library used by BIND
 +ii  liblwres90               1:9.9.5.dfsg-3ubuntu0.16 amd64 Lightweight Resolver Library used by BIND
+-ii  libxml2:amd64            2.9.1+dfsg1-3ubuntu4.9   amd64 GNOME XML library
+-ii  libxml2-dev:amd64        2.9.1+dfsg1-3ubuntu4.9   amd64 Development files for the GNOME XML library
++ii  libxml2:amd64            2.9.1+dfsg1-3ubuntu4.10  amd64 GNOME XML library
++ii  libxml2-dev:amd64        2.9.1+dfsg1-3ubuntu4.10  amd64 Development files for the GNOME XML library
 -ii  linux-libc-dev:amd64     3.13.0-129.178           amd64 Linux Kernel Headers for development
 +ii  linux-libc-dev:amd64     3.13.0-132.181           amd64 Linux Kernel Headers for development
 ```
