@@ -46,6 +46,10 @@ extensions:
   version: 2.0.1
   md5: 9fedba9b02ee639cb19807cf924f576c
   klass: PeclRecipe
+- name: gnupg
+  version: 1.4.0
+  md5: 2354cb56168d8ea0f643e548e139d013
+  klass: PeclRecipe
 - name: imagick
   version: 3.4.3
   md5: d0ee25c007cd2a28cefccc0b9ee63a28
