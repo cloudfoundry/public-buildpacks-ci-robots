@@ -1,9 +1,11 @@
 ---
+- go1.9.1
 - go1.9
 - go1.9rc2
 - go1.9rc1
 - go1.9beta2
 - go1.9beta1
+- go1.8.4
 - go1.8.3
 - go1.8.2
 - go1.8.1
