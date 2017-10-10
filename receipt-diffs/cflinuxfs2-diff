@@ -1,10 +1,18 @@
-newpackages_cflinuxfs2_1507325888:
+newpackages_cflinuxfs2_1507654927:
 
 ```
--ii  git      1:1.9.1-1ubuntu0.6  amd64 fast, scalable, distributed revision control system
--ii  git-core 1:1.9.1-1ubuntu0.6  all   fast, scalable, distributed revision control system (obsolete)
--ii  git-man  1:1.9.1-1ubuntu0.6  all   fast, scalable, distributed revision control system (manual pages)
-+ii  git      1:1.9.1-1ubuntu0.7  amd64 fast, scalable, distributed revision control system
-+ii  git-core 1:1.9.1-1ubuntu0.7  all   fast, scalable, distributed revision control system (obsolete)
-+ii  git-man  1:1.9.1-1ubuntu0.7  all   fast, scalable, distributed revision control system (manual pages)
+-ii  curl                       7.35.0-1ubuntu2.10 amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.35.0-1ubuntu2.11 amd64 command line tool for transferring data with URL syntax
+-ii  initramfs-tools            0.103ubuntu4.7     all   tools for generating an initramfs
+-ii  initramfs-tools-bin        0.103ubuntu4.7     amd64 binaries used by initramfs-tools
++ii  initramfs-tools            0.103ubuntu4.8     all   tools for generating an initramfs
++ii  initramfs-tools-bin        0.103ubuntu4.8     amd64 binaries used by initramfs-tools
+-ii  libcurl3:amd64             7.35.0-1ubuntu2.10 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.10 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.10 amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3:amd64             7.35.0-1ubuntu2.11 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.11 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.11 amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  linux-libc-dev:amd64       3.13.0-132.181     amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64       3.13.0-133.182     amd64 Linux Kernel Headers for development
 ```
