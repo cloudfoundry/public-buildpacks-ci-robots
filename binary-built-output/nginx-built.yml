@@ -384,3 +384,17 @@ nginx:
     =vUKl
     -----END PGP SIGNATURE-----
   timestamp: 2017-09-07 15:31:09 UTC
+- version: 1.13.6
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABAgAGBQJZ3Oa4AAoJEFIKmZOhwFL4mvgH/RQfaLKxkZEWc19dnH3SCexc
+    l9tcrYD1LfiRtypExDKjRP4AvMBhuNyulpOGdj8DDJmUQ/RPOCCQJGpEPKyePOIV
+    TKJnUCFvieRdfTX5d5QEiDEiySd1UKgdee+1YWe7qr4lTY/fHGyOyolm2iX4Xnah
+    Ov2L9+WdeLO4LarYRLoUVSplXzhG6PQLK3lcb7c3coDAYetHK/AmU/I7IggDjJif
+    pVDk3lqCpCiZd8HDDdwxoWNj4KgFtX0bVrd6lkbAgl+QTZzmlZ6OplQO/dEkGogI
+    SWPCe0JMQoE4t/pqgJ+Mop53M3izLDu/L91iaZpLoLcY75OL+8KDc1w36ngd8bE=
+    =pJtw
+    -----END PGP SIGNATURE-----
+  timestamp: 2017-10-10 16:04:56 UTC
