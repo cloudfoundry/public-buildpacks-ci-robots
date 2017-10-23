@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1508750321:
+empty_1508754600:
 
 ```
--ii  initramfs-tools     0.103ubuntu4.8   all   tools for generating an initramfs
--ii  initramfs-tools-bin 0.103ubuntu4.8   amd64 binaries used by initramfs-tools
-+ii  initramfs-tools     0.103ubuntu4.9   all   tools for generating an initramfs
-+ii  initramfs-tools-bin 0.103ubuntu4.9   amd64 binaries used by initramfs-tools
--ii  libudev1:amd64      204-5ubuntu20.24 amd64 libudev shared library
-+ii  libudev1:amd64      204-5ubuntu20.25 amd64 libudev shared library
--ii  udev                204-5ubuntu20.24 amd64 /dev/ and hotplug management daemon
-+ii  udev                204-5ubuntu20.25 amd64 /dev/ and hotplug management daemon
 ```
