@@ -159,9 +159,6 @@ node:
 - version: 6.10.3
   sha256: a8f679f595fd921305c28d126935ad59b4419ac8474a99997a31e01ab50acd3d
   timestamp: 2017-05-02 19:15:20 UTC
-- version: 7.10.0
-  sha256: c4843fe8bffb59c2327063a5e67a89af60d7927f7ace7548695a2cf4c1aa6d03
-  timestamp: 2017-05-03 14:19:19 UTC
 - version: 8.0.0
   sha256: 28f2e0bd5f80ff83b244df670d577fe36c1e0f11561deee7d8bbdcbd4ead8fb2
   timestamp: 2017-05-30 19:22:53 UTC
@@ -183,15 +180,9 @@ node:
 - version: 8.1.4
   sha256: 5d54960fb3c5e794b784d15e9e85e3853e1189e5ae840f314bf2fc091fbb5c12
   timestamp: 2017-07-11 17:22:50 UTC
-- version: 7.10.1
-  sha256: baf060e5d3abb8fdebb8c2b28c4d8cde05d43acfd9fc687f21f4b7a3ff69745e
-  timestamp: 2017-07-11 17:38:57 UTC
 - version: 6.11.1
   sha256: '0187d4e4ef00cee2b70b0ad0689100050654f26629775d097b145d0d8727f9a0'
   timestamp: 2017-07-11 17:52:22 UTC
-- version: 4.8.4
-  sha256: b5480f69e9e929d2814de900fb5e673743a9d93f4fecbd79066baf18219f8584
-  timestamp: 2017-07-11 18:00:08 UTC
 - version: 8.2.0
   sha256: abd4c5dcbb0feb0db1f4fa2b6a8b8ddb69ceacfdae8cf4e089a8976510aac534
   timestamp: 2017-07-19 23:21:06 UTC
@@ -216,21 +207,6 @@ node:
 - version: 8.6.0
   sha256: 80551d47440c602c5825a3f6611e13cb0c57d277234dbff693af433a88351a08
   timestamp: 2017-09-29 13:20:44 UTC
-- version: 6.11.4
-  sha256: 94557aa1b9adaa71a424eb7efe8877d7e65bda6e496350c4bac5f64ec715bb1c
-  timestamp: 2017-10-03 21:14:52 UTC
 - version: 8.7.0
   sha256: c7184526e5504fa2a91aff1aacd7c344451da539d73775b6d9ea8efe948d0fa8
   timestamp: 2017-10-11 21:21:10 UTC
-- version: 8.8.0
-  sha256: 669e0054a25c7f21e6d8bef182da566de35fb3b3441e8f90b6da9585c1f82caf
-  timestamp: 2017-10-24 22:19:33 UTC
-- version: 6.11.5
-  sha256: c4aed94e82dbf246a1c9e0705c3054f0c0f3d9c4d8d025d877e0ef1f7b6cde4c
-  timestamp: 2017-10-24 22:31:56 UTC
-- version: 4.8.5
-  sha256: 23980b1d31c6b0e05eff2102ffa0059a6f7a93e27e5288eb5551b9b003ec0c07
-  timestamp: 2017-10-24 22:41:58 UTC
-- version: 8.8.1
-  sha256: 1725bbbe623d6a13ee14522730dfc90eac1c9ebe9a0a8f4c3322a402dd7e75a2
-  timestamp: 2017-10-26 01:18:53 UTC
