@@ -15,3 +15,6 @@ bundler:
 - version: 1.15.4
   sha256: fad17ea3a1c15df2f2a7fcea052b35ebeab0dc87906cd762470637bef8c98472
   timestamp: 2017-08-19 21:05:05 UTC
+- version: 1.16.0
+  sha256: '084e7ebe90cc5236520ad49d4c5d9f58b19a98751a249070296a5943f88adb74'
+  timestamp: 2017-10-31 20:04:28 UTC
