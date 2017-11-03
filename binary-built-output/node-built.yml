@@ -243,3 +243,6 @@ node:
 - version: 9.0.0
   sha256: fe06dafd4f034d2372d34bb064c65ebf5ab4d3d6e04d1745fd108c2a97a9d424
   timestamp: 2017-10-31 20:23:23 UTC
+- version: 9.0.0
+  sha256: fe06dafd4f034d2372d34bb064c65ebf5ab4d3d6e04d1745fd108c2a97a9d424
+  timestamp: 2017-11-03 13:56:56 UTC
