@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1509999576:
+empty_1510010053:
 
 ```
--ii  libssl-dev:amd64     1.0.1f-1ubuntu2.22 amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.0.0:amd64    1.0.1f-1ubuntu2.22 amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64     1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64    1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - shared libraries
--ii  linux-libc-dev:amd64 3.13.0-133.182     amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-135.184     amd64  Linux Kernel Headers for development
--ii  openssl              1.0.1f-1ubuntu2.22 amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl              1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - cryptographic utility
 ```
