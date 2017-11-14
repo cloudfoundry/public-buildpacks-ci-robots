@@ -72,3 +72,6 @@ dotnet:
 - version: v2.0.2
   git-commit-sha: a04b4bf512c52b252b8e59942e5dc1395540b399
   timestamp: 2017-11-14 19:35:59 UTC
+- version: v2.0.2
+  git-commit-sha: a04b4bf512c52b252b8e59942e5dc1395540b399
+  timestamp: 2017-11-14 20:21:50 UTC
