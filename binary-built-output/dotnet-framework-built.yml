@@ -138,3 +138,6 @@ dotnet-framework:
 - version: 1.0.8
   git-commit-sha: 429fa4a98e07c0887b21c1fb886849b9976e94c1
   timestamp: 2017-11-16 15:03:35 UTC
+- version: 2.0.3
+  git-commit-sha: 9e724ed14e4213b7300af702c16244a242acc56b
+  timestamp: 2017-11-16 15:05:45 UTC
