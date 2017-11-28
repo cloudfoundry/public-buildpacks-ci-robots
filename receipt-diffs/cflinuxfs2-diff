@@ -1,16 +1,26 @@
-newpackages_cflinuxfs2_1511889523:
+newpackages_cflinuxfs2_1511903949:
 
 ```
--ii  libdb5.3:amd64             5.3.28-3ubuntu3   amd64 Berkeley v5.3 Database Libraries [runtime]
-+ii  libdb5.3:amd64             5.3.28-3ubuntu3.1 amd64 Berkeley v5.3 Database Libraries [runtime]
--ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.3  amd64 Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.3  amd64 Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.4  amd64 Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.4  amd64 Interactive high-level object-oriented language (standard library, version 2.7)
--ii  python2.7                  2.7.6-8ubuntu0.3  amd64 Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.6-8ubuntu0.3  amd64 Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.6-8ubuntu0.4  amd64 Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.6-8ubuntu0.4  amd64 Minimal subset of the Python language (version 2.7)
--ii  resolvconf                 1.69ubuntu1.1     all   name server information handler
-+ii  resolvconf                 1.69ubuntu1.3     all   name server information handler
+-ii  libdb5.3:amd64             5.3.28-3ubuntu3        amd64 Berkeley v5.3 Database Libraries [runtime]
++ii  libdb5.3:amd64             5.3.28-3ubuntu3.1      amd64 Berkeley v5.3 Database Libraries [runtime]
+-ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.3       amd64 Minimal subset of the Python language (version 2.7)
+-ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.3       amd64 Interactive high-level object-oriented language (standard library, version 2.7)
++ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.4       amd64 Minimal subset of the Python language (version 2.7)
++ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.4       amd64 Interactive high-level object-oriented language (standard library, version 2.7)
+-ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.5 amd64 Shared Python runtime library (version 3.4)
+-ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.5 amd64 Minimal subset of the Python language (version 3.4)
+-ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.5 amd64 Interactive high-level object-oriented language (standard library, version 3.4)
++ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.6 amd64 Shared Python runtime library (version 3.4)
++ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.6 amd64 Minimal subset of the Python language (version 3.4)
++ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.6 amd64 Interactive high-level object-oriented language (standard library, version 3.4)
+-ii  python2.7                  2.7.6-8ubuntu0.3       amd64 Interactive high-level object-oriented language (version 2.7)
+-ii  python2.7-minimal          2.7.6-8ubuntu0.3       amd64 Minimal subset of the Python language (version 2.7)
++ii  python2.7                  2.7.6-8ubuntu0.4       amd64 Interactive high-level object-oriented language (version 2.7)
++ii  python2.7-minimal          2.7.6-8ubuntu0.4       amd64 Minimal subset of the Python language (version 2.7)
+-ii  python3.4                  3.4.3-1ubuntu1~14.04.5 amd64 Interactive high-level object-oriented language (version 3.4)
+-ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.5 amd64 Minimal subset of the Python language (version 3.4)
++ii  python3.4                  3.4.3-1ubuntu1~14.04.6 amd64 Interactive high-level object-oriented language (version 3.4)
++ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.6 amd64 Minimal subset of the Python language (version 3.4)
+-ii  resolvconf                 1.69ubuntu1.1          all   name server information handler
++ii  resolvconf                 1.69ubuntu1.3          all   name server information handler
 ```
