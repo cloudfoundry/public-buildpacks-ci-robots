@@ -1,1 +1,1 @@
-{"tracker_story_id":153288062}
+{"version":"8.3.2","tracker_story_id":153288062,"sha256":"20be245ad2a7908a04b302e9568ee26e57f8dacc558468d2a84e699b2622e9af","filename":"pipenv-8.3.2-20be245a.tar.gz","url":"https://buildpacks.cloudfoundry.org/dependencies/pipenv/pipenv-8.3.2-20be245a.tar.gz","source":{"url":"https://pypi.python.org/packages/b5/3f/80a09ea5f279e90122600d24cfa25d698008dc7e5b261cb582de8966bbe2/pipenv-8.3.2.tar.gz","md5":"8eafacd57ec423ff35c46bcec30e0424"}}
