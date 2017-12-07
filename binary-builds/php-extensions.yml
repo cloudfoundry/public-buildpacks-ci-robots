@@ -20,12 +20,12 @@ native_modules:
   md5: b3958716b4e53ddc5992e6c49d97e819
   klass: LibmemcachedRecipe
 - name: librdkafka
-  version: 0.11.0
-  md5: 68f4712491a92423c9722be9054678d8
+  version: 0.11.3
+  md5: 28889585c465ee71363e9c1f35424685
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.7.0
-  md5: e5b54fd77a256f4985447aaca3905e62
+  version: 2.8.0
+  md5: 82d944b0e6cb7e321b68f4a3902ead3c
   klass: CassandraCppDriverRecipe
 - name: unixodbc
   version: 2.3.4
@@ -43,8 +43,8 @@ extensions:
   md5: ebeeffa834e8428c9105a45fe89344aa
   klass: PeclRecipe
 - name: igbinary
-  version: 2.0.4
-  md5: 6c2041097fcbae8ba2af7a53112b2fc9
+  version: 2.0.5
+  md5: d27c0020f491bb8c7f4724364a5ce35e
   klass: PeclRecipe
 - name: imagick
   version: 3.4.3
@@ -63,8 +63,8 @@ extensions:
   md5: 2354cb56168d8ea0f643e548e139d013
   klass: PeclRecipe
 - name: rdkafka
-  version: 3.0.4
-  md5: 607cf4089dddae913b075e4601b70440
+  version: 3.0.5
+  md5: 844bd1528161518a47415f709214bae9
   klass: PeclRecipe
 - name: mailparse
   version: 2.1.6
@@ -79,8 +79,8 @@ extensions:
   md5: cde37cae4fafbb66903ce81d44f7f492
   klass: PeclRecipe
 - name: mongodb
-  version: 1.3.1
-  md5: eadf5eec8b9a59443b63ad49690dd73f
+  version: 1.3.4
+  md5: f0b4ccb5e8bb455c24119accb47fc7d0
   klass: PeclRecipe
 - name: msgpack
   version: 0.5.7
@@ -113,8 +113,8 @@ extensions:
 
   #non-standard
 - name: amqp
-  version: 1.9.1
-  md5: 67a59a95e47636cff13baa4e3abf7fce
+  version: 1.9.3
+  md5: c8538be13c90fba9dc7abef1c2cfbdc5
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.1.0
@@ -137,8 +137,8 @@ extensions:
   md5: nil
   klass: OdbcRecipe
 - name: phalcon
-  version: 3.2.3
-  md5: 2d62da609ec29ebc79ec717ffb18417a
+  version: 3.2.4
+  md5: f09ec873ec15f55b8994bddbd6569a6c
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
@@ -153,9 +153,9 @@ extensions:
   md5: 0c26402752b0aff69e4b891f062a52bf
   klass: SuhosinPeclRecipe
 - name: twigpecl
-  version: 1.34.4
+  version: 1.35.0
   notes: stick on 1.x, 2.x does not need to be compiled with PHP
-  md5: 548b9a1ebc479612abbc5ba2979b87e8
+  md5: 0288fbcebc22d5985fe4a89b22c3cec1
   klass: TwigPeclRecipe
 - name: xcachepecl
   version: 3.2.0

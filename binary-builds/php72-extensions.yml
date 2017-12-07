@@ -20,12 +20,12 @@ native_modules:
   md5: b3958716b4e53ddc5992e6c49d97e819
   klass: LibmemcachedRecipe
 - name: librdkafka
-  version: 0.11.1
-  md5: 8ef33c99ad4cc749d9df2a686019d649
+  version: 0.11.3
+  md5: 28889585c465ee71363e9c1f35424685
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.7.0
-  md5: e5b54fd77a256f4985447aaca3905e62
+  version: 2.8.0
+  md5: 82d944b0e6cb7e321b68f4a3902ead3c
   klass: CassandraCppDriverRecipe
 - name: unixodbc
   version: 2.3.4
@@ -39,16 +39,16 @@ extensions:
   md5: 0ef8be2ee8acb4dba5a66b247a254995
   klass: PeclRecipe
 - name: cassandra
-  version: 1.2.2
-  md5: 2226a4d66f8e0a4de85656f10472afc5
+  version: 1.3.2
+  md5: ebeeffa834e8428c9105a45fe89344aa
   klass: PeclRecipe
 - name: geoip
   version: 1.1.1
   md5: 4f5f4b8a41a5802de6591c79b85cc838
   klass: GeoipRecipe
 - name: igbinary
-  version: 2.0.4
-  md5: 6c2041097fcbae8ba2af7a53112b2fc9
+  version: 2.0.5
+  md5: d27c0020f491bb8c7f4724364a5ce35e
   klass: PeclRecipe
 - name: gnupg
   version: 1.4.0
@@ -63,8 +63,8 @@ extensions:
   md5: 4bd96a980013374f23a7461cc0a919aa
   klass: PeclRecipe
 - name: mongodb
-  version: 1.3.1
-  md5: eadf5eec8b9a59443b63ad49690dd73f
+  version: 1.3.4
+  md5: f0b4ccb5e8bb455c24119accb47fc7d0
   klass: PeclRecipe
 - name: msgpack
   version: 2.0.2
@@ -79,8 +79,8 @@ extensions:
   md5: nil
   klass: OdbcRecipe
 - name: rdkafka
-  version: 3.0.4
-  md5: 607cf4089dddae913b075e4601b70440
+  version: 3.0.5
+  md5: 844bd1528161518a47415f709214bae9
   klass: PeclRecipe
 - name: redis
   version: 3.1.4
@@ -97,8 +97,8 @@ extensions:
 
 #non-standard
 - name: amqp
-  version: 1.9.1
-  md5: 67a59a95e47636cff13baa4e3abf7fce
+  version: 1.9.3
+  md5: c8538be13c90fba9dc7abef1c2cfbdc5
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.1.0
@@ -109,8 +109,8 @@ extensions:
   md5: 19b1f657fea7d0da323e11408f5e1fe0
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.2.3
-  md5: 2d62da609ec29ebc79ec717ffb18417a
+  version: 3.2.4
+  md5: f09ec873ec15f55b8994bddbd6569a6c
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
