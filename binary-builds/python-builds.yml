@@ -1,7 +1,5 @@
 ---
 python:
-- version: 3.3.7
-  md5: c54f93b012320871e6cbd0902ecb5769
 - version: 3.4.7
   md5: 47bc789829ca7fc06eaa46588a261624
 - version: 3.5.4
