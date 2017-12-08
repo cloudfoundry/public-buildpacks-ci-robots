@@ -1,2 +1,12 @@
 ---
-python: []
+python:
+- version: 2.7.14
+  md5: cee2e4b33ad3750da77b2e85f2f8b724
+- version: 3.3.7
+  md5: c54f93b012320871e6cbd0902ecb5769
+- version: 3.4.7
+  md5: 47bc789829ca7fc06eaa46588a261624
+- version: 3.5.4
+  md5: 2ed4802b7a2a7e40d2e797272bf388ec
+- version: 3.6.3
+  md5: e9180c69ed9a878a4a8a3ab221e32fa9
