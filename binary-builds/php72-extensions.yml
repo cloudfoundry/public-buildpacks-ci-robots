@@ -102,7 +102,7 @@ extensions:
   klass: AmqpPeclRecipe
 - name: ioncube
   version: 6.1.0
-  md5: f173c4d285440a7dc5f3fb1b20cacefc
+  md5: '093e4adb4a1e1a5208fbaa40625f3d98'
   klass: IonCubeRecipe
 - name: lua
   version: 2.0.4
