@@ -60,3 +60,6 @@ composer:
 - version: 1.5.6
   sha256: 25e75d72818c4f1d46b3ae47a8deaaf4ef25c87198329d4a6ee53601b00459e5
   timestamp: 2017-12-19 14:03:56 UTC
+- version: 1.6.0
+  sha256: 45031b4ae95bb6f4bdd33704a1932bfb8b56f5a590ee16b4946f481903c28fd1
+  timestamp: 2018-01-04 12:04:46 UTC
