@@ -1,4 +1,8 @@
-empty_1514801906:
+newpackages_cflinuxfs2_1515406770:
 
 ```
+-ii  initramfs-tools     0.103ubuntu4.9  all   tools for generating an initramfs
+-ii  initramfs-tools-bin 0.103ubuntu4.9  amd64 binaries used by initramfs-tools
++ii  initramfs-tools     0.103ubuntu4.10 all   tools for generating an initramfs
++ii  initramfs-tools-bin 0.103ubuntu4.10 amd64 binaries used by initramfs-tools
 ```
