@@ -1,4 +1,4 @@
 ---
 node:
-- version: 8.9.4
-  sha256: 729b44b32b2f82ecd5befac4f7518de0c4e3add34e8fe878f745740a66cbbc01
+- version: 9.4.0
+  sha256: 240733d272c87d593bf807618db73ef9682a6b765ed9911c05ea3ab6e221a967
