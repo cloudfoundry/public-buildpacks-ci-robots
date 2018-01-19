@@ -21,3 +21,5 @@ hwc:
 - version: 6.0.0
   sha256: 52f696bdf359b5f3c87d52095b6d72d45d8492a111278f040550db48b505ee00
   timestamp: 2017-10-06 17:05:30 UTC
+- version: 7.0.0
+  sha256: skip
