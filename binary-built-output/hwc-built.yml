@@ -23,3 +23,6 @@ hwc:
   timestamp: 2017-10-06 17:05:30 UTC
 - version: 7.0.0
   sha256: skip
+- version: 8.0.0
+  sha256: cc20dd9e0b11c38694af447eb31b170b6280ca961852057f3ea0e5fe923d6f02
+  timestamp: 2018-01-19 21:21:17 UTC
