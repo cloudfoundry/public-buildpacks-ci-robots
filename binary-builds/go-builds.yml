@@ -1,2 +1,4 @@
 ---
-go: []
+go:
+- version: 1.8.6
+  sha256: efc1221d3ae033c69e149801eff1d9872e214832a89f089fc5beb7a9fd98d9fb
