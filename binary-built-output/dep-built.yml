@@ -18,3 +18,6 @@ dep:
 - version: v0.4.1
   sha256: df9b050bf4dbb2a8cf04372097a68b04a6ae1986ed7c5086914ac86d74ea9d49
   timestamp: 2018-01-25 01:05:48 UTC
+- version: v0.4.0
+  sha256: 247e83e6d188cdca0b14aa8ac99b0c2f8b6edfa8362f4b10ffd402efef760bf1
+  timestamp: 2018-01-25 01:07:06 UTC
