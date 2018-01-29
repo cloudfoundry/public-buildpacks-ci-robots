@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3_1516658739:
+newpackages_cflinuxfs3_1517221034:
 
 ```
 +ii  adduser                     3.116ubuntu1                      all   add and remove users and groups
@@ -27,7 +27,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  cpp-7                       7.2.0-18ubuntu2                   amd64 GNU C preprocessor
 +ii  cron                        3.0pl1-128.1ubuntu1               amd64 process scheduling daemon
 +ii  curl                        7.57.0-1ubuntu1                   amd64 command line tool for transferring data with URL syntax
-+ii  dash                        0.5.8-2.3ubuntu1                  amd64 POSIX-compliant shell
++ii  dash                        0.5.8-2.9ubuntu1                  amd64 POSIX-compliant shell
 +ii  debconf                     1.5.65                            all   Debian configuration management system
 +ii  debconf-i18n                1.5.65                            all   full internationalization support for debconf
 +ii  debianutils                 4.8.4                             amd64 Miscellaneous utilities specific to Debian
@@ -65,14 +65,14 @@ newpackages_cflinuxfs3_1516658739:
 +ii  imagemagick-6.q16           8:6.9.7.4+dfsg-16ubuntu5          amd64 image manipulation programs -- quantum depth Q16
 +ii  init                        1.51                              amd64 metapackage ensuring an init system is installed
 +ii  init-system-helpers         1.51                              all   helper tools for all init systems
-+ii  initramfs-tools             0.125ubuntu13                     all   generic modular initramfs generator (automation)
-+ii  initramfs-tools-bin         0.125ubuntu13                     amd64 binaries used by initramfs-tools
-+ii  initramfs-tools-core        0.125ubuntu13                     all   generic modular initramfs generator (core tools)
++ii  initramfs-tools             0.130ubuntu1                      all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin         0.130ubuntu1                      amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core        0.130ubuntu1                      all   generic modular initramfs generator (core tools)
 +ii  iproute2                    4.14.1-0ubuntu2                   amd64 networking and traffic control tools
 +ii  iputils-ping                3:20161105-1ubuntu2               amd64 Tools to test the reachability of network hosts
 +ii  isc-dhcp-client             4.3.5-3ubuntu2                    amd64 DHCP client for automatically obtaining an IP address
 +ii  jq                          1.5+dfsg-2                        amd64 lightweight and flexible command-line JSON processor
-+ii  kbd                         2.0.3-2ubuntu3                    amd64 Linux console font and keytable utilities
++ii  kbd                         2.0.4-2ubuntu1                    amd64 Linux console font and keytable utilities
 +ii  keyboard-configuration      1.166ubuntu7                      all   system-wide keyboard preferences
 +ii  klibc-utils                 2.0.4-9ubuntu2                    amd64 small utilities built with klibc for early boot
 +ii  kmod                        24-1ubuntu2                       amd64 tools for managing Linux kernel modules
@@ -198,7 +198,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  libncurses5:amd64           6.0+20160625-1ubuntu1             amd64 shared libraries for terminal handling
 +ii  libncursesw5:amd64          6.0+20160625-1ubuntu1             amd64 shared libraries for terminal handling (wide character support)
 +ii  libnettle6:amd64            3.3-2                             amd64 low level cryptographic library (symmetric and one-way cryptos)
-+ii  libnewt0.52:amd64           0.52.18-3ubuntu3                  amd64 Not Erik's Windowing Toolkit - text mode windowing with slang
++ii  libnewt0.52:amd64           0.52.20-1ubuntu1                  amd64 Not Erik's Windowing Toolkit - text mode windowing with slang
 +ii  libnghttp2-14:amd64         1.29.0-1                          amd64 library implementing HTTP/2 protocol (shared library)
 +ii  libnpth0:amd64              1.5-3                             amd64 replacement for GNU Pth using system threads
 +ii  libonig4:amd64              6.7.0-1                           amd64 regular expressions library
@@ -241,7 +241,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  libsepol1:amd64             2.7-1                             amd64 SELinux library for manipulating binary security policies
 +ii  libserf-1-1:amd64           1.3.9-4                           amd64 high-performance asynchronous HTTP client library
 +ii  libsigsegv2:amd64           2.11-1                            amd64 Library for handling page faults in a portable way
-+ii  libslang2:amd64             2.3.1-5ubuntu1                    amd64 S-Lang programming library - runtime version
++ii  libslang2:amd64             2.3.1a-1ubuntu1                   amd64 S-Lang programming library - runtime version
 +ii  libsmartcols1:amd64         2.30.2-0.1ubuntu1                 amd64 smart column output alignment library
 +ii  libsqlite3-0:amd64          3.21.0-1                          amd64 SQLite 3 shared library
 +ii  libsqlite3-dev:amd64        3.21.0-1                          amd64 SQLite 3 development files
@@ -251,7 +251,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  libstdc++6:amd64            7.2.0-18ubuntu2                   amd64 GNU Standard C++ Library v3
 +ii  libsvn1:amd64               1.9.7-3ubuntu1                    amd64 Shared libraries used by Apache Subversion
 +ii  libsystemd0:amd64           235-3ubuntu3                      amd64 systemd utility library
-+ii  libtasn1-6:amd64            4.12-3                            amd64 Manage ASN.1 structures (runtime)
++ii  libtasn1-6:amd64            4.13-2                            amd64 Manage ASN.1 structures (runtime)
 +ii  libtext-charwidth-perl      0.04-7.1                          amd64 get display widths of characters on the terminal
 +ii  libtext-iconv-perl          1.7-5build6                       amd64 converts between character sets in Perl
 +ii  libtext-wrapi18n-perl       0.06-7.1                          all   internationalized substitute of Text::Wrap
@@ -289,7 +289,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  mime-support                3.60ubuntu1                       all   MIME files 'mime.types' & 'mailcap', and support programs
 +ii  mount                       2.30.2-0.1ubuntu1                 amd64 tools for mounting and manipulating filesystems
 +ii  multiarch-support           2.26-0ubuntu2                     amd64 Transitional package to ensure multiarch compatibility
-+ii  mysql-common                5.8+1.0.3                         all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common                5.8+1.0.4                         all   MySQL database common files, e.g. /etc/mysql/my.cnf
 +ii  ncurses-base                6.0+20160625-1ubuntu1             all   basic terminal type definitions
 +ii  ncurses-bin                 6.0+20160625-1ubuntu1             amd64 terminal-related programs and man pages
 +ii  netbase                     5.4                               all   Basic TCP/IP networking system
@@ -332,7 +332,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  sed                         4.4-1                             amd64 GNU stream editor for filtering/transforming text
 +ii  sensible-utils              0.0.11                            all   Utilities for sensible alternative selection
 +ii  subversion                  1.9.7-3ubuntu1                    amd64 Advanced version control system
-+ii  sudo                        1.8.21p2-2ubuntu1                 amd64 Provide limited super user privileges to specific users
++ii  sudo                        1.8.21p2-3ubuntu1                 amd64 Provide limited super user privileges to specific users
 +ii  systemd                     235-3ubuntu3                      amd64 system and service manager
 +ii  systemd-sysv                235-3ubuntu3                      amd64 system and service manager - SysV links
 +ii  sysvinit-utils              2.88dsf-59.10ubuntu1              amd64 System-V-like utilities
@@ -340,7 +340,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  tzdata                      2017c-1                           all   time zone and daylight-saving time data
 +ii  ubuntu-advantage-tools      13                                all   management tools for Ubuntu Advantage
 +ii  ubuntu-keyring              2016.10.27                        all   GnuPG keys of the Ubuntu archive
-+ii  ubuntu-minimal              1.407                             amd64 Minimal core of Ubuntu
++ii  ubuntu-minimal              1.408                             amd64 Minimal core of Ubuntu
 +ii  ucf                         3.0036                            all   Update Configuration File(s): preserve user changes to config files
 +ii  udev                        235-3ubuntu3                      amd64 /dev/ and hotplug management daemon
 +ii  unzip                       6.0-21ubuntu1                     amd64 De-archiver for .zip files
@@ -348,7 +348,7 @@ newpackages_cflinuxfs3_1516658739:
 +ii  vim-common                  2:8.0.1144-1ubuntu1               all   Vi IMproved - Common files
 +ii  vim-tiny                    2:8.0.1144-1ubuntu1               amd64 Vi IMproved - enhanced vi editor - compact version
 +ii  wget                        1.19.2-1ubuntu1                   amd64 retrieves files from the web
-+ii  whiptail                    0.52.18-3ubuntu3                  amd64 Displays user-friendly dialog boxes from shell scripts
++ii  whiptail                    0.52.20-1ubuntu1                  amd64 Displays user-friendly dialog boxes from shell scripts
 +ii  xkb-data                    2.19-1.1ubuntu1                   all   X Keyboard Extension (XKB) configuration data
 +ii  xxd                         2:8.0.1144-1ubuntu1               amd64 tool to make (or reverse) a hex dump
 +ii  xz-utils                    5.2.2-1.3                         amd64 XZ-format compression utilities
