@@ -145,8 +145,8 @@ extensions:
   md5: d84a6e7e3a54744269fd776d7be80be1
   klass: PHPIRedisRecipe
 - name: phpprotobufpecl
-  version: 0.12.0
-  md5: bc8d4ad507e5817cfc8d3f27acef77d7
+  version: 0.11.1
+  md5: adbf5214bfd44ce18962dd49f5640552
   klass: PHPProtobufPeclRecipe
 - name: suhosinpecl
   version: 0.9.38
