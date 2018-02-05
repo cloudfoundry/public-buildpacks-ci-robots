@@ -83,12 +83,16 @@ extensions:
   md5: 844bd1528161518a47415f709214bae9
   klass: PeclRecipe
 - name: redis
-  version: 3.1.4
-  md5: 7af20e191c486c458b5a8e421c024c3d
+  version: 3.1.6
+  md5: 500775d653988a17f3e44f6d5f605b32
+  klass: PeclRecipe
+- name: xdebug
+  version: 2.6.0
+  md5: ed3545852e6f4a00fb8730362d0431ee
   klass: PeclRecipe
 - name: yaf
-  version: 3.0.5
-  md5: f04d05f9458856c58fc2c2e8dd2173fd
+  version: 3.0.6
+  md5: 1c6da90820cc0dc37f4dfdd381b59bf1
   klass: PeclRecipe
 - name: memcached
   version: 3.0.3
@@ -101,21 +105,25 @@ extensions:
   md5: c8538be13c90fba9dc7abef1c2cfbdc5
   klass: AmqpPeclRecipe
 - name: ioncube
-  version: 10.0.4
-  md5: '093e4adb4a1e1a5208fbaa40625f3d98'
+  version: 10.1.1
+  md5: 4f91c9001423d5f99ed5806cd758ed72
   klass: IonCubeRecipe
 - name: lua
-  version: 2.0.4
-  md5: 19b1f657fea7d0da323e11408f5e1fe0
+  version: 2.0.5
+  md5: 1eda7c8ebede31a5dcb2dcb730efbbe4
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.2.4
-  md5: f09ec873ec15f55b8994bddbd6569a6c
+  version: 3.3.1
+  md5: 6f40dfc3c98f0ed291ec322bc3cacb26
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
   md5: d84a6e7e3a54744269fd776d7be80be1
   klass: PHPIRedisRecipe
+- name: phpprotobufpecl
+  version: 0.12.0
+  md5: bc8d4ad507e5817cfc8d3f27acef77d7
+  klass: PHPProtobufPeclRecipe
 
 #Oracle client stuff. Not included unless libs are present
 - name: oci8
