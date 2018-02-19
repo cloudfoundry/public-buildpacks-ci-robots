@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3m_1518430412:
+newpackages_cflinuxfs3m_1519035238:
 
 ```
 -ii  apt                        1.6~alpha5                        amd64 commandline package manager
@@ -6,11 +6,23 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  apt                        1.6~alpha7ubuntu1                 amd64 commandline package manager
 +ii  apt-utils                  1.6~alpha7ubuntu1                 amd64 package management related utility programs
 -ii  bash                       4.4-5ubuntu1                      amd64 GNU Bourne Again SHell
-+ii  bash                       4.4.18-1ubuntu1                   amd64 GNU Bourne Again SHell
+-ii  binutils                   2.29.1-12ubuntu1                  amd64 GNU assembler, linker and binary utilities
+-ii  binutils-common:amd64      2.29.1-12ubuntu1                  amd64 Common files for the GNU assembler, linker and binary utilities
+-ii  binutils-x86-64-linux-gnu  2.29.1-12ubuntu1                  amd64 GNU binary utilities, for x86-64-linux-gnu target
 -ii  bsdutils                   1:2.30.2-0.1ubuntu1               amd64 basic utilities from 4.4BSD-Lite
++ii  bash                       4.4.18-1ubuntu1                   amd64 GNU Bourne Again SHell
++ii  binutils                   2.30-4ubuntu1                     amd64 GNU assembler, linker and binary utilities
++ii  binutils-common:amd64      2.30-4ubuntu1                     amd64 Common files for the GNU assembler, linker and binary utilities
++ii  binutils-x86-64-linux-gnu  2.30-4ubuntu1                     amd64 GNU binary utilities, for x86-64-linux-gnu target
 +ii  bsdutils                   1:2.30.2-0.1ubuntu2               amd64 basic utilities from 4.4BSD-Lite
+-ii  cmake                      3.9.5-1                           amd64 cross-platform, open-source make system
+-ii  cmake-data                 3.9.5-1                           all   CMake data files (modules, templates and documentation)
++ii  cmake                      3.10.2-1                          amd64 cross-platform, open-source make system
++ii  cmake-data                 3.10.2-1                          all   CMake data files (modules, templates and documentation)
 -ii  coreutils                  8.26-3ubuntu4                     amd64 GNU core utilities
 +ii  coreutils                  8.28-1ubuntu1                     amd64 GNU core utilities
+-ii  cpp-7                      7.2.0-18ubuntu2                   amd64 GNU C preprocessor
++ii  cpp-7                      7.3.0-3ubuntu1                    amd64 GNU C preprocessor
 -ii  curl                       7.57.0-1ubuntu1                   amd64 command line tool for transferring data with URL syntax
 -ii  dash                       0.5.8-2.9ubuntu1                  amd64 POSIX-compliant shell
 +ii  curl                       7.58.0-2ubuntu1                   amd64 command line tool for transferring data with URL syntax
@@ -25,6 +37,13 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  e2fsprogs                  1.43.9-1                          amd64 ext2/ext3/ext4 file system utilities
 -ii  fdisk                      2.30.2-0.1ubuntu1                 amd64 collection of partitioning utilities
 +ii  fdisk                      2.30.2-0.1ubuntu2                 amd64 collection of partitioning utilities
+-ii  g++-7                      7.2.0-18ubuntu2                   amd64 GNU C++ compiler
++ii  g++-7                      7.3.0-3ubuntu1                    amd64 GNU C++ compiler
+-ii  gcc-7                      7.2.0-18ubuntu2                   amd64 GNU C compiler
+-ii  gcc-7-base:amd64           7.2.0-18ubuntu2                   amd64 GCC, the GNU Compiler Collection (base package)
++ii  gcc-7                      7.3.0-3ubuntu1                    amd64 GNU C compiler
++ii  gcc-7-base:amd64           7.3.0-3ubuntu1                    amd64 GCC, the GNU Compiler Collection (base package)
++ii  gcc-8-base:amd64           8-20180208-0ubuntu1               amd64 GCC, the GNU Compiler Collection (base package)
 -ii  hostname                   3.18                              amd64 utility to set/show the host name or domain name
 -ii  icu-devtools               60.2-1ubuntu1                     amd64 Development utilities for International Components for Unicode
 +ii  hostname                   3.20                              amd64 utility to set/show the host name or domain name
@@ -39,17 +58,35 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  libaprutil1:amd64          1.6.1-1ubuntu2                    amd64 Apache Portable Runtime Utility Library
 +ii  libapt-inst2.0:amd64       1.6~alpha7ubuntu1                 amd64 deb package format runtime library
 +ii  libapt-pkg5.0:amd64        1.6~alpha7ubuntu1                 amd64 package management runtime library
+-ii  libasan4:amd64             7.2.0-18ubuntu2                   amd64 AddressSanitizer -- a fast memory error detector
++ii  libasan4:amd64             7.3.0-3ubuntu1                    amd64 AddressSanitizer -- a fast memory error detector
 -ii  libassuan0:amd64           2.5.1-1                           amd64 IPC library for the GnuPG components
+-ii  libatomic1:amd64           7.2.0-18ubuntu2                   amd64 support library providing __atomic built-in functions
 +ii  libassuan0:amd64           2.5.1-2                           amd64 IPC library for the GnuPG components
++ii  libatomic1:amd64           8-20180208-0ubuntu1               amd64 support library providing __atomic built-in functions
 -ii  libaudit-common            1:2.7.7-1ubuntu2                  all   Dynamic library for security auditing - common files
 -ii  libaudit1:amd64            1:2.7.7-1ubuntu2                  amd64 Dynamic library for security auditing
-+ii  libaudit-common            1:2.8.2-1ubuntu1                  all   Dynamic library for security auditing - common files
-+ii  libaudit1:amd64            1:2.8.2-1ubuntu1                  amd64 Dynamic library for security auditing
+-ii  libbinutils:amd64          2.29.1-12ubuntu1                  amd64 GNU binary utilities (private shared library)
 -ii  libblkid1:amd64            2.30.2-0.1ubuntu1                 amd64 block device ID library
 -ii  libbsd0:amd64              0.8.6-3                           amd64 utility functions from BSD systems - shared library
++ii  libaudit-common            1:2.8.2-1ubuntu1                  all   Dynamic library for security auditing - common files
++ii  libaudit1:amd64            1:2.8.2-1ubuntu1                  amd64 Dynamic library for security auditing
++ii  libbinutils:amd64          2.30-4ubuntu1                     amd64 GNU binary utilities (private shared library)
 +ii  libblkid1:amd64            2.30.2-0.1ubuntu2                 amd64 block device ID library
 +ii  libbsd0:amd64              0.8.7-1                           amd64 utility functions from BSD systems - shared library
+-ii  libc-bin                   2.26-0ubuntu2                     amd64 GNU C Library: Binaries
+-ii  libc-dev-bin               2.26-0ubuntu2                     amd64 GNU C Library: Development binaries
+-ii  libc6:amd64                2.26-0ubuntu2                     amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64            2.26-0ubuntu2                     amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                   2.26-0ubuntu2.1                   amd64 GNU C Library: Binaries
++ii  libc-dev-bin               2.26-0ubuntu2.1                   amd64 GNU C Library: Development binaries
++ii  libc6:amd64                2.26-0ubuntu2.1                   amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64            2.26-0ubuntu2.1                   amd64 GNU C Library: Development Libraries and Header Files
+-ii  libcc1-0:amd64             7.2.0-18ubuntu2                   amd64 GCC cc1 plugin for GDB
+-ii  libcilkrts5:amd64          7.2.0-18ubuntu2                   amd64 Intel Cilk Plus language extensions (runtime)
 -ii  libcomerr2:amd64           1.43.8-2                          amd64 common error description library
++ii  libcc1-0:amd64             8-20180208-0ubuntu1               amd64 GCC cc1 plugin for GDB
++ii  libcilkrts5:amd64          7.3.0-3ubuntu1                    amd64 Intel Cilk Plus language extensions (runtime)
 +ii  libcom-err2:amd64          1.43.9-1                          amd64 common error description library
 +ii  libcomerr2                 1.43.9-1                          all   transitional package
 -ii  libcurl3:amd64             7.57.0-1ubuntu1                   amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
@@ -72,14 +109,20 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  libfdisk1:amd64            2.30.2-0.1ubuntu2                 amd64 fdisk partitioning library
 +ii  libffi6:amd64              3.2.1-8                           amd64 Foreign Function Interface library runtime
 -ii  libfreetype6:amd64         2.8-0.2ubuntu2                    amd64 FreeType 2 font engine, shared library files
+-ii  libgcc-7-dev:amd64         7.2.0-18ubuntu2                   amd64 GCC support library (development files)
+-ii  libgcc1:amd64              1:7.2.0-18ubuntu2                 amd64 GCC support library
 +ii  libfreetype6:amd64         2.8.1-0.1ubuntu2                  amd64 FreeType 2 font engine, shared library files
++ii  libgcc-7-dev:amd64         7.3.0-3ubuntu1                    amd64 GCC support library (development files)
++ii  libgcc1:amd64              1:8-20180208-0ubuntu1             amd64 GCC support library
 -ii  libgdbm3:amd64             1.8.3-14                          amd64 GNU dbm database routines (runtime version)
 +ii  libgdbm5:amd64             1.14.1-3                          amd64 GNU dbm database routines (runtime version)
 -ii  libgmp10:amd64             2:6.1.2+dfsg-1                    amd64 Multiprecision arithmetic library
 -ii  libgnutls30:amd64          3.5.8-6ubuntu3                    amd64 GNU TLS library - main runtime library
+-ii  libgomp1:amd64             7.2.0-18ubuntu2                   amd64 GCC OpenMP (GOMP) support library
+-ii  libgpg-error0:amd64        1.27-5                            amd64 library for common error values and messages in GnuPG components
 +ii  libgmp10:amd64             2:6.1.2+dfsg-2                    amd64 Multiprecision arithmetic library
 +ii  libgnutls30:amd64          3.5.17-1ubuntu1                   amd64 GNU TLS library - main runtime library
--ii  libgpg-error0:amd64        1.27-5                            amd64 library for common error values and messages in GnuPG components
++ii  libgomp1:amd64             8-20180208-0ubuntu1               amd64 GCC OpenMP (GOMP) support library
 +ii  libgpg-error0:amd64        1.27-6                            amd64 library for common error values and messages in GnuPG components
 -ii  libgssapi-krb5-2:amd64     1.15.1-2                          amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 +ii  libgssapi-krb5-2:amd64     1.16-2build1                      amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -89,8 +132,12 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  libicu-dev                 60.2-3ubuntu1                     amd64 Development files for International Components for Unicode
 -ii  libicu60:amd64             60.2-1ubuntu1                     amd64 International Components for Unicode
 +ii  libicu60:amd64             60.2-3ubuntu1                     amd64 International Components for Unicode
+-ii  libidn2-0:amd64            2.0.4-1                           amd64 Internationalized domain names (IDNA2008/TR46) library
++ii  libidn2-0:amd64            2.0.4-1.1                         amd64 Internationalized domain names (IDNA2008/TR46) library
 -ii  libisc-export160           1:9.10.3.dfsg.P4-12.6ubuntu1      amd64 Exported ISC Shared Library
 +ii  libisc-export166:amd64     1:9.11.2.P1-1ubuntu3              amd64 Exported ISC Shared Library
+-ii  libitm1:amd64              7.2.0-18ubuntu2                   amd64 GNU Transactional Memory Library
++ii  libitm1:amd64              8-20180208-0ubuntu1               amd64 GNU Transactional Memory Library
 -ii  libk5crypto3:amd64         1.15.1-2                          amd64 MIT Kerberos runtime libraries - Crypto Library
 +ii  libk5crypto3:amd64         1.16-2build1                      amd64 MIT Kerberos runtime libraries - Crypto Library
 -ii  libkmod2:amd64             24-1ubuntu2                       amd64 libkmod shared library
@@ -99,16 +146,28 @@ newpackages_cflinuxfs3m_1518430412:
 -ii  libkrb5support0:amd64      1.15.1-2                          amd64 MIT Kerberos runtime libraries - Support library
 +ii  libkrb5-3:amd64            1.16-2build1                      amd64 MIT Kerberos runtime libraries
 +ii  libkrb5support0:amd64      1.16-2build1                      amd64 MIT Kerberos runtime libraries - Support library
+-ii  liblsan0:amd64             7.2.0-18ubuntu2                   amd64 LeakSanitizer -- a memory leak detector (runtime)
++ii  liblsan0:amd64             8-20180208-0ubuntu1               amd64 LeakSanitizer -- a memory leak detector (runtime)
+-ii  libmariadb-dev             2.3.3-1                           amd64 MariaDB Connector/C, development files
+-ii  libmariadb2:amd64          2.3.3-1                           amd64 MariaDB Connector/C
++ii  libmariadb-dev             3.0.3-1build1                     amd64 MariaDB Connector/C, development files
++ii  libmariadb3:amd64          3.0.3-1build1                     amd64 MariaDB Connector/C
 -ii  libmount1:amd64            2.30.2-0.1ubuntu1                 amd64 device mounting library
+-ii  libmpc3:amd64              1.0.3-2                           amd64 multiple precision complex floating-point library
 +ii  libmount1:amd64            2.30.2-0.1ubuntu2                 amd64 device mounting library
++ii  libmpc3:amd64              1.1.0-1                           amd64 multiple precision complex floating-point library
+-ii  libmpfr4:amd64             3.1.6-1                           amd64 multiple precision floating-point computation
+-ii  libmpx2:amd64              7.2.0-18ubuntu2                   amd64 Intel memory protection extensions (runtime)
 -ii  libncurses5:amd64          6.0+20160625-1ubuntu1             amd64 shared libraries for terminal handling
 -ii  libncursesw5:amd64         6.0+20160625-1ubuntu1             amd64 shared libraries for terminal handling (wide character support)
 -ii  libnettle6:amd64           3.3-2                             amd64 low level cryptographic library (symmetric and one-way cryptos)
-+ii  libncurses5:amd64          6.0+20171125-1ubuntu1             amd64 shared libraries for terminal handling
-+ii  libncursesw5:amd64         6.0+20171125-1ubuntu1             amd64 shared libraries for terminal handling (wide character support)
++ii  libmpfr6:amd64             4.0.1-1                           amd64 multiple precision floating-point computation
++ii  libmpx2:amd64              8-20180208-0ubuntu1               amd64 Intel memory protection extensions (runtime)
++ii  libncurses5:amd64          6.1-1ubuntu1                      amd64 shared libraries for terminal handling
++ii  libncursesw5:amd64         6.1-1ubuntu1                      amd64 shared libraries for terminal handling (wide character support)
 +ii  libnettle6:amd64           3.4-1                             amd64 low level cryptographic library (symmetric and one-way cryptos)
 -ii  libnghttp2-14:amd64        1.29.0-1                          amd64 library implementing HTTP/2 protocol (shared library)
-+ii  libnghttp2-14:amd64        1.29.0-1build1                    amd64 library implementing HTTP/2 protocol (shared library)
++ii  libnghttp2-14:amd64        1.30.0-1                          amd64 library implementing HTTP/2 protocol (shared library)
 -ii  libpcre16-3:amd64          2:8.39-8                          amd64 Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
 -ii  libpcre3:amd64             2:8.39-8                          amd64 Old Perl 5 Compatible Regular Expression Library - runtime files
 -ii  libpcre3-dev:amd64         2:8.39-8                          amd64 Old Perl 5 Compatible Regular Expression Library - development files
@@ -133,14 +192,18 @@ newpackages_cflinuxfs3m_1518430412:
 -ii  libpython3-stdlib:amd64    3.6.3-0ubuntu2                    amd64 interactive high-level object-oriented language (default python3 version)
 -ii  libpython3.6-minimal:amd64 3.6.4-2                           amd64 Minimal subset of the Python language (version 3.6)
 -ii  libpython3.6-stdlib:amd64  3.6.4-2                           amd64 Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  libquadmath0:amd64         7.2.0-18ubuntu2                   amd64 GCC Quad-Precision Math Library
+-ii  libreadline7:amd64         7.0-0ubuntu2                      amd64 GNU readline and history libraries, run-time libraries
+-ii  librhash0                  1.3.4-3                           amd64 shared library for hash functions computing
 +ii  libpython-stdlib:amd64     2.7.14-4                          amd64 interactive high-level object-oriented language (default python version)
 +ii  libpython2.7-minimal:amd64 2.7.14-6                          amd64 Minimal subset of the Python language (version 2.7)
 +ii  libpython2.7-stdlib:amd64  2.7.14-6                          amd64 Interactive high-level object-oriented language (standard library, version 2.7)
 +ii  libpython3-stdlib:amd64    3.6.4-1                           amd64 interactive high-level object-oriented language (default python3 version)
-+ii  libpython3.6-minimal:amd64 3.6.4-3build1                     amd64 Minimal subset of the Python language (version 3.6)
-+ii  libpython3.6-stdlib:amd64  3.6.4-3build1                     amd64 Interactive high-level object-oriented language (standard library, version 3.6)
--ii  libreadline7:amd64         7.0-0ubuntu2                      amd64 GNU readline and history libraries, run-time libraries
++ii  libpython3.6-minimal:amd64 3.6.4-4                           amd64 Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.4-4                           amd64 Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libquadmath0:amd64         8-20180208-0ubuntu1               amd64 GCC Quad-Precision Math Library
 +ii  libreadline7:amd64         7.0-3                             amd64 GNU readline and history libraries, run-time libraries
++ii  librhash0                  1.3.5-1                           amd64 shared library for hash functions computing
 -ii  libruby2.3:amd64           2.3.6-2                           amd64 Libraries necessary to run Ruby 2.3
 -ii  libsasl2-2:amd64           2.1.27~101-g0780600+dfsg-3ubuntu1 amd64 Cyrus SASL - authentication abstraction library
 -ii  libsasl2-dev               2.1.27~101-g0780600+dfsg-3ubuntu1 amd64 Cyrus SASL - development files for authentication abstraction library
@@ -164,16 +227,26 @@ newpackages_cflinuxfs3m_1518430412:
 -ii  libsqlite3-dev:amd64       3.21.0-1                          amd64 SQLite 3 development files
 -ii  libss2:amd64               1.43.8-2                          amd64 command-line interface parsing library
 -ii  libssl1.0.0:amd64          1.0.2g-1ubuntu14                  amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  libstdc++-7-dev:amd64      7.2.0-18ubuntu2                   amd64 GNU Standard C++ Library v3 (development files)
+-ii  libstdc++6:amd64           7.2.0-18ubuntu2                   amd64 GNU Standard C++ Library v3
+-ii  libsvn1:amd64              1.9.7-3ubuntu1                    amd64 Shared libraries used by Apache Subversion
 +ii  libsmartcols1:amd64        2.30.2-0.1ubuntu2                 amd64 smart column output alignment library
 +ii  libsqlite3-0:amd64         3.22.0-1                          amd64 SQLite 3 shared library
 +ii  libsqlite3-dev:amd64       3.22.0-1                          amd64 SQLite 3 development files
 +ii  libss2:amd64               1.43.9-1                          amd64 command-line interface parsing library
 +ii  libssl1.0.0:amd64          1.0.2n-1ubuntu2                   amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssl1.1:amd64            1.1.0g-2ubuntu1                   amd64 Secure Sockets Layer toolkit - shared libraries
--ii  libsvn1:amd64              1.9.7-3ubuntu1                    amd64 Shared libraries used by Apache Subversion
++ii  libstdc++-7-dev:amd64      7.3.0-3ubuntu1                    amd64 GNU Standard C++ Library v3 (development files)
++ii  libstdc++6:amd64           8-20180208-0ubuntu1               amd64 GNU Standard C++ Library v3
 +ii  libsvn1:amd64              1.9.7-3ubuntu2                    amd64 Shared libraries used by Apache Subversion
+-ii  libtiff5:amd64             4.0.9-3                           amd64 Tag Image File Format (TIFF) library
 -ii  libtinfo5:amd64            6.0+20160625-1ubuntu1             amd64 shared low-level terminfo library for terminal handling
-+ii  libtinfo5:amd64            6.0+20171125-1ubuntu1             amd64 shared low-level terminfo library for terminal handling
+-ii  libtsan0:amd64             7.2.0-18ubuntu2                   amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+-ii  libubsan0:amd64            7.2.0-18ubuntu2                   amd64 UBSan -- undefined behaviour sanitizer (runtime)
++ii  libtiff5:amd64             4.0.9-4                           amd64 Tag Image File Format (TIFF) library
++ii  libtinfo5:amd64            6.1-1ubuntu1                      amd64 shared low-level terminfo library for terminal handling
++ii  libtsan0:amd64             8-20180208-0ubuntu1               amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
++ii  libubsan0:amd64            7.3.0-3ubuntu1                    amd64 UBSan -- undefined behaviour sanitizer (runtime)
 -ii  libuuid1:amd64             2.30.2-0.1ubuntu1                 amd64 Universally Unique ID library
 +ii  libuuid1:amd64             2.30.2-0.1ubuntu2                 amd64 Universally Unique ID library
 -ii  libxml2:amd64              2.9.4+dfsg1-5.2ubuntu1            amd64 GNOME XML library
@@ -181,23 +254,31 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  libxml2:amd64              2.9.4+dfsg1-6.1ubuntu1            amd64 GNOME XML library
 +ii  libxml2-dev:amd64          2.9.4+dfsg1-6.1ubuntu1            amd64 Development files for the GNOME XML library
 -ii  linux-libc-dev:amd64       4.13.0-25.29                      amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       4.13.0-32.35                      amd64 Linux Kernel Headers for development
+-ii  locales                    2.26-0ubuntu2                     all   GNU C Library: National Language (locale) data [support]
 -ii  login                      1:4.2-3.2ubuntu4                  amd64 system login tools
++ii  linux-libc-dev:amd64       4.13.0-32.35                      amd64 Linux Kernel Headers for development
++ii  locales                    2.26-0ubuntu2.1                   all   GNU C Library: National Language (locale) data [support]
 +ii  login                      1:4.5-1ubuntu1                    amd64 system login tools
 -ii  mount                      2.30.2-0.1ubuntu1                 amd64 tools for mounting and manipulating filesystems
-+ii  mount                      2.30.2-0.1ubuntu2                 amd64 tools for mounting and manipulating filesystems
+-ii  multiarch-support          2.26-0ubuntu2                     amd64 Transitional package to ensure multiarch compatibility
 -ii  ncurses-base               6.0+20160625-1ubuntu1             all   basic terminal type definitions
 -ii  ncurses-bin                6.0+20160625-1ubuntu1             amd64 terminal-related programs and man pages
-+ii  ncurses-base               6.0+20171125-1ubuntu1             all   basic terminal type definitions
-+ii  ncurses-bin                6.0+20171125-1ubuntu1             amd64 terminal-related programs and man pages
++ii  mount                      2.30.2-0.1ubuntu2                 amd64 tools for mounting and manipulating filesystems
++ii  multiarch-support          2.26-0ubuntu2.1                   amd64 Transitional package to ensure multiarch compatibility
++ii  ncurses-base               6.1-1ubuntu1                      all   basic terminal type definitions
++ii  ncurses-bin                6.1-1ubuntu1                      amd64 terminal-related programs and man pages
+-ii  nplan                      0.32                              amd64 YAML network configuration abstraction for various backends
 -ii  openssl                    1.0.2g-1ubuntu14                  amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  passwd                     1:4.2-3.2ubuntu4                  amd64 change and administer password and group data
-+ii  openssl                    1.1.0g-2ubuntu1                   amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  passwd                     1:4.5-1ubuntu1                    amd64 change and administer password and group data
+-ii  patch                      2.7.5-1build1                     amd64 Apply a diff file to an original
 -ii  perl                       5.26.1-3                          amd64 Larry Wall's Practical Extraction and Report Language
 -ii  perl-base                  5.26.1-3                          amd64 minimal Perl system
 -ii  perl-modules-5.26          5.26.1-3                          all   Core Perl modules
 -ii  pinentry-curses            1.0.0-3                           amd64 curses-based PIN or pass-phrase entry dialog for GnuPG
++ii  nplan                      0.33                              amd64 YAML network configuration abstraction for various backends
++ii  openssl                    1.1.0g-2ubuntu1                   amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  passwd                     1:4.5-1ubuntu1                    amd64 change and administer password and group data
++ii  patch                      2.7.6-1                           amd64 Apply a diff file to an original
 +ii  perl                       5.26.1-4build1                    amd64 Larry Wall's Practical Extraction and Report Language
 +ii  perl-base                  5.26.1-4build1                    amd64 minimal Perl system
 +ii  perl-modules-5.26          5.26.1-4build1                    all   Core Perl modules
@@ -218,18 +299,20 @@ newpackages_cflinuxfs3m_1518430412:
 +ii  python2.7                  2.7.14-6                          amd64 Interactive high-level object-oriented language (version 2.7)
 +ii  python2.7-minimal          2.7.14-6                          amd64 Minimal subset of the Python language (version 2.7)
 +ii  python3                    3.6.4-1                           amd64 interactive high-level object-oriented language (default python3 version)
-+ii  python3-distutils          3.6.4-3                           all   distutils package for Python 3.x
-+ii  python3-lib2to3            3.6.4-3                           all   Interactive high-level object-oriented language (2to3, version 3.6)
++ii  python3-distutils          3.6.4-4                           all   distutils package for Python 3.x
++ii  python3-lib2to3            3.6.4-4                           all   Interactive high-level object-oriented language (2to3, version 3.6)
 +ii  python3-minimal            3.6.4-1                           amd64 minimal subset of the Python language (default python3 version)
 -ii  python3.6                  3.6.4-2                           amd64 Interactive high-level object-oriented language (version 3.6)
 -ii  python3.6-2to3             3.6.4-2                           all   Interactive high-level object-oriented language (2to3, version 3.6)
 -ii  python3.6-minimal          3.6.4-2                           amd64 Minimal subset of the Python language (version 3.6)
 -ii  rake                       12.0.0-1                          all   ruby make-like utility
 -ii  readline-common            7.0-0ubuntu2                      all   GNU readline and history libraries, common files
-+ii  python3.6                  3.6.4-3build1                     amd64 Interactive high-level object-oriented language (version 3.6)
-+ii  python3.6-minimal          3.6.4-3build1                     amd64 Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.4-4                           amd64 Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.4-4                           amd64 Minimal subset of the Python language (version 3.6)
 +ii  rake                       12.3.0-1                          all   ruby make-like utility
 +ii  readline-common            7.0-3                             all   GNU readline and history libraries, common files
+-ii  ruby                       1:2.3.3                           amd64 Interpreter of object-oriented scripting language Ruby (default version)
++ii  ruby                       1:2.5~1                           amd64 Interpreter of object-oriented scripting language Ruby (default version)
 -ii  ruby2.3                    2.3.6-2                           amd64 Interpreter of object-oriented scripting language Ruby
 +ii  ruby2.3                    2.3.6-2ubuntu1                    amd64 Interpreter of object-oriented scripting language Ruby
 -ii  sed                        4.4-1                             amd64 GNU stream editor for filtering/transforming text
