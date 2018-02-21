@@ -1,6 +1,8 @@
-newpackages_cflinuxfs2_1519035594:
+newpackages_cflinuxfs2_1519176072:
 
 ```
+-ii  libcups2:amd64      1.7.2-0ubuntu1.8      amd64 Common UNIX Printing System(tm) - Core library
++ii  libcups2:amd64      1.7.2-0ubuntu1.9      amd64 Common UNIX Printing System(tm) - Core library
 -ii  libpq-dev           9.3.20-0ubuntu0.14.04 amd64 header files for libpq5 (PostgreSQL library)
 -ii  libpq5              9.3.20-0ubuntu0.14.04 amd64 PostgreSQL C client library
 +ii  libpq-dev           9.3.21-0ubuntu0.14.04 amd64 header files for libpq5 (PostgreSQL library)
