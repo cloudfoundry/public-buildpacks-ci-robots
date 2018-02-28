@@ -58,6 +58,10 @@ extensions:
   version: 3.4.3
   md5: d0ee25c007cd2a28cefccc0b9ee63a28
   klass: PeclRecipe
+- name: LZF
+  version: 1.6.6
+  md5: 571af186b274f56114e659b42956b6ce
+  klass: PeclRecipe
 - name: mailparse
   version: 3.0.2
   md5: 4bd96a980013374f23a7461cc0a919aa
@@ -69,6 +73,10 @@ extensions:
 - name: msgpack
   version: 2.0.2
   md5: 02f7e109d438072c4b642b01cf78533e
+  klass: PeclRecipe
+- name: oauth
+  version: 2.0.2
+  md5: 2f133a53b0949544ed5cfe9b668ce55a
   klass: PeclRecipe
 - name: pdo_odbc
   version: nil
@@ -90,6 +98,10 @@ extensions:
   version: 2.4.0
   md5: 2c9accf66681a3daaaf371bc07e44902
   klass: PeclRecipe
+- name: stomp
+  version: 2.0.1
+  md5: 960d763ace9f2102178ece937d4e6812
+  klass: PeclRecipe
 - name: xdebug
   version: 2.6.0
   md5: ed3545852e6f4a00fb8730362d0431ee
@@ -97,6 +109,10 @@ extensions:
 - name: yaf
   version: 3.0.6
   md5: 1c6da90820cc0dc37f4dfdd381b59bf1
+  klass: PeclRecipe
+- name: yaml
+  version: 2.0.2
+  md5: 63183e8cc921219bd901d4acf57f3187
   klass: PeclRecipe
 - name: memcached
   version: 3.0.3
