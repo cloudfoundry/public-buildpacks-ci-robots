@@ -24,8 +24,8 @@ native_modules:
   md5: 28889585c465ee71363e9c1f35424685
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.8.0
-  md5: 82d944b0e6cb7e321b68f4a3902ead3c
+  version: 2.8.1
+  md5: 334250611c98c70e9a88cadbfe2973aa
   klass: CassandraCppDriverRecipe
 - name: unixodbc
   version: 2.3.4
@@ -35,8 +35,8 @@ native_modules:
 extensions:
 #standard pecl
 - name: apcu
-  version: 5.1.8
-  md5: 0ef8be2ee8acb4dba5a66b247a254995
+  version: 5.1.10
+  md5: a16259bb080b632d11d8ada09dd5ab56
   klass: PeclRecipe
 - name: cassandra
   version: 1.3.2
@@ -67,8 +67,8 @@ extensions:
   md5: 4bd96a980013374f23a7461cc0a919aa
   klass: PeclRecipe
 - name: mongodb
-  version: 1.3.4
-  md5: f0b4ccb5e8bb455c24119accb47fc7d0
+  version: 1.4.1
+  md5: 77dc28746544082ff449ebc11656e3a0
   klass: PeclRecipe
 - name: msgpack
   version: 2.0.2
@@ -111,8 +111,8 @@ extensions:
   md5: 63183e8cc921219bd901d4acf57f3187
   klass: PeclRecipe
 - name: memcached
-  version: 3.0.3
-  md5: 001341afeded3724c19a740148737444
+  version: 3.0.4
+  md5: 7e37aae409be7fc25ac31f918f5fa2eb
   klass: MemcachedPeclRecipe
 
 #non-standard
@@ -137,8 +137,8 @@ extensions:
   md5: d84a6e7e3a54744269fd776d7be80be1
   klass: PHPIRedisRecipe
 - name: phpprotobufpecl
-  version: 0.12.0
-  md5: bc8d4ad507e5817cfc8d3f27acef77d7
+  version: 0.12.2
+  md5: 85f6985f08fd41783c0c05b4049c7da1
   klass: PHPProtobufPeclRecipe
 
 #Oracle client stuff. Not included unless libs are present

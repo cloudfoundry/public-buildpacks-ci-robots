@@ -24,8 +24,8 @@ native_modules:
   md5: 28889585c465ee71363e9c1f35424685
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
-  version: 2.8.0
-  md5: 82d944b0e6cb7e321b68f4a3902ead3c
+  version: 2.8.1
+  md5: 334250611c98c70e9a88cadbfe2973aa
   klass: CassandraCppDriverRecipe
 - name: unixodbc
   version: 2.3.4
@@ -83,8 +83,8 @@ extensions:
   md5: cde37cae4fafbb66903ce81d44f7f492
   klass: PeclRecipe
 - name: mongodb
-  version: 1.3.4
-  md5: f0b4ccb5e8bb455c24119accb47fc7d0
+  version: 1.4.1
+  md5: 77dc28746544082ff449ebc11656e3a0
   klass: PeclRecipe
 - name: msgpack
   version: 0.5.7
