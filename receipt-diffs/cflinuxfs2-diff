@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2_1519665491:
+newpackages_cflinuxfs2_1519935680:
 
 ```
 -ii  cpp-4.8                 4.8.4-2ubuntu1~14.04.3 amd64 GNU C preprocessor
@@ -9,6 +9,10 @@ newpackages_cflinuxfs2_1519665491:
 -ii  gcc-4.8-base:amd64      4.8.4-2ubuntu1~14.04.3 amd64 GCC, the GNU Compiler Collection (base package)
 +ii  gcc-4.8                 4.8.4-2ubuntu1~14.04.4 amd64 GNU C compiler
 +ii  gcc-4.8-base:amd64      4.8.4-2ubuntu1~14.04.4 amd64 GCC, the GNU Compiler Collection (base package)
+-ii  isc-dhcp-client         4.2.4-7ubuntu12.10     amd64 ISC DHCP client
+-ii  isc-dhcp-common         4.2.4-7ubuntu12.10     amd64 common files used by all the isc-dhcp* packages
++ii  isc-dhcp-client         4.2.4-7ubuntu12.12     amd64 ISC DHCP client
++ii  isc-dhcp-common         4.2.4-7ubuntu12.12     amd64 common files used by all the isc-dhcp* packages
 -ii  libasan0:amd64          4.8.4-2ubuntu1~14.04.3 amd64 AddressSanitizer -- a fast memory error detector
 +ii  libasan0:amd64          4.8.4-2ubuntu1~14.04.4 amd64 AddressSanitizer -- a fast memory error detector
 -ii  libatomic1:amd64        4.8.4-2ubuntu1~14.04.3 amd64 support library providing __atomic built-in functions
