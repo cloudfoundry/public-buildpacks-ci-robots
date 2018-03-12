@@ -90,6 +90,10 @@ extensions:
   version: 3.0.5
   md5: 844bd1528161518a47415f709214bae9
   klass: PeclRecipe
+- name: readline
+  version: nil
+  md5: nil
+  klass: ReadlineRecipe
 - name: redis
   version: 3.1.6
   md5: 500775d653988a17f3e44f6d5f605b32
