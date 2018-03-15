@@ -1,4 +1,22 @@
-empty_1520852849:
+newpackages_cflinuxfs2_1521147480:
 
 ```
+-ii  curl                       7.35.0-1ubuntu2.14 amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.35.0-1ubuntu2.15 amd64 command line tool for transferring data with URL syntax
+-ii  dpkg                       1.17.5ubuntu5.7    amd64 Debian package management system
+-ii  dpkg-dev                   1.17.5ubuntu5.7    all   Debian package development tools
++ii  dpkg                       1.17.5ubuntu5.8    amd64 Debian package management system
++ii  dpkg-dev                   1.17.5ubuntu5.8    all   Debian package development tools
+-ii  isc-dhcp-client            4.2.4-7ubuntu12.12 amd64 ISC DHCP client
+-ii  isc-dhcp-common            4.2.4-7ubuntu12.12 amd64 common files used by all the isc-dhcp* packages
++ii  isc-dhcp-client            4.2.4-7ubuntu12.13 amd64 ISC DHCP client
++ii  isc-dhcp-common            4.2.4-7ubuntu12.13 amd64 common files used by all the isc-dhcp* packages
+-ii  libcurl3:amd64             7.35.0-1ubuntu2.14 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.14 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.14 amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3:amd64             7.35.0-1ubuntu2.15 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.15 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.15 amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libdpkg-perl               1.17.5ubuntu5.7    all   Dpkg perl modules
++ii  libdpkg-perl               1.17.5ubuntu5.8    all   Dpkg perl modules
 ```
