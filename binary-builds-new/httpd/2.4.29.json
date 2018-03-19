@@ -1,1 +1,1 @@
-{"tracker_story_id":156108758}
+{"tracker_story_id":156108758,"version":"2.4.29","source":{"url":"http://archive.apache.org/dist/httpd/httpd-2.4.29.tar.bz2","sha256":"777753a5a25568a2a27428b2214980564bc1c38c1abf9ccc7630b639991f7f00"},"sha256":"69024ecfb73e486458cc6cf18222bc73adf70f22a70ef9544dad94064bc0a689","url":"https://buildpacks.cloudfoundry.org/dependencies/httpd/httpd-2.4.29-linux-x64-69024ecf.tgz"}
