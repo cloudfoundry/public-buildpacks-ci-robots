@@ -454,3 +454,17 @@ nginx:
     =coXe
     -----END PGP SIGNATURE-----
   timestamp: 2018-02-20 18:33:52 UTC
+- version: 1.13.10
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABAgAGBQJasTA6AAoJEFIKmZOhwFL4SlsH/RfcOjQEJhrzFSRkugG2a9ZI
+    dzvfFn9txgMkuOzObGxb51UI/3NhAcGY3GjF6ACXjebN1nrmsFv5Tp+oHxl26+Gp
+    EGerA/8bAEIxKUIc+fijvxXrjGY0ozXR4hIMkYzY8kVUtFvwQwMMJKcL/Ux0YqYq
+    FLz2DfDpdAhCgYj49ZoOYbzIjIkQZSzsVwKJ8vlLs2DVDQpdhe5IqOtlUWMOQ/Dl
+    A5WzgVBtNqfX6cCe2HJvpBgFjNMbmpy7tYr9wom5OcpjyF3Oyk/y7cc/heaJ6TnK
+    qLJdUUgRzzJDLxUIxufmRtphEbH1zMwSTdwvkxirxgAeqIwGtbsOjizU6RaNCLg=
+    =WRRk
+    -----END PGP SIGNATURE-----
+  timestamp: 2018-03-20 17:04:20 UTC
