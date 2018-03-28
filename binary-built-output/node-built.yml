@@ -327,3 +327,6 @@ node:
 - version: 9.10.0
   sha256: e5654e552bcc7d011fe0c5bade53ba5c3acbd8d26bfda2cf57057537a03c8d76
   timestamp: 2018-03-28 17:23:12 UTC
+- version: 8.11.0
+  sha256: 7683a674259298fc53dd020e210d062aaf02698980fe293c64ed2daee13466a4
+  timestamp: 2018-03-28 17:42:53 UTC
