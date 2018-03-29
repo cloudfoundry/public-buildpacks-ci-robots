@@ -1,16 +1,4 @@
-newpackages_cflinuxfs2_1522295777:
+empty_1522302486:
 
 ```
--ii  icu-devtools      52.1-3ubuntu0.7    amd64  Development utilities for International Components for Unicode
-+ii  icu-devtools      52.1-3ubuntu0.8    amd64  Development utilities for International Components for Unicode
--ii  libicu-dev:amd64  52.1-3ubuntu0.7    amd64  Development files for International Components for Unicode
--ii  libicu52:amd64    52.1-3ubuntu0.7    amd64  International Components for Unicode
-+ii  libicu-dev:amd64  52.1-3ubuntu0.8    amd64  Development files for International Components for Unicode
-+ii  libicu52:amd64    52.1-3ubuntu0.8    amd64  International Components for Unicode
--ii  libssl-dev:amd64  1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.0.0:amd64 1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64  1.0.1f-1ubuntu2.24 amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64 1.0.1f-1ubuntu2.24 amd64  Secure Sockets Layer toolkit - shared libraries
--ii  openssl           1.0.1f-1ubuntu2.23 amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl           1.0.1f-1ubuntu2.24 amd64  Secure Sockets Layer toolkit - cryptographic utility
 ```
