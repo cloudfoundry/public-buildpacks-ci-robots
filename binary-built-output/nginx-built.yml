@@ -468,3 +468,17 @@ nginx:
     =WRRk
     -----END PGP SIGNATURE-----
   timestamp: 2018-03-20 17:04:20 UTC
+- version: 1.13.11
+  gpg-rsa-key-id: A1C052F8
+  gpg-signature: |
+    -----BEGIN PGP SIGNATURE-----
+
+    iQEcBAABAgAGBQJaw5MyAAoJEFIKmZOhwFL4+xAIAKbVY1Zd80R2FHa3bbCH8d4O
+    dX+QONHfo/HP3ljzNn1/gAn+Wf4K5sL1pxOLF307U35FkruJc7Tg0zCTmcnm6lPk
+    WhzaiXQJrKRa/SN7ui6bLDe++GDda1lY7ZG54x48Jj+lpIy1YFeCx/VNeR+9uPHi
+    oiiTHRyORfWjGWu4OAkyeyGsh6BSdZfyZEFszYe727tl7ToNxgbAuZK5JlVvZJ2t
+    1PGS4icJoNyDqMhH9H8wHF9luCvxg0FY6LZPlpSFJyHmHW+Ff9tnzrEdEinWuTrR
+    B/E7pkWnJ7CBz8lyqU4B1xVRjXdjOJ97j24LLEt0LTr8EABGeCfgJdAbKaAsZFE=
+    =AR8k
+    -----END PGP SIGNATURE-----
+  timestamp: 2018-04-03 15:04:29 UTC
