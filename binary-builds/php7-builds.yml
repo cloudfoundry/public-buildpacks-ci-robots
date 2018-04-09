@@ -1,2 +1,4 @@
 ---
-php7: []
+php7:
+  - version: 7.0.29
+    sha256: 5efe45e345f967cb20f9ff92cd514753872a65feffea1bf311c71864344bd8e8
