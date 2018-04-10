@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1523297953:
+empty_1523319760:
 
 ```
--ii  libwayland-client0:amd64  1.4.0-1ubuntu1   amd64  wayland compositor infrastructure - client library
--ii  libwayland-cursor0:amd64  1.4.0-1ubuntu1   amd64  wayland compositor infrastructure - cursor library
-+ii  libwayland-client0:amd64  1.4.0-1ubuntu1.1 amd64  wayland compositor infrastructure - client library
-+ii  libwayland-cursor0:amd64  1.4.0-1ubuntu1.1 amd64  wayland compositor infrastructure - cursor library
 ```
