@@ -150,7 +150,7 @@ extensions:
   klass: TidewaysXhprofRecipe
 - name: tideways_xhprof
   version: 5.0-beta2
-  md5: 2d0e5d14c975a1a357afe64ce171a185
+  md5: e79421e0837fd35eebd7de96985e5939
   klass: TidewaysXhprofRecipe
 
 #Oracle client stuff. Not included unless libs are present
