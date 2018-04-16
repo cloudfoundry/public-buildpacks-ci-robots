@@ -20,23 +20,23 @@ native_modules:
   md5: b3958716b4e53ddc5992e6c49d97e819
   klass: LibmemcachedRecipe
 - name: librdkafka
-  version: 0.11.3
-  md5: 28889585c465ee71363e9c1f35424685
+  version: 0.11.4
+  md5: ca1e5f8add289323da134279d2a8f79e
   klass: LibRdKafkaRecipe
 - name: cassandracppdriver
   version: 2.8.1
   md5: 334250611c98c70e9a88cadbfe2973aa
   klass: CassandraCppDriverRecipe
 - name: unixodbc
-  version: 2.3.4
-  md5: bd25d261ca1808c947cb687e2034be81
+  version: 2.3.6
+  md5: a8629fd2953b04b4639d0a9d8a5cf9d1
   klass: UnixOdbcRecipe
 
 extensions:
 #standard pecl
 - name: apcu
-  version: 5.1.10
-  md5: a16259bb080b632d11d8ada09dd5ab56
+  version: 5.1.11
+  md5: 576c51d928f582b67ccb222bc34f6abd
   klass: PeclRecipe
 - name: cassandra
   version: 1.3.2
@@ -67,8 +67,8 @@ extensions:
   md5: 4bd96a980013374f23a7461cc0a919aa
   klass: PeclRecipe
 - name: mongodb
-  version: 1.4.1
-  md5: 77dc28746544082ff449ebc11656e3a0
+  version: 1.4.2
+  md5: 28084c896be33df1ca268898646b7e32
   klass: PeclRecipe
 - name: msgpack
   version: 2.0.2
@@ -95,20 +95,16 @@ extensions:
   md5: nil
   klass: ReadlineRecipe
 - name: redis
-  version: 3.1.6
-  md5: 500775d653988a17f3e44f6d5f605b32
+  version: 4.0.0
+  md5: e7a8735690e0c8ea9e83f8682c31e22c
   klass: PeclRecipe
 - name: stomp
   version: 2.0.1
   md5: 960d763ace9f2102178ece937d4e6812
   klass: PeclRecipe
-- name: xdebug
-  version: 2.6.0
-  md5: ed3545852e6f4a00fb8730362d0431ee
-  klass: PeclRecipe
 - name: yaf
-  version: 3.0.6
-  md5: 1c6da90820cc0dc37f4dfdd381b59bf1
+  version: 3.0.7
+  md5: d09cdd5b04a25a3fd5a44d3507653e88
   klass: PeclRecipe
 - name: yaml
   version: 2.0.2
@@ -125,24 +121,24 @@ extensions:
   md5: c8538be13c90fba9dc7abef1c2cfbdc5
   klass: AmqpPeclRecipe
 - name: ioncube
-  version: 10.1.1
-  md5: 4f91c9001423d5f99ed5806cd758ed72
+  version: 10.2.0
+  md5: 61a8591003b81dccf5b0d8045acaded5
   klass: IonCubeRecipe
 - name: lua
   version: 2.0.5
   md5: 1eda7c8ebede31a5dcb2dcb730efbbe4
   klass: LuaPeclRecipe
 - name: phalcon
-  version: 3.3.1
-  md5: 6f40dfc3c98f0ed291ec322bc3cacb26
+  version: 3.3.2
+  md5: 358838bb9b978417c4f1c884ac1d0215
   klass: PhalconRecipe
 - name: phpiredis
   version: 1.0.0
   md5: d84a6e7e3a54744269fd776d7be80be1
   klass: PHPIRedisRecipe
 - name: phpprotobufpecl
-  version: 0.12.2
-  md5: 85f6985f08fd41783c0c05b4049c7da1
+  version: 0.12.3
+  md5: dbef73f3d5288201019a20619a9d3cdb
   klass: PHPProtobufPeclRecipe
 - name: tideways
   version: 4.1.5
