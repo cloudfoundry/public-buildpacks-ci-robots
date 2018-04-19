@@ -1,10 +1,8 @@
-newpackages_cflinuxfs2_1524158322:
+newpackages_cflinuxfs2_1524164714:
 
 ```
--ii  libssl-dev:amd64  1.0.1f-1ubuntu2.24  amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.0.0:amd64 1.0.1f-1ubuntu2.24  amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64  1.0.1f-1ubuntu2.25  amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64 1.0.1f-1ubuntu2.25  amd64  Secure Sockets Layer toolkit - shared libraries
--ii  openssl           1.0.1f-1ubuntu2.24  amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl           1.0.1f-1ubuntu2.25  amd64  Secure Sockets Layer toolkit - cryptographic utility
+-ii  libudev1:amd64 204-5ubuntu20.26  amd64  libudev shared library
++ii  libudev1:amd64 204-5ubuntu20.28  amd64  libudev shared library
+-ii  udev           204-5ubuntu20.26  amd64  /dev/ and hotplug management daemon
++ii  udev           204-5ubuntu20.28  amd64  /dev/ and hotplug management daemon
 ```
