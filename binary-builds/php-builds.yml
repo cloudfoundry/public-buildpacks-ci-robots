@@ -1,4 +1,2 @@
 ---
-php:
-- version: 5.6.36
-  sha256: 626a0e3f5d8a0e686a2b930f0dd3a0601fe3dcb5e43dd0e8c3fab631e64e172a
+php: []
