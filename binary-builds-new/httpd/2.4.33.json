@@ -1,1 +1,1 @@
-{"tracker_story_id":157256902}
+{"tracker_story_id":157256902,"version":"2.4.33","source":{"url":"http://archive.apache.org/dist/httpd/httpd-2.4.33.tar.bz2","sha256":"de02511859b00d17845b9abdd1f975d5ccb5d0b280c567da5bf2ad4b70846f05"},"sha256":"af7bb1a1e9cdf6cb09ff68a28ea5c436e2245fbbeccf112ef7d5ebcc81ce774c","url":"https://buildpacks.cloudfoundry.org/dependencies/httpd/httpd-2.4.33-linux-x64-af7bb1a1.tgz"}
