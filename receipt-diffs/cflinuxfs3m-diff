@@ -1,8 +1,16 @@
-newpackages_cflinuxfs3m_1526289617:
+newpackages_cflinuxfs3m_1526894197:
 
 ```
--ii  distro-info-data 0.37              all   information about the distributions' releases (data files)
-+ii  distro-info-data 0.37ubuntu0.1     all   information about the distributions' releases (data files)
--ii  wget             1.19.4-1ubuntu2   amd64 retrieves files from the web
-+ii  wget             1.19.4-1ubuntu2.1 amd64 retrieves files from the web
+-ii  curl                       7.58.0-2ubuntu3   amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.58.0-2ubuntu3.1 amd64 command line tool for transferring data with URL syntax
+-ii  distro-info-data           0.37              all   information about the distributions' releases (data files)
++ii  distro-info-data           0.37ubuntu0.1     all   information about the distributions' releases (data files)
+-ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3   amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.58.0-2ubuntu3   amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3   amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.1 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.58.0-2ubuntu3.1 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.1 amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  wget                       1.19.4-1ubuntu2   amd64 retrieves files from the web
++ii  wget                       1.19.4-1ubuntu2.1 amd64 retrieves files from the web
 ```
