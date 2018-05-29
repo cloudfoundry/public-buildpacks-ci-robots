@@ -32,3 +32,6 @@ hwc:
 - version: 10.0.0
   sha256: 148544be29f14b0b5f051cab1cce8163bdef21bfdafda17a07c4447a257eb5bb
   timestamp: 2018-04-30 18:04:46 UTC
+- version: 11.0.0
+  sha256: b15086d05b6e5b50f01e530c5a8d4c8b4f6d8b69b224e42c07c9dff785866a24
+  timestamp: 2018-05-29 21:06:17 UTC
