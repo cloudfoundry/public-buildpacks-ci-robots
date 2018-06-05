@@ -1,1 +1,1 @@
-{"tracker_story_id":158124413}
+{"tracker_story_id":158124413,"version":"1.15.0","source":{"url":"http://nginx.org/download/nginx-1.15.0.tar.gz"},"source_pgp":"not yet implemented","sha256":"ea211f6e0da5e722bfdbd2ec7218795617aab63383a43c8588de6493a9b6a9a0","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx-1.15.0-linux-x64-ea211f6e.tgz"}
