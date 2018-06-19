@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1529428568:
+empty_1529436624:
 
 ```
--ii  libgcrypt11:amd64 1.5.3-2ubuntu4.5  amd64  LGPL Crypto library - runtime library
--ii  libgcrypt11-dev   1.5.3-2ubuntu4.5  amd64  LGPL Crypto library - development files
-+ii  libgcrypt11:amd64 1.5.3-2ubuntu4.6  amd64  LGPL Crypto library - runtime library
-+ii  libgcrypt11-dev   1.5.3-2ubuntu4.6  amd64  LGPL Crypto library - development files
 ```
