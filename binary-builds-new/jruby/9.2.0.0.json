@@ -1,1 +1,1 @@
-{"tracker_story_id":158707559}
+{"tracker_story_id":158707559,"version":"9.2.0.0","source":{"url":"https://s3.amazonaws.com/jruby.org/downloads/9.2.0.0/jruby-src-9.2.0.0.tar.gz","sha256":"3d59bde1639c69965664ee46a07be230141ee8e99d2e7f43b574a6a8298c887c"},"sha256":"51b923e337da76d0f19fd48b20ea6ebb9df4f5c762e56b4f2522f67d6adbac81","url":"https://buildpacks.cloudfoundry.org/dependencies/jruby/jruby-9.2.0.0_ruby-2.5-linux-x64-51b923e3.tgz"}
