@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1531169650:
+empty_1531178700:
 
 ```
--ii  libjpeg-turbo8:amd64     1.3.0-0ubuntu2                    amd64  IJG JPEG compliant runtime library.
--ii  libjpeg-turbo8-dev:amd64 1.3.0-0ubuntu2                    amd64  Development files for the IJG JPEG library
-+ii  libjpeg-turbo8:amd64     1.3.0-0ubuntu2.1                  amd64  IJG JPEG compliant runtime library.
-+ii  libjpeg-turbo8-dev:amd64 1.3.0-0ubuntu2.1                  amd64  Development files for the IJG JPEG library
--ii  ntpdate                  1:4.2.6.p5+dfsg-3ubuntu2.14.04.12 amd64  client for setting system time from NTP servers
-+ii  ntpdate                  1:4.2.6.p5+dfsg-3ubuntu2.14.04.13 amd64  client for setting system time from NTP servers
 ```
