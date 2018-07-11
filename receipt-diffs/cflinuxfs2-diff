@@ -1,4 +1,4 @@
-newpackages_cflinuxfs2_1531318567:
+newpackages_cflinuxfs2_1531325972:
 
 ```
 -ii  imagemagick                8:6.7.7.10-6ubuntu3.11  amd64 image manipulation programs
@@ -15,4 +15,8 @@ newpackages_cflinuxfs2_1531318567:
 +ii  libmagickcore5-extra:amd64 8:6.7.7.10-6ubuntu3.12  amd64 low-level image manipulation library - extra codecs
 +ii  libmagickwand-dev          8:6.7.7.10-6ubuntu3.12  amd64 image manipulation library - development files
 +ii  libmagickwand5:amd64       8:6.7.7.10-6ubuntu3.12  amd64 image manipulation library
+-ii  libpng12-0:amd64           1.2.50-1ubuntu2.14.04.2 amd64 PNG library - runtime
+-ii  libpng12-dev               1.2.50-1ubuntu2.14.04.2 amd64 PNG library - development
++ii  libpng12-0:amd64           1.2.50-1ubuntu2.14.04.3 amd64 PNG library - runtime
++ii  libpng12-dev               1.2.50-1ubuntu2.14.04.3 amd64 PNG library - development
 ```
