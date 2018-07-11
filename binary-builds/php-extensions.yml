@@ -101,7 +101,7 @@ extensions:
 - name: redis
   version: 4.0.0
   md5: e7a8735690e0c8ea9e83f8682c31e22c
-  klass: PeclRecipe
+  klass: RedisPeclRecipe
 - name: solr
   version: 2.4.0
   md5: 2c9accf66681a3daaaf371bc07e44902
