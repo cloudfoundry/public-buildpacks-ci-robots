@@ -1,6 +1,4 @@
-newpackages_cflinuxfs2_1531405672:
+empty_1531488925:
 
 ```
--ii  libcups2:amd64  1.7.2-0ubuntu1.9  amd64  Common UNIX Printing System(tm) - Core library
-+ii  libcups2:amd64  1.7.2-0ubuntu1.10 amd64  Common UNIX Printing System(tm) - Core library
 ```
