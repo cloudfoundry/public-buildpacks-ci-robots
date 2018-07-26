@@ -1,7 +1,7 @@
-newpackages_cflinuxfs3_1532624125:
+newpackages_cflinuxfs3_1532630818:
 
 ```
-+ii  liblttng-ust-ctl4:amd64 2.10.1-1  amd64  LTTng 2.0 Userspace Tracer (trace control library)
-+ii  liblttng-ust0:amd64     2.10.1-1  amd64  LTTng 2.0 Userspace Tracer (tracing libraries)
-+ii  liburcu6:amd64          0.10.1-1  amd64  userspace RCU (read-copy-update) library
++ii  gss-ntlmssp        0.7.0-4build3                amd64  GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
++ii  gss-ntlmssp-dev    0.7.0-4build3                amd64  GSSAPI NTLMSSP Mechanism -- development headers
++ii  libwbclient0:amd64 2:4.7.6+dfsg~ubuntu-0ubuntu2 amd64  Samba winbind client library
 ```
