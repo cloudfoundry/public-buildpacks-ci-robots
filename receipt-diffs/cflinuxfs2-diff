@@ -1,20 +1,4 @@
-newpackages_cflinuxfs2_1533652851:
+empty_1533677178:
 
 ```
--ii  gnupg                  1.4.16-1ubuntu2.5         amd64 GNU privacy guard - a free PGP replacement
--ii  gnupg-curl             1.4.16-1ubuntu2.5         amd64 GNU privacy guard - a free PGP replacement (cURL)
--ii  gpgv                   1.4.16-1ubuntu2.5         amd64 GNU privacy guard - signature verification tool
-+ii  gnupg                  1.4.16-1ubuntu2.6         amd64 GNU privacy guard - a free PGP replacement
-+ii  gnupg-curl             1.4.16-1ubuntu2.6         amd64 GNU privacy guard - a free PGP replacement (cURL)
-+ii  gpgv                   1.4.16-1ubuntu2.6         amd64 GNU privacy guard - signature verification tool
--rc  libmysqlclient18:amd64 5.5.60-0ubuntu0.14.04.1   amd64 MySQL database client library
-+rc  libmysqlclient18:amd64 5.5.61-0ubuntu0.14.04.1   amd64 MySQL database client library
--ii  libxcursor1:amd64      1:1.1.14-1ubuntu0.14.04.1 amd64 X cursor management library
-+ii  libxcursor1:amd64      1:1.1.14-1ubuntu0.14.04.2 amd64 X cursor management library
--ii  mysql-common           5.5.60-0ubuntu0.14.04.1   all   MySQL database common files, e.g. /etc/mysql/my.cnf
-+ii  mysql-common           5.5.61-0ubuntu0.14.04.1   all   MySQL database common files, e.g. /etc/mysql/my.cnf
--ii  zlib1g:amd64           1:1.2.8.dfsg-1ubuntu1     amd64 compression library - runtime
--ii  zlib1g-dev:amd64       1:1.2.8.dfsg-1ubuntu1     amd64 compression library - development
-+ii  zlib1g:amd64           1:1.2.8.dfsg-1ubuntu1.1   amd64 compression library - runtime
-+ii  zlib1g-dev:amd64       1:1.2.8.dfsg-1ubuntu1.1   amd64 compression library - development
 ```
