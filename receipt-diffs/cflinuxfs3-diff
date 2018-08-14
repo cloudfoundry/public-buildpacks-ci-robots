@@ -1,18 +1,22 @@
-newpackages_cflinuxfs3_1534184206:
+newpackages_cflinuxfs3_1534277930:
 
 ```
-+ii  gss-ntlmssp              0.7.0-4build3                amd64 GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
-+ii  gss-ntlmssp-dev          0.7.0-4build3                amd64 GSSAPI NTLMSSP Mechanism -- development headers
--ii  libarchive13:amd64       3.2.2-3.1                    amd64 Multi-format archive and compression library (shared library)
-+ii  libarchive13:amd64       3.2.2-3.1ubuntu0.1           amd64 Multi-format archive and compression library (shared library)
--ii  libmariadbclient-dev     1:10.1.29-6                  amd64 MariaDB database development files
--ii  libmariadbclient18:amd64 1:10.1.29-6                  amd64 MariaDB database client library
-+ii  libmariadbclient-dev     1:10.1.34-0ubuntu0.18.04.1   amd64 MariaDB database development files
-+ii  libmariadbclient18:amd64 1:10.1.34-0ubuntu0.18.04.1   amd64 MariaDB database client library
--ii  libmysqlclient20:amd64   5.7.22-0ubuntu18.04.1        amd64 MySQL database client library
-+ii  libwbclient0:amd64       2:4.7.6+dfsg~ubuntu-0ubuntu2 amd64 Samba winbind client library
--ii  linux-libc-dev:amd64     4.15.0-29.31                 amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64     4.15.0-30.32                 amd64 Linux Kernel Headers for development
--ii  x11-common               1:7.7+19ubuntu7              all   X Window System (X.Org) infrastructure
-+ii  x11-common               1:7.7+19ubuntu7.1            all   X Window System (X.Org) infrastructure
++ii  gss-ntlmssp              0.7.0-4build3                  amd64 GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
++ii  gss-ntlmssp-dev          0.7.0-4build3                  amd64 GSSAPI NTLMSSP Mechanism -- development headers
+-ii  libarchive13:amd64       3.2.2-3.1                      amd64 Multi-format archive and compression library (shared library)
++ii  libarchive13:amd64       3.2.2-3.1ubuntu0.1             amd64 Multi-format archive and compression library (shared library)
+-ii  libmariadbclient-dev     1:10.1.29-6                    amd64 MariaDB database development files
+-ii  libmariadbclient18:amd64 1:10.1.29-6                    amd64 MariaDB database client library
++ii  libmariadbclient-dev     1:10.1.34-0ubuntu0.18.04.1     amd64 MariaDB database development files
++ii  libmariadbclient18:amd64 1:10.1.34-0ubuntu0.18.04.1     amd64 MariaDB database client library
+-ii  libmysqlclient20:amd64   5.7.22-0ubuntu18.04.1          amd64 MySQL database client library
++ii  libwbclient0:amd64       2:4.7.6+dfsg~ubuntu-0ubuntu2.2 amd64 Samba winbind client library
+-ii  libxml2:amd64            2.9.4+dfsg1-6.1ubuntu1         amd64 GNOME XML library
+-ii  libxml2-dev:amd64        2.9.4+dfsg1-6.1ubuntu1         amd64 Development files for the GNOME XML library
++ii  libxml2:amd64            2.9.4+dfsg1-6.1ubuntu1.2       amd64 GNOME XML library
++ii  libxml2-dev:amd64        2.9.4+dfsg1-6.1ubuntu1.2       amd64 Development files for the GNOME XML library
+-ii  linux-libc-dev:amd64     4.15.0-29.31                   amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64     4.15.0-30.32                   amd64 Linux Kernel Headers for development
+-ii  x11-common               1:7.7+19ubuntu7                all   X Window System (X.Org) infrastructure
++ii  x11-common               1:7.7+19ubuntu7.1              all   X Window System (X.Org) infrastructure
 ```
