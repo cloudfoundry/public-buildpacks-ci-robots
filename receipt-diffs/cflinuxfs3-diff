@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1534288516:
+empty_1534300496:
 
 ```
--ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2   amd64  Samba winbind client library
-+ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.2 amd64  Samba winbind client library
--ii  libxml2:amd64        2.9.4+dfsg1-6.1ubuntu1         amd64  GNOME XML library
--ii  libxml2-dev:amd64    2.9.4+dfsg1-6.1ubuntu1         amd64  Development files for the GNOME XML library
-+ii  libxml2:amd64        2.9.4+dfsg1-6.1ubuntu1.2       amd64  GNOME XML library
-+ii  libxml2-dev:amd64    2.9.4+dfsg1-6.1ubuntu1.2       amd64  Development files for the GNOME XML library
--ii  linux-libc-dev:amd64 4.15.0-30.32                   amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-32.35                   amd64  Linux Kernel Headers for development
 ```
