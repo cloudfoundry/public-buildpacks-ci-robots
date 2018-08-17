@@ -1,15 +1,4 @@
-newpackages_cflinuxfs3_1534520017:
+empty_1534532333:
 
 ```
--ii  console-setup          1.178ubuntu2.3      all   console font and keymap setup program
--ii  console-setup-linux    1.178ubuntu2.3      all   Linux specific part of console-setup
-+ii  console-setup          1.178ubuntu2.6      all   console font and keymap setup program
-+ii  console-setup-linux    1.178ubuntu2.6      all   Linux specific part of console-setup
--ii  keyboard-configuration 1.178ubuntu2.3      all   system-wide keyboard preferences
-+ii  keyboard-configuration 1.178ubuntu2.6      all   system-wide keyboard preferences
-+ii  libffi-dev:amd64       3.2.1-8             amd64 Foreign Function Interface library (development files)
--ii  libpq-dev              10.4-0ubuntu0.18.04 amd64 header files for libpq5 (PostgreSQL library)
--ii  libpq5:amd64           10.4-0ubuntu0.18.04 amd64 PostgreSQL C client library
-+ii  libpq-dev              10.5-0ubuntu0.18.04 amd64 header files for libpq5 (PostgreSQL library)
-+ii  libpq5:amd64           10.5-0ubuntu0.18.04 amd64 PostgreSQL C client library
 ```
