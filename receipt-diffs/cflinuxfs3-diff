@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1534792473:
+empty_1534803680:
 
 ```
--ii  apt                  1.6.3          amd64  commandline package manager
--ii  apt-utils            1.6.3          amd64  package management related utility programs
-+ii  apt                  1.6.3ubuntu0.1 amd64  commandline package manager
-+ii  apt-utils            1.6.3ubuntu0.1 amd64  package management related utility programs
--ii  libapt-inst2.0:amd64 1.6.3          amd64  deb package format runtime library
--ii  libapt-pkg5.0:amd64  1.6.3          amd64  package management runtime library
-+ii  libapt-inst2.0:amd64 1.6.3ubuntu0.1 amd64  deb package format runtime library
-+ii  libapt-pkg5.0:amd64  1.6.3ubuntu0.1 amd64  package management runtime library
 ```
