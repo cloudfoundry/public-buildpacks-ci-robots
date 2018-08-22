@@ -1,14 +1,4 @@
-newpackages_cflinuxfs3_1534954568:
+empty_1534966552:
 
 ```
--ii  libpango-1.0-0:amd64      1.40.14-1          amd64  Layout and rendering of internationalized text
--ii  libpango1.0-0:amd64       1.40.14-1          amd64  Layout and rendering of internationalized text (transitional package)
--ii  libpangocairo-1.0-0:amd64 1.40.14-1          amd64  Layout and rendering of internationalized text
--ii  libpangoft2-1.0-0:amd64   1.40.14-1          amd64  Layout and rendering of internationalized text
-+ii  libpango-1.0-0:amd64      1.40.14-1ubuntu0.1 amd64  Layout and rendering of internationalized text
-+ii  libpango1.0-0:amd64       1.40.14-1ubuntu0.1 amd64  Layout and rendering of internationalized text (transitional package)
-+ii  libpangocairo-1.0-0:amd64 1.40.14-1ubuntu0.1 amd64  Layout and rendering of internationalized text
-+ii  libpangoft2-1.0-0:amd64   1.40.14-1ubuntu0.1 amd64  Layout and rendering of internationalized text
--ii  libpangoxft-1.0-0:amd64   1.40.14-1          amd64  Layout and rendering of internationalized text
-+ii  libpangoxft-1.0-0:amd64   1.40.14-1ubuntu0.1 amd64  Layout and rendering of internationalized text
 ```
