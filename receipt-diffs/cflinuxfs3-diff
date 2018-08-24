@@ -1,4 +1,12 @@
-empty_1534966552:
+newpackages_cflinuxfs3_1535080512:
 
 ```
+-ii  libavcodec57:amd64   7:3.4.2-2                amd64  FFmpeg library with de/encoders for audio/video codecs - runtime files
+-ii  libavutil55:amd64    7:3.4.2-2                amd64  FFmpeg library with functions for simplifying programming - runtime files
++ii  libavcodec57:amd64   7:3.4.4-0ubuntu0.18.04.1 amd64  FFmpeg library with de/encoders for audio/video codecs - runtime files
++ii  libavutil55:amd64    7:3.4.4-0ubuntu0.18.04.1 amd64  FFmpeg library with functions for simplifying programming - runtime files
+-ii  libswresample2:amd64 7:3.4.2-2                amd64  FFmpeg library for audio resampling, rematrixing etc. - runtime files
++ii  libswresample2:amd64 7:3.4.4-0ubuntu0.18.04.1 amd64  FFmpeg library for audio resampling, rematrixing etc. - runtime files
+-ii  linux-libc-dev:amd64 4.15.0-32.35             amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-33.36             amd64  Linux Kernel Headers for development
 ```
