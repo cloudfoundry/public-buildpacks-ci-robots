@@ -1,0 +1,1 @@
+{"tracker_story_id":160100610,"version":"1.15.3","source":{"url":"http://nginx.org/download/nginx-1.15.3.tar.gz","md5":null,"sha256":null},"sha256":"e02b469e1b5d36f993ac463a3a757cdb96e40d111342bbdfaadb098bc9d63709","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx-1.15.3-linux-x64-cflinuxfs3-e02b469e.tgz","source_pgp":"not yet implemented"}
