@@ -1,4 +1,16 @@
-empty_1535398378:
+newpackages_cflinuxfs2_1535656755:
 
 ```
+-ii  libmariadbclient-dev     5.5.59-1ubuntu0.14.04.1 amd64 MariaDB database development files
+-ii  libmariadbclient18:amd64 5.5.59-1ubuntu0.14.04.1 amd64 MariaDB database client library
++ii  libmariadbclient-dev     5.5.61-1ubuntu0.14.04.1 amd64 MariaDB database development files
++ii  libmariadbclient18:amd64 5.5.61-1ubuntu0.14.04.1 amd64 MariaDB database client library
+-ii  libx11-6:amd64           2:1.6.2-1ubuntu2        amd64 X11 client-side library
+-ii  libx11-data              2:1.6.2-1ubuntu2        all   X11 client-side library
+-ii  libx11-dev:amd64         2:1.6.2-1ubuntu2        amd64 X11 client-side library (development headers)
++ii  libx11-6:amd64           2:1.6.2-1ubuntu2.1      amd64 X11 client-side library
++ii  libx11-data              2:1.6.2-1ubuntu2.1      all   X11 client-side library
++ii  libx11-dev:amd64         2:1.6.2-1ubuntu2.1      amd64 X11 client-side library (development headers)
+-ii  mariadb-common           5.5.59-1ubuntu0.14.04.1 all   MariaDB common metapackage
++ii  mariadb-common           5.5.61-1ubuntu0.14.04.1 all   MariaDB common metapackage
 ```
