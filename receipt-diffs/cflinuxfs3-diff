@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1535656499:
+empty_1535667825:
 
 ```
--ii  libx11-6:amd64   2:1.6.4-3          amd64 X11 client-side library
--ii  libx11-data      2:1.6.4-3          all   X11 client-side library
--ii  libx11-dev:amd64 2:1.6.4-3          amd64 X11 client-side library (development headers)
-+ii  libx11-6:amd64   2:1.6.4-3ubuntu0.1 amd64 X11 client-side library
-+ii  libx11-data      2:1.6.4-3ubuntu0.1 all   X11 client-side library
-+ii  libx11-dev:amd64 2:1.6.4-3ubuntu0.1 amd64 X11 client-side library (development headers)
 ```
