@@ -1,8 +1,14 @@
-newpackages_cflinuxfs3_1536570781:
+newpackages_cflinuxfs3_1536592275:
 
 ```
--ii  base-files        10.1ubuntu2.2    amd64  Debian base system miscellaneous files
-+ii  base-files        10.1ubuntu2.3    amd64  Debian base system miscellaneous files
--ii  libunbound2:amd64 1.6.7-1ubuntu2.1 amd64  library implementing DNS resolution and validation
-+ii  libunbound2:amd64 1.6.7-1ubuntu2.2 amd64  library implementing DNS resolution and validation
+-ii  libglib2.0-0:amd64   2.56.1-2ubuntu1         amd64 GLib library of C routines
+-ii  libglib2.0-bin       2.56.1-2ubuntu1         amd64 Programs for the GLib library
+-ii  libglib2.0-data      2.56.1-2ubuntu1         all   Common files for GLib library
+-ii  libglib2.0-dev:amd64 2.56.1-2ubuntu1         amd64 Development files for the GLib library
+-ii  libglib2.0-dev-bin   2.56.1-2ubuntu1         amd64 Development utilities for the GLib library
++ii  libglib2.0-0:amd64   2.56.2-0ubuntu0.18.04.1 amd64 GLib library of C routines
++ii  libglib2.0-bin       2.56.2-0ubuntu0.18.04.1 amd64 Programs for the GLib library
++ii  libglib2.0-data      2.56.2-0ubuntu0.18.04.1 all   Common files for GLib library
++ii  libglib2.0-dev:amd64 2.56.2-0ubuntu0.18.04.1 amd64 Development files for the GLib library
++ii  libglib2.0-dev-bin   2.56.2-0ubuntu0.18.04.1 amd64 Development utilities for the GLib library
 ```
