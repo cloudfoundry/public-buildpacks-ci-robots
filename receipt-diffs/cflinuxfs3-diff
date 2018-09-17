@@ -1,4 +1,20 @@
-empty_1536682527:
+newpackages_cflinuxfs3_1537175655:
 
 ```
+-ii  curl                       7.58.0-2ubuntu3.2  amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.58.0-2ubuntu3.3  amd64 command line tool for transferring data with URL syntax
+-ii  initramfs-tools            0.130ubuntu3.1     all   generic modular initramfs generator (automation)
+-ii  initramfs-tools-bin        0.130ubuntu3.1     amd64 binaries used by initramfs-tools
+-ii  initramfs-tools-core       0.130ubuntu3.1     all   generic modular initramfs generator (core tools)
++ii  initramfs-tools            0.130ubuntu3.3     all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin        0.130ubuntu3.3     amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core       0.130ubuntu3.3     all   generic modular initramfs generator (core tools)
+-ii  libcryptsetup12:amd64      2:2.0.2-1ubuntu1   amd64 disk encryption support - shared library
++ii  libcryptsetup12:amd64      2:2.0.2-1ubuntu1.1 amd64 disk encryption support - shared library
+-ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.2  amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.58.0-2ubuntu3.2  amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.2  amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.3  amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.58.0-2ubuntu3.3  amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.3  amd64 development files and documentation for libcurl (OpenSSL flavour)
 ```
