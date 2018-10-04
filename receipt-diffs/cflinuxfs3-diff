@@ -1,4 +1,12 @@
-empty_1538501636:
+newpackages_cflinuxfs3_1538687679:
 
 ```
+-ii  initramfs-tools      0.130ubuntu3.3  all   generic modular initramfs generator (automation)
+-ii  initramfs-tools-bin  0.130ubuntu3.3  amd64 binaries used by initramfs-tools
+-ii  initramfs-tools-core 0.130ubuntu3.3  all   generic modular initramfs generator (core tools)
++ii  initramfs-tools      0.130ubuntu3.5  all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin  0.130ubuntu3.5  amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core 0.130ubuntu3.5  all   generic modular initramfs generator (core tools)
+-ii  libapparmor1:amd64   2.12-4ubuntu5   amd64 changehat AppArmor library
++ii  libapparmor1:amd64   2.12-4ubuntu5.1 amd64 changehat AppArmor library
 ```
