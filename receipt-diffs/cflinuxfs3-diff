@@ -1,24 +1,4 @@
-newpackages_cflinuxfs3_1540199655:
+empty_1540224727:
 
 ```
--ii  bsdutils            1:2.31.1-0.4ubuntu3.1 amd64  basic utilities from 4.4BSD-Lite
-+ii  bsdutils            1:2.31.1-0.4ubuntu3.2 amd64  basic utilities from 4.4BSD-Lite
--ii  fdisk               2.31.1-0.4ubuntu3.1   amd64  collection of partitioning utilities
-+ii  fdisk               2.31.1-0.4ubuntu3.2   amd64  collection of partitioning utilities
--ii  libblkid1:amd64     2.31.1-0.4ubuntu3.1   amd64  block device ID library
-+ii  libblkid1:amd64     2.31.1-0.4ubuntu3.2   amd64  block device ID library
--ii  libfdisk1:amd64     2.31.1-0.4ubuntu3.1   amd64  fdisk partitioning library
-+ii  libfdisk1:amd64     2.31.1-0.4ubuntu3.2   amd64  fdisk partitioning library
--ii  libmount1:amd64     2.31.1-0.4ubuntu3.1   amd64  device mounting library
-+ii  libmount1:amd64     2.31.1-0.4ubuntu3.2   amd64  device mounting library
--ii  libsmartcols1:amd64 2.31.1-0.4ubuntu3.1   amd64  smart column output alignment library
-+ii  libsmartcols1:amd64 2.31.1-0.4ubuntu3.2   amd64  smart column output alignment library
--ii  libuuid1:amd64      2.31.1-0.4ubuntu3.1   amd64  Universally Unique ID library
-+ii  libuuid1:amd64      2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library
--ii  mount               2.31.1-0.4ubuntu3.1   amd64  tools for mounting and manipulating filesystems
-+ii  mount               2.31.1-0.4ubuntu3.2   amd64  tools for mounting and manipulating filesystems
--ii  util-linux          2.31.1-0.4ubuntu3.1   amd64  miscellaneous system utilities
--ii  uuid-dev:amd64      2.31.1-0.4ubuntu3.1   amd64  Universally Unique ID library - headers and static libraries
-+ii  util-linux          2.31.1-0.4ubuntu3.2   amd64  miscellaneous system utilities
-+ii  uuid-dev:amd64      2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library - headers and static libraries
 ```
