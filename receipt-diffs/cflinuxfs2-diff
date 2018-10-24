@@ -1,4 +1,10 @@
-empty_1540275910:
+newpackages_cflinuxfs2_1540397918:
 
 ```
+-ii  libaudiofile1:amd64    0.3.6-2ubuntu0.14.04.2  amd64 Open-source version of SGI's audiofile library
++ii  libaudiofile1:amd64    0.3.6-2ubuntu0.14.04.3  amd64 Open-source version of SGI's audiofile library
+-rc  libmysqlclient18:amd64 5.5.61-0ubuntu0.14.04.1 amd64 MySQL database client library
++rc  libmysqlclient18:amd64 5.5.62-0ubuntu0.14.04.1 amd64 MySQL database client library
+-ii  mysql-common           5.5.61-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
++ii  mysql-common           5.5.62-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
 ```
