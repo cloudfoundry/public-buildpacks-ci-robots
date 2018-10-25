@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1540476884:
+empty_1540507637:
 
 ```
--ii  libaudiofile1:amd64    0.3.6-2ubuntu0.14.04.2  amd64 Open-source version of SGI's audiofile library
-+ii  libaudiofile1:amd64    0.3.6-2ubuntu0.14.04.3  amd64 Open-source version of SGI's audiofile library
--rc  libmysqlclient18:amd64 5.5.61-0ubuntu0.14.04.1 amd64 MySQL database client library
-+rc  libmysqlclient18:amd64 5.5.62-0ubuntu0.14.04.1 amd64 MySQL database client library
--ii  mysql-common           5.5.61-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
-+ii  mysql-common           5.5.62-0ubuntu0.14.04.1 all   MySQL database common files, e.g. /etc/mysql/my.cnf
--ii  tzdata                 2018e-0ubuntu0.14.04    all   time zone and daylight-saving time data
-+ii  tzdata                 2018f-0ubuntu0.14.04    all   time zone and daylight-saving time data
 ```
