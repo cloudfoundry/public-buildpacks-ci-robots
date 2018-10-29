@@ -1,4 +1,16 @@
-empty_1540224727:
+newpackages_cflinuxfs3_1540804457:
 
 ```
+-ii  apt                  1.6.3ubuntu0.1       amd64 commandline package manager
+-ii  apt-utils            1.6.3ubuntu0.1       amd64 package management related utility programs
++ii  apt                  1.6.6                amd64 commandline package manager
++ii  apt-utils            1.6.6                amd64 package management related utility programs
+-ii  libapt-inst2.0:amd64 1.6.3ubuntu0.1       amd64 deb package format runtime library
+-ii  libapt-pkg5.0:amd64  1.6.3ubuntu0.1       amd64 package management runtime library
++ii  libapt-inst2.0:amd64 1.6.6                amd64 deb package format runtime library
++ii  libapt-pkg5.0:amd64  1.6.6                amd64 package management runtime library
+-ii  linux-libc-dev:amd64 4.15.0-36.39         amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-38.41         amd64 Linux Kernel Headers for development
+-ii  tzdata               2018e-0ubuntu0.18.04 all   time zone and daylight-saving time data
++ii  tzdata               2018f-0ubuntu0.18.04 all   time zone and daylight-saving time data
 ```
