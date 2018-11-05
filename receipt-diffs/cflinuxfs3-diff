@@ -1,14 +1,8 @@
-newpackages_cflinuxfs3_1541434673:
+newpackages_cflinuxfs3_1541458413:
 
 ```
--ii  libsystemd0:amd64 237-3ubuntu10.3  amd64  systemd utility library
-+ii  libsystemd0:amd64 237-3ubuntu10.4  amd64  systemd utility library
--ii  libudev1:amd64    237-3ubuntu10.3  amd64  libudev shared library
-+ii  libudev1:amd64    237-3ubuntu10.4  amd64  libudev shared library
--ii  systemd           237-3ubuntu10.3  amd64  system and service manager
--ii  systemd-sysv      237-3ubuntu10.3  amd64  system and service manager - SysV links
-+ii  systemd           237-3ubuntu10.4  amd64  system and service manager
-+ii  systemd-sysv      237-3ubuntu10.4  amd64  system and service manager - SysV links
--ii  udev              237-3ubuntu10.3  amd64  /dev/ and hotplug management daemon
-+ii  udev              237-3ubuntu10.4  amd64  /dev/ and hotplug management daemon
+-ii  libruby2.5:amd64 2.5.1-1ubuntu1   amd64  Libraries necessary to run Ruby 2.5
++ii  libruby2.5:amd64 2.5.1-1ubuntu1.1 amd64  Libraries necessary to run Ruby 2.5
+-ii  ruby2.5          2.5.1-1ubuntu1   amd64  Interpreter of object-oriented scripting language Ruby
++ii  ruby2.5          2.5.1-1ubuntu1.1 amd64  Interpreter of object-oriented scripting language Ruby
 ```
