@@ -1,4 +1,7 @@
-empty_1541010138:
+newpackages_cflinuxfs2_1541412964:
 
 ```
++ii  ubuntu-advantage-tools 10ubuntu0.14.04.2 all   management tools for Ubuntu Advantage
+-ii  ubuntu-minimal         1.325             amd64 Minimal core of Ubuntu
++ii  ubuntu-minimal         1.325.1           amd64 Minimal core of Ubuntu
 ```
