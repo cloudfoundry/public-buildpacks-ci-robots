@@ -1,6 +1,10 @@
-newpackages_cflinuxfs3_1541458413:
+newpackages_cflinuxfs3_1541463261:
 
 ```
+-ii  kmod             24-1ubuntu3      amd64  tools for managing Linux kernel modules
++ii  kmod             24-1ubuntu3.1    amd64  tools for managing Linux kernel modules
+-ii  libkmod2:amd64   24-1ubuntu3      amd64  libkmod shared library
++ii  libkmod2:amd64   24-1ubuntu3.1    amd64  libkmod shared library
 -ii  libruby2.5:amd64 2.5.1-1ubuntu1   amd64  Libraries necessary to run Ruby 2.5
 +ii  libruby2.5:amd64 2.5.1-1ubuntu1.1 amd64  Libraries necessary to run Ruby 2.5
 -ii  ruby2.5          2.5.1-1ubuntu1   amd64  Interpreter of object-oriented scripting language Ruby
