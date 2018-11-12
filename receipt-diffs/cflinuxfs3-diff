@@ -1,4 +1,9 @@
-empty_1541640973:
+newpackages_cflinuxfs3_1542017632:
 
 ```
+-ii  netplan.io        0.40.1~18.04.2   amd64 YAML network configuration abstraction for various backends
++ii  netplan.io        0.36.3           amd64 YAML network configuration abstraction for various backends
+-ii  nplan             0.40.1~18.04.2   all   YAML network configuration abstraction - transitional package
++ii  nplan             0.36.3           all   YAML network configuration abstraction - transitional package
+-ii  python3-netifaces 0.10.4-0.1build4 amd64 portable network interface information - Python 3.x
 ```
