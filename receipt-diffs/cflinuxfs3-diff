@@ -1,9 +1,19 @@
-newpackages_cflinuxfs3_1542028485:
+newpackages_cflinuxfs3_1542046519:
 
 ```
+-ii  libsystemd0:amd64 237-3ubuntu10.4  amd64 systemd utility library
++ii  libsystemd0:amd64 237-3ubuntu10.6  amd64 systemd utility library
+-ii  libudev1:amd64    237-3ubuntu10.4  amd64 libudev shared library
++ii  libudev1:amd64    237-3ubuntu10.6  amd64 libudev shared library
 -ii  netplan.io        0.40.1~18.04.2   amd64 YAML network configuration abstraction for various backends
 +ii  netplan.io        0.36.3           amd64 YAML network configuration abstraction for various backends
 -ii  nplan             0.40.1~18.04.2   all   YAML network configuration abstraction - transitional package
 +ii  nplan             0.36.3           all   YAML network configuration abstraction - transitional package
 -ii  python3-netifaces 0.10.4-0.1build4 amd64 portable network interface information - Python 3.x
+-ii  systemd           237-3ubuntu10.4  amd64 system and service manager
+-ii  systemd-sysv      237-3ubuntu10.4  amd64 system and service manager - SysV links
++ii  systemd           237-3ubuntu10.6  amd64 system and service manager
++ii  systemd-sysv      237-3ubuntu10.6  amd64 system and service manager - SysV links
+-ii  udev              237-3ubuntu10.4  amd64 /dev/ and hotplug management daemon
++ii  udev              237-3ubuntu10.6  amd64 /dev/ and hotplug management daemon
 ```
