@@ -1,22 +1,6 @@
-newpackages_cflinuxfs2_1542129483:
+newpackages_cflinuxfs2_1542140190:
 
 ```
--ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.4       amd64  Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.4       amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.5       amd64  Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.5       amd64  Interactive high-level object-oriented language (standard library, version 2.7)
--ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.6 amd64  Shared Python runtime library (version 3.4)
--ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.6 amd64  Minimal subset of the Python language (version 3.4)
--ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.6 amd64  Interactive high-level object-oriented language (standard library, version 3.4)
-+ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.7 amd64  Shared Python runtime library (version 3.4)
-+ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.7 amd64  Minimal subset of the Python language (version 3.4)
-+ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.7 amd64  Interactive high-level object-oriented language (standard library, version 3.4)
--ii  python2.7                  2.7.6-8ubuntu0.4       amd64  Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.6-8ubuntu0.4       amd64  Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.6-8ubuntu0.5       amd64  Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.6-8ubuntu0.5       amd64  Minimal subset of the Python language (version 2.7)
--ii  python3.4                  3.4.3-1ubuntu1~14.04.6 amd64  Interactive high-level object-oriented language (version 3.4)
--ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.6 amd64  Minimal subset of the Python language (version 3.4)
-+ii  python3.4                  3.4.3-1ubuntu1~14.04.7 amd64  Interactive high-level object-oriented language (version 3.4)
-+ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.7 amd64  Minimal subset of the Python language (version 3.4)
+-ii  linux-libc-dev:amd64  3.13.0-161.211  amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64  3.13.0-162.212  amd64  Linux Kernel Headers for development
 ```
