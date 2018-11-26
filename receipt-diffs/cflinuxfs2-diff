@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1543227466:
+empty_1543236861:
 
 ```
--ii  libldap-2.4-2:amd64 2.4.31-1+nmu2ubuntu8.4 amd64 OpenLDAP libraries
--ii  libldap2-dev:amd64  2.4.31-1+nmu2ubuntu8.4 amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64 2.4.31-1+nmu2ubuntu8.5 amd64 OpenLDAP libraries
-+ii  libldap2-dev:amd64  2.4.31-1+nmu2ubuntu8.5 amd64 OpenLDAP development libraries
--ii  mercurial           2.8.2-1ubuntu1.3       amd64 easy-to-use, scalable distributed version control system
--ii  mercurial-common    2.8.2-1ubuntu1.3       all   easy-to-use, scalable distributed version control system (common files)
-+ii  mercurial           2.8.2-1ubuntu1.4       amd64 easy-to-use, scalable distributed version control system
-+ii  mercurial-common    2.8.2-1ubuntu1.4       all   easy-to-use, scalable distributed version control system (common files)
 ```
