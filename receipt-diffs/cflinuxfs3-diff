@@ -1,4 +1,12 @@
-empty_1542679067:
+newpackages_cflinuxfs3_1543227230:
 
 ```
+-ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1           amd64 OpenLDAP libraries
+-ii  libldap-common      2.4.45+dfsg-1ubuntu1           all   OpenLDAP common files for libraries
+-ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1           amd64 OpenLDAP development libraries
++ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.1         amd64 OpenLDAP libraries
++ii  libldap-common      2.4.45+dfsg-1ubuntu1.1         all   OpenLDAP common files for libraries
++ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1.1         amd64 OpenLDAP development libraries
+-ii  libwbclient0:amd64  2:4.7.6+dfsg~ubuntu-0ubuntu2.2 amd64 Samba winbind client library
++ii  libwbclient0:amd64  2:4.7.6+dfsg~ubuntu-0ubuntu2.4 amd64 Samba winbind client library
 ```
