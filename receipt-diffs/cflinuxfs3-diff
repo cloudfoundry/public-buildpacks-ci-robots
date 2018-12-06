@@ -1,4 +1,11 @@
-empty_1543879230:
+newpackages_cflinuxfs3_1544109345:
 
 ```
+-ii  libwavpack1:amd64 5.1.0-2ubuntu1.1 amd64 audio codec (lossy and lossless) - library
++ii  libwavpack1:amd64 5.1.0-2ubuntu1.2 amd64 audio codec (lossy and lossless) - library
+-ii  netplan.io        0.36.3           amd64 YAML network configuration abstraction for various backends
++ii  netplan.io        0.40.1~18.04.3   amd64 YAML network configuration abstraction for various backends
+-ii  nplan             0.36.3           all   YAML network configuration abstraction - transitional package
++ii  nplan             0.40.1~18.04.3   all   YAML network configuration abstraction - transitional package
++ii  python3-netifaces 0.10.4-0.1build4 amd64 portable network interface information - Python 3.x
 ```
