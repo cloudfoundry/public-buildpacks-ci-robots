@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1544556009:
+empty_1544566112:
 
 ```
--ii  libcups2:amd64      1.7.2-0ubuntu1.10  amd64  Common UNIX Printing System(tm) - Core library
-+ii  libcups2:amd64      1.7.2-0ubuntu1.11  amd64  Common UNIX Printing System(tm) - Core library
--ii  libpixman-1-0:amd64 0.30.2-2ubuntu1.1  amd64  pixel-manipulation library for X and cairo
--ii  libpixman-1-dev     0.30.2-2ubuntu1.1  amd64  pixel-manipulation library for X and cairo (development files)
-+ii  libpixman-1-0:amd64 0.30.2-2ubuntu1.2  amd64  pixel-manipulation library for X and cairo
-+ii  libpixman-1-dev     0.30.2-2ubuntu1.2  amd64  pixel-manipulation library for X and cairo (development files)
 ```
