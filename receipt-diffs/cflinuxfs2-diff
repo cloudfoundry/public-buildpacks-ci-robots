@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1545355083:
+empty_1545366198:
 
 ```
--ii  libudev1:amd64       204-5ubuntu20.28 amd64  libudev shared library
-+ii  libudev1:amd64       204-5ubuntu20.29 amd64  libudev shared library
--ii  linux-libc-dev:amd64 3.13.0-163.213   amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-164.214   amd64  Linux Kernel Headers for development
--ii  udev                 204-5ubuntu20.28 amd64  /dev/ and hotplug management daemon
-+ii  udev                 204-5ubuntu20.29 amd64  /dev/ and hotplug management daemon
 ```
