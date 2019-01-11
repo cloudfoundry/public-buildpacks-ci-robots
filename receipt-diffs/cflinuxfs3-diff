@@ -1,4 +1,40 @@
-empty_1546856053:
+newpackages_cflinuxfs3_1547219694:
 
 ```
+-ii  comerr-dev:amd64     2.1-1.44.1-1                   amd64 common error description library - headers and static libraries
++ii  comerr-dev:amd64     2.1-1.44.1-1ubuntu1            amd64 common error description library - headers and static libraries
+-ii  e2fsprogs            1.44.1-1                       amd64 ext2/ext3/ext4 file system utilities
++ii  e2fsprogs            1.44.1-1ubuntu1                amd64 ext2/ext3/ext4 file system utilities
+-ii  gpgv                 2.2.4-1ubuntu1.1               amd64 GNU privacy guard - signature verification tool
++ii  gpgv                 2.2.4-1ubuntu1.2               amd64 GNU privacy guard - signature verification tool
+-ii  initramfs-tools      0.130ubuntu3.5                 all   generic modular initramfs generator (automation)
+-ii  initramfs-tools-bin  0.130ubuntu3.5                 amd64 binaries used by initramfs-tools
+-ii  initramfs-tools-core 0.130ubuntu3.5                 all   generic modular initramfs generator (core tools)
++ii  initramfs-tools      0.130ubuntu3.6                 all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin  0.130ubuntu3.6                 amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core 0.130ubuntu3.6                 all   generic modular initramfs generator (core tools)
+-ii  libcom-err2:amd64    1.44.1-1                       amd64 common error description library
++ii  libcom-err2:amd64    1.44.1-1ubuntu1                amd64 common error description library
+-ii  libext2fs2:amd64     1.44.1-1                       amd64 ext2/ext3/ext4 file system libraries
++ii  libext2fs2:amd64     1.44.1-1ubuntu1                amd64 ext2/ext3/ext4 file system libraries
+-ii  libss2:amd64         1.44.1-1                       amd64 command-line interface parsing library
++ii  libss2:amd64         1.44.1-1ubuntu1                amd64 command-line interface parsing library
+-ii  libsystemd0:amd64    237-3ubuntu10.9                amd64 systemd utility library
++ii  libsystemd0:amd64    237-3ubuntu10.11               amd64 systemd utility library
+-ii  libudev1:amd64       237-3ubuntu10.9                amd64 libudev shared library
++ii  libudev1:amd64       237-3ubuntu10.11               amd64 libudev shared library
+-ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.5 amd64 Samba winbind client library
++ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.6 amd64 Samba winbind client library
+-ii  netplan.io           0.40.1~18.04.3                 amd64 YAML network configuration abstraction for various backends
++ii  netplan.io           0.40.1~18.04.4                 amd64 YAML network configuration abstraction for various backends
+-ii  nplan                0.40.1~18.04.3                 all   YAML network configuration abstraction - transitional package
++ii  nplan                0.40.1~18.04.4                 all   YAML network configuration abstraction - transitional package
+-ii  psmisc               23.1-1                         amd64 utilities that use the proc file system
++ii  psmisc               23.1-1ubuntu0.1                amd64 utilities that use the proc file system
+-ii  systemd              237-3ubuntu10.9                amd64 system and service manager
+-ii  systemd-sysv         237-3ubuntu10.9                amd64 system and service manager - SysV links
++ii  systemd              237-3ubuntu10.11               amd64 system and service manager
++ii  systemd-sysv         237-3ubuntu10.11               amd64 system and service manager - SysV links
+-ii  udev                 237-3ubuntu10.9                amd64 /dev/ and hotplug management daemon
++ii  udev                 237-3ubuntu10.11               amd64 /dev/ and hotplug management daemon
 ```
