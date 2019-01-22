@@ -1,18 +1,4 @@
-newpackages_cflinuxfs2_1548166715:
+empty_1548176448:
 
 ```
--ii  apt                  1.0.1ubuntu2.18   amd64  commandline package manager
--ii  apt-utils            1.0.1ubuntu2.18   amd64  package management related utility programs
-+ii  apt                  1.0.1ubuntu2.19   amd64  commandline package manager
-+ii  apt-utils            1.0.1ubuntu2.19   amd64  package management related utility programs
--ii  libapt-inst1.5:amd64 1.0.1ubuntu2.18   amd64  deb package format runtime library
--ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.18   amd64  package management runtime library
-+ii  libapt-inst1.5:amd64 1.0.1ubuntu2.19   amd64  deb package format runtime library
-+ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.19   amd64  package management runtime library
--ii  libtiff5:amd64       4.0.3-7ubuntu0.9  amd64  Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64   4.0.3-7ubuntu0.9  amd64  Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64     4.0.3-7ubuntu0.9  amd64  Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff5:amd64       4.0.3-7ubuntu0.10 amd64  Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64   4.0.3-7ubuntu0.10 amd64  Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64     4.0.3-7ubuntu0.10 amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
