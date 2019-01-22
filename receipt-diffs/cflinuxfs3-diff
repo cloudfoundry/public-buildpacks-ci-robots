@@ -1,24 +1,40 @@
-newpackages_cflinuxfs3_1548065589:
+newpackages_cflinuxfs3_1548166555:
 
 ```
--ii  bsdutils            1:2.31.1-0.4ubuntu3.2 amd64  basic utilities from 4.4BSD-Lite
-+ii  bsdutils            1:2.31.1-0.4ubuntu3.3 amd64  basic utilities from 4.4BSD-Lite
--ii  fdisk               2.31.1-0.4ubuntu3.2   amd64  collection of partitioning utilities
-+ii  fdisk               2.31.1-0.4ubuntu3.3   amd64  collection of partitioning utilities
--ii  libblkid1:amd64     2.31.1-0.4ubuntu3.2   amd64  block device ID library
-+ii  libblkid1:amd64     2.31.1-0.4ubuntu3.3   amd64  block device ID library
--ii  libfdisk1:amd64     2.31.1-0.4ubuntu3.2   amd64  fdisk partitioning library
-+ii  libfdisk1:amd64     2.31.1-0.4ubuntu3.3   amd64  fdisk partitioning library
--ii  libmount1:amd64     2.31.1-0.4ubuntu3.2   amd64  device mounting library
-+ii  libmount1:amd64     2.31.1-0.4ubuntu3.3   amd64  device mounting library
--ii  libsmartcols1:amd64 2.31.1-0.4ubuntu3.2   amd64  smart column output alignment library
-+ii  libsmartcols1:amd64 2.31.1-0.4ubuntu3.3   amd64  smart column output alignment library
--ii  libuuid1:amd64      2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library
-+ii  libuuid1:amd64      2.31.1-0.4ubuntu3.3   amd64  Universally Unique ID library
--ii  mount               2.31.1-0.4ubuntu3.2   amd64  tools for mounting and manipulating filesystems
-+ii  mount               2.31.1-0.4ubuntu3.3   amd64  tools for mounting and manipulating filesystems
--ii  util-linux          2.31.1-0.4ubuntu3.2   amd64  miscellaneous system utilities
--ii  uuid-dev:amd64      2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library - headers and static libraries
-+ii  util-linux          2.31.1-0.4ubuntu3.3   amd64  miscellaneous system utilities
-+ii  uuid-dev:amd64      2.31.1-0.4ubuntu3.3   amd64  Universally Unique ID library - headers and static libraries
+-ii  apt                  1.6.6                 amd64  commandline package manager
+-ii  apt-utils            1.6.6                 amd64  package management related utility programs
++ii  apt                  1.6.6ubuntu0.1        amd64  commandline package manager
++ii  apt-utils            1.6.6ubuntu0.1        amd64  package management related utility programs
+-ii  bsdutils             1:2.31.1-0.4ubuntu3.2 amd64  basic utilities from 4.4BSD-Lite
++ii  bsdutils             1:2.31.1-0.4ubuntu3.3 amd64  basic utilities from 4.4BSD-Lite
+-ii  fdisk                2.31.1-0.4ubuntu3.2   amd64  collection of partitioning utilities
++ii  fdisk                2.31.1-0.4ubuntu3.3   amd64  collection of partitioning utilities
+-ii  libapt-inst2.0:amd64 1.6.6                 amd64  deb package format runtime library
+-ii  libapt-pkg5.0:amd64  1.6.6                 amd64  package management runtime library
++ii  libapt-inst2.0:amd64 1.6.6ubuntu0.1        amd64  deb package format runtime library
++ii  libapt-pkg5.0:amd64  1.6.6ubuntu0.1        amd64  package management runtime library
+-ii  libblkid1:amd64      2.31.1-0.4ubuntu3.2   amd64  block device ID library
++ii  libblkid1:amd64      2.31.1-0.4ubuntu3.3   amd64  block device ID library
+-ii  libfdisk1:amd64      2.31.1-0.4ubuntu3.2   amd64  fdisk partitioning library
++ii  libfdisk1:amd64      2.31.1-0.4ubuntu3.3   amd64  fdisk partitioning library
+-ii  libmount1:amd64      2.31.1-0.4ubuntu3.2   amd64  device mounting library
++ii  libmount1:amd64      2.31.1-0.4ubuntu3.3   amd64  device mounting library
+-ii  libsmartcols1:amd64  2.31.1-0.4ubuntu3.2   amd64  smart column output alignment library
++ii  libsmartcols1:amd64  2.31.1-0.4ubuntu3.3   amd64  smart column output alignment library
+-ii  libtiff-dev          4.0.9-5               amd64  Tag Image File Format library (TIFF), development files, current version
+-ii  libtiff5:amd64       4.0.9-5               amd64  Tag Image File Format (TIFF) library
+-ii  libtiff5-dev:amd64   4.0.9-5               amd64  Tag Image File Format library (TIFF), development files
+-ii  libtiffxx5:amd64     4.0.9-5               amd64  Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev          4.0.9-5ubuntu0.1      amd64  Tag Image File Format library (TIFF), development files, current version
++ii  libtiff5:amd64       4.0.9-5ubuntu0.1      amd64  Tag Image File Format (TIFF) library
++ii  libtiff5-dev:amd64   4.0.9-5ubuntu0.1      amd64  Tag Image File Format library (TIFF), development files
++ii  libtiffxx5:amd64     4.0.9-5ubuntu0.1      amd64  Tag Image File Format (TIFF) library -- C++ interface
+-ii  libuuid1:amd64       2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library
++ii  libuuid1:amd64       2.31.1-0.4ubuntu3.3   amd64  Universally Unique ID library
+-ii  mount                2.31.1-0.4ubuntu3.2   amd64  tools for mounting and manipulating filesystems
++ii  mount                2.31.1-0.4ubuntu3.3   amd64  tools for mounting and manipulating filesystems
+-ii  util-linux           2.31.1-0.4ubuntu3.2   amd64  miscellaneous system utilities
+-ii  uuid-dev:amd64       2.31.1-0.4ubuntu3.2   amd64  Universally Unique ID library - headers and static libraries
++ii  util-linux           2.31.1-0.4ubuntu3.3   amd64  miscellaneous system utilities
++ii  uuid-dev:amd64       2.31.1-0.4ubuntu3.3   amd64  Universally Unique ID library - headers and static libraries
 ```
