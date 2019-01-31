@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1548965538:
+empty_1548975691:
 
 ```
--ii  apt                  1.6.6ubuntu0.1   amd64  commandline package manager
--ii  apt-utils            1.6.6ubuntu0.1   amd64  package management related utility programs
-+ii  apt                  1.6.8            amd64  commandline package manager
-+ii  apt-utils            1.6.8            amd64  package management related utility programs
--ii  libapt-inst2.0:amd64 1.6.6ubuntu0.1   amd64  deb package format runtime library
--ii  libapt-pkg5.0:amd64  1.6.6ubuntu0.1   amd64  package management runtime library
-+ii  libapt-inst2.0:amd64 1.6.8            amd64  deb package format runtime library
-+ii  libapt-pkg5.0:amd64  1.6.8            amd64  package management runtime library
--ii  linux-libc-dev:amd64 4.15.0-43.46     amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-45.48     amd64  Linux Kernel Headers for development
--ii  tar                  1.29b-2          amd64  GNU version of the tar archiving utility
-+ii  tar                  1.29b-2ubuntu0.1 amd64  GNU version of the tar archiving utility
 ```
