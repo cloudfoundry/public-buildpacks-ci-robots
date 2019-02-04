@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1549277048:
+empty_1549312329:
 
 ```
--ii  libavahi-client3:amd64     0.6.31-4ubuntu1.2 amd64  Avahi client library
--ii  libavahi-common-data:amd64 0.6.31-4ubuntu1.2 amd64  Avahi common data files
--ii  libavahi-common3:amd64     0.6.31-4ubuntu1.2 amd64  Avahi common library
-+ii  libavahi-client3:amd64     0.6.31-4ubuntu1.3 amd64  Avahi client library
-+ii  libavahi-common-data:amd64 0.6.31-4ubuntu1.3 amd64  Avahi common data files
-+ii  libavahi-common3:amd64     0.6.31-4ubuntu1.3 amd64  Avahi common library
--ii  linux-libc-dev:amd64       3.13.0-164.214    amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       3.13.0-165.215    amd64  Linux Kernel Headers for development
 ```
