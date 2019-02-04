@@ -1,20 +1,14 @@
-newpackages_cflinuxfs3_1549280601:
+newpackages_cflinuxfs3_1549309948:
 
 ```
--ii  kmod                               24-1ubuntu3.1      amd64 tools for managing Linux kernel modules
-+ii  kmod                               24-1ubuntu3.2      amd64 tools for managing Linux kernel modules
--ii  libcairo-gobject2:amd64            1.15.10-2          amd64 Cairo 2D vector graphics library (GObject library)
--ii  libcairo-script-interpreter2:amd64 1.15.10-2          amd64 Cairo 2D vector graphics library (script interpreter)
--ii  libcairo2:amd64                    1.15.10-2          amd64 Cairo 2D vector graphics library
--ii  libcairo2-dev:amd64                1.15.10-2          amd64 Development files for the Cairo 2D graphics library
-+ii  libcairo-gobject2:amd64            1.15.10-2ubuntu0.1 amd64 Cairo 2D vector graphics library (GObject library)
-+ii  libcairo-script-interpreter2:amd64 1.15.10-2ubuntu0.1 amd64 Cairo 2D vector graphics library (script interpreter)
-+ii  libcairo2:amd64                    1.15.10-2ubuntu0.1 amd64 Cairo 2D vector graphics library
-+ii  libcairo2-dev:amd64                1.15.10-2ubuntu0.1 amd64 Development files for the Cairo 2D graphics library
--ii  libdrm-common                      2.4.91-2           all   Userspace interface to kernel DRM services -- common files
--ii  libdrm2:amd64                      2.4.91-2           amd64 Userspace interface to kernel DRM services -- runtime
-+ii  libdrm-common                      2.4.95-1~18.04.1   all   Userspace interface to kernel DRM services -- common files
-+ii  libdrm2:amd64                      2.4.95-1~18.04.1   amd64 Userspace interface to kernel DRM services -- runtime
--ii  libkmod2:amd64                     24-1ubuntu3.1      amd64 libkmod shared library
-+ii  libkmod2:amd64                     24-1ubuntu3.2      amd64 libkmod shared library
+-ii  comerr-dev:amd64  2.1-1.44.1-1ubuntu1   amd64  common error description library - headers and static libraries
++ii  comerr-dev:amd64  2.1-1.44.1-1ubuntu1.1 amd64  common error description library - headers and static libraries
+-ii  e2fsprogs         1.44.1-1ubuntu1       amd64  ext2/ext3/ext4 file system utilities
++ii  e2fsprogs         1.44.1-1ubuntu1.1     amd64  ext2/ext3/ext4 file system utilities
+-ii  libcom-err2:amd64 1.44.1-1ubuntu1       amd64  common error description library
++ii  libcom-err2:amd64 1.44.1-1ubuntu1.1     amd64  common error description library
+-ii  libext2fs2:amd64  1.44.1-1ubuntu1       amd64  ext2/ext3/ext4 file system libraries
++ii  libext2fs2:amd64  1.44.1-1ubuntu1.1     amd64  ext2/ext3/ext4 file system libraries
+-ii  libss2:amd64      1.44.1-1ubuntu1       amd64  command-line interface parsing library
++ii  libss2:amd64      1.44.1-1ubuntu1.1     amd64  command-line interface parsing library
 ```
