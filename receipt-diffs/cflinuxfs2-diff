@@ -1,20 +1,4 @@
-newpackages_cflinuxfs2_1551089781:
+empty_1551099348:
 
 ```
--ii  bind9-host  1:9.9.5.dfsg-3ubuntu0.18  amd64  Version of 'host' bundled with BIND 9.X
-+ii  bind9-host  1:9.9.5.dfsg-3ubuntu0.19  amd64  Version of 'host' bundled with BIND 9.X
--ii  dnsutils    1:9.9.5.dfsg-3ubuntu0.18  amd64  Clients provided with BIND
-+ii  dnsutils    1:9.9.5.dfsg-3ubuntu0.19  amd64  Clients provided with BIND
--ii  libbind9-90 1:9.9.5.dfsg-3ubuntu0.18  amd64  BIND9 Shared Library used by BIND
-+ii  libbind9-90 1:9.9.5.dfsg-3ubuntu0.19  amd64  BIND9 Shared Library used by BIND
--ii  libdns100   1:9.9.5.dfsg-3ubuntu0.18  amd64  DNS Shared Library used by BIND
-+ii  libdns100   1:9.9.5.dfsg-3ubuntu0.19  amd64  DNS Shared Library used by BIND
--ii  libisc95    1:9.9.5.dfsg-3ubuntu0.18  amd64  ISC Shared Library used by BIND
--ii  libisccc90  1:9.9.5.dfsg-3ubuntu0.18  amd64  Command Channel Library used by BIND
--ii  libisccfg90 1:9.9.5.dfsg-3ubuntu0.18  amd64  Config File Handling Library used by BIND
-+ii  libisc95    1:9.9.5.dfsg-3ubuntu0.19  amd64  ISC Shared Library used by BIND
-+ii  libisccc90  1:9.9.5.dfsg-3ubuntu0.19  amd64  Command Channel Library used by BIND
-+ii  libisccfg90 1:9.9.5.dfsg-3ubuntu0.19  amd64  Config File Handling Library used by BIND
--ii  liblwres90  1:9.9.5.dfsg-3ubuntu0.18  amd64  Lightweight Resolver Library used by BIND
-+ii  liblwres90  1:9.9.5.dfsg-3ubuntu0.19  amd64  Lightweight Resolver Library used by BIND
 ```
