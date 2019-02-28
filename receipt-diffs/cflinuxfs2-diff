@@ -1,4 +1,10 @@
-empty_1551366452:
+newpackages_cflinuxfs2_1551367653:
 
 ```
+-ii  libgd-dev:amd64  2.1.0-3ubuntu0.10  amd64 GD Graphics Library (development version)
+-ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.10  all   GD Graphics Library (transitional package)
+-ii  libgd3:amd64     2.1.0-3ubuntu0.10  amd64 GD Graphics Library
++ii  libgd-dev:amd64  2.1.0-3ubuntu0.11  amd64 GD Graphics Library (development version)
++ii  libgd2-noxpm-dev 2.1.0-3ubuntu0.11  all   GD Graphics Library (transitional package)
++ii  libgd3:amd64     2.1.0-3ubuntu0.11  amd64 GD Graphics Library
 ```
