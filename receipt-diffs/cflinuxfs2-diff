@@ -1,16 +1,4 @@
-newpackages_cflinuxfs2_1551321865:
+empty_1551366452:
 
 ```
--ii  apt                  1.0.1ubuntu2.19  amd64  commandline package manager
--ii  apt-utils            1.0.1ubuntu2.19  amd64  package management related utility programs
-+ii  apt                  1.0.1ubuntu2.20  amd64  commandline package manager
-+ii  apt-utils            1.0.1ubuntu2.20  amd64  package management related utility programs
--ii  libapt-inst1.5:amd64 1.0.1ubuntu2.19  amd64  deb package format runtime library
--ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.19  amd64  package management runtime library
-+ii  libapt-inst1.5:amd64 1.0.1ubuntu2.20  amd64  deb package format runtime library
-+ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.20  amd64  package management runtime library
--ii  libsqlite3-0:amd64   3.8.2-1ubuntu2.1 amd64  SQLite 3 shared library
--ii  libsqlite3-dev:amd64 3.8.2-1ubuntu2.1 amd64  SQLite 3 development files
-+ii  libsqlite3-0:amd64   3.8.2-1ubuntu2.2 amd64  SQLite 3 shared library
-+ii  libsqlite3-dev:amd64 3.8.2-1ubuntu2.2 amd64  SQLite 3 development files
 ```
