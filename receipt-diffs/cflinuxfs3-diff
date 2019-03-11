@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1552295527:
+empty_1552314604:
 
 ```
--ii  libpam-modules:amd64 1.1.8-3.6ubuntu2         amd64 Pluggable Authentication Modules for PAM
--ii  libpam-modules-bin   1.1.8-3.6ubuntu2         amd64 Pluggable Authentication Modules for PAM - helper binaries
--ii  libpam-runtime       1.1.8-3.6ubuntu2         all   Runtime support for the PAM library
--ii  libpam0g:amd64       1.1.8-3.6ubuntu2         amd64 Pluggable Authentication Modules library
-+ii  libpam-modules:amd64 1.1.8-3.6ubuntu2.18.04.1 amd64 Pluggable Authentication Modules for PAM
-+ii  libpam-modules-bin   1.1.8-3.6ubuntu2.18.04.1 amd64 Pluggable Authentication Modules for PAM - helper binaries
-+ii  libpam-runtime       1.1.8-3.6ubuntu2.18.04.1 all   Runtime support for the PAM library
-+ii  libpam0g:amd64       1.1.8-3.6ubuntu2.18.04.1 amd64 Pluggable Authentication Modules library
 ```
