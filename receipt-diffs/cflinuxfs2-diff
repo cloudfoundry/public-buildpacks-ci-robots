@@ -1,10 +1,4 @@
-newpackages_cflinuxfs2_1552400288:
+empty_1552409716:
 
 ```
--ii  libtiff5:amd64     4.0.3-7ubuntu0.10  amd64  Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64 4.0.3-7ubuntu0.10  amd64  Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64   4.0.3-7ubuntu0.10  amd64  Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff5:amd64     4.0.3-7ubuntu0.11  amd64  Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64 4.0.3-7ubuntu0.11  amd64  Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64   4.0.3-7ubuntu0.11  amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
