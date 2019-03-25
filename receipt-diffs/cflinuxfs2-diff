@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1553505418:
+empty_1553514598:
 
 ```
--ii  apt                  1.0.1ubuntu2.20  amd64  commandline package manager
--ii  apt-utils            1.0.1ubuntu2.20  amd64  package management related utility programs
-+ii  apt                  1.0.1ubuntu2.22  amd64  commandline package manager
-+ii  apt-utils            1.0.1ubuntu2.22  amd64  package management related utility programs
--ii  libapt-inst1.5:amd64 1.0.1ubuntu2.20  amd64  deb package format runtime library
--ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.20  amd64  package management runtime library
-+ii  libapt-inst1.5:amd64 1.0.1ubuntu2.22  amd64  deb package format runtime library
-+ii  libapt-pkg4.12:amd64 1.0.1ubuntu2.22  amd64  package management runtime library
 ```
