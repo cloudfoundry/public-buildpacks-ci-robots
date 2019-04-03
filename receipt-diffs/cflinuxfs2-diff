@@ -1,4 +1,16 @@
-empty_1554260339:
+newpackages_cflinuxfs2_1554297710:
 
 ```
+-ii  busybox-initramfs 1:1.21.0-1ubuntu1   amd64  Standalone shell setup for initramfs
++ii  busybox-initramfs 1:1.21.0-1ubuntu1.4 amd64  Standalone shell setup for initramfs
+-ii  libc-bin          2.19-0ubuntu6.14    amd64  Embedded GNU C Library: Binaries
+-ii  libc-dev-bin      2.19-0ubuntu6.14    amd64  Embedded GNU C Library: Development binaries
+-ii  libc6:amd64       2.19-0ubuntu6.14    amd64  Embedded GNU C Library: Shared libraries
+-ii  libc6-dev:amd64   2.19-0ubuntu6.14    amd64  Embedded GNU C Library: Development Libraries and Header Files
++ii  libc-bin          2.19-0ubuntu6.15    amd64  Embedded GNU C Library: Binaries
++ii  libc-dev-bin      2.19-0ubuntu6.15    amd64  Embedded GNU C Library: Development binaries
++ii  libc6:amd64       2.19-0ubuntu6.15    amd64  Embedded GNU C Library: Shared libraries
++ii  libc6-dev:amd64   2.19-0ubuntu6.15    amd64  Embedded GNU C Library: Development Libraries and Header Files
+-ii  multiarch-support 2.19-0ubuntu6.14    amd64  Transitional package to ensure multiarch compatibility
++ii  multiarch-support 2.19-0ubuntu6.15    amd64  Transitional package to ensure multiarch compatibility
 ```
