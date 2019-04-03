@@ -1,6 +1,4 @@
-newpackages_cflinuxfs3_1554297451:
+empty_1554307387:
 
 ```
--ii  busybox-initramfs  1:1.27.2-2ubuntu3.1  amd64  Standalone shell setup for initramfs
-+ii  busybox-initramfs  1:1.27.2-2ubuntu3.2  amd64  Standalone shell setup for initramfs
 ```
