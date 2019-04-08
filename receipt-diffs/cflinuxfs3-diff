@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1554732492:
+empty_1554748979:
 
 ```
--ii  libsystemd0:amd64  237-3ubuntu10.17               amd64  systemd utility library
-+ii  libsystemd0:amd64  237-3ubuntu10.19               amd64  systemd utility library
--ii  libudev1:amd64     237-3ubuntu10.17               amd64  libudev shared library
-+ii  libudev1:amd64     237-3ubuntu10.19               amd64  libudev shared library
--ii  libwbclient0:amd64 2:4.7.6+dfsg~ubuntu-0ubuntu2.7 amd64  Samba winbind client library
-+ii  libwbclient0:amd64 2:4.7.6+dfsg~ubuntu-0ubuntu2.9 amd64  Samba winbind client library
--ii  systemd            237-3ubuntu10.17               amd64  system and service manager
--ii  systemd-sysv       237-3ubuntu10.17               amd64  system and service manager - SysV links
-+ii  systemd            237-3ubuntu10.19               amd64  system and service manager
-+ii  systemd-sysv       237-3ubuntu10.19               amd64  system and service manager - SysV links
--ii  udev               237-3ubuntu10.17               amd64  /dev/ and hotplug management daemon
-+ii  udev               237-3ubuntu10.19               amd64  /dev/ and hotplug management daemon
 ```
