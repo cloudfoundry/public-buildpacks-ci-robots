@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1554995878:
+empty_1555013526:
 
 ```
--ii  libidn11:amd64   1.33-2.1ubuntu1.1 amd64  GNU Libidn library, implementation of IETF IDN specifications
--ii  libidn11-dev     1.33-2.1ubuntu1.1 amd64  Development files for GNU Libidn, an IDN library
-+ii  libidn11:amd64   1.33-2.1ubuntu1.2 amd64  GNU Libidn library, implementation of IETF IDN specifications
-+ii  libidn11-dev     1.33-2.1ubuntu1.2 amd64  Development files for GNU Libidn, an IDN library
--ii  libruby2.5:amd64 2.5.1-1ubuntu1.1  amd64  Libraries necessary to run Ruby 2.5
-+ii  libruby2.5:amd64 2.5.1-1ubuntu1.2  amd64  Libraries necessary to run Ruby 2.5
--ii  ruby2.5          2.5.1-1ubuntu1.1  amd64  Interpreter of object-oriented scripting language Ruby
-+ii  ruby2.5          2.5.1-1ubuntu1.2  amd64  Interpreter of object-oriented scripting language Ruby
 ```
