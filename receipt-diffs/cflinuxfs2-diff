@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1555430311:
+empty_1555440946:
 
 ```
--ii  libxslt1-dev:amd64 1.1.28-2ubuntu0.1  amd64  XSLT 1.0 processing library - development kit
--ii  libxslt1.1:amd64   1.1.28-2ubuntu0.1  amd64  XSLT 1.0 processing library - runtime library
-+ii  libxslt1-dev:amd64 1.1.28-2ubuntu0.2  amd64  XSLT 1.0 processing library - development kit
-+ii  libxslt1.1:amd64   1.1.28-2ubuntu0.2  amd64  XSLT 1.0 processing library - runtime library
 ```
