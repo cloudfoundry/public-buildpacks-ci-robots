@@ -1,4 +1,48 @@
-empty_1555961696:
+newpackages_cflinuxfs3_1556529398:
 
 ```
+-ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS lookup utility (deprecated)
++ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS lookup utility (deprecated)
+-ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.5 amd64 Clients provided with BIND
++ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.7 amd64 Clients provided with BIND
+-ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.5 amd64 BIND9 Shared Library used by BIND
++ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.7 amd64 BIND9 Shared Library used by BIND
+-ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.5 amd64 Exported DNS Shared Library
+-ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS Shared Library used by BIND
++ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.7 amd64 Exported DNS Shared Library
++ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS Shared Library used by BIND
+-ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS Shared Library used by BIND
+-ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.5 amd64 Exported ISC Shared Library
+-ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.5 amd64 ISC Shared Library used by BIND
+-ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.5 amd64 Command Channel Library used by BIND
+-ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.5 amd64 Config File Handling Library used by BIND
++ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS Shared Library used by BIND
++ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.7 amd64 Exported ISC Shared Library
++ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64 ISC Shared Library used by BIND
++ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.7 amd64 Command Channel Library used by BIND
++ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.7 amd64 Config File Handling Library used by BIND
+-ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.5 amd64 Lightweight Resolver Library used by BIND
++ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.7 amd64 Lightweight Resolver Library used by BIND
+-ii  libnuma1:amd64         2.0.11-2.1               amd64 Libraries for controlling NUMA policy
++ii  libnuma1:amd64         2.0.11-2.1ubuntu0.1      amd64 Libraries for controlling NUMA policy
+-ii  libsystemd0:amd64      237-3ubuntu10.20         amd64 systemd utility library
++ii  libsystemd0:amd64      237-3ubuntu10.21         amd64 systemd utility library
+-ii  libudev1:amd64         237-3ubuntu10.20         amd64 libudev shared library
++ii  libudev1:amd64         237-3ubuntu10.21         amd64 libudev shared library
+-ii  linux-libc-dev:amd64   4.15.0-47.50             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64   4.15.0-48.51             amd64 Linux Kernel Headers for development
+-ii  login                  1:4.5-1ubuntu1           amd64 system login tools
++ii  login                  1:4.5-1ubuntu2           amd64 system login tools
+-ii  passwd                 1:4.5-1ubuntu1           amd64 change and administer password and group data
++ii  passwd                 1:4.5-1ubuntu2           amd64 change and administer password and group data
+-ii  systemd                237-3ubuntu10.20         amd64 system and service manager
+-ii  systemd-sysv           237-3ubuntu10.20         amd64 system and service manager - SysV links
++ii  systemd                237-3ubuntu10.21         amd64 system and service manager
++ii  systemd-sysv           237-3ubuntu10.21         amd64 system and service manager - SysV links
+-ii  tzdata                 2018i-0ubuntu0.18.04     all   time zone and daylight-saving time data
++ii  tzdata                 2019a-0ubuntu0.18.04     all   time zone and daylight-saving time data
+-ii  udev                   237-3ubuntu10.20         amd64 /dev/ and hotplug management daemon
++ii  udev                   237-3ubuntu10.21         amd64 /dev/ and hotplug management daemon
+-ii  ureadahead             0.100.0-20               amd64 Read required files in advance
++ii  ureadahead             0.100.0-21               amd64 Read required files in advance
 ```
