@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3_1556637420:
+newpackages_cflinuxfs3_1556651861:
 
 ```
 -ii  bind9-host                1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS lookup utility (deprecated)
@@ -77,6 +77,10 @@ newpackages_cflinuxfs3_1556637420:
 +ii  libmpx2:amd64             8.3.0-6ubuntu1~18.04     amd64 Intel memory protection extensions (runtime)
 -ii  libnuma1:amd64            2.0.11-2.1               amd64 Libraries for controlling NUMA policy
 +ii  libnuma1:amd64            2.0.11-2.1ubuntu0.1      amd64 Libraries for controlling NUMA policy
+-ii  libpng-dev:amd64          1.6.34-1ubuntu0.18.04.1  amd64 PNG library - development (version 1.6)
+-ii  libpng16-16:amd64         1.6.34-1ubuntu0.18.04.1  amd64 PNG library - runtime (version 1.6)
++ii  libpng-dev:amd64          1.6.34-1ubuntu0.18.04.2  amd64 PNG library - development (version 1.6)
++ii  libpng16-16:amd64         1.6.34-1ubuntu0.18.04.2  amd64 PNG library - runtime (version 1.6)
 -ii  libquadmath0:amd64        8.2.0-1ubuntu2~18.04     amd64 GCC Quad-Precision Math Library
 +ii  libquadmath0:amd64        8.3.0-6ubuntu1~18.04     amd64 GCC Quad-Precision Math Library
 -ii  libstdc++-7-dev:amd64     7.3.0-27ubuntu1~18.04    amd64 GNU Standard C++ Library v3 (development files)
