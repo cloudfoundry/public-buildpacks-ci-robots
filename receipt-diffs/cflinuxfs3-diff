@@ -1,116 +1,14 @@
-newpackages_cflinuxfs3_1556651861:
+newpackages_cflinuxfs3_1556736925:
 
 ```
--ii  bind9-host                1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS lookup utility (deprecated)
--ii  binutils                  2.30-21ubuntu1~18.04     amd64 GNU assembler, linker and binary utilities
--ii  binutils-common:amd64     2.30-21ubuntu1~18.04     amd64 Common files for the GNU assembler, linker and binary utilities
--ii  binutils-x86-64-linux-gnu 2.30-21ubuntu1~18.04     amd64 GNU binary utilities, for x86-64-linux-gnu target
-+ii  bind9-host                1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS lookup utility (deprecated)
-+ii  binutils                  2.30-21ubuntu1~18.04.1   amd64 GNU assembler, linker and binary utilities
-+ii  binutils-common:amd64     2.30-21ubuntu1~18.04.1   amd64 Common files for the GNU assembler, linker and binary utilities
-+ii  binutils-x86-64-linux-gnu 2.30-21ubuntu1~18.04.1   amd64 GNU binary utilities, for x86-64-linux-gnu target
--ii  cpp                       4:7.3.0-3ubuntu2.1       amd64 GNU C preprocessor (cpp)
--ii  cpp-7                     7.3.0-27ubuntu1~18.04    amd64 GNU C preprocessor
-+ii  cpp                       4:7.4.0-1ubuntu2.2       amd64 GNU C preprocessor (cpp)
-+ii  cpp-7                     7.4.0-1ubuntu1~18.04     amd64 GNU C preprocessor
--ii  dnsutils                  1:9.11.3+dfsg-1ubuntu1.5 amd64 Clients provided with BIND
-+ii  dnsutils                  1:9.11.3+dfsg-1ubuntu1.7 amd64 Clients provided with BIND
--ii  g++                       4:7.3.0-3ubuntu2.1       amd64 GNU C++ compiler
--ii  g++-7                     7.3.0-27ubuntu1~18.04    amd64 GNU C++ compiler
--ii  gcc                       4:7.3.0-3ubuntu2.1       amd64 GNU C compiler
--ii  gcc-7                     7.3.0-27ubuntu1~18.04    amd64 GNU C compiler
--ii  gcc-7-base:amd64          7.3.0-27ubuntu1~18.04    amd64 GCC, the GNU Compiler Collection (base package)
--ii  gcc-8-base:amd64          8.2.0-1ubuntu2~18.04     amd64 GCC, the GNU Compiler Collection (base package)
-+ii  g++                       4:7.4.0-1ubuntu2.2       amd64 GNU C++ compiler
-+ii  g++-7                     7.4.0-1ubuntu1~18.04     amd64 GNU C++ compiler
-+ii  gcc                       4:7.4.0-1ubuntu2.2       amd64 GNU C compiler
-+ii  gcc-7                     7.4.0-1ubuntu1~18.04     amd64 GNU C compiler
-+ii  gcc-7-base:amd64          7.4.0-1ubuntu1~18.04     amd64 GCC, the GNU Compiler Collection (base package)
-+ii  gcc-8-base:amd64          8.3.0-6ubuntu1~18.04     amd64 GCC, the GNU Compiler Collection (base package)
--ii  libasan4:amd64            7.3.0-27ubuntu1~18.04    amd64 AddressSanitizer -- a fast memory error detector
-+ii  libasan4:amd64            7.4.0-1ubuntu1~18.04     amd64 AddressSanitizer -- a fast memory error detector
--ii  libatomic1:amd64          8.2.0-1ubuntu2~18.04     amd64 support library providing __atomic built-in functions
-+ii  libatomic1:amd64          8.3.0-6ubuntu1~18.04     amd64 support library providing __atomic built-in functions
--ii  libbind9-160:amd64        1:9.11.3+dfsg-1ubuntu1.5 amd64 BIND9 Shared Library used by BIND
--ii  libbinutils:amd64         2.30-21ubuntu1~18.04     amd64 GNU binary utilities (private shared library)
-+ii  libbind9-160:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64 BIND9 Shared Library used by BIND
-+ii  libbinutils:amd64         2.30-21ubuntu1~18.04.1   amd64 GNU binary utilities (private shared library)
--ii  libcc1-0:amd64            8.2.0-1ubuntu2~18.04     amd64 GCC cc1 plugin for GDB
-+ii  libcc1-0:amd64            8.3.0-6ubuntu1~18.04     amd64 GCC cc1 plugin for GDB
--ii  libcilkrts5:amd64         7.3.0-27ubuntu1~18.04    amd64 Intel Cilk Plus language extensions (runtime)
-+ii  libcilkrts5:amd64         7.4.0-1ubuntu1~18.04     amd64 Intel Cilk Plus language extensions (runtime)
--ii  libdns-export1100         1:9.11.3+dfsg-1ubuntu1.5 amd64 Exported DNS Shared Library
--ii  libdns1100:amd64          1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100         1:9.11.3+dfsg-1ubuntu1.7 amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64          1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS Shared Library used by BIND
--ii  libgcc-7-dev:amd64        7.3.0-27ubuntu1~18.04    amd64 GCC support library (development files)
--ii  libgcc1:amd64             1:8.2.0-1ubuntu2~18.04   amd64 GCC support library
-+ii  libgcc-7-dev:amd64        7.4.0-1ubuntu1~18.04     amd64 GCC support library (development files)
-+ii  libgcc1:amd64             1:8.3.0-6ubuntu1~18.04   amd64 GCC support library
--ii  libgfortran4:amd64        7.3.0-27ubuntu1~18.04    amd64 Runtime library for GNU Fortran applications
-+ii  libgfortran4:amd64        7.4.0-1ubuntu1~18.04     amd64 Runtime library for GNU Fortran applications
--ii  libgomp1:amd64            8.2.0-1ubuntu2~18.04     amd64 GCC OpenMP (GOMP) support library
-+ii  libgomp1:amd64            8.3.0-6ubuntu1~18.04     amd64 GCC OpenMP (GOMP) support library
--ii  libirs160:amd64           1:9.11.3+dfsg-1ubuntu1.5 amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64    1:9.11.3+dfsg-1ubuntu1.5 amd64 Exported ISC Shared Library
--ii  libisc169:amd64           1:9.11.3+dfsg-1ubuntu1.5 amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64         1:9.11.3+dfsg-1ubuntu1.5 amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64        1:9.11.3+dfsg-1ubuntu1.5 amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64           1:9.11.3+dfsg-1ubuntu1.7 amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64    1:9.11.3+dfsg-1ubuntu1.7 amd64 Exported ISC Shared Library
-+ii  libisc169:amd64           1:9.11.3+dfsg-1ubuntu1.7 amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64         1:9.11.3+dfsg-1ubuntu1.7 amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64 Config File Handling Library used by BIND
--ii  libitm1:amd64             8.2.0-1ubuntu2~18.04     amd64 GNU Transactional Memory Library
-+ii  libitm1:amd64             8.3.0-6ubuntu1~18.04     amd64 GNU Transactional Memory Library
--ii  libldap-2.4-2:amd64       2.4.45+dfsg-1ubuntu1.1   amd64 OpenLDAP libraries
--ii  libldap-common            2.4.45+dfsg-1ubuntu1.1   all   OpenLDAP common files for libraries
--ii  libldap2-dev:amd64        2.4.45+dfsg-1ubuntu1.1   amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64       2.4.45+dfsg-1ubuntu1.2   amd64 OpenLDAP libraries
-+ii  libldap-common            2.4.45+dfsg-1ubuntu1.2   all   OpenLDAP common files for libraries
-+ii  libldap2-dev:amd64        2.4.45+dfsg-1ubuntu1.2   amd64 OpenLDAP development libraries
--ii  liblsan0:amd64            8.2.0-1ubuntu2~18.04     amd64 LeakSanitizer -- a memory leak detector (runtime)
-+ii  liblsan0:amd64            8.3.0-6ubuntu1~18.04     amd64 LeakSanitizer -- a memory leak detector (runtime)
--ii  liblwres160:amd64         1:9.11.3+dfsg-1ubuntu1.5 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64         1:9.11.3+dfsg-1ubuntu1.7 amd64 Lightweight Resolver Library used by BIND
--ii  libmpx2:amd64             8.2.0-1ubuntu2~18.04     amd64 Intel memory protection extensions (runtime)
-+ii  libmpx2:amd64             8.3.0-6ubuntu1~18.04     amd64 Intel memory protection extensions (runtime)
--ii  libnuma1:amd64            2.0.11-2.1               amd64 Libraries for controlling NUMA policy
-+ii  libnuma1:amd64            2.0.11-2.1ubuntu0.1      amd64 Libraries for controlling NUMA policy
--ii  libpng-dev:amd64          1.6.34-1ubuntu0.18.04.1  amd64 PNG library - development (version 1.6)
--ii  libpng16-16:amd64         1.6.34-1ubuntu0.18.04.1  amd64 PNG library - runtime (version 1.6)
-+ii  libpng-dev:amd64          1.6.34-1ubuntu0.18.04.2  amd64 PNG library - development (version 1.6)
-+ii  libpng16-16:amd64         1.6.34-1ubuntu0.18.04.2  amd64 PNG library - runtime (version 1.6)
--ii  libquadmath0:amd64        8.2.0-1ubuntu2~18.04     amd64 GCC Quad-Precision Math Library
-+ii  libquadmath0:amd64        8.3.0-6ubuntu1~18.04     amd64 GCC Quad-Precision Math Library
--ii  libstdc++-7-dev:amd64     7.3.0-27ubuntu1~18.04    amd64 GNU Standard C++ Library v3 (development files)
--ii  libstdc++6:amd64          8.2.0-1ubuntu2~18.04     amd64 GNU Standard C++ Library v3
-+ii  libstdc++-7-dev:amd64     7.4.0-1ubuntu1~18.04     amd64 GNU Standard C++ Library v3 (development files)
-+ii  libstdc++6:amd64          8.3.0-6ubuntu1~18.04     amd64 GNU Standard C++ Library v3
--ii  libsystemd0:amd64         237-3ubuntu10.20         amd64 systemd utility library
-+ii  libsystemd0:amd64         237-3ubuntu10.21         amd64 systemd utility library
--ii  libtsan0:amd64            8.2.0-1ubuntu2~18.04     amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
-+ii  libtsan0:amd64            8.3.0-6ubuntu1~18.04     amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
--ii  libubsan0:amd64           7.3.0-27ubuntu1~18.04    amd64 UBSan -- undefined behaviour sanitizer (runtime)
--ii  libudev1:amd64            237-3ubuntu10.20         amd64 libudev shared library
-+ii  libubsan0:amd64           7.4.0-1ubuntu1~18.04     amd64 UBSan -- undefined behaviour sanitizer (runtime)
-+ii  libudev1:amd64            237-3ubuntu10.21         amd64 libudev shared library
--ii  libwavpack1:amd64         5.1.0-2ubuntu1.2         amd64 audio codec (lossy and lossless) - library
-+ii  libwavpack1:amd64         5.1.0-2ubuntu1.3         amd64 audio codec (lossy and lossless) - library
--ii  linux-libc-dev:amd64      4.15.0-47.50             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64      4.15.0-48.51             amd64 Linux Kernel Headers for development
--ii  login                     1:4.5-1ubuntu1           amd64 system login tools
-+ii  login                     1:4.5-1ubuntu2           amd64 system login tools
--ii  passwd                    1:4.5-1ubuntu1           amd64 change and administer password and group data
-+ii  passwd                    1:4.5-1ubuntu2           amd64 change and administer password and group data
--ii  systemd                   237-3ubuntu10.20         amd64 system and service manager
--ii  systemd-sysv              237-3ubuntu10.20         amd64 system and service manager - SysV links
-+ii  systemd                   237-3ubuntu10.21         amd64 system and service manager
-+ii  systemd-sysv              237-3ubuntu10.21         amd64 system and service manager - SysV links
--ii  tzdata                    2018i-0ubuntu0.18.04     all   time zone and daylight-saving time data
-+ii  tzdata                    2019a-0ubuntu0.18.04     all   time zone and daylight-saving time data
--ii  udev                      237-3ubuntu10.20         amd64 /dev/ and hotplug management daemon
-+ii  udev                      237-3ubuntu10.21         amd64 /dev/ and hotplug management daemon
--ii  ureadahead                0.100.0-20               amd64 Read required files in advance
-+ii  ureadahead                0.100.0-21               amd64 Read required files in advance
+-ii  libglib2.0-0:amd64   2.56.3-0ubuntu0.18.04.1  amd64 GLib library of C routines
+-ii  libglib2.0-bin       2.56.3-0ubuntu0.18.04.1  amd64 Programs for the GLib library
+-ii  libglib2.0-data      2.56.3-0ubuntu0.18.04.1  all   Common files for GLib library
+-ii  libglib2.0-dev:amd64 2.56.3-0ubuntu0.18.04.1  amd64 Development files for the GLib library
+-ii  libglib2.0-dev-bin   2.56.3-0ubuntu0.18.04.1  amd64 Development utilities for the GLib library
++ii  libglib2.0-0:amd64   2.56.4-0ubuntu0.18.04.2  amd64 GLib library of C routines
++ii  libglib2.0-bin       2.56.4-0ubuntu0.18.04.2  amd64 Programs for the GLib library
++ii  libglib2.0-data      2.56.4-0ubuntu0.18.04.2  all   Common files for GLib library
++ii  libglib2.0-dev:amd64 2.56.4-0ubuntu0.18.04.2  amd64 Development files for the GLib library
++ii  libglib2.0-dev-bin   2.56.4-0ubuntu0.18.04.2  amd64 Development utilities for the GLib library
 ```
