@@ -1,6 +1,8 @@
-newpackages_cflinuxfs3_1557181331:
+newpackages_cflinuxfs3_1557440384:
 
 ```
--ii  distro-info-data  0.37ubuntu0.4  all  information about the distributions' releases (data files)
-+ii  distro-info-data  0.37ubuntu0.5  all  information about the distributions' releases (data files)
+-ii  netplan.io 0.40.1~18.04.4        amd64 YAML network configuration abstraction for various backends
++ii  netplan.io 0.96-0ubuntu0.18.04.4 amd64 YAML network configuration abstraction for various backends
+-ii  nplan      0.40.1~18.04.4        all   YAML network configuration abstraction - transitional package
++ii  nplan      0.96-0ubuntu0.18.04.4 all   YAML network configuration abstraction - transitional package
 ```
