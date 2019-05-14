@@ -1,4 +1,14 @@
-empty_1557738788:
+newpackages_cflinuxfs3_1557872237:
 
 ```
+-ii  isc-dhcp-client      4.3.5-3ubuntu7                  amd64  DHCP client for automatically obtaining an IP address
++ii  isc-dhcp-client      4.3.5-3ubuntu7.1                amd64  DHCP client for automatically obtaining an IP address
+-ii  libpq-dev            10.7-0ubuntu0.18.04.1           amd64  header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64         10.7-0ubuntu0.18.04.1           amd64  PostgreSQL C client library
++ii  libpq-dev            10.8-0ubuntu0.18.04.1           amd64  header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64         10.8-0ubuntu0.18.04.1           amd64  PostgreSQL C client library
+-ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.9  amd64  Samba winbind client library
++ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.10 amd64  Samba winbind client library
+-ii  linux-libc-dev:amd64 4.15.0-48.51                    amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-50.54                    amd64  Linux Kernel Headers for development
 ```
