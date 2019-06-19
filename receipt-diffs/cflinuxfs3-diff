@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1560964648:
+empty_1560973335:
 
 ```
--ii  libsqlite3-0:amd64   3.22.0-1          amd64  SQLite 3 shared library
--ii  libsqlite3-dev:amd64 3.22.0-1          amd64  SQLite 3 development files
-+ii  libsqlite3-0:amd64   3.22.0-1ubuntu0.1 amd64  SQLite 3 shared library
-+ii  libsqlite3-dev:amd64 3.22.0-1ubuntu0.1 amd64  SQLite 3 development files
 ```
