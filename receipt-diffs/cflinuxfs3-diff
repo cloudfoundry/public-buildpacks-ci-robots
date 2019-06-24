@@ -1,46 +1,4 @@
-newpackages_cflinuxfs3_1561367505:
+empty_1561375883:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.7 amd64  DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.8 amd64  DNS lookup utility (deprecated)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.7 amd64  Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.8 amd64  Clients provided with BIND
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.7 amd64  BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.8 amd64  BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.7 amd64  Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.7 amd64  DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.8 amd64  Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.8 amd64  DNS Shared Library used by BIND
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64  DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.7 amd64  Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.7 amd64  ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.7 amd64  Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.7 amd64  Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.8 amd64  DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.8 amd64  Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.8 amd64  ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.8 amd64  Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.8 amd64  Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.7 amd64  Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.8 amd64  Lightweight Resolver Library used by BIND
--ii  libpq-dev              10.8-0ubuntu0.18.04.1    amd64  header files for libpq5 (PostgreSQL library)
--ii  libpq5:amd64           10.8-0ubuntu0.18.04.1    amd64  PostgreSQL C client library
-+ii  libpq-dev              10.9-0ubuntu0.18.04.1    amd64  header files for libpq5 (PostgreSQL library)
-+ii  libpq5:amd64           10.9-0ubuntu0.18.04.1    amd64  PostgreSQL C client library
--ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.2 amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.3 amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.2 amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.3 amd64  Secure Sockets Layer toolkit - shared libraries
--ii  libsystemd0:amd64      237-3ubuntu10.22         amd64  systemd utility library
-+ii  libsystemd0:amd64      237-3ubuntu10.23         amd64  systemd utility library
--ii  libudev1:amd64         237-3ubuntu10.22         amd64  libudev shared library
-+ii  libudev1:amd64         237-3ubuntu10.23         amd64  libudev shared library
--ii  openssl                1.1.1-1ubuntu2.1~18.04.2 amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl                1.1.1-1ubuntu2.1~18.04.3 amd64  Secure Sockets Layer toolkit - cryptographic utility
--ii  systemd                237-3ubuntu10.22         amd64  system and service manager
--ii  systemd-sysv           237-3ubuntu10.22         amd64  system and service manager - SysV links
-+ii  systemd                237-3ubuntu10.23         amd64  system and service manager
-+ii  systemd-sysv           237-3ubuntu10.23         amd64  system and service manager - SysV links
--ii  udev                   237-3ubuntu10.22         amd64  /dev/ and hotplug management daemon
-+ii  udev                   237-3ubuntu10.23         amd64  /dev/ and hotplug management daemon
 ```
