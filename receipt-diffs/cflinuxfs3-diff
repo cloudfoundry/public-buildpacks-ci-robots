@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1561558661:
+empty_1561567600:
 
 ```
--ii  bzip2            1.0.6-8.1          amd64  high-quality block-sorting file compressor - utilities
-+ii  bzip2            1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor - utilities
--ii  libbz2-1.0:amd64 1.0.6-8.1          amd64  high-quality block-sorting file compressor library - runtime
--ii  libbz2-dev:amd64 1.0.6-8.1          amd64  high-quality block-sorting file compressor library - development
-+ii  libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor library - runtime
-+ii  libbz2-dev:amd64 1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor library - development
 ```
