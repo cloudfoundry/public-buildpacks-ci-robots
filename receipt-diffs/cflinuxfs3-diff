@@ -1,4 +1,20 @@
-empty_1562182468:
+newpackages_cflinuxfs3_1562257063:
 
 ```
+-ii  bzip2             1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor - utilities
++ii  bzip2             1.0.6-8.1ubuntu0.2 amd64  high-quality block-sorting file compressor - utilities
+-ii  libbz2-1.0:amd64  1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor library - runtime
+-ii  libbz2-dev:amd64  1.0.6-8.1ubuntu0.1 amd64  high-quality block-sorting file compressor library - development
++ii  libbz2-1.0:amd64  1.0.6-8.1ubuntu0.2 amd64  high-quality block-sorting file compressor library - runtime
++ii  libbz2-dev:amd64  1.0.6-8.1ubuntu0.2 amd64  high-quality block-sorting file compressor library - development
+-ii  libsystemd0:amd64 237-3ubuntu10.23   amd64  systemd utility library
++ii  libsystemd0:amd64 237-3ubuntu10.24   amd64  systemd utility library
+-ii  libudev1:amd64    237-3ubuntu10.23   amd64  libudev shared library
++ii  libudev1:amd64    237-3ubuntu10.24   amd64  libudev shared library
+-ii  systemd           237-3ubuntu10.23   amd64  system and service manager
+-ii  systemd-sysv      237-3ubuntu10.23   amd64  system and service manager - SysV links
++ii  systemd           237-3ubuntu10.24   amd64  system and service manager
++ii  systemd-sysv      237-3ubuntu10.24   amd64  system and service manager - SysV links
+-ii  udev              237-3ubuntu10.23   amd64  /dev/ and hotplug management daemon
++ii  udev              237-3ubuntu10.24   amd64  /dev/ and hotplug management daemon
 ```
