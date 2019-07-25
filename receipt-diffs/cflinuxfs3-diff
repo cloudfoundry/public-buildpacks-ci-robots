@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1564078207:
+empty_1564087029:
 
 ```
-+ii  libodbc1:amd64         2.3.4-1.1ubuntu3  amd64  ODBC library for Unix
-+ii  odbcinst               2.3.4-1.1ubuntu3  amd64  Helper program for accessing odbc ini files
-+ii  odbcinst1debian2:amd64 2.3.4-1.1ubuntu3  amd64  Support library for accessing odbc ini files
-+ii  unixodbc-dev:amd64     2.3.4-1.1ubuntu3  amd64  ODBC libraries for UNIX (development files)
 ```
