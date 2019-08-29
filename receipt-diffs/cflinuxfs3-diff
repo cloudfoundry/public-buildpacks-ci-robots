@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1567030610:
+empty_1567039026:
 
 ```
--ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.3  amd64 OpenLDAP libraries
--ii  libldap-common      2.4.45+dfsg-1ubuntu1.3  all   OpenLDAP common files for libraries
--ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1.3  amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.4  amd64 OpenLDAP libraries
-+ii  libldap-common      2.4.45+dfsg-1ubuntu1.4  all   OpenLDAP common files for libraries
-+ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1.4  amd64 OpenLDAP development libraries
 ```
