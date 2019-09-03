@@ -1,60 +1,14 @@
-newpackages_cflinuxfs3_1567466582:
+newpackages_cflinuxfs3_1567548803:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.8 amd64 DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.9 amd64 DNS lookup utility (deprecated)
--ii  bsdutils               1:2.31.1-0.4ubuntu3.3    amd64 basic utilities from 4.4BSD-Lite
-+ii  bsdutils               1:2.31.1-0.4ubuntu3.4    amd64 basic utilities from 4.4BSD-Lite
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.8 amd64 Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.9 amd64 Clients provided with BIND
--ii  fdisk                  2.31.1-0.4ubuntu3.3      amd64 collection of partitioning utilities
-+ii  fdisk                  2.31.1-0.4ubuntu3.4      amd64 collection of partitioning utilities
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.8 amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.9 amd64 BIND9 Shared Library used by BIND
--ii  libblkid1:amd64        2.31.1-0.4ubuntu3.3      amd64 block device ID library
-+ii  libblkid1:amd64        2.31.1-0.4ubuntu3.4      amd64 block device ID library
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.8 amd64 Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.8 amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.9 amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.9 amd64 DNS Shared Library used by BIND
--ii  libfdisk1:amd64        2.31.1-0.4ubuntu3.3      amd64 fdisk partitioning library
-+ii  libfdisk1:amd64        2.31.1-0.4ubuntu3.4      amd64 fdisk partitioning library
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.8 amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.8 amd64 Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.8 amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.8 amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.8 amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.9 amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.9 amd64 Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.9 amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.9 amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.9 amd64 Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.8 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.9 amd64 Lightweight Resolver Library used by BIND
--ii  libmount1:amd64        2.31.1-0.4ubuntu3.3      amd64 device mounting library
-+ii  libmount1:amd64        2.31.1-0.4ubuntu3.4      amd64 device mounting library
--ii  libsmartcols1:amd64    2.31.1-0.4ubuntu3.3      amd64 smart column output alignment library
-+ii  libsmartcols1:amd64    2.31.1-0.4ubuntu3.4      amd64 smart column output alignment library
--ii  libsystemd0:amd64      237-3ubuntu10.25         amd64 systemd utility library
-+ii  libsystemd0:amd64      237-3ubuntu10.26         amd64 systemd utility library
--ii  libudev1:amd64         237-3ubuntu10.25         amd64 libudev shared library
-+ii  libudev1:amd64         237-3ubuntu10.26         amd64 libudev shared library
--ii  libuuid1:amd64         2.31.1-0.4ubuntu3.3      amd64 Universally Unique ID library
-+ii  libuuid1:amd64         2.31.1-0.4ubuntu3.4      amd64 Universally Unique ID library
--ii  linux-libc-dev:amd64   4.15.0-58.64             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   4.15.0-60.67             amd64 Linux Kernel Headers for development
--ii  mount                  2.31.1-0.4ubuntu3.3      amd64 tools for mounting and manipulating filesystems
-+ii  mount                  2.31.1-0.4ubuntu3.4      amd64 tools for mounting and manipulating filesystems
--ii  systemd                237-3ubuntu10.25         amd64 system and service manager
--ii  systemd-sysv           237-3ubuntu10.25         amd64 system and service manager - SysV links
-+ii  systemd                237-3ubuntu10.26         amd64 system and service manager
-+ii  systemd-sysv           237-3ubuntu10.26         amd64 system and service manager - SysV links
--ii  udev                   237-3ubuntu10.25         amd64 /dev/ and hotplug management daemon
-+ii  udev                   237-3ubuntu10.26         amd64 /dev/ and hotplug management daemon
--ii  util-linux             2.31.1-0.4ubuntu3.3      amd64 miscellaneous system utilities
--ii  uuid-dev:amd64         2.31.1-0.4ubuntu3.3      amd64 Universally Unique ID library - headers and static libraries
-+ii  util-linux             2.31.1-0.4ubuntu3.4      amd64 miscellaneous system utilities
-+ii  uuid-dev:amd64         2.31.1-0.4ubuntu3.4      amd64 Universally Unique ID library - headers and static libraries
--ii  xkb-data               2.23.1-1ubuntu1          all   X Keyboard Extension (XKB) configuration data
-+ii  xkb-data               2.23.1-1ubuntu1.18.04.1  all   X Keyboard Extension (XKB) configuration data
+-ii  libsystemd0:amd64 237-3ubuntu10.26  amd64  systemd utility library
++ii  libsystemd0:amd64 237-3ubuntu10.28  amd64  systemd utility library
+-ii  libudev1:amd64    237-3ubuntu10.26  amd64  libudev shared library
++ii  libudev1:amd64    237-3ubuntu10.28  amd64  libudev shared library
+-ii  systemd           237-3ubuntu10.26  amd64  system and service manager
+-ii  systemd-sysv      237-3ubuntu10.26  amd64  system and service manager - SysV links
++ii  systemd           237-3ubuntu10.28  amd64  system and service manager
++ii  systemd-sysv      237-3ubuntu10.28  amd64  system and service manager - SysV links
+-ii  udev              237-3ubuntu10.26  amd64  /dev/ and hotplug management daemon
++ii  udev              237-3ubuntu10.28  amd64  /dev/ and hotplug management daemon
 ```
