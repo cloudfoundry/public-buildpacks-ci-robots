@@ -1,26 +1,14 @@
-newpackages_cflinuxfs3_1568057188:
+newpackages_cflinuxfs3_1568127302:
 
 ```
--ii  libarchive13:amd64         3.2.2-3.1ubuntu0.3      amd64  Multi-format archive and compression library (shared library)
-+ii  libarchive13:amd64         3.2.2-3.1ubuntu0.4      amd64  Multi-format archive and compression library (shared library)
--ii  libpython2.7-minimal:amd64 2.7.15-4ubuntu4~18.04   amd64  Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.15-4ubuntu4~18.04   amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.15-4ubuntu4~18.04.1 amd64  Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.15-4ubuntu4~18.04.1 amd64  Interactive high-level object-oriented language (standard library, version 2.7)
--ii  libpython3.6:amd64         3.6.8-1~18.04.1         amd64  Shared Python runtime library (version 3.6)
--ii  libpython3.6-minimal:amd64 3.6.8-1~18.04.1         amd64  Minimal subset of the Python language (version 3.6)
--ii  libpython3.6-stdlib:amd64  3.6.8-1~18.04.1         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
-+ii  libpython3.6:amd64         3.6.8-1~18.04.2         amd64  Shared Python runtime library (version 3.6)
-+ii  libpython3.6-minimal:amd64 3.6.8-1~18.04.2         amd64  Minimal subset of the Python language (version 3.6)
-+ii  libpython3.6-stdlib:amd64  3.6.8-1~18.04.2         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
--ii  linux-libc-dev:amd64       4.15.0-60.67            amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       4.15.0-62.69            amd64  Linux Kernel Headers for development
--ii  python2.7                  2.7.15-4ubuntu4~18.04   amd64  Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.15-4ubuntu4~18.04   amd64  Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.15-4ubuntu4~18.04.1 amd64  Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.15-4ubuntu4~18.04.1 amd64  Minimal subset of the Python language (version 2.7)
--ii  python3.6                  3.6.8-1~18.04.1         amd64  Interactive high-level object-oriented language (version 3.6)
--ii  python3.6-minimal          3.6.8-1~18.04.1         amd64  Minimal subset of the Python language (version 3.6)
-+ii  python3.6                  3.6.8-1~18.04.2         amd64  Interactive high-level object-oriented language (version 3.6)
-+ii  python3.6-minimal          3.6.8-1~18.04.2         amd64  Minimal subset of the Python language (version 3.6)
+-ii  libsystemd0:amd64 237-3ubuntu10.28  amd64  systemd utility library
++ii  libsystemd0:amd64 237-3ubuntu10.29  amd64  systemd utility library
+-ii  libudev1:amd64    237-3ubuntu10.28  amd64  libudev shared library
++ii  libudev1:amd64    237-3ubuntu10.29  amd64  libudev shared library
+-ii  systemd           237-3ubuntu10.28  amd64  system and service manager
+-ii  systemd-sysv      237-3ubuntu10.28  amd64  system and service manager - SysV links
++ii  systemd           237-3ubuntu10.29  amd64  system and service manager
++ii  systemd-sysv      237-3ubuntu10.29  amd64  system and service manager - SysV links
+-ii  udev              237-3ubuntu10.28  amd64  /dev/ and hotplug management daemon
++ii  udev              237-3ubuntu10.29  amd64  /dev/ and hotplug management daemon
 ```
