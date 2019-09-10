@@ -1,4 +1,10 @@
-empty_1567037857:
+newpackages_cflinuxfs2_1568125573:
 
 ```
+-ii  libfreetype6:amd64     2.5.2-1ubuntu2.8      amd64 FreeType 2 font engine, shared library files
+-ii  libfreetype6-dev       2.5.2-1ubuntu2.8      amd64 FreeType 2 font engine, development files
++ii  libfreetype6:amd64     2.5.2-1ubuntu2.8+esm1 amd64 FreeType 2 font engine, shared library files
++ii  libfreetype6-dev       2.5.2-1ubuntu2.8+esm1 amd64 FreeType 2 font engine, development files
+-ii  ubuntu-advantage-tools 10ubuntu0.14.04.3     all   management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools 10ubuntu0.14.04.4     all   management tools for Ubuntu Advantage
 ```
