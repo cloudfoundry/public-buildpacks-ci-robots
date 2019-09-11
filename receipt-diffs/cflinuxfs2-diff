@@ -1,22 +1,4 @@
-newpackages_cflinuxfs2_1568207284:
+empty_1568216403:
 
 ```
--ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.5            amd64  Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.5            amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.6-8ubuntu0.6+esm2       amd64  Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.6-8ubuntu0.6+esm2       amd64  Interactive high-level object-oriented language (standard library, version 2.7)
--ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.7      amd64  Shared Python runtime library (version 3.4)
--ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.7      amd64  Minimal subset of the Python language (version 3.4)
--ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.7      amd64  Interactive high-level object-oriented language (standard library, version 3.4)
-+ii  libpython3.4:amd64         3.4.3-1ubuntu1~14.04.7+esm2 amd64  Shared Python runtime library (version 3.4)
-+ii  libpython3.4-minimal:amd64 3.4.3-1ubuntu1~14.04.7+esm2 amd64  Minimal subset of the Python language (version 3.4)
-+ii  libpython3.4-stdlib:amd64  3.4.3-1ubuntu1~14.04.7+esm2 amd64  Interactive high-level object-oriented language (standard library, version 3.4)
--ii  python2.7                  2.7.6-8ubuntu0.5            amd64  Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.6-8ubuntu0.5            amd64  Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.6-8ubuntu0.6+esm2       amd64  Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.6-8ubuntu0.6+esm2       amd64  Minimal subset of the Python language (version 2.7)
--ii  python3.4                  3.4.3-1ubuntu1~14.04.7      amd64  Interactive high-level object-oriented language (version 3.4)
--ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.7      amd64  Minimal subset of the Python language (version 3.4)
-+ii  python3.4                  3.4.3-1ubuntu1~14.04.7+esm2 amd64  Interactive high-level object-oriented language (version 3.4)
-+ii  python3.4-minimal          3.4.3-1ubuntu1~14.04.7+esm2 amd64  Minimal subset of the Python language (version 3.4)
 ```
