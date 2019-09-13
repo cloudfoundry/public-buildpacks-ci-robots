@@ -1,4 +1,16 @@
-empty_1568321229:
+newpackages_cflinuxfs2_1568399206:
 
 ```
+-ii  curl                       7.35.0-1ubuntu2.20+esm2 amd64  command line tool for transferring data with URL syntax
++ii  curl                       7.35.0-1ubuntu2.20+esm3 amd64  command line tool for transferring data with URL syntax
+-ii  libcurl3:amd64             7.35.0-1ubuntu2.20+esm2 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.20+esm2 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.20+esm2 amd64  development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3:amd64             7.35.0-1ubuntu2.20+esm3 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.35.0-1ubuntu2.20+esm3 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4-openssl-dev:amd64 7.35.0-1ubuntu2.20+esm3 amd64  development files and documentation for libcurl (OpenSSL flavour)
+-ii  libexpat1:amd64            2.1.0-4ubuntu1.4+esm1   amd64  XML parsing C library - runtime library
+-ii  libexpat1-dev:amd64        2.1.0-4ubuntu1.4+esm1   amd64  XML parsing C library - development kit
++ii  libexpat1:amd64            2.1.0-4ubuntu1.4+esm2   amd64  XML parsing C library - runtime library
++ii  libexpat1-dev:amd64        2.1.0-4ubuntu1.4+esm2   amd64  XML parsing C library - development kit
 ```
