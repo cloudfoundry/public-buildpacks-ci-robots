@@ -1,16 +1,4 @@
-newpackages_cflinuxfs2_1569866117:
+empty_1569875298:
 
 ```
--ii  comerr-dev           2.1-1.42.9-3ubuntu1.3      amd64  common error description library - headers and static libraries
-+ii  comerr-dev           2.1-1.42.9-3ubuntu1.3+esm1 amd64  common error description library - headers and static libraries
--ii  e2fslibs:amd64       1.42.9-3ubuntu1.3          amd64  ext2/ext3/ext4 file system libraries
--ii  e2fsprogs            1.42.9-3ubuntu1.3          amd64  ext2/ext3/ext4 file system utilities
-+ii  e2fslibs:amd64       1.42.9-3ubuntu1.3+esm1     amd64  ext2/ext3/ext4 file system libraries
-+ii  e2fsprogs            1.42.9-3ubuntu1.3+esm1     amd64  ext2/ext3/ext4 file system utilities
--ii  libcomerr2:amd64     1.42.9-3ubuntu1.3          amd64  common error description library
-+ii  libcomerr2:amd64     1.42.9-3ubuntu1.3+esm1     amd64  common error description library
--ii  libss2:amd64         1.42.9-3ubuntu1.3          amd64  command-line interface parsing library
-+ii  libss2:amd64         1.42.9-3ubuntu1.3+esm1     amd64  command-line interface parsing library
--ii  linux-libc-dev:amd64 3.13.0-172.223             amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-173.224             amd64  Linux Kernel Headers for development
 ```
