@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1571718117:
+empty_1571726842:
 
 ```
--ii  distro-info-data     0.37ubuntu0.5    all   information about the distributions' releases (data files)
-+ii  distro-info-data     0.37ubuntu0.6    all   information about the distributions' releases (data files)
--ii  libtiff-dev          4.0.9-5ubuntu0.2 amd64 Tag Image File Format library (TIFF), development files, current version
--ii  libtiff5:amd64       4.0.9-5ubuntu0.2 amd64 Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64   4.0.9-5ubuntu0.2 amd64 Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64     4.0.9-5ubuntu0.2 amd64 Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff-dev          4.0.9-5ubuntu0.3 amd64 Tag Image File Format library (TIFF), development files, current version
-+ii  libtiff5:amd64       4.0.9-5ubuntu0.3 amd64 Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64   4.0.9-5ubuntu0.3 amd64 Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64     4.0.9-5ubuntu0.3 amd64 Tag Image File Format (TIFF) library -- C++ interface
--ii  linux-libc-dev:amd64 4.15.0-65.74     amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-66.75     amd64 Linux Kernel Headers for development
 ```
