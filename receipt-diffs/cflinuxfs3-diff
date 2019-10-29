@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1572362753:
+empty_1572371435:
 
 ```
--ii  libidn2-0:amd64    2.0.4-1.1build2                 amd64  Internationalized domain names (IDNA2008/TR46) library
--ii  libidn2-0-dev      2.0.4-1.1build2                 amd64  Internationalized domain names (IDNA2008/TR46) development files [dummy]
--ii  libidn2-dev:amd64  2.0.4-1.1build2                 amd64  Internationalized domain names (IDNA2008/TR46) development files
-+ii  libidn2-0:amd64    2.0.4-1.1ubuntu0.2              amd64  Internationalized domain names (IDNA2008/TR46) library
-+ii  libidn2-0-dev      2.0.4-1.1ubuntu0.2              amd64  Internationalized domain names (IDNA2008/TR46) development files [dummy]
-+ii  libidn2-dev:amd64  2.0.4-1.1ubuntu0.2              amd64  Internationalized domain names (IDNA2008/TR46) development files
--ii  libwbclient0:amd64 2:4.7.6+dfsg~ubuntu-0ubuntu2.11 amd64  Samba winbind client library
-+ii  libwbclient0:amd64 2:4.7.6+dfsg~ubuntu-0ubuntu2.13 amd64  Samba winbind client library
 ```
