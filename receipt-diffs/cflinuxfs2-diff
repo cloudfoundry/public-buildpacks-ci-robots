@@ -1,8 +1,8 @@
-newpackages_cflinuxfs2_1572556116:
+newpackages_cflinuxfs2_1572565584:
 
 ```
--ii  file            1:5.14-2ubuntu3.4      amd64  Determines file type using "magic" numbers
-+ii  file            1:5.14-2ubuntu3.4+esm1 amd64  Determines file type using "magic" numbers
--ii  libmagic1:amd64 1:5.14-2ubuntu3.4      amd64  File type determination library using "magic" numbers
-+ii  libmagic1:amd64 1:5.14-2ubuntu3.4+esm1 amd64  File type determination library using "magic" numbers
++ii  python3-pkg-resources  3.3-1ubuntu2       all   Package Discovery and Resource Access using pkg_resources
++ii  python3-yaml           3.10-4ubuntu0.1    amd64 YAML parser and emitter for Python3
+-ii  ubuntu-advantage-tools 10ubuntu0.14.04.4  all   management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools 19.6~ubuntu14.04.3 amd64 management tools for Ubuntu Advantage
 ```
