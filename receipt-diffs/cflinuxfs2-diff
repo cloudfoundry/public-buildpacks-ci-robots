@@ -1,4 +1,8 @@
-empty_1572396614:
+newpackages_cflinuxfs2_1572546586:
 
 ```
+-ii  file            1:5.14-2ubuntu3.4      amd64  Determines file type using "magic" numbers
++ii  file            1:5.14-2ubuntu3.4+esm1 amd64  Determines file type using "magic" numbers
+-ii  libmagic1:amd64 1:5.14-2ubuntu3.4      amd64  File type determination library using "magic" numbers
++ii  libmagic1:amd64 1:5.14-2ubuntu3.4+esm1 amd64  File type determination library using "magic" numbers
 ```
