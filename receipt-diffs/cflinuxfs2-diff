@@ -1,8 +1,4 @@
-newpackages_cflinuxfs2_1572912666:
+empty_1572921705:
 
 ```
-+ii  python3-pkg-resources  3.3-1ubuntu2       all   Package Discovery and Resource Access using pkg_resources
-+ii  python3-yaml           3.10-4ubuntu0.1    amd64 YAML parser and emitter for Python3
--ii  ubuntu-advantage-tools 10ubuntu0.14.04.4  all   management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 19.6~ubuntu14.04.3 amd64 management tools for Ubuntu Advantage
 ```
