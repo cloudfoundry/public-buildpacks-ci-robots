@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1573677451:
+empty_1573682156:
 
 ```
--ii  libjpeg-turbo8:amd64     1.5.2-0ubuntu5.18.04.1 amd64  IJG JPEG compliant runtime library.
--ii  libjpeg-turbo8-dev:amd64 1.5.2-0ubuntu5.18.04.1 amd64  Development files for the IJG JPEG library
-+ii  libjpeg-turbo8:amd64     1.5.2-0ubuntu5.18.04.3 amd64  IJG JPEG compliant runtime library.
-+ii  libjpeg-turbo8-dev:amd64 1.5.2-0ubuntu5.18.04.3 amd64  Development files for the IJG JPEG library
--ii  linux-libc-dev:amd64     4.15.0-69.78           amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64     4.15.0-70.79           amd64  Linux Kernel Headers for development
 ```
