@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1573615460:
+empty_1573624143:
 
 ```
--ii  gdb                  8.1-0ubuntu3.1 amd64 GNU Debugger
-+ii  gdb                  8.1-0ubuntu3.2 amd64 GNU Debugger
--ii  linux-libc-dev:amd64 4.15.0-66.75   amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-69.78   amd64 Linux Kernel Headers for development
--ii  python3-distutils    3.6.8-1~18.04  all   distutils package for Python 3.x
--ii  python3-lib2to3      3.6.8-1~18.04  all   Interactive high-level object-oriented language (2to3, version 3.6)
-+ii  python3-distutils    3.6.9-1~18.04  all   distutils package for Python 3.x
-+ii  python3-lib2to3      3.6.9-1~18.04  all   Interactive high-level object-oriented language (2to3, version 3.6)
 ```
