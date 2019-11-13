@@ -1,12 +1,4 @@
-newpackages_cflinuxfs2_1573625183:
+empty_1573634367:
 
 ```
--ii  initscripts          2.88dsf-41ubuntu6.3+esm1 amd64 scripts for initializing and shutting down the system
-+ii  initscripts          2.88dsf-41ubuntu6.3      amd64 scripts for initializing and shutting down the system
--ii  linux-libc-dev:amd64 3.13.0-174.225           amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 3.13.0-175.226           amd64 Linux Kernel Headers for development
--ii  sysv-rc              2.88dsf-41ubuntu6.3+esm1 all   System-V-like runlevel change mechanism
--ii  sysvinit-utils       2.88dsf-41ubuntu6.3+esm1 amd64 System-V-like utilities
-+ii  sysv-rc              2.88dsf-41ubuntu6.3      all   System-V-like runlevel change mechanism
-+ii  sysvinit-utils       2.88dsf-41ubuntu6.3      amd64 System-V-like utilities
 ```
