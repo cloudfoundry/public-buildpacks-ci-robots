@@ -1,32 +1,10 @@
-newpackages_cflinuxfs3_1574367728:
+newpackages_cflinuxfs3_1574376243:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.10 amd64  DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.11 amd64  DNS lookup utility (deprecated)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.10 amd64  Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.11 amd64  Clients provided with BIND
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.10 amd64  BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.11 amd64  BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.10 amd64  Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.10 amd64  DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.11 amd64  Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.11 amd64  DNS Shared Library used by BIND
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.10 amd64  DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.10 amd64  Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.10 amd64  ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.10 amd64  Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.10 amd64  Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.11 amd64  DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.11 amd64  Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.11 amd64  ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.11 amd64  Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.11 amd64  Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.10 amd64  Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.11 amd64  Lightweight Resolver Library used by BIND
--ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.4  amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.5  amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.4  amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.5  amd64  Secure Sockets Layer toolkit - shared libraries
--ii  openssl                1.1.1-1ubuntu2.1~18.04.4  amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl                1.1.1-1ubuntu2.1~18.04.5  amd64  Secure Sockets Layer toolkit - cryptographic utility
+-ii  libdjvulibre-dev:amd64 3.5.27.1-8          amd64 Development files for the DjVu image format
+-ii  libdjvulibre-text      3.5.27.1-8          all   Linguistic support files for libdjvulibre
+-ii  libdjvulibre21:amd64   3.5.27.1-8          amd64 Runtime support for the DjVu image format
++ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.1 amd64 Development files for the DjVu image format
++ii  libdjvulibre-text      3.5.27.1-8ubuntu0.1 all   Linguistic support files for libdjvulibre
++ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.1 amd64 Runtime support for the DjVu image format
 ```
