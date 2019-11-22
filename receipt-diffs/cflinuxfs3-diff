@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1574376243:
+empty_1574385205:
 
 ```
--ii  libdjvulibre-dev:amd64 3.5.27.1-8          amd64 Development files for the DjVu image format
--ii  libdjvulibre-text      3.5.27.1-8          all   Linguistic support files for libdjvulibre
--ii  libdjvulibre21:amd64   3.5.27.1-8          amd64 Runtime support for the DjVu image format
-+ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.1 amd64 Development files for the DjVu image format
-+ii  libdjvulibre-text      3.5.27.1-8ubuntu0.1 all   Linguistic support files for libdjvulibre
-+ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.1 amd64 Runtime support for the DjVu image format
 ```
