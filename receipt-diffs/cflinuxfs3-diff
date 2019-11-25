@@ -1,4 +1,18 @@
-empty_1574385205:
+newpackages_cflinuxfs3_1574695444:
 
 ```
+-ii  libpython3.6:amd64         3.6.8-1~18.04.3        amd64  Shared Python runtime library (version 3.6)
+-ii  libpython3.6-minimal:amd64 3.6.8-1~18.04.3        amd64  Minimal subset of the Python language (version 3.6)
+-ii  libpython3.6-stdlib:amd64  3.6.8-1~18.04.3        amd64  Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libpython3.6:amd64         3.6.9-1~18.04          amd64  Shared Python runtime library (version 3.6)
++ii  libpython3.6-minimal:amd64 3.6.9-1~18.04          amd64  Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04          amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  libvpx-dev:amd64           1.7.0-3                amd64  VP8 and VP9 video codec (development files)
+-ii  libvpx5:amd64              1.7.0-3                amd64  VP8 and VP9 video codec (shared library)
++ii  libvpx-dev:amd64           1.7.0-3ubuntu0.18.04.1 amd64  VP8 and VP9 video codec (development files)
++ii  libvpx5:amd64              1.7.0-3ubuntu0.18.04.1 amd64  VP8 and VP9 video codec (shared library)
+-ii  python3.6                  3.6.8-1~18.04.3        amd64  Interactive high-level object-oriented language (version 3.6)
+-ii  python3.6-minimal          3.6.8-1~18.04.3        amd64  Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.9-1~18.04          amd64  Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.9-1~18.04          amd64  Minimal subset of the Python language (version 3.6)
 ```
