@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1578370550:
+empty_1578378427:
 
 ```
--ii  libdevmapper1.02.1:amd64   2:1.02.145-4.1ubuntu3.18.04.1 amd64  Linux Kernel Device Mapper userspace library
-+ii  libdevmapper1.02.1:amd64   2:1.02.145-4.1ubuntu3.18.04.2 amd64  Linux Kernel Device Mapper userspace library
--ii  libpython2.7-minimal:amd64 2.7.15-4ubuntu4~18.04.2       amd64  Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.15-4ubuntu4~18.04.2       amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.17-1~18.04                amd64  Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04                amd64  Interactive high-level object-oriented language (standard library, version 2.7)
--ii  linux-libc-dev:amd64       4.15.0-72.81                  amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       4.15.0-74.84                  amd64  Linux Kernel Headers for development
--ii  python2.7                  2.7.15-4ubuntu4~18.04.2       amd64  Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.15-4ubuntu4~18.04.2       amd64  Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.17-1~18.04                amd64  Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.17-1~18.04                amd64  Minimal subset of the Python language (version 2.7)
 ```
