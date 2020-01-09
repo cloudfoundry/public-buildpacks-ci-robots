@@ -1,14 +1,4 @@
-newpackages_cflinuxfs3_1578579395:
+empty_1578587583:
 
 ```
--ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.1  amd64  GNU TLS library - DANE security support
--ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.1  amd64  GNU TLS library - OpenSSL wrapper
--ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.1  amd64  GNU TLS library - development files
--ii  libgnutls30:amd64         3.5.18-1ubuntu1.1  amd64  GNU TLS library - main runtime library
--ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.1  amd64  GNU TLS library - C++ runtime library
-+ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.2  amd64  GNU TLS library - DANE security support
-+ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.2  amd64  GNU TLS library - OpenSSL wrapper
-+ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.2  amd64  GNU TLS library - development files
-+ii  libgnutls30:amd64         3.5.18-1ubuntu1.2  amd64  GNU TLS library - main runtime library
-+ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.2  amd64  GNU TLS library - C++ runtime library
 ```
