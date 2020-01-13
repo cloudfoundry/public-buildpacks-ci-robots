@@ -1,4 +1,8 @@
-empty_1578587583:
+newpackages_cflinuxfs3_1578935919:
 
 ```
+-ii  libgcrypt20:amd64 1.8.1-4ubuntu1.1  amd64  LGPL Crypto library - runtime library
+-ii  libgcrypt20-dev   1.8.1-4ubuntu1.1  amd64  LGPL Crypto library - development files
++ii  libgcrypt20:amd64 1.8.1-4ubuntu1.2  amd64  LGPL Crypto library - runtime library
++ii  libgcrypt20-dev   1.8.1-4ubuntu1.2  amd64  LGPL Crypto library - development files
 ```
