@@ -1,1 +1,10 @@
-{"sha256":"812fe7d421894b792027d19c78c919faad3bf32d8bc16bde67f5c7eea2469eac","url":"https://nodejs.org/dist/v10.18.1/node-v10.18.1-linux-x64.tar.gz"}
+{
+  "tracker_story_id": 170636221,
+  "version": "10.18.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-10.18.1-bionic-528414d1.tgz",
+  "sha256": "528414d1987c8ff9d74f6b5baef604632a2d1d1fbce4a33c7302debcbfa53e1b",
+  "source": {
+    "url": "https://nodejs.org/dist/v10.18.1/node-v10.18.1-linux-x64.tar.gz",
+    "sha256": "812fe7d421894b792027d19c78c919faad3bf32d8bc16bde67f5c7eea2469eac"
+  }
+}
