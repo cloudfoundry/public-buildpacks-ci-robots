@@ -1,1 +1,10 @@
-{"sha256":"89ab4fe0db3309592924194133901b7340607d77cb5f12592325746fcdba1568","url":"https://nodejs.org/dist/v13.6.0/node-v13.6.0-linux-x64.tar.gz"}
+{
+  "tracker_story_id": 170589423,
+  "version": "13.6.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-13.6.0-bionic-f5aba6bd.tgz",
+  "sha256": "f5aba6bd210f61dc905368a4bb092f928f0662d59a37d27010834d731e91a229",
+  "source": {
+    "url": "https://nodejs.org/dist/v13.6.0/node-v13.6.0-linux-x64.tar.gz",
+    "sha256": "89ab4fe0db3309592924194133901b7340607d77cb5f12592325746fcdba1568"
+  }
+}
