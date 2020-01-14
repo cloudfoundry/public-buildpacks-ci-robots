@@ -1,1 +1,10 @@
-{"sha256":"52207f643ab0fba66d5189a51aac280c4834c81f24a7297446896386ec93a5ed","url":"https://nodejs.org/dist/v12.14.0/node-v12.14.0-linux-x64.tar.gz"}
+{
+  "tracker_story_id": 170349768,
+  "version": "12.14.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-12.14.0-bionic-eb1c0ba0.tgz",
+  "sha256": "eb1c0ba062ca5faee36f35f2b84f2120f3280e3b97272e5e8220cbf1bfe32fc5",
+  "source": {
+    "url": "https://nodejs.org/dist/v12.14.0/node-v12.14.0-linux-x64.tar.gz",
+    "sha256": "52207f643ab0fba66d5189a51aac280c4834c81f24a7297446896386ec93a5ed"
+  }
+}
