@@ -1,1 +1,10 @@
-{"sha256":"722d07291a8886384388c6795a747ec2055073f83dc73c0a97efba0022cc23ff","url":"https://nodejs.org/dist/v8.16.2/node-v8.16.2-linux-x64.tar.gz"}
+{
+  "tracker_story_id": 169051314,
+  "version": "8.16.2",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-8.16.2-bionic-b4abe159.tgz",
+  "sha256": "b4abe15963f75f969f3b3aabf6600c25ed32fa6ff106c38856cde78ecf69c729",
+  "source": {
+    "url": "https://nodejs.org/dist/v8.16.2/node-v8.16.2-linux-x64.tar.gz",
+    "sha256": "722d07291a8886384388c6795a747ec2055073f83dc73c0a97efba0022cc23ff"
+  }
+}
