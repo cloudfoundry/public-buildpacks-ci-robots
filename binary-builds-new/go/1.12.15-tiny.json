@@ -1,1 +1,10 @@
-{"sha256":"61068419f3d3fcd3cc415c352c4a93d6ae0e723ac18a22ac572b4904d78b5a4c","url":"https://dl.google.com/go/go1.12.15.linux-amd64.tar.gz"}
+{
+  "tracker_story_id": 170634865,
+  "version": "1.12.15",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/go/go-1.12.15-tiny-a96cd83b.tgz",
+  "sha256": "a96cd83b360404c532f85088175fabf53e81854645d8a7fba3a502a507416bda",
+  "source": {
+    "url": "https://dl.google.com/go/go1.12.15.linux-amd64.tar.gz",
+    "sha256": "61068419f3d3fcd3cc415c352c4a93d6ae0e723ac18a22ac572b4904d78b5a4c"
+  }
+}
