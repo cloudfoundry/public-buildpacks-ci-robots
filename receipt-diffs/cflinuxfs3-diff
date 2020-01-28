@@ -1,14 +1,4 @@
-newpackages_cflinuxfs3_1580224748:
+empty_1580233260:
 
 ```
--ii  libsasl2-2:amd64                  2.1.27~101-g0780600+dfsg-3ubuntu2   amd64  Cyrus SASL - authentication abstraction library
--ii  libsasl2-dev                      2.1.27~101-g0780600+dfsg-3ubuntu2   amd64  Cyrus SASL - development files for authentication abstraction library
--ii  libsasl2-modules:amd64            2.1.27~101-g0780600+dfsg-3ubuntu2   amd64  Cyrus SASL - pluggable authentication modules
--ii  libsasl2-modules-db:amd64         2.1.27~101-g0780600+dfsg-3ubuntu2   amd64  Cyrus SASL - pluggable authentication modules (DB)
--ii  libsasl2-modules-gssapi-mit:amd64 2.1.27~101-g0780600+dfsg-3ubuntu2   amd64  Cyrus SASL - pluggable authentication modules (GSSAPI)
-+ii  libsasl2-2:amd64                  2.1.27~101-g0780600+dfsg-3ubuntu2.1 amd64  Cyrus SASL - authentication abstraction library
-+ii  libsasl2-dev                      2.1.27~101-g0780600+dfsg-3ubuntu2.1 amd64  Cyrus SASL - development files for authentication abstraction library
-+ii  libsasl2-modules:amd64            2.1.27~101-g0780600+dfsg-3ubuntu2.1 amd64  Cyrus SASL - pluggable authentication modules
-+ii  libsasl2-modules-db:amd64         2.1.27~101-g0780600+dfsg-3ubuntu2.1 amd64  Cyrus SASL - pluggable authentication modules (DB)
-+ii  libsasl2-modules-gssapi-mit:amd64 2.1.27~101-g0780600+dfsg-3ubuntu2.1 amd64  Cyrus SASL - pluggable authentication modules (GSSAPI)
 ```
