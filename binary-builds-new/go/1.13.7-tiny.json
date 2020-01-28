@@ -1,0 +1,10 @@
+{
+  "tracker_story_id": 170954570,
+  "version": "1.13.7",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/go/go-1.13.7-tiny-97192e9e.tgz",
+  "sha256": "97192e9e4f20c7ff04aae845535758aa570203bdf6b5951ed33a6f7a0d2bd0fa",
+  "source": {
+    "url": "https://dl.google.com/go/go1.13.7.linux-amd64.tar.gz",
+    "sha256": "b3dd4bd781a0271b33168e627f7f43886b4c5d1c794a4015abf34e99c6526ca3"
+  }
+}
