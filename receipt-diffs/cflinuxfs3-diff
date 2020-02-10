@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1581348078:
+empty_1581357101:
 
 ```
--ii  libdrm-common     2.4.99-1ubuntu1~18.04.1  all   Userspace interface to kernel DRM services -- common files
--ii  libdrm2:amd64     2.4.99-1ubuntu1~18.04.1  amd64 Userspace interface to kernel DRM services -- runtime
-+ii  libdrm-common     2.4.99-1ubuntu1~18.04.2  all   Userspace interface to kernel DRM services -- common files
-+ii  libdrm2:amd64     2.4.99-1ubuntu1~18.04.2  amd64 Userspace interface to kernel DRM services -- runtime
--ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.2 amd64 GNOME XML library
--ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.2 amd64 Development files for the GNOME XML library
-+ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.3 amd64 GNOME XML library
-+ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.3 amd64 Development files for the GNOME XML library
 ```
