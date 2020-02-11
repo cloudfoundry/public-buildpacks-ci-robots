@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1581448725:
+empty_1581457897:
 
 ```
--ii  libexif-dev:amd64 0.6.21-4          amd64  library to parse EXIF files (development files)
--ii  libexif12:amd64   0.6.21-4          amd64  library to parse EXIF files
-+ii  libexif-dev:amd64 0.6.21-4ubuntu0.1 amd64  library to parse EXIF files (development files)
-+ii  libexif12:amd64   0.6.21-4ubuntu0.1 amd64  library to parse EXIF files
 ```
