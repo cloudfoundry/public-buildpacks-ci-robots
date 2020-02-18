@@ -1,0 +1,10 @@
+{
+  "tracker_story_id": 171341130,
+  "version": "13.9.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-13.9.0-bionic-84e5a363.tgz",
+  "sha256": "84e5a363c5d22bc7bb25214476b16ac7274972bbe029c646276139c7785e6cbb",
+  "source": {
+    "url": "https://nodejs.org/dist/v13.9.0/node-v13.9.0-linux-x64.tar.gz",
+    "sha256": "5cd26d58edabb7b636c3f1c6e62ea074849bd0f077f870066aaac485572cacef"
+  }
+}
