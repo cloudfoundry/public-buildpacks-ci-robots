@@ -1,4 +1,50 @@
-empty_1583454700:
+newpackages_cflinuxfs3_1583849933:
 
 ```
+-ii  cpp-7                 7.4.0-1ubuntu1~18.04.1   amd64  GNU C preprocessor
++ii  cpp-7                 7.5.0-3ubuntu1~18.04     amd64  GNU C preprocessor
+-ii  g++-7                 7.4.0-1ubuntu1~18.04.1   amd64  GNU C++ compiler
++ii  g++-7                 7.5.0-3ubuntu1~18.04     amd64  GNU C++ compiler
+-ii  gcc-7                 7.4.0-1ubuntu1~18.04.1   amd64  GNU C compiler
+-ii  gcc-7-base:amd64      7.4.0-1ubuntu1~18.04.1   amd64  GCC, the GNU Compiler Collection (base package)
+-ii  gcc-8-base:amd64      8.3.0-6ubuntu1~18.04.1   amd64  GCC, the GNU Compiler Collection (base package)
++ii  gcc-7                 7.5.0-3ubuntu1~18.04     amd64  GNU C compiler
++ii  gcc-7-base:amd64      7.5.0-3ubuntu1~18.04     amd64  GCC, the GNU Compiler Collection (base package)
++ii  gcc-8-base:amd64      8.3.0-26ubuntu1~18.04    amd64  GCC, the GNU Compiler Collection (base package)
+-ii  libasan4:amd64        7.4.0-1ubuntu1~18.04.1   amd64  AddressSanitizer -- a fast memory error detector
++ii  libasan4:amd64        7.5.0-3ubuntu1~18.04     amd64  AddressSanitizer -- a fast memory error detector
+-ii  libatomic1:amd64      8.3.0-6ubuntu1~18.04.1   amd64  support library providing __atomic built-in functions
++ii  libatomic1:amd64      8.3.0-26ubuntu1~18.04    amd64  support library providing __atomic built-in functions
+-ii  libcc1-0:amd64        8.3.0-6ubuntu1~18.04.1   amd64  GCC cc1 plugin for GDB
++ii  libcc1-0:amd64        8.3.0-26ubuntu1~18.04    amd64  GCC cc1 plugin for GDB
+-ii  libcilkrts5:amd64     7.4.0-1ubuntu1~18.04.1   amd64  Intel Cilk Plus language extensions (runtime)
++ii  libcilkrts5:amd64     7.5.0-3ubuntu1~18.04     amd64  Intel Cilk Plus language extensions (runtime)
+-ii  libgcc-7-dev:amd64    7.4.0-1ubuntu1~18.04.1   amd64  GCC support library (development files)
+-ii  libgcc1:amd64         1:8.3.0-6ubuntu1~18.04.1 amd64  GCC support library
++ii  libgcc-7-dev:amd64    7.5.0-3ubuntu1~18.04     amd64  GCC support library (development files)
++ii  libgcc1:amd64         1:8.3.0-26ubuntu1~18.04  amd64  GCC support library
+-ii  libgfortran4:amd64    7.4.0-1ubuntu1~18.04.1   amd64  Runtime library for GNU Fortran applications
++ii  libgfortran4:amd64    7.5.0-3ubuntu1~18.04     amd64  Runtime library for GNU Fortran applications
+-ii  libgomp1:amd64        8.3.0-6ubuntu1~18.04.1   amd64  GCC OpenMP (GOMP) support library
++ii  libgomp1:amd64        8.3.0-26ubuntu1~18.04    amd64  GCC OpenMP (GOMP) support library
+-ii  libitm1:amd64         8.3.0-6ubuntu1~18.04.1   amd64  GNU Transactional Memory Library
++ii  libitm1:amd64         8.3.0-26ubuntu1~18.04    amd64  GNU Transactional Memory Library
+-ii  liblsan0:amd64        8.3.0-6ubuntu1~18.04.1   amd64  LeakSanitizer -- a memory leak detector (runtime)
++ii  liblsan0:amd64        8.3.0-26ubuntu1~18.04    amd64  LeakSanitizer -- a memory leak detector (runtime)
+-ii  libmpx2:amd64         8.3.0-6ubuntu1~18.04.1   amd64  Intel memory protection extensions (runtime)
++ii  libmpx2:amd64         8.3.0-26ubuntu1~18.04    amd64  Intel memory protection extensions (runtime)
+-ii  libquadmath0:amd64    8.3.0-6ubuntu1~18.04.1   amd64  GCC Quad-Precision Math Library
++ii  libquadmath0:amd64    8.3.0-26ubuntu1~18.04    amd64  GCC Quad-Precision Math Library
+-ii  libsqlite3-0:amd64    3.22.0-1ubuntu0.2        amd64  SQLite 3 shared library
+-ii  libsqlite3-dev:amd64  3.22.0-1ubuntu0.2        amd64  SQLite 3 development files
++ii  libsqlite3-0:amd64    3.22.0-1ubuntu0.3        amd64  SQLite 3 shared library
++ii  libsqlite3-dev:amd64  3.22.0-1ubuntu0.3        amd64  SQLite 3 development files
+-ii  libstdc++-7-dev:amd64 7.4.0-1ubuntu1~18.04.1   amd64  GNU Standard C++ Library v3 (development files)
+-ii  libstdc++6:amd64      8.3.0-6ubuntu1~18.04.1   amd64  GNU Standard C++ Library v3
++ii  libstdc++-7-dev:amd64 7.5.0-3ubuntu1~18.04     amd64  GNU Standard C++ Library v3 (development files)
++ii  libstdc++6:amd64      8.3.0-26ubuntu1~18.04    amd64  GNU Standard C++ Library v3
+-ii  libtsan0:amd64        8.3.0-6ubuntu1~18.04.1   amd64  ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
++ii  libtsan0:amd64        8.3.0-26ubuntu1~18.04    amd64  ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+-ii  libubsan0:amd64       7.4.0-1ubuntu1~18.04.1   amd64  UBSan -- undefined behaviour sanitizer (runtime)
++ii  libubsan0:amd64       7.5.0-3ubuntu1~18.04     amd64  UBSan -- undefined behaviour sanitizer (runtime)
 ```
