@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1584458267:
+empty_1584466857:
 
 ```
--ii  icu-devtools     60.2-3ubuntu3   amd64  Development utilities for International Components for Unicode
-+ii  icu-devtools     60.2-3ubuntu3.1 amd64  Development utilities for International Components for Unicode
--ii  libicu-dev       60.2-3ubuntu3   amd64  Development files for International Components for Unicode
-+ii  libicu-dev       60.2-3ubuntu3.1 amd64  Development files for International Components for Unicode
--ii  libicu60:amd64   60.2-3ubuntu3   amd64  International Components for Unicode
--ii  libiculx60:amd64 60.2-3ubuntu3   amd64  International Components for Unicode
-+ii  libicu60:amd64   60.2-3ubuntu3.1 amd64  International Components for Unicode
-+ii  libiculx60:amd64 60.2-3ubuntu3.1 amd64  International Components for Unicode
 ```
