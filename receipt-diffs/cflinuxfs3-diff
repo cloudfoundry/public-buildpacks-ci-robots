@@ -1,4 +1,38 @@
-empty_1585031825:
+newpackages_cflinuxfs3_1585596024:
 
 ```
+-ii  gcc-8-base:amd64     8.3.0-26ubuntu1~18.04   amd64 GCC, the GNU Compiler Collection (base package)
++ii  gcc-8-base:amd64     8.4.0-1ubuntu1~18.04    amd64 GCC, the GNU Compiler Collection (base package)
+-ii  libatomic1:amd64     8.3.0-26ubuntu1~18.04   amd64 support library providing __atomic built-in functions
++ii  libatomic1:amd64     8.4.0-1ubuntu1~18.04    amd64 support library providing __atomic built-in functions
+-ii  libcc1-0:amd64       8.3.0-26ubuntu1~18.04   amd64 GCC cc1 plugin for GDB
++ii  libcc1-0:amd64       8.4.0-1ubuntu1~18.04    amd64 GCC cc1 plugin for GDB
+-ii  libgcc1:amd64        1:8.3.0-26ubuntu1~18.04 amd64 GCC support library
++ii  libgcc1:amd64        1:8.4.0-1ubuntu1~18.04  amd64 GCC support library
+-ii  libglib2.0-0:amd64   2.56.4-0ubuntu0.18.04.5 amd64 GLib library of C routines
+-ii  libglib2.0-bin       2.56.4-0ubuntu0.18.04.5 amd64 Programs for the GLib library
+-ii  libglib2.0-data      2.56.4-0ubuntu0.18.04.5 all   Common files for GLib library
+-ii  libglib2.0-dev:amd64 2.56.4-0ubuntu0.18.04.5 amd64 Development files for the GLib library
+-ii  libglib2.0-dev-bin   2.56.4-0ubuntu0.18.04.5 amd64 Development utilities for the GLib library
++ii  libglib2.0-0:amd64   2.56.4-0ubuntu0.18.04.6 amd64 GLib library of C routines
++ii  libglib2.0-bin       2.56.4-0ubuntu0.18.04.6 amd64 Programs for the GLib library
++ii  libglib2.0-data      2.56.4-0ubuntu0.18.04.6 all   Common files for GLib library
++ii  libglib2.0-dev:amd64 2.56.4-0ubuntu0.18.04.6 amd64 Development files for the GLib library
++ii  libglib2.0-dev-bin   2.56.4-0ubuntu0.18.04.6 amd64 Development utilities for the GLib library
+-ii  libgomp1:amd64       8.3.0-26ubuntu1~18.04   amd64 GCC OpenMP (GOMP) support library
++ii  libgomp1:amd64       8.4.0-1ubuntu1~18.04    amd64 GCC OpenMP (GOMP) support library
+-ii  libitm1:amd64        8.3.0-26ubuntu1~18.04   amd64 GNU Transactional Memory Library
++ii  libitm1:amd64        8.4.0-1ubuntu1~18.04    amd64 GNU Transactional Memory Library
+-ii  liblsan0:amd64       8.3.0-26ubuntu1~18.04   amd64 LeakSanitizer -- a memory leak detector (runtime)
++ii  liblsan0:amd64       8.4.0-1ubuntu1~18.04    amd64 LeakSanitizer -- a memory leak detector (runtime)
+-ii  libmpx2:amd64        8.3.0-26ubuntu1~18.04   amd64 Intel memory protection extensions (runtime)
++ii  libmpx2:amd64        8.4.0-1ubuntu1~18.04    amd64 Intel memory protection extensions (runtime)
+-ii  libquadmath0:amd64   8.3.0-26ubuntu1~18.04   amd64 GCC Quad-Precision Math Library
++ii  libquadmath0:amd64   8.4.0-1ubuntu1~18.04    amd64 GCC Quad-Precision Math Library
+-ii  libstdc++6:amd64     8.3.0-26ubuntu1~18.04   amd64 GNU Standard C++ Library v3
++ii  libstdc++6:amd64     8.4.0-1ubuntu1~18.04    amd64 GNU Standard C++ Library v3
+-ii  libtsan0:amd64       8.3.0-26ubuntu1~18.04   amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
++ii  libtsan0:amd64       8.4.0-1ubuntu1~18.04    amd64 ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+-ii  linux-base           4.5ubuntu1              all   Linux image base package
++ii  linux-base           4.5ubuntu1.1            all   Linux image base package
 ```
