@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1586211409:
+empty_1586221340:
 
 ```
--ii  libgd-dev:amd64      2.2.5-4ubuntu0.3 amd64  GD Graphics Library (development version)
--ii  libgd3:amd64         2.2.5-4ubuntu0.3 amd64  GD Graphics Library
-+ii  libgd-dev:amd64      2.2.5-4ubuntu0.4 amd64  GD Graphics Library (development version)
-+ii  libgd3:amd64         2.2.5-4ubuntu0.4 amd64  GD Graphics Library
--ii  linux-libc-dev:amd64 4.15.0-91.92     amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-96.97     amd64  Linux Kernel Headers for development
 ```
