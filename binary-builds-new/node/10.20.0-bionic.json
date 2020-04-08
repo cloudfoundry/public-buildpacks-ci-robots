@@ -1,0 +1,10 @@
+{
+  "tracker_story_id": 172229352,
+  "version": "10.20.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-10.20.0-bionic-fdab0d56.tgz",
+  "sha256": "fdab0d562c0b2ae6afbf775225285cb9c50de9b056956a1a62a970e74735ea54",
+  "source": {
+    "url": "https://nodejs.org/dist/v10.20.0/node-v10.20.0-linux-x64.tar.gz",
+    "sha256": "63f7fe148dece366c79a4daf06d38ab06e979cf6d7c3ea7153887e4d65a5f85e"
+  }
+}
