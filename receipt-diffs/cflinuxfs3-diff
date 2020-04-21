@@ -1,12 +1,30 @@
-newpackages_cflinuxfs3_1587475111:
+newpackages_cflinuxfs3_1587478656:
 
 ```
--ii  git                      1:2.17.1-1ubuntu0.5    amd64 fast, scalable, distributed revision control system
--ii  git-man                  1:2.17.1-1ubuntu0.5    all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                      1:2.17.1-1ubuntu0.7    amd64 fast, scalable, distributed revision control system
-+ii  git-man                  1:2.17.1-1ubuntu0.7    all   fast, scalable, distributed revision control system (manual pages)
--ii  libjson-glib-1.0-0:amd64 1.4.2-3                amd64 GLib JSON manipulation library
--ii  libjson-glib-1.0-common  1.4.2-3                all   GLib JSON manipulation library (common files)
-+ii  libjson-glib-1.0-0:amd64 1.4.2-3ubuntu0.18.04.1 amd64 GLib JSON manipulation library
-+ii  libjson-glib-1.0-common  1.4.2-3ubuntu0.18.04.1 all   GLib JSON manipulation library (common files)
+-ii  git                        1:2.17.1-1ubuntu0.5    amd64 fast, scalable, distributed revision control system
+-ii  git-man                    1:2.17.1-1ubuntu0.5    all   fast, scalable, distributed revision control system (manual pages)
++ii  git                        1:2.17.1-1ubuntu0.7    amd64 fast, scalable, distributed revision control system
++ii  git-man                    1:2.17.1-1ubuntu0.7    all   fast, scalable, distributed revision control system (manual pages)
+-ii  libjson-glib-1.0-0:amd64   1.4.2-3                amd64 GLib JSON manipulation library
+-ii  libjson-glib-1.0-common    1.4.2-3                all   GLib JSON manipulation library (common files)
++ii  libjson-glib-1.0-0:amd64   1.4.2-3ubuntu0.18.04.1 amd64 GLib JSON manipulation library
++ii  libjson-glib-1.0-common    1.4.2-3ubuntu0.18.04.1 all   GLib JSON manipulation library (common files)
+-ii  libpython2.7-minimal:amd64 2.7.17-1~18.04         amd64 Minimal subset of the Python language (version 2.7)
+-ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04         amd64 Interactive high-level object-oriented language (standard library, version 2.7)
++ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1  amd64 Minimal subset of the Python language (version 2.7)
++ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1  amd64 Interactive high-level object-oriented language (standard library, version 2.7)
+-ii  libpython3.6:amd64         3.6.9-1~18.04          amd64 Shared Python runtime library (version 3.6)
+-ii  libpython3.6-minimal:amd64 3.6.9-1~18.04          amd64 Minimal subset of the Python language (version 3.6)
+-ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04          amd64 Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1   amd64 Shared Python runtime library (version 3.6)
++ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1   amd64 Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1   amd64 Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  python2.7                  2.7.17-1~18.04         amd64 Interactive high-level object-oriented language (version 2.7)
+-ii  python2.7-minimal          2.7.17-1~18.04         amd64 Minimal subset of the Python language (version 2.7)
++ii  python2.7                  2.7.17-1~18.04ubuntu1  amd64 Interactive high-level object-oriented language (version 2.7)
++ii  python2.7-minimal          2.7.17-1~18.04ubuntu1  amd64 Minimal subset of the Python language (version 2.7)
+-ii  python3.6                  3.6.9-1~18.04          amd64 Interactive high-level object-oriented language (version 3.6)
+-ii  python3.6-minimal          3.6.9-1~18.04          amd64 Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.9-1~18.04ubuntu1   amd64 Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.9-1~18.04ubuntu1   amd64 Minimal subset of the Python language (version 3.6)
 ```
