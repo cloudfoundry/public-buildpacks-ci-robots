@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1588123241:
+empty_1588131642:
 
 ```
--ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64  Samba winbind client library
-+ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.16 amd64  Samba winbind client library
--ii  linux-libc-dev:amd64 4.15.0-96.97                    amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-99.100                   amd64  Linux Kernel Headers for development
 ```
