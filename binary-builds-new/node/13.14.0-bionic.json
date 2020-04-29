@@ -1,0 +1,10 @@
+{
+  "tracker_story_id": 172594545,
+  "version": "13.14.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-13.14.0-bionic-11e5bde7.tgz",
+  "sha256": "11e5bde7afe27f5fa57b4062ecb174e8c931d8cf8a3d80c7b769c31a7539b9b7",
+  "source": {
+    "url": "https://nodejs.org/dist/v13.14.0/node-v13.14.0-linux-x64.tar.gz",
+    "sha256": "230717f6e14f4acbb0846d58c224be6acb8da59b0db1de52c77d2bf90315cfaa"
+  }
+}
