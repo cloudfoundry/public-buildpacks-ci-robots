@@ -1,8 +1,8 @@
 {
   "tracker_story_id": 172653276,
   "version": "14.1.0",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-14.1.0-bionic-ddd59c18.tgz",
-  "sha256": "ddd59c18c8b8258aee406d633b90e2bd62eec3641faf90ecf1583ed31fbe606c",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node-14.1.0-bionic-e299af18.tgz",
+  "sha256": "e299af18b9b7ed46a27bab61d47fc96265532a779eb2d89a469f5b89cab20c9b",
   "source": {
     "url": "https://nodejs.org/dist/v14.1.0/node-v14.1.0-linux-x64.tar.gz",
     "sha256": "0edca22822d86a1626707e19a5b2e17f1dbf4f3ac553ac3368aab3bb24de68bf"
