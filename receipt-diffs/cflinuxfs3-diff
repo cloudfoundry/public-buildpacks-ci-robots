@@ -1,12 +1,6 @@
-newpackages_cflinuxfs3_1589426334:
+newpackages_cflinuxfs3_1589487620:
 
 ```
--ii  apt                  1.6.12          amd64  commandline package manager
--ii  apt-utils            1.6.12          amd64  package management related utility programs
-+ii  apt                  1.6.12ubuntu0.1 amd64  commandline package manager
-+ii  apt-utils            1.6.12ubuntu0.1 amd64  package management related utility programs
--ii  libapt-inst2.0:amd64 1.6.12          amd64  deb package format runtime library
--ii  libapt-pkg5.0:amd64  1.6.12          amd64  package management runtime library
-+ii  libapt-inst2.0:amd64 1.6.12ubuntu0.1 amd64  deb package format runtime library
-+ii  libapt-pkg5.0:amd64  1.6.12ubuntu0.1 amd64  package management runtime library
+-ii  libjson-c3:amd64  0.12.1-1.3          amd64  JSON manipulation library - shared library
++ii  libjson-c3:amd64  0.12.1-1.3ubuntu0.1 amd64  JSON manipulation library - shared library
 ```
