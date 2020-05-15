@@ -1,6 +1,6 @@
-newpackages_cflinuxfs3_1589487620:
+newpackages_cflinuxfs3_1589577536:
 
 ```
--ii  libjson-c3:amd64  0.12.1-1.3          amd64  JSON manipulation library - shared library
-+ii  libjson-c3:amd64  0.12.1-1.3ubuntu0.1 amd64  JSON manipulation library - shared library
+-ii  libjson-c3:amd64  0.12.1-1.3ubuntu0.1  amd64  JSON manipulation library - shared library
++ii  libjson-c3:amd64  0.12.1-1.3ubuntu0.2  amd64  JSON manipulation library - shared library
 ```
