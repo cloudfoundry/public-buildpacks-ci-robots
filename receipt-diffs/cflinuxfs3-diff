@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1589826753:
+empty_1589834773:
 
 ```
--ii  kmod                 24-1ubuntu3.3  amd64  tools for managing Linux kernel modules
-+ii  kmod                 24-1ubuntu3.4  amd64  tools for managing Linux kernel modules
--ii  libkmod2:amd64       24-1ubuntu3.3  amd64  libkmod shared library
-+ii  libkmod2:amd64       24-1ubuntu3.4  amd64  libkmod shared library
--ii  linux-libc-dev:amd64 4.15.0-99.100  amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-101.102 amd64  Linux Kernel Headers for development
 ```
