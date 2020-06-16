@@ -1,4 +1,14 @@
-empty_1591810591:
+newpackages_cflinuxfs3_1592320601:
 
 ```
+-ii  libexif-dev:amd64 0.6.21-4ubuntu0.2     amd64 library to parse EXIF files (development files)
+-ii  libexif12:amd64   0.6.21-4ubuntu0.2     amd64 library to parse EXIF files
++ii  libexif-dev:amd64 0.6.21-4ubuntu0.5     amd64 library to parse EXIF files (development files)
++ii  libexif12:amd64   0.6.21-4ubuntu0.5     amd64 library to parse EXIF files
+-ii  libnetplan0:amd64 0.99-0ubuntu3~18.04.2 amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64 0.99-0ubuntu3~18.04.3 amd64 YAML network configuration abstraction runtime library
+-ii  netplan.io        0.99-0ubuntu3~18.04.2 amd64 YAML network configuration abstraction for various backends
++ii  netplan.io        0.99-0ubuntu3~18.04.3 amd64 YAML network configuration abstraction for various backends
+-ii  nplan             0.99-0ubuntu3~18.04.2 all   YAML network configuration abstraction - transitional package
++ii  nplan             0.99-0ubuntu3~18.04.3 all   YAML network configuration abstraction - transitional package
 ```
