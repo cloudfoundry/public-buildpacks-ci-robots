@@ -1,42 +1,6 @@
-newpackages_cflinuxfs3_1594066501:
+newpackages_cflinuxfs3_1594854457:
 
 ```
--ii  libc-bin                  2.27-3ubuntu1                   amd64 GNU C Library: Binaries
--ii  libc-dev-bin              2.27-3ubuntu1                   amd64 GNU C Library: Development binaries
--ii  libc6:amd64               2.27-3ubuntu1                   amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64           2.27-3ubuntu1                   amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin                  2.27-3ubuntu1.2                 amd64 GNU C Library: Binaries
-+ii  libc-dev-bin              2.27-3ubuntu1.2                 amd64 GNU C Library: Development binaries
-+ii  libc6:amd64               2.27-3ubuntu1.2                 amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64           2.27-3ubuntu1.2                 amd64 GNU C Library: Development Libraries and Header Files
--ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.3               amd64 GNU TLS library - DANE security support
--ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.3               amd64 GNU TLS library - OpenSSL wrapper
--ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.3               amd64 GNU TLS library - development files
--ii  libgnutls30:amd64         3.5.18-1ubuntu1.3               amd64 GNU TLS library - main runtime library
--ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.3               amd64 GNU TLS library - C++ runtime library
-+ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.4               amd64 GNU TLS library - DANE security support
-+ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.4               amd64 GNU TLS library - OpenSSL wrapper
-+ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.4               amd64 GNU TLS library - development files
-+ii  libgnutls30:amd64         3.5.18-1ubuntu1.4               amd64 GNU TLS library - main runtime library
-+ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.4               amd64 GNU TLS library - C++ runtime library
--ii  libopenexr-dev            2.2.0-11.1ubuntu1.2             amd64 development files for the OpenEXR image library
--ii  libopenexr22:amd64        2.2.0-11.1ubuntu1.2             amd64 runtime files for the OpenEXR image library
-+ii  libopenexr-dev            2.2.0-11.1ubuntu1.3             amd64 development files for the OpenEXR image library
-+ii  libopenexr22:amd64        2.2.0-11.1ubuntu1.3             amd64 runtime files for the OpenEXR image library
--ii  libseccomp2:amd64         2.4.1-0ubuntu0.18.04.2          amd64 high level interface to Linux seccomp filter
-+ii  libseccomp2:amd64         2.4.3-1ubuntu3.18.04.2          amd64 high level interface to Linux seccomp filter
--ii  libwbclient0:amd64        2:4.7.6+dfsg~ubuntu-0ubuntu2.16 amd64 Samba winbind client library
-+ii  libwbclient0:amd64        2:4.7.6+dfsg~ubuntu-0ubuntu2.17 amd64 Samba winbind client library
--ii  libxau-dev:amd64          1:1.0.8-1                       amd64 X11 authorisation library (development headers)
--ii  libxau6:amd64             1:1.0.8-1                       amd64 X11 authorisation library
-+ii  libxau-dev:amd64          1:1.0.8-1ubuntu1                amd64 X11 authorisation library (development headers)
-+ii  libxau6:amd64             1:1.0.8-1ubuntu1                amd64 X11 authorisation library
--ii  linux-base                4.5ubuntu1.1                    all   Linux image base package
--ii  linux-libc-dev:amd64      4.15.0-108.109                  amd64 Linux Kernel Headers for development
--ii  locales                   2.27-3ubuntu1                   all   GNU C Library: National Language (locale) data [support]
-+ii  linux-base                4.5ubuntu1.2                    all   Linux image base package
-+ii  linux-libc-dev:amd64      4.15.0-109.110                  amd64 Linux Kernel Headers for development
-+ii  locales                   2.27-3ubuntu1.2                 all   GNU C Library: National Language (locale) data [support]
--ii  multiarch-support         2.27-3ubuntu1                   amd64 Transitional package to ensure multiarch compatibility
-+ii  multiarch-support         2.27-3ubuntu1.2                 amd64 Transitional package to ensure multiarch compatibility
+-ii  linux-libc-dev:amd64  4.15.0-109.110  amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64  4.15.0-111.112  amd64  Linux Kernel Headers for development
 ```
