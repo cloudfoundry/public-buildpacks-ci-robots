@@ -1,36 +1,4 @@
-newpackages_cflinuxfs3_1595445626:
+empty_1595518705:
 
 ```
--ii  libavcodec57:amd64         7:3.4.6-0ubuntu0.18.04.1 amd64 FFmpeg library with de/encoders for audio/video codecs - runtime files
--ii  libavutil55:amd64          7:3.4.6-0ubuntu0.18.04.1 amd64 FFmpeg library with functions for simplifying programming - runtime files
-+ii  libavcodec57:amd64         7:3.4.8-0ubuntu0.2       amd64 FFmpeg library with de/encoders for audio/video codecs - runtime files
-+ii  libavutil55:amd64          7:3.4.8-0ubuntu0.2       amd64 FFmpeg library with functions for simplifying programming - runtime files
--ii  libldap-2.4-2:amd64        2.4.45+dfsg-1ubuntu1.5   amd64 OpenLDAP libraries
--ii  libldap-common             2.4.45+dfsg-1ubuntu1.5   all   OpenLDAP common files for libraries
--ii  libldap2-dev:amd64         2.4.45+dfsg-1ubuntu1.5   amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64        2.4.45+dfsg-1ubuntu1.6   amd64 OpenLDAP libraries
-+ii  libldap-common             2.4.45+dfsg-1ubuntu1.6   all   OpenLDAP common files for libraries
-+ii  libldap2-dev:amd64         2.4.45+dfsg-1ubuntu1.6   amd64 OpenLDAP development libraries
--ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1    amd64 Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1    amd64 Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.1  amd64 Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.1  amd64 Interactive high-level object-oriented language (standard library, version 2.7)
--ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1     amd64 Shared Python runtime library (version 3.6)
--ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1     amd64 Minimal subset of the Python language (version 3.6)
--ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1     amd64 Interactive high-level object-oriented language (standard library, version 3.6)
-+ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.1   amd64 Shared Python runtime library (version 3.6)
-+ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.1   amd64 Minimal subset of the Python language (version 3.6)
-+ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.1   amd64 Interactive high-level object-oriented language (standard library, version 3.6)
--ii  libswresample2:amd64       7:3.4.6-0ubuntu0.18.04.1 amd64 FFmpeg library for audio resampling, rematrixing etc. - runtime files
-+ii  libswresample2:amd64       7:3.4.8-0ubuntu0.2       amd64 FFmpeg library for audio resampling, rematrixing etc. - runtime files
--ii  linux-libc-dev:amd64       4.15.0-111.112           amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       4.15.0-112.113           amd64 Linux Kernel Headers for development
--ii  python2.7                  2.7.17-1~18.04ubuntu1    amd64 Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.17-1~18.04ubuntu1    amd64 Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.17-1~18.04ubuntu1.1  amd64 Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.1  amd64 Minimal subset of the Python language (version 2.7)
--ii  python3.6                  3.6.9-1~18.04ubuntu1     amd64 Interactive high-level object-oriented language (version 3.6)
--ii  python3.6-minimal          3.6.9-1~18.04ubuntu1     amd64 Minimal subset of the Python language (version 3.6)
-+ii  python3.6                  3.6.9-1~18.04ubuntu1.1   amd64 Interactive high-level object-oriented language (version 3.6)
-+ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.1   amd64 Minimal subset of the Python language (version 3.6)
 ```
