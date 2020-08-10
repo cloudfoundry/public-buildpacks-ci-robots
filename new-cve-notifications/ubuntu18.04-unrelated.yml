@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4454-1: Samba vulnerability'
+  stack_release: unreleased
 - title: 'USN-4453-1: OpenJDK 8 vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4432-2: GRUB2 regression'
