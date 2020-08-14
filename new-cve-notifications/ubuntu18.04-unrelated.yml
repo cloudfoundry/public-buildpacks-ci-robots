@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4459-1: Salt vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4458-1: Apache HTTP Server vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4457-1: Software Properties vulnerability'
