@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4462-1: Linux kernel vulnerability'
+  stack_release: unreleased
+- title: 'USN-4461-1: Ark vulnerability'
+  stack_release: unreleased
 - title: 'USN-4459-1: Salt vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4458-1: Apache HTTP Server vulnerabilities'
