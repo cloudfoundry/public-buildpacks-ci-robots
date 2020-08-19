@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4465-1: linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4462-1: Linux kernel vulnerability'
   stack_release: unreleased
 - title: 'USN-4461-1: Ark vulnerability'
