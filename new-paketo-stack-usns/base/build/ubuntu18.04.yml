@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4466-1: curl vulnerability'
+  stack_release: unreleased
 - title: 'USN-4426-1: Linux kernel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4425-1: Linux kernel vulnerabilities'
