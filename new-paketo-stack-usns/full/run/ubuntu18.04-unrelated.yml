@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4468-1: Bind vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4467-1: QEMU vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4465-1: linux kernel vulnerabilities'
