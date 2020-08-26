@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4474-1: Firefox vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4473-1: libmysofa vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4472-1: PostgreSQL vulnerabilities'
