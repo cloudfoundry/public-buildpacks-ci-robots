@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4446-2: Squid regression'
+  stack_release: unreleased
 - title: 'USN-4474-1: Firefox vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4473-1: libmysofa vulnerabilities'
