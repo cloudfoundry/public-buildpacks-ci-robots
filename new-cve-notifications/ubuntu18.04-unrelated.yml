@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4476-1: NSS vulnerability'
+  stack_release: unreleased
 - title: 'USN-4475-1: Chrony vulnerability'
   stack_release: unreleased
 - title: 'USN-4446-2: Squid regression'
