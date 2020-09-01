@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4482-1: Ark vulnerability'
+  stack_release: unreleased
 - title: 'USN-4481-1: FreeRDP vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4471-2: Net-SNMP regression'
