@@ -1,48 +1,4 @@
-newpackages_cflinuxfs3_1599056457:
+empty_1599064457:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.12 amd64 DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS lookup utility (deprecated)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.12 amd64 Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.13 amd64 Clients provided with BIND
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.12 amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.13 amd64 BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.12 amd64 Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.12 amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.13 amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS Shared Library used by BIND
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.12 amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.12 amd64 Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.12 amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.12 amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.12 amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.13 amd64 Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.13 amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.13 amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.13 amd64 Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.12 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.13 amd64 Lightweight Resolver Library used by BIND
--ii  libpam-modules:amd64   1.1.8-3.6ubuntu2.18.04.1  amd64 Pluggable Authentication Modules for PAM
--ii  libpam-modules-bin     1.1.8-3.6ubuntu2.18.04.1  amd64 Pluggable Authentication Modules for PAM - helper binaries
--ii  libpam-runtime         1.1.8-3.6ubuntu2.18.04.1  all   Runtime support for the PAM library
--ii  libpam0g:amd64         1.1.8-3.6ubuntu2.18.04.1  amd64 Pluggable Authentication Modules library
-+ii  libpam-modules:amd64   1.1.8-3.6ubuntu2.18.04.2  amd64 Pluggable Authentication Modules for PAM
-+ii  libpam-modules-bin     1.1.8-3.6ubuntu2.18.04.2  amd64 Pluggable Authentication Modules for PAM - helper binaries
-+ii  libpam-runtime         1.1.8-3.6ubuntu2.18.04.2  all   Runtime support for the PAM library
-+ii  libpam0g:amd64         1.1.8-3.6ubuntu2.18.04.2  amd64 Pluggable Authentication Modules library
--ii  libpcap0.8:amd64       1.8.1-6ubuntu1.18.04.1    amd64 system interface for user-level packet capture
-+ii  libpcap0.8:amd64       1.8.1-6ubuntu1.18.04.2    amd64 system interface for user-level packet capture
--ii  libpq-dev              10.12-0ubuntu0.18.04.1    amd64 header files for libpq5 (PostgreSQL library)
--ii  libpq5:amd64           10.12-0ubuntu0.18.04.1    amd64 PostgreSQL C client library
-+ii  libpq-dev              10.14-0ubuntu0.18.04.1    amd64 header files for libpq5 (PostgreSQL library)
-+ii  libpq5:amd64           10.14-0ubuntu0.18.04.1    amd64 PostgreSQL C client library
--ii  libx11-6:amd64         2:1.6.4-3ubuntu0.2        amd64 X11 client-side library
--ii  libx11-data            2:1.6.4-3ubuntu0.2        all   X11 client-side library
--ii  libx11-dev:amd64       2:1.6.4-3ubuntu0.2        amd64 X11 client-side library (development headers)
-+ii  libx11-6:amd64         2:1.6.4-3ubuntu0.3        amd64 X11 client-side library
-+ii  libx11-data            2:1.6.4-3ubuntu0.3        all   X11 client-side library
-+ii  libx11-dev:amd64       2:1.6.4-3ubuntu0.3        amd64 X11 client-side library (development headers)
--ii  linux-libc-dev:amd64   4.15.0-112.113            amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   4.15.0-115.116            amd64 Linux Kernel Headers for development
 ```
