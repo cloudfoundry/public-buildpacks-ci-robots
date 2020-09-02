@@ -1,4 +1,10 @@
 ---
+- title: 'USN-4484-1: Linux kernel vulnerability'
+  stack_release: unreleased
+- title: 'USN-4485-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4483-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4482-1: Ark vulnerability'
   stack_release: unreleased
 - title: 'USN-4481-1: FreeRDP vulnerabilities'
