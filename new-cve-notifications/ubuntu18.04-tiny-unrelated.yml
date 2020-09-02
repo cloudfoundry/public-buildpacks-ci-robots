@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4488-1: X.Org X Server vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4487-1: libx11 vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4484-1: Linux kernel vulnerability'
   stack_release: unreleased
 - title: 'USN-4485-1: Linux kernel vulnerabilities'
