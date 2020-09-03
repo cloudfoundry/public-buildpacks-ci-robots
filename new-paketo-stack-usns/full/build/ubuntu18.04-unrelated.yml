@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4474-2: Firefox regressions'
+  stack_release: unreleased
 - title: 'USN-4488-1: X.Org X Server vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4484-1: Linux kernel vulnerability'
