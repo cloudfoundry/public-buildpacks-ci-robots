@@ -1,4 +1,6 @@
 ---
+- title: 'LSN-0071-1: Kernel Live Patch Security Notice'
+  stack_release: unreleased
 - title: 'USN-4490-1: X.Org X Server vulnerability'
   stack_release: unreleased
 - title: 'USN-4489-1: Linux kernel vulnerability'
