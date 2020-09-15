@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4495-1: Apache Log4j vulnerability'
+  stack_release: unreleased
 - title: 'LSN-0071-1: Kernel Live Patch Security Notice'
   stack_release: unreleased
 - title: 'USN-4490-1: X.Org X Server vulnerability'
