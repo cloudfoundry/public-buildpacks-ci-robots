@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4503-1: Perl DBI module vulnerability'
+  stack_release: unreleased
 - title: 'USN-4502-1: websocket-extensions vulnerability'
   stack_release: unreleased
 - title: 'USN-4496-1: Apache XML-RPC vulnerability'
