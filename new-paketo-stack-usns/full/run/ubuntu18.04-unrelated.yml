@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4502-1: websocket-extensions vulnerability'
+  stack_release: unreleased
 - title: 'USN-4496-1: Apache XML-RPC vulnerability'
   stack_release: unreleased
 - title: 'USN-4495-1: Apache Log4j vulnerability'
