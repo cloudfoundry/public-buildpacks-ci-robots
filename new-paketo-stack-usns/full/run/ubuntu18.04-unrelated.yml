@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4508-1: StoreBackup vulnerability'
+  stack_release: unreleased
 - title: 'USN-4505-1: PHPMailer vulnerability'
   stack_release: unreleased
 - title: 'USN-4503-1: Perl DBI module vulnerability'
