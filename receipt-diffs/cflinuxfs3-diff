@@ -1,6 +1,6 @@
-newpackages_cflinuxfs3_1600366899:
+newpackages_cflinuxfs3_1600375120:
 
 ```
--ii  libproxy1v5:amd64  0.4.15-1          amd64  automatic proxy configuration management library (shared)
-+ii  libproxy1v5:amd64  0.4.15-1ubuntu0.1 amd64  automatic proxy configuration management library (shared)
+-ii  gpgv  2.2.4-1ubuntu1.2  amd64  GNU privacy guard - signature verification tool
++ii  gpgv  2.2.4-1ubuntu1.3  amd64  GNU privacy guard - signature verification tool
 ```
