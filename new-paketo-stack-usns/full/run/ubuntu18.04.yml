@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4514-1: libproxy vulnerability'
+  stack_release: unreleased
 - title: 'USN-4512-1: util-linux vulnerability'
   stack_release: unreleased
 - title: 'USN-4504-1: OpenSSL vulnerabilities'
