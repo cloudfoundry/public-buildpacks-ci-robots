@@ -1,42 +1,4 @@
-newpackages_cflinuxfs3_1600348827:
+empty_1600357120:
 
 ```
--ii  base-files           10.1ubuntu2.9                   amd64 Debian base system miscellaneous files
-+ii  base-files           10.1ubuntu2.10                  amd64 Debian base system miscellaneous files
--ii  bsdutils             1:2.31.1-0.4ubuntu3.6           amd64 basic utilities from 4.4BSD-Lite
-+ii  bsdutils             1:2.31.1-0.4ubuntu3.7           amd64 basic utilities from 4.4BSD-Lite
--ii  fdisk                2.31.1-0.4ubuntu3.6             amd64 collection of partitioning utilities
-+ii  fdisk                2.31.1-0.4ubuntu3.7             amd64 collection of partitioning utilities
--ii  initramfs-tools      0.130ubuntu3.9                  all   generic modular initramfs generator (automation)
--ii  initramfs-tools-bin  0.130ubuntu3.9                  amd64 binaries used by initramfs-tools
--ii  initramfs-tools-core 0.130ubuntu3.9                  all   generic modular initramfs generator (core tools)
-+ii  initramfs-tools      0.130ubuntu3.10                 all   generic modular initramfs generator (automation)
-+ii  initramfs-tools-bin  0.130ubuntu3.10                 amd64 binaries used by initramfs-tools
-+ii  initramfs-tools-core 0.130ubuntu3.10                 all   generic modular initramfs generator (core tools)
--ii  libblkid1:amd64      2.31.1-0.4ubuntu3.6             amd64 block device ID library
-+ii  libblkid1:amd64      2.31.1-0.4ubuntu3.7             amd64 block device ID library
--ii  libfdisk1:amd64      2.31.1-0.4ubuntu3.6             amd64 fdisk partitioning library
-+ii  libfdisk1:amd64      2.31.1-0.4ubuntu3.7             amd64 fdisk partitioning library
--ii  libmount1:amd64      2.31.1-0.4ubuntu3.6             amd64 device mounting library
-+ii  libmount1:amd64      2.31.1-0.4ubuntu3.7             amd64 device mounting library
--ii  libsmartcols1:amd64  2.31.1-0.4ubuntu3.6             amd64 smart column output alignment library
-+ii  libsmartcols1:amd64  2.31.1-0.4ubuntu3.7             amd64 smart column output alignment library
--ii  libssl1.0.0:amd64    1.0.2n-1ubuntu5.3               amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.0.0:amd64    1.0.2n-1ubuntu5.4               amd64 Secure Sockets Layer toolkit - shared libraries
--ii  libuuid1:amd64       2.31.1-0.4ubuntu3.6             amd64 Universally Unique ID library
-+ii  libuuid1:amd64       2.31.1-0.4ubuntu3.7             amd64 Universally Unique ID library
--ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.18 amd64 Samba winbind client library
-+ii  libwbclient0:amd64   2:4.7.6+dfsg~ubuntu-0ubuntu2.19 amd64 Samba winbind client library
--ii  linux-libc-dev:amd64 4.15.0-115.116                  amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-117.118                  amd64 Linux Kernel Headers for development
--ii  mount                2.31.1-0.4ubuntu3.6             amd64 tools for mounting and manipulating filesystems
-+ii  mount                2.31.1-0.4ubuntu3.7             amd64 tools for mounting and manipulating filesystems
--ii  openssl1.0           1.0.2n-1ubuntu5.3               amd64 Secure Sockets Layer toolkit 1.0 - cryptographic utility
-+ii  openssl1.0           1.0.2n-1ubuntu5.4               amd64 Secure Sockets Layer toolkit 1.0 - cryptographic utility
--ii  ubuntu-minimal       1.417.4                         amd64 Minimal core of Ubuntu
-+ii  ubuntu-minimal       1.417.5                         amd64 Minimal core of Ubuntu
--ii  util-linux           2.31.1-0.4ubuntu3.6             amd64 miscellaneous system utilities
--ii  uuid-dev:amd64       2.31.1-0.4ubuntu3.6             amd64 Universally Unique ID library - headers and static libraries
-+ii  util-linux           2.31.1-0.4ubuntu3.7             amd64 miscellaneous system utilities
-+ii  uuid-dev:amd64       2.31.1-0.4ubuntu3.7             amd64 Universally Unique ID library - headers and static libraries
 ```
