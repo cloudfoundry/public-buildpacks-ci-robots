@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4517-1: Email-Address-List vulnerability'
+  stack_release: unreleased
 - title: 'USN-4511-1: QEMU vulnerability'
   stack_release: unreleased
 - title: 'USN-4510-1: Samba vulnerability'
