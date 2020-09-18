@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4517-1: Email-Address-List vulnerability'
+  stack_release: unreleased
 - title: 'USN-4516-1: GnuPG vulnerability'
   stack_release: unreleased
 - title: 'USN-4514-1: libproxy vulnerability'
