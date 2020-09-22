@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4531-1: BusyBox vulnerability'
+  stack_release: unreleased
 - title: 'USN-4516-1: GnuPG vulnerability'
   stack_release: unreleased
 - title: 'USN-4514-1: libproxy vulnerability'
