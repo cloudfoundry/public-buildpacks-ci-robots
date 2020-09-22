@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4529-1: FreeImage vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4528-1: Ceph vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4526-1: Linux kernel vulnerabilities'
