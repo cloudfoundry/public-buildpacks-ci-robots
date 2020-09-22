@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4528-1: Ceph vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4526-1: Linux kernel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4521-1: pam_tacplus vulnerability'
