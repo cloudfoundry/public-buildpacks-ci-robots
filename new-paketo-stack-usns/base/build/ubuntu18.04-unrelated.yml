@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4530-1: Debian-LAN vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4531-1: BusyBox vulnerability'
   stack_release: unreleased
 - title: 'USN-4529-1: FreeImage vulnerabilities'
