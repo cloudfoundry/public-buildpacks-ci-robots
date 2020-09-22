@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1600788278:
+empty_1600796901:
 
 ```
--ii  busybox-initramfs    1:1.27.2-2ubuntu3.2 amd64  Standalone shell setup for initramfs
-+ii  busybox-initramfs    1:1.27.2-2ubuntu3.3 amd64  Standalone shell setup for initramfs
--ii  linux-libc-dev:amd64 4.15.0-117.118      amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-118.119      amd64  Linux Kernel Headers for development
 ```
