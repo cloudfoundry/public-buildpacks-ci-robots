@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4538-1: PackageKit vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4537-1: Aptdaemon vulnerability'
+  stack_release: unreleased
 - title: 'USN-4534-1: Perl DBI module vulnerability'
   stack_release: unreleased
 - title: 'USN-4525-1: Linux kernel vulnerabilities'
