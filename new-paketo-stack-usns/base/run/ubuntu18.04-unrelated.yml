@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4540-1: atftpd vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4536-1: SPIP vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4538-1: PackageKit vulnerabilities'
