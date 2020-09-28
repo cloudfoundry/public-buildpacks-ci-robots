@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4547-1: iTALC vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4546-1: Firefox vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4540-1: atftpd vulnerabilities'
