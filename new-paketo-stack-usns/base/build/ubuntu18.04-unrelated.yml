@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4552-1: Pam-python vulnerability'
+  stack_release: unreleased
+- title: 'USN-4551-1: Squid vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4547-1: iTALC vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4546-1: Firefox vulnerabilities'
