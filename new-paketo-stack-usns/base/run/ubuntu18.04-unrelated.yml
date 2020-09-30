@@ -1,4 +1,10 @@
 ---
+- title: 'USN-4560-1: Gon gem vulnerability'
+  stack_release: unreleased
+- title: 'USN-4559-1: Samba update'
+  stack_release: unreleased
+- title: 'USN-4558-1: libapreq2 vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4552-1: Pam-python vulnerability'
   stack_release: unreleased
 - title: 'USN-4551-1: Squid vulnerabilities'
