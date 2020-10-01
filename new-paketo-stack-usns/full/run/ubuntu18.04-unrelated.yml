@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4563-1: NTP vulnerability'
+  stack_release: unreleased
 - title: 'USN-4561-1: Rack vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4560-1: Gon gem vulnerability'
