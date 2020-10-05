@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4566-1: Cyrus IMAP Server vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4565-1: OpenConnect vulnerability'
+  stack_release: unreleased
 - title: 'USN-4570-1: urllib3 vulnerability'
   stack_release: unreleased
 - title: 'USN-4568-1: Brotli vulnerability'
