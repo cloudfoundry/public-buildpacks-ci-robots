@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4573-1: Vino vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4572-1: Spice vulnerability'
   stack_release: unreleased
 - title: 'USN-4567-1: OpenDMARC vulnerability'
