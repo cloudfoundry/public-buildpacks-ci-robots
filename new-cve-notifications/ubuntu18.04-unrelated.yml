@@ -1,4 +1,10 @@
 ---
+- title: 'USN-4577-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4578-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4576-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4573-1: Vino vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4572-1: Spice vulnerability'
