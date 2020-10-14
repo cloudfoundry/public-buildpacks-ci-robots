@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4582-1: Vim vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4581-1: Python vulnerability'
   stack_release: unreleased
 - title: 'USN-4531-1: BusyBox vulnerability'
