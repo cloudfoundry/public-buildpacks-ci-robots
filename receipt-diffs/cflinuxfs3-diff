@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3_1602696247:
+newpackages_cflinuxfs3_1602702530:
 
 ```
 -ii  initramfs-tools            0.130ubuntu3.10                 all   generic modular initramfs generator (automation)
@@ -29,4 +29,10 @@ newpackages_cflinuxfs3_1602696247:
 -ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.1          amd64 Minimal subset of the Python language (version 3.6)
 +ii  python3.6                  3.6.9-1~18.04ubuntu1.3          amd64 Interactive high-level object-oriented language (version 3.6)
 +ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.3          amd64 Minimal subset of the Python language (version 3.6)
+-ii  vim-common                 2:8.0.1453-1ubuntu1.3           all   Vi IMproved - Common files
+-ii  vim-tiny                   2:8.0.1453-1ubuntu1.3           amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common                 2:8.0.1453-1ubuntu1.4           all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.0.1453-1ubuntu1.4           amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                        2:8.0.1453-1ubuntu1.3           amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.0.1453-1ubuntu1.4           amd64 tool to make (or reverse) a hex dump
 ```
