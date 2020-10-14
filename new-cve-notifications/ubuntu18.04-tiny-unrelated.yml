@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4581-1: Python vulnerability'
+  stack_release: unreleased
+- title: 'LSN-0072-1: Kernel Live Patch Security Notice'
+  stack_release: unreleased
 - title: 'USN-4577-1: Linux kernel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4578-1: Linux kernel vulnerabilities'
