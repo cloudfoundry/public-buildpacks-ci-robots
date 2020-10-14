@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4583-1: PHP vulnerabilities'
+  stack_release: unreleased
 - title: 'LSN-0072-1: Kernel Live Patch Security Notice'
   stack_release: unreleased
 - title: 'USN-4577-1: Linux kernel vulnerabilities'
