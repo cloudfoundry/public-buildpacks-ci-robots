@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4589-2: Docker vulnerability'
+  stack_release: unreleased
 - title: 'USN-4583-1: PHP vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4582-1: Vim vulnerabilities'
