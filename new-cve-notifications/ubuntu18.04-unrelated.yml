@@ -1,4 +1,8 @@
 ---
+- title: 'USN-4592-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
+- title: 'USN-4591-1: Linux kernel vulnerabilities'
+  stack_release: unreleased
 - title: 'USN-4546-2: Firefox regressions'
   stack_release: unreleased
 - title: 'USN-4589-2: Docker vulnerability'
