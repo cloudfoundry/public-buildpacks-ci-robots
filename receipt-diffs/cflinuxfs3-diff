@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1603199922:
+empty_1603208178:
 
 ```
--ii  libfreetype6:amd64     2.8.1-2ubuntu2   amd64  FreeType 2 font engine, shared library files
--ii  libfreetype6-dev:amd64 2.8.1-2ubuntu2   amd64  FreeType 2 font engine, development files
-+ii  libfreetype6:amd64     2.8.1-2ubuntu2.1 amd64  FreeType 2 font engine, shared library files
-+ii  libfreetype6-dev:amd64 2.8.1-2ubuntu2.1 amd64  FreeType 2 font engine, development files
--ii  linux-libc-dev:amd64   4.15.0-121.123   amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   4.15.0-122.124   amd64  Linux Kernel Headers for development
 ```
