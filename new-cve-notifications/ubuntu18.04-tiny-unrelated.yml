@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4586-1: PHP ImageMagick vulnerability'
+  stack_release: unreleased
 - title: 'USN-4593-1: FreeType vulnerability'
   stack_release: unreleased
 - title: 'USN-4592-1: Linux kernel vulnerabilities'
