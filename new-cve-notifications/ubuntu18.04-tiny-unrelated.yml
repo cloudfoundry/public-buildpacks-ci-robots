@@ -1,4 +1,6 @@
 ---
+- title: 'USN-4595-1: Grunt vulnerability'
+  stack_release: unreleased
 - title: 'USN-4594-1: Quassel vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4586-1: PHP ImageMagick vulnerability'
