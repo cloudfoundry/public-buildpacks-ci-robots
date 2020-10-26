@@ -1,4 +1,6 @@
 ---
+- title: 'LSN-0073-1: Kernel Live Patch Security Notice'
+  stack_release: unreleased
 - title: 'USN-4599-1: Firefox vulnerabilities'
   stack_release: unreleased
 - title: 'USN-4601-1: pip vulnerability'
