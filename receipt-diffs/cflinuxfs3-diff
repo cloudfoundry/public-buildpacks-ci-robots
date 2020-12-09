@@ -1,12 +1,12 @@
-newpackages_cflinuxfs3_1607523587:
+newpackages_cflinuxfs3_1607535652:
 
 ```
--ii  curl                       7.58.0-2ubuntu3.10  amd64  command line tool for transferring data with URL syntax
-+ii  curl                       7.58.0-2ubuntu3.12  amd64  command line tool for transferring data with URL syntax
--ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.10  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
--ii  libcurl4:amd64             7.58.0-2ubuntu3.10  amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
--ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.10  amd64  development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.12  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64             7.58.0-2ubuntu3.12  amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.12  amd64  development files and documentation for libcurl (OpenSSL flavour)
+-ii  apt                  1.6.12ubuntu0.1  amd64  commandline package manager
+-ii  apt-utils            1.6.12ubuntu0.1  amd64  package management related utility programs
++ii  apt                  1.6.12ubuntu0.2  amd64  commandline package manager
++ii  apt-utils            1.6.12ubuntu0.2  amd64  package management related utility programs
+-ii  libapt-inst2.0:amd64 1.6.12ubuntu0.1  amd64  deb package format runtime library
+-ii  libapt-pkg5.0:amd64  1.6.12ubuntu0.1  amd64  package management runtime library
++ii  libapt-inst2.0:amd64 1.6.12ubuntu0.2  amd64  deb package format runtime library
++ii  libapt-pkg5.0:amd64  1.6.12ubuntu0.2  amd64  package management runtime library
 ```
