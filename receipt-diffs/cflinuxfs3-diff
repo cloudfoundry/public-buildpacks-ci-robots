@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1612297133:
+empty_1612305110:
 
 ```
--ii  ca-certificates      20201027ubuntu0.18.04.1 all   Common CA certificates
-+ii  ca-certificates      20210119~18.04.1        all   Common CA certificates
--ii  libnetplan0:amd64    0.99-0ubuntu3~18.04.3   amd64 YAML network configuration abstraction runtime library
-+ii  libnetplan0:amd64    0.99-0ubuntu3~18.04.4   amd64 YAML network configuration abstraction runtime library
--ii  linux-libc-dev:amd64 4.15.0-134.138          amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-135.139          amd64 Linux Kernel Headers for development
--ii  netplan.io           0.99-0ubuntu3~18.04.3   amd64 YAML network configuration abstraction for various backends
-+ii  netplan.io           0.99-0ubuntu3~18.04.4   amd64 YAML network configuration abstraction for various backends
--ii  nplan                0.99-0ubuntu3~18.04.3   all   YAML network configuration abstraction - transitional package
-+ii  nplan                0.99-0ubuntu3~18.04.4   all   YAML network configuration abstraction - transitional package
--ii  tzdata               2020f-0ubuntu0.18.04    all   time zone and daylight-saving time data
-+ii  tzdata               2021a-0ubuntu0.18.04    all   time zone and daylight-saving time data
 ```
