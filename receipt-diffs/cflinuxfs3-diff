@@ -1,42 +1,4 @@
-newpackages_cflinuxfs3_1613657872:
+empty_1613665635:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.14 amd64 DNS lookup utility (deprecated)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.13 amd64 Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.14 amd64 Clients provided with BIND
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.13 amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.14 amd64 BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.13 amd64 Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.14 amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.14 amd64 DNS Shared Library used by BIND
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.13 amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.13 amd64 Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.13 amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.13 amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.13 amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.14 amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.14 amd64 Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.14 amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.14 amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.14 amd64 Config File Handling Library used by BIND
--ii  libldap-2.4-2:amd64    2.4.45+dfsg-1ubuntu1.8    amd64 OpenLDAP libraries
--ii  libldap-common         2.4.45+dfsg-1ubuntu1.8    all   OpenLDAP common files for libraries
--ii  libldap2-dev:amd64     2.4.45+dfsg-1ubuntu1.8    amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64    2.4.45+dfsg-1ubuntu1.9    amd64 OpenLDAP libraries
-+ii  libldap-common         2.4.45+dfsg-1ubuntu1.9    all   OpenLDAP common files for libraries
-+ii  libldap2-dev:amd64     2.4.45+dfsg-1ubuntu1.9    amd64 OpenLDAP development libraries
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.13 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.14 amd64 Lightweight Resolver Library used by BIND
--ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.7  amd64 Secure Sockets Layer toolkit - development files
--ii  libssl1.0.0:amd64      1.0.2n-1ubuntu5.5         amd64 Secure Sockets Layer toolkit - shared libraries
--ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.7  amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.8  amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64      1.0.2n-1ubuntu5.6         amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.8  amd64 Secure Sockets Layer toolkit - shared libraries
--ii  openssl                1.1.1-1ubuntu2.1~18.04.7  amd64 Secure Sockets Layer toolkit - cryptographic utility
--ii  openssl1.0             1.0.2n-1ubuntu5.5         amd64 Secure Sockets Layer toolkit 1.0 - cryptographic utility
-+ii  openssl                1.1.1-1ubuntu2.1~18.04.8  amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl1.0             1.0.2n-1ubuntu5.6         amd64 Secure Sockets Layer toolkit 1.0 - cryptographic utility
 ```
