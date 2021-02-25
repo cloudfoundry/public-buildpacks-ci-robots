@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1614285821:
+empty_1614293486:
 
 ```
--ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.2  amd64  Minimal subset of the Python language (version 2.7)
--ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.2  amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-+ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.5  amd64  Minimal subset of the Python language (version 2.7)
-+ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.5  amd64  Interactive high-level object-oriented language (standard library, version 2.7)
--ii  python2.7                  2.7.17-1~18.04ubuntu1.2  amd64  Interactive high-level object-oriented language (version 2.7)
--ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.2  amd64  Minimal subset of the Python language (version 2.7)
-+ii  python2.7                  2.7.17-1~18.04ubuntu1.5  amd64  Interactive high-level object-oriented language (version 2.7)
-+ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.5  amd64  Minimal subset of the Python language (version 2.7)
 ```
