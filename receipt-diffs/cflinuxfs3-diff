@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1615835901:
+empty_1615843617:
 
 ```
--ii  libglib2.0-0:amd64   2.56.4-0ubuntu0.18.04.7 amd64 GLib library of C routines
--ii  libglib2.0-bin       2.56.4-0ubuntu0.18.04.7 amd64 Programs for the GLib library
--ii  libglib2.0-data      2.56.4-0ubuntu0.18.04.7 all   Common files for GLib library
--ii  libglib2.0-dev:amd64 2.56.4-0ubuntu0.18.04.7 amd64 Development files for the GLib library
--ii  libglib2.0-dev-bin   2.56.4-0ubuntu0.18.04.7 amd64 Development utilities for the GLib library
-+ii  libglib2.0-0:amd64   2.56.4-0ubuntu0.18.04.8 amd64 GLib library of C routines
-+ii  libglib2.0-bin       2.56.4-0ubuntu0.18.04.8 amd64 Programs for the GLib library
-+ii  libglib2.0-data      2.56.4-0ubuntu0.18.04.8 all   Common files for GLib library
-+ii  libglib2.0-dev:amd64 2.56.4-0ubuntu0.18.04.8 amd64 Development files for the GLib library
-+ii  libglib2.0-dev-bin   2.56.4-0ubuntu0.18.04.8 amd64 Development utilities for the GLib library
--ii  linux-libc-dev:amd64 4.15.0-136.140          amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-137.141          amd64 Linux Kernel Headers for development
 ```
