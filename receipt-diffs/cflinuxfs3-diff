@@ -1,4 +1,14 @@
-empty_1616099359:
+newpackages_cflinuxfs3_1616693208:
 
 ```
+-ii  isc-dhcp-client      4.3.5-3ubuntu7.1         amd64  DHCP client for automatically obtaining an IP address
++ii  isc-dhcp-client      4.3.5-3ubuntu7.2         amd64  DHCP client for automatically obtaining an IP address
+-ii  libssl-dev:amd64     1.1.1-1ubuntu2.1~18.04.8 amd64  Secure Sockets Layer toolkit - development files
++ii  libssl-dev:amd64     1.1.1-1ubuntu2.1~18.04.9 amd64  Secure Sockets Layer toolkit - development files
+-ii  libssl1.1:amd64      1.1.1-1ubuntu2.1~18.04.8 amd64  Secure Sockets Layer toolkit - shared libraries
++ii  libssl1.1:amd64      1.1.1-1ubuntu2.1~18.04.9 amd64  Secure Sockets Layer toolkit - shared libraries
+-ii  linux-libc-dev:amd64 4.15.0-137.141           amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-140.144           amd64  Linux Kernel Headers for development
+-ii  openssl              1.1.1-1ubuntu2.1~18.04.8 amd64  Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl              1.1.1-1ubuntu2.1~18.04.9 amd64  Secure Sockets Layer toolkit - cryptographic utility
 ```
