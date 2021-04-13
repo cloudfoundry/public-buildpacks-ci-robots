@@ -1,4 +1,20 @@
-empty_1617311922:
+newpackages_cflinuxfs3_1618334398:
 
 ```
+-ii  apt                  1.6.12ubuntu0.2 amd64  commandline package manager
+-ii  apt-utils            1.6.12ubuntu0.2 amd64  package management related utility programs
++ii  apt                  1.6.13          amd64  commandline package manager
++ii  apt-utils            1.6.13          amd64  package management related utility programs
+-ii  libapt-inst2.0:amd64 1.6.12ubuntu0.2 amd64  deb package format runtime library
+-ii  libapt-pkg5.0:amd64  1.6.12ubuntu0.2 amd64  package management runtime library
++ii  libapt-inst2.0:amd64 1.6.13          amd64  deb package format runtime library
++ii  libapt-pkg5.0:amd64  1.6.13          amd64  package management runtime library
+-ii  libhogweed4:amd64    3.4-1           amd64  low level cryptographic library (public-key cryptos)
++ii  libhogweed4:amd64    3.4-1ubuntu0.1  amd64  low level cryptographic library (public-key cryptos)
+-ii  libnettle6:amd64     3.4-1           amd64  low level cryptographic library (symmetric and one-way cryptos)
++ii  libnettle6:amd64     3.4-1ubuntu0.1  amd64  low level cryptographic library (symmetric and one-way cryptos)
+-ii  linux-libc-dev:amd64 4.15.0-140.144  amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-141.145  amd64  Linux Kernel Headers for development
+-ii  nettle-dev:amd64     3.4-1           amd64  low level cryptographic library (development files)
++ii  nettle-dev:amd64     3.4-1ubuntu0.1  amd64  low level cryptographic library (development files)
 ```
