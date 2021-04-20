@@ -1,22 +1,4 @@
-newpackages_cflinuxfs3_1618946469:
+empty_1618953537:
 
 ```
--ii  libruby2.5:amd64     2.5.1-1ubuntu1.8       amd64  Libraries necessary to run Ruby 2.5
-+ii  libruby2.5:amd64     2.5.1-1ubuntu1.9       amd64  Libraries necessary to run Ruby 2.5
--ii  libseccomp2:amd64    2.4.3-1ubuntu3.18.04.3 amd64  high level interface to Linux seccomp filter
-+ii  libseccomp2:amd64    2.5.1-1ubuntu1~18.04.1 amd64  high level interface to Linux seccomp filter
--ii  libsystemd0:amd64    237-3ubuntu10.45       amd64  systemd utility library
-+ii  libsystemd0:amd64    237-3ubuntu10.46       amd64  systemd utility library
--ii  libudev1:amd64       237-3ubuntu10.45       amd64  libudev shared library
-+ii  libudev1:amd64       237-3ubuntu10.46       amd64  libudev shared library
--ii  linux-libc-dev:amd64 4.15.0-141.145         amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-142.146         amd64  Linux Kernel Headers for development
--ii  ruby2.5              2.5.1-1ubuntu1.8       amd64  Interpreter of object-oriented scripting language Ruby
-+ii  ruby2.5              2.5.1-1ubuntu1.9       amd64  Interpreter of object-oriented scripting language Ruby
--ii  systemd              237-3ubuntu10.45       amd64  system and service manager
--ii  systemd-sysv         237-3ubuntu10.45       amd64  system and service manager - SysV links
-+ii  systemd              237-3ubuntu10.46       amd64  system and service manager
-+ii  systemd-sysv         237-3ubuntu10.46       amd64  system and service manager - SysV links
--ii  udev                 237-3ubuntu10.45       amd64  /dev/ and hotplug management daemon
-+ii  udev                 237-3ubuntu10.46       amd64  /dev/ and hotplug management daemon
 ```
