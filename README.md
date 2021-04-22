@@ -4,6 +4,8 @@ This contains the state for the Cloud Foundry Buildpacks team [Concourse deploym
 
 # Directories
 
+* [binary-builds-new](binary-builds-new) Contains published metadata for each dependency version/compatible stack combination built by the [dependency-builds pipeline](https://buildpacks.ci.cf-app.com/teams/main/pipelines/dependency-builds).
+
 * [new-release-notifications](new-release-notifications) When a dependency included in a buildpack has a new version released, an update is made to this branch
 
 * [binary-builds](binary-builds) Used to enqueue build jobs for both manual and automatic builds
