@@ -1,42 +1,4 @@
-newpackages_cflinuxfs3_1620313572:
+empty_1620321162:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.14       amd64 DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.15       amd64 DNS lookup utility (deprecated)
--ii  distro-info-data       0.37ubuntu0.9                   all   information about the distributions' releases (data files)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.14       amd64 Clients provided with BIND
-+ii  distro-info-data       0.37ubuntu0.10                  all   information about the distributions' releases (data files)
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.15       amd64 Clients provided with BIND
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.14       amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.15       amd64 BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.14       amd64 Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.14       amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.15       amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.15       amd64 DNS Shared Library used by BIND
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.14       amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.14       amd64 Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.14       amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.14       amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.14       amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.15       amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.15       amd64 Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.15       amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.15       amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.15       amd64 Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.14       amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.15       amd64 Lightweight Resolver Library used by BIND
--ii  libsystemd0:amd64      237-3ubuntu10.46                amd64 systemd utility library
-+ii  libsystemd0:amd64      237-3ubuntu10.47                amd64 systemd utility library
--ii  libudev1:amd64         237-3ubuntu10.46                amd64 libudev shared library
--ii  libunbound2:amd64      1.6.7-1ubuntu2.3                amd64 library implementing DNS resolution and validation
-+ii  libudev1:amd64         237-3ubuntu10.47                amd64 libudev shared library
-+ii  libunbound2:amd64      1.6.7-1ubuntu2.4                amd64 library implementing DNS resolution and validation
--ii  libwbclient0:amd64     2:4.7.6+dfsg~ubuntu-0ubuntu2.21 amd64 Samba winbind client library
-+ii  libwbclient0:amd64     2:4.7.6+dfsg~ubuntu-0ubuntu2.23 amd64 Samba winbind client library
--ii  systemd                237-3ubuntu10.46                amd64 system and service manager
--ii  systemd-sysv           237-3ubuntu10.46                amd64 system and service manager - SysV links
-+ii  systemd                237-3ubuntu10.47                amd64 system and service manager
-+ii  systemd-sysv           237-3ubuntu10.47                amd64 system and service manager - SysV links
--ii  udev                   237-3ubuntu10.46                amd64 /dev/ and hotplug management daemon
-+ii  udev                   237-3ubuntu10.47                amd64 /dev/ and hotplug management daemon
 ```
