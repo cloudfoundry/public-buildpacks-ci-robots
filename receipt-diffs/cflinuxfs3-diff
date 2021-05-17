@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1621279123:
+empty_1621286640:
 
 ```
-+ii  distro-info            0.18ubuntu0.18.04.1 amd64 provides information about the distributions' releases
--ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.2 amd64 Development files for the DjVu image format
--ii  libdjvulibre-text      3.5.27.1-8ubuntu0.2 all   Linguistic support files for libdjvulibre
--ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.2 amd64 Runtime support for the DjVu image format
-+ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.3 amd64 Development files for the DjVu image format
-+ii  libdjvulibre-text      3.5.27.1-8ubuntu0.3 all   Linguistic support files for libdjvulibre
-+ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.3 amd64 Runtime support for the DjVu image format
--ii  linux-libc-dev:amd64   4.15.0-142.146      amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   4.15.0-143.147      amd64 Linux Kernel Headers for development
-+ii  python3-pkg-resources  39.0.1-2            all   Package Discovery and Resource Access using pkg_resources
--ii  ubuntu-advantage-tools 17                  all   management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.0.2~18.04.1      amd64 management tools for Ubuntu Advantage
 ```
