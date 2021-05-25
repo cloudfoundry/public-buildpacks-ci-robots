@@ -1,4 +1,16 @@
-empty_1621286640:
+newpackages_cflinuxfs3_1621970147:
 
 ```
+-ii  initramfs-tools      0.130ubuntu3.11    all   generic modular initramfs generator (automation)
+-ii  initramfs-tools-bin  0.130ubuntu3.11    amd64 binaries used by initramfs-tools
+-ii  initramfs-tools-core 0.130ubuntu3.11    all   generic modular initramfs generator (core tools)
++ii  initramfs-tools      0.130ubuntu3.12    all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin  0.130ubuntu3.12    amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core 0.130ubuntu3.12    all   generic modular initramfs generator (core tools)
+-ii  libx11-6:amd64       2:1.6.4-3ubuntu0.3 amd64 X11 client-side library
+-ii  libx11-data          2:1.6.4-3ubuntu0.3 all   X11 client-side library
+-ii  libx11-dev:amd64     2:1.6.4-3ubuntu0.3 amd64 X11 client-side library (development headers)
++ii  libx11-6:amd64       2:1.6.4-3ubuntu0.4 amd64 X11 client-side library
++ii  libx11-data          2:1.6.4-3ubuntu0.4 all   X11 client-side library
++ii  libx11-dev:amd64     2:1.6.4-3ubuntu0.4 amd64 X11 client-side library (development headers)
 ```
