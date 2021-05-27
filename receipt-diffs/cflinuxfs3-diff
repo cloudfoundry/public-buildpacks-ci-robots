@@ -1,14 +1,4 @@
-newpackages_cflinuxfs3_1622117639:
+empty_1622124781:
 
 ```
--ii  isc-dhcp-client      4.3.5-3ubuntu7.2         amd64 DHCP client for automatically obtaining an IP address
-+ii  isc-dhcp-client      4.3.5-3ubuntu7.3         amd64 DHCP client for automatically obtaining an IP address
--ii  libpam-modules:amd64 1.1.8-3.6ubuntu2.18.04.2 amd64 Pluggable Authentication Modules for PAM
--ii  libpam-modules-bin   1.1.8-3.6ubuntu2.18.04.2 amd64 Pluggable Authentication Modules for PAM - helper binaries
--ii  libpam-runtime       1.1.8-3.6ubuntu2.18.04.2 all   Runtime support for the PAM library
--ii  libpam0g:amd64       1.1.8-3.6ubuntu2.18.04.2 amd64 Pluggable Authentication Modules library
-+ii  libpam-modules:amd64 1.1.8-3.6ubuntu2.18.04.3 amd64 Pluggable Authentication Modules for PAM
-+ii  libpam-modules-bin   1.1.8-3.6ubuntu2.18.04.3 amd64 Pluggable Authentication Modules for PAM - helper binaries
-+ii  libpam-runtime       1.1.8-3.6ubuntu2.18.04.3 all   Runtime support for the PAM library
-+ii  libpam0g:amd64       1.1.8-3.6ubuntu2.18.04.3 amd64 Pluggable Authentication Modules library
 ```
