@@ -1,4 +1,32 @@
-empty_1622564431:
+newpackages_cflinuxfs3_1623762963:
 
 ```
+-ii  imagemagick                       8:6.9.7.4+dfsg-16ubuntu6.9  amd64 image manipulation programs -- binaries
+-ii  imagemagick-6-common              8:6.9.7.4+dfsg-16ubuntu6.9  all   image manipulation programs -- infrastructure
+-ii  imagemagick-6.q16                 8:6.9.7.4+dfsg-16ubuntu6.9  amd64 image manipulation programs -- quantum depth Q16
++ii  imagemagick                       8:6.9.7.4+dfsg-16ubuntu6.11 amd64 image manipulation programs -- binaries
++ii  imagemagick-6-common              8:6.9.7.4+dfsg-16ubuntu6.11 all   image manipulation programs -- infrastructure
++ii  imagemagick-6.q16                 8:6.9.7.4+dfsg-16ubuntu6.11 amd64 image manipulation programs -- quantum depth Q16
+-ii  libarchive13:amd64                3.2.2-3.1ubuntu0.6          amd64 Multi-format archive and compression library (shared library)
++ii  libarchive13:amd64                3.2.2-3.1ubuntu0.7          amd64 Multi-format archive and compression library (shared library)
+-ii  libmagickcore-6-arch-config:amd64 8:6.9.7.4+dfsg-16ubuntu6.9  amd64 low-level image manipulation library - architecture header files
+-ii  libmagickcore-6-headers           8:6.9.7.4+dfsg-16ubuntu6.9  all   low-level image manipulation library - header files
+-ii  libmagickcore-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.9  amd64 low-level image manipulation library -- quantum depth Q16
+-ii  libmagickcore-6.q16-3-extra:amd64 8:6.9.7.4+dfsg-16ubuntu6.9  amd64 low-level image manipulation library - extra codecs (Q16)
+-ii  libmagickcore-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.9  amd64 low-level image manipulation library - development files (Q16)
+-ii  libmagickwand-6-headers           8:6.9.7.4+dfsg-16ubuntu6.9  all   image manipulation library - headers files
+-ii  libmagickwand-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.9  amd64 image manipulation library -- quantum depth Q16
+-ii  libmagickwand-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.9  amd64 image manipulation library - development files (Q16)
+-ii  libmagickwand-dev                 8:6.9.7.4+dfsg-16ubuntu6.9  all   image manipulation library -- dummy package
++ii  libmagickcore-6-arch-config:amd64 8:6.9.7.4+dfsg-16ubuntu6.11 amd64 low-level image manipulation library - architecture header files
++ii  libmagickcore-6-headers           8:6.9.7.4+dfsg-16ubuntu6.11 all   low-level image manipulation library - header files
++ii  libmagickcore-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.11 amd64 low-level image manipulation library -- quantum depth Q16
++ii  libmagickcore-6.q16-3-extra:amd64 8:6.9.7.4+dfsg-16ubuntu6.11 amd64 low-level image manipulation library - extra codecs (Q16)
++ii  libmagickcore-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.11 amd64 low-level image manipulation library - development files (Q16)
++ii  libmagickwand-6-headers           8:6.9.7.4+dfsg-16ubuntu6.11 all   image manipulation library - headers files
++ii  libmagickwand-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.11 amd64 image manipulation library -- quantum depth Q16
++ii  libmagickwand-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.11 amd64 image manipulation library - development files (Q16)
++ii  libmagickwand-dev                 8:6.9.7.4+dfsg-16ubuntu6.11 all   image manipulation library -- dummy package
+-ii  linux-libc-dev:amd64              4.15.0-143.147              amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64              4.15.0-144.148              amd64 Linux Kernel Headers for development
 ```
