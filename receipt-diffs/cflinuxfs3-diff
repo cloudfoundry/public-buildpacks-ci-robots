@@ -1,4 +1,18 @@
-empty_1625021328:
+newpackages_cflinuxfs3_1625498257:
 
 ```
+-ii  apt                    1.6.13              amd64 commandline package manager
+-ii  apt-utils              1.6.13              amd64 package management related utility programs
++ii  apt                    1.6.14              amd64 commandline package manager
++ii  apt-utils              1.6.14              amd64 package management related utility programs
+-ii  libapt-inst2.0:amd64   1.6.13              amd64 deb package format runtime library
+-ii  libapt-pkg5.0:amd64    1.6.13              amd64 package management runtime library
++ii  libapt-inst2.0:amd64   1.6.14              amd64 deb package format runtime library
++ii  libapt-pkg5.0:amd64    1.6.14              amd64 package management runtime library
+-ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.3 amd64 Development files for the DjVu image format
+-ii  libdjvulibre-text      3.5.27.1-8ubuntu0.3 all   Linguistic support files for libdjvulibre
+-ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.3 amd64 Runtime support for the DjVu image format
++ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.4 amd64 Development files for the DjVu image format
++ii  libdjvulibre-text      3.5.27.1-8ubuntu0.4 all   Linguistic support files for libdjvulibre
++ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.4 amd64 Runtime support for the DjVu image format
 ```
