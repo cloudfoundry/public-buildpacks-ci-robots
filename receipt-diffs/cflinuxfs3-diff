@@ -1,10 +1,18 @@
-newpackages_cflinuxfs3_1625498257:
+newpackages_cflinuxfs3_1626805029:
 
 ```
 -ii  apt                    1.6.13              amd64 commandline package manager
 -ii  apt-utils              1.6.13              amd64 package management related utility programs
 +ii  apt                    1.6.14              amd64 commandline package manager
 +ii  apt-utils              1.6.14              amd64 package management related utility programs
+-ii  gzip                   1.6-5ubuntu1        amd64 GNU compression utilities
++ii  gzip                   1.6-5ubuntu1.1      amd64 GNU compression utilities
+-ii  initramfs-tools        0.130ubuntu3.12     all   generic modular initramfs generator (automation)
+-ii  initramfs-tools-bin    0.130ubuntu3.12     amd64 binaries used by initramfs-tools
+-ii  initramfs-tools-core   0.130ubuntu3.12     all   generic modular initramfs generator (core tools)
++ii  initramfs-tools        0.130ubuntu3.13     all   generic modular initramfs generator (automation)
++ii  initramfs-tools-bin    0.130ubuntu3.13     amd64 binaries used by initramfs-tools
++ii  initramfs-tools-core   0.130ubuntu3.13     all   generic modular initramfs generator (core tools)
 -ii  libapt-inst2.0:amd64   1.6.13              amd64 deb package format runtime library
 -ii  libapt-pkg5.0:amd64    1.6.13              amd64 package management runtime library
 +ii  libapt-inst2.0:amd64   1.6.14              amd64 deb package format runtime library
@@ -15,4 +23,14 @@ newpackages_cflinuxfs3_1625498257:
 +ii  libdjvulibre-dev:amd64 3.5.27.1-8ubuntu0.4 amd64 Development files for the DjVu image format
 +ii  libdjvulibre-text      3.5.27.1-8ubuntu0.4 all   Linguistic support files for libdjvulibre
 +ii  libdjvulibre21:amd64   3.5.27.1-8ubuntu0.4 amd64 Runtime support for the DjVu image format
+-ii  libsystemd0:amd64      237-3ubuntu10.48    amd64 systemd utility library
++ii  libsystemd0:amd64      237-3ubuntu10.49    amd64 systemd utility library
+-ii  libudev1:amd64         237-3ubuntu10.48    amd64 libudev shared library
++ii  libudev1:amd64         237-3ubuntu10.49    amd64 libudev shared library
+-ii  systemd                237-3ubuntu10.48    amd64 system and service manager
+-ii  systemd-sysv           237-3ubuntu10.48    amd64 system and service manager - SysV links
++ii  systemd                237-3ubuntu10.49    amd64 system and service manager
++ii  systemd-sysv           237-3ubuntu10.49    amd64 system and service manager - SysV links
+-ii  udev                   237-3ubuntu10.48    amd64 /dev/ and hotplug management daemon
++ii  udev                   237-3ubuntu10.49    amd64 /dev/ and hotplug management daemon
 ```
