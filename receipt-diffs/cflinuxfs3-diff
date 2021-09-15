@@ -1,4 +1,22 @@
-empty_1631553663:
+newpackages_cflinuxfs3_1631711770:
 
 ```
+-ii  curl                       7.58.0-2ubuntu3.14 amd64  command line tool for transferring data with URL syntax
++ii  curl                       7.58.0-2ubuntu3.15 amd64  command line tool for transferring data with URL syntax
+-ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.14 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.58.0-2ubuntu3.14 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.14 amd64  development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.15 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.58.0-2ubuntu3.15 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.15 amd64  development files and documentation for libcurl (OpenSSL flavour)
+-ii  libsystemd0:amd64          237-3ubuntu10.51   amd64  systemd utility library
++ii  libsystemd0:amd64          237-3ubuntu10.52   amd64  systemd utility library
+-ii  libudev1:amd64             237-3ubuntu10.51   amd64  libudev shared library
++ii  libudev1:amd64             237-3ubuntu10.52   amd64  libudev shared library
+-ii  systemd                    237-3ubuntu10.51   amd64  system and service manager
+-ii  systemd-sysv               237-3ubuntu10.51   amd64  system and service manager - SysV links
++ii  systemd                    237-3ubuntu10.52   amd64  system and service manager
++ii  systemd-sysv               237-3ubuntu10.52   amd64  system and service manager - SysV links
+-ii  udev                       237-3ubuntu10.51   amd64  /dev/ and hotplug management daemon
++ii  udev                       237-3ubuntu10.52   amd64  /dev/ and hotplug management daemon
 ```
