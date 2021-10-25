@@ -1,4 +1,16 @@
-empty_1633728271:
+newpackages_cflinuxfs3_1635182239:
 
 ```
+-ii  binutils                  2.30-21ubuntu1~18.04.5 amd64 GNU assembler, linker and binary utilities
+-ii  binutils-common:amd64     2.30-21ubuntu1~18.04.5 amd64 Common files for the GNU assembler, linker and binary utilities
+-ii  binutils-x86-64-linux-gnu 2.30-21ubuntu1~18.04.5 amd64 GNU binary utilities, for x86-64-linux-gnu target
++ii  binutils                  2.30-21ubuntu1~18.04.7 amd64 GNU assembler, linker and binary utilities
++ii  binutils-common:amd64     2.30-21ubuntu1~18.04.7 amd64 Common files for the GNU assembler, linker and binary utilities
++ii  binutils-x86-64-linux-gnu 2.30-21ubuntu1~18.04.7 amd64 GNU binary utilities, for x86-64-linux-gnu target
+-ii  distro-info-data          0.37ubuntu0.12         all   information about the distributions' releases (data files)
++ii  distro-info-data          0.37ubuntu0.13         all   information about the distributions' releases (data files)
+-ii  libbinutils:amd64         2.30-21ubuntu1~18.04.5 amd64 GNU binary utilities (private shared library)
++ii  libbinutils:amd64         2.30-21ubuntu1~18.04.7 amd64 GNU binary utilities (private shared library)
+-ii  linux-libc-dev:amd64      4.15.0-159.167         amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64      4.15.0-161.169         amd64 Linux Kernel Headers for development
 ```
