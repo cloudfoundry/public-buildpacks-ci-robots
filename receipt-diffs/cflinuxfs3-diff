@@ -1,40 +1,4 @@
-newpackages_cflinuxfs3_1636060812:
+empty_1636141792:
 
 ```
--ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.15 amd64 DNS lookup utility (deprecated)
-+ii  bind9-host             1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS lookup utility (deprecated)
--ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.15 amd64 Clients provided with BIND
-+ii  dnsutils               1:9.11.3+dfsg-1ubuntu1.16 amd64 Clients provided with BIND
--ii  icu-devtools           60.2-3ubuntu3.1           amd64 Development utilities for International Components for Unicode
-+ii  icu-devtools           60.2-3ubuntu3.2           amd64 Development utilities for International Components for Unicode
--ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.15 amd64 BIND9 Shared Library used by BIND
-+ii  libbind9-160:amd64     1:9.11.3+dfsg-1ubuntu1.16 amd64 BIND9 Shared Library used by BIND
--ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.15 amd64 Exported DNS Shared Library
--ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.15 amd64 DNS Shared Library used by BIND
-+ii  libdns-export1100      1:9.11.3+dfsg-1ubuntu1.16 amd64 Exported DNS Shared Library
-+ii  libdns1100:amd64       1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS Shared Library used by BIND
--ii  libicu-dev             60.2-3ubuntu3.1           amd64 Development files for International Components for Unicode
-+ii  libicu-dev             60.2-3ubuntu3.2           amd64 Development files for International Components for Unicode
--ii  libicu60:amd64         60.2-3ubuntu3.1           amd64 International Components for Unicode
--ii  libiculx60:amd64       60.2-3ubuntu3.1           amd64 International Components for Unicode
-+ii  libicu60:amd64         60.2-3ubuntu3.2           amd64 International Components for Unicode
-+ii  libiculx60:amd64       60.2-3ubuntu3.2           amd64 International Components for Unicode
--ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.15 amd64 DNS Shared Library used by BIND
--ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.15 amd64 Exported ISC Shared Library
--ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.15 amd64 ISC Shared Library used by BIND
--ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.15 amd64 Command Channel Library used by BIND
--ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.15 amd64 Config File Handling Library used by BIND
-+ii  libirs160:amd64        1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS Shared Library used by BIND
-+ii  libisc-export169:amd64 1:9.11.3+dfsg-1ubuntu1.16 amd64 Exported ISC Shared Library
-+ii  libisc169:amd64        1:9.11.3+dfsg-1ubuntu1.16 amd64 ISC Shared Library used by BIND
-+ii  libisccc160:amd64      1:9.11.3+dfsg-1ubuntu1.16 amd64 Command Channel Library used by BIND
-+ii  libisccfg160:amd64     1:9.11.3+dfsg-1ubuntu1.16 amd64 Config File Handling Library used by BIND
--ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.15 amd64 Lightweight Resolver Library used by BIND
-+ii  liblwres160:amd64      1:9.11.3+dfsg-1ubuntu1.16 amd64 Lightweight Resolver Library used by BIND
--ii  linux-base             4.5ubuntu1.6              all   Linux image base package
-+ii  linux-base             4.5ubuntu1.7              all   Linux image base package
--ii  tzdata                 2021a-2ubuntu0.18.04      all   time zone and daylight-saving time data
--ii  ubuntu-advantage-tools 27.2.2~18.04.1            amd64 management tools for Ubuntu Advantage
-+ii  tzdata                 2021e-0ubuntu0.18.04      all   time zone and daylight-saving time data
-+ii  ubuntu-advantage-tools 27.3~18.04.1              amd64 management tools for Ubuntu Advantage
 ```
