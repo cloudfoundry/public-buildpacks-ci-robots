@@ -24,7 +24,7 @@
 # Java team rebuilt openjdk
 - https://java-buildpack.cloudfoundry.org/openjdk/trusty/x86_64/openjdk-1.8.0_131.tar.gz
 
-# CAAPM PHP deps with mismatched shas, fixed in later versions of buildpack
+# PHP CAAPM agent is hosted at a new location (old URL no longer works). Updated in latest version of php-buildpack.
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-10.6.0_linux.tar.gz
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-10.7.0_linux.tar.gz
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-20.1.0_linux.tar.gz
