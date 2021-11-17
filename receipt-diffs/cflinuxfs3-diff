@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1637169473:
+empty_1637176693:
 
 ```
-+ii  python-apt-common      1.6.5ubuntu0.7 all   Python interface to libapt-pkg (locales)
-+ii  python3-apt            1.6.5ubuntu0.7 amd64 Python 3 interface to libapt-pkg
--ii  ubuntu-advantage-tools 27.3~18.04.1   amd64 management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.4.1~18.04.1 amd64 management tools for Ubuntu Advantage
 ```
