@@ -1,4 +1,36 @@
-empty_1637176693:
+newpackages_cflinuxfs3_1638886602:
 
 ```
+-ii  busybox-initramfs                 1:1.27.2-2ubuntu3.3             amd64 Standalone shell setup for initramfs
++ii  busybox-initramfs                 1:1.27.2-2ubuntu3.4             amd64 Standalone shell setup for initramfs
+-ii  imagemagick                       8:6.9.7.4+dfsg-16ubuntu6.11     amd64 image manipulation programs -- binaries
+-ii  imagemagick-6-common              8:6.9.7.4+dfsg-16ubuntu6.11     all   image manipulation programs -- infrastructure
+-ii  imagemagick-6.q16                 8:6.9.7.4+dfsg-16ubuntu6.11     amd64 image manipulation programs -- quantum depth Q16
++ii  imagemagick                       8:6.9.7.4+dfsg-16ubuntu6.12     amd64 image manipulation programs -- binaries
++ii  imagemagick-6-common              8:6.9.7.4+dfsg-16ubuntu6.12     all   image manipulation programs -- infrastructure
++ii  imagemagick-6.q16                 8:6.9.7.4+dfsg-16ubuntu6.12     amd64 image manipulation programs -- quantum depth Q16
+-ii  libmagickcore-6-arch-config:amd64 8:6.9.7.4+dfsg-16ubuntu6.11     amd64 low-level image manipulation library - architecture header files
+-ii  libmagickcore-6-headers           8:6.9.7.4+dfsg-16ubuntu6.11     all   low-level image manipulation library - header files
+-ii  libmagickcore-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.11     amd64 low-level image manipulation library -- quantum depth Q16
+-ii  libmagickcore-6.q16-3-extra:amd64 8:6.9.7.4+dfsg-16ubuntu6.11     amd64 low-level image manipulation library - extra codecs (Q16)
+-ii  libmagickcore-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.11     amd64 low-level image manipulation library - development files (Q16)
+-ii  libmagickwand-6-headers           8:6.9.7.4+dfsg-16ubuntu6.11     all   image manipulation library - headers files
+-ii  libmagickwand-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.11     amd64 image manipulation library -- quantum depth Q16
+-ii  libmagickwand-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.11     amd64 image manipulation library - development files (Q16)
+-ii  libmagickwand-dev                 8:6.9.7.4+dfsg-16ubuntu6.11     all   image manipulation library -- dummy package
++ii  libmagickcore-6-arch-config:amd64 8:6.9.7.4+dfsg-16ubuntu6.12     amd64 low-level image manipulation library - architecture header files
++ii  libmagickcore-6-headers           8:6.9.7.4+dfsg-16ubuntu6.12     all   low-level image manipulation library - header files
++ii  libmagickcore-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.12     amd64 low-level image manipulation library -- quantum depth Q16
++ii  libmagickcore-6.q16-3-extra:amd64 8:6.9.7.4+dfsg-16ubuntu6.12     amd64 low-level image manipulation library - extra codecs (Q16)
++ii  libmagickcore-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.12     amd64 low-level image manipulation library - development files (Q16)
++ii  libmagickwand-6-headers           8:6.9.7.4+dfsg-16ubuntu6.12     all   image manipulation library - headers files
++ii  libmagickwand-6.q16-3:amd64       8:6.9.7.4+dfsg-16ubuntu6.12     amd64 image manipulation library -- quantum depth Q16
++ii  libmagickwand-6.q16-dev:amd64     8:6.9.7.4+dfsg-16ubuntu6.12     amd64 image manipulation library - development files (Q16)
++ii  libmagickwand-dev                 8:6.9.7.4+dfsg-16ubuntu6.12     all   image manipulation library -- dummy package
+-ii  libwbclient0:amd64                2:4.7.6+dfsg~ubuntu-0ubuntu2.23 amd64 Samba winbind client library
++ii  libwbclient0:amd64                2:4.7.6+dfsg~ubuntu-0ubuntu2.26 amd64 Samba winbind client library
+-ii  linux-libc-dev:amd64              4.15.0-162.170                  amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64              4.15.0-163.171                  amd64 Linux Kernel Headers for development
+-ii  ubuntu-advantage-tools            27.4.1~18.04.1                  amd64 management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools            27.4.2~18.04.1                  amd64 management tools for Ubuntu Advantage
 ```
