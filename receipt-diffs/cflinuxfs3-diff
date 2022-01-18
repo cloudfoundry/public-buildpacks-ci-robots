@@ -1,4 +1,22 @@
-empty_1639768974:
+newpackages_cflinuxfs3_1642533576:
 
 ```
+-ii  libruby2.5:amd64       2.5.1-1ubuntu1.10 amd64  Libraries necessary to run Ruby 2.5
++ii  libruby2.5:amd64       2.5.1-1ubuntu1.11 amd64  Libraries necessary to run Ruby 2.5
+-ii  libsystemd0:amd64      237-3ubuntu10.52  amd64  systemd utility library
++ii  libsystemd0:amd64      237-3ubuntu10.53  amd64  systemd utility library
+-ii  libudev1:amd64         237-3ubuntu10.52  amd64  libudev shared library
++ii  libudev1:amd64         237-3ubuntu10.53  amd64  libudev shared library
+-ii  linux-libc-dev:amd64   4.15.0-163.171    amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64   4.15.0-166.174    amd64  Linux Kernel Headers for development
+-ii  ruby2.5                2.5.1-1ubuntu1.10 amd64  Interpreter of object-oriented scripting language Ruby
++ii  ruby2.5                2.5.1-1ubuntu1.11 amd64  Interpreter of object-oriented scripting language Ruby
+-ii  systemd                237-3ubuntu10.52  amd64  system and service manager
+-ii  systemd-sysv           237-3ubuntu10.52  amd64  system and service manager - SysV links
++ii  systemd                237-3ubuntu10.53  amd64  system and service manager
++ii  systemd-sysv           237-3ubuntu10.53  amd64  system and service manager - SysV links
+-ii  ubuntu-advantage-tools 27.4.2~18.04.1    amd64  management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools 27.5~18.04.1      amd64  management tools for Ubuntu Advantage
+-ii  udev                   237-3ubuntu10.52  amd64  /dev/ and hotplug management daemon
++ii  udev                   237-3ubuntu10.53  amd64  /dev/ and hotplug management daemon
 ```
