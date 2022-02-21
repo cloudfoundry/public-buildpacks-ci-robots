@@ -1,22 +1,4 @@
-newpackages_cflinuxfs3_1645460550:
+empty_1645467650:
 
 ```
--ii  libexpat1:amd64        2.2.5-3ubuntu0.2                amd64  XML parsing C library - runtime library
--ii  libexpat1-dev:amd64    2.2.5-3ubuntu0.2                amd64  XML parsing C library - development kit
-+ii  libexpat1:amd64        2.2.5-3ubuntu0.4                amd64  XML parsing C library - runtime library
-+ii  libexpat1-dev:amd64    2.2.5-3ubuntu0.4                amd64  XML parsing C library - development kit
--ii  libspeex1:amd64        1.2~rc1.2-1ubuntu2              amd64  The Speex codec runtime library
-+ii  libspeex1:amd64        1.2~rc1.2-1ubuntu2.1            amd64  The Speex codec runtime library
--ii  libwbclient0:amd64     2:4.7.6+dfsg~ubuntu-0ubuntu2.27 amd64  Samba winbind client library
-+ii  libwbclient0:amd64     2:4.7.6+dfsg~ubuntu-0ubuntu2.28 amd64  Samba winbind client library
--ii  linux-libc-dev:amd64   4.15.0-166.174                  amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   4.15.0-169.177                  amd64  Linux Kernel Headers for development
--ii  openssh-client         1:7.6p1-4ubuntu0.5              amd64  secure shell (SSH) client, for secure access to remote machines
--ii  openssh-server         1:7.6p1-4ubuntu0.5              amd64  secure shell (SSH) server, for secure access from remote machines
--ii  openssh-sftp-server    1:7.6p1-4ubuntu0.5              amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-+ii  openssh-client         1:7.6p1-4ubuntu0.6              amd64  secure shell (SSH) client, for secure access to remote machines
-+ii  openssh-server         1:7.6p1-4ubuntu0.6              amd64  secure shell (SSH) server, for secure access from remote machines
-+ii  openssh-sftp-server    1:7.6p1-4ubuntu0.6              amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
--ii  ubuntu-advantage-tools 27.5~18.04.1                    amd64  management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.6~18.04.1                    amd64  management tools for Ubuntu Advantage
 ```
