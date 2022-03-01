@@ -1,4 +1,28 @@
-empty_1645467650:
+newpackages_cflinuxfs3_1646155098:
 
 ```
+-ii  libc-bin                          2.27-3ubuntu1.4                     amd64 GNU C Library: Binaries
+-ii  libc-dev-bin                      2.27-3ubuntu1.4                     amd64 GNU C Library: Development binaries
+-ii  libc6:amd64                       2.27-3ubuntu1.4                     amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64                   2.27-3ubuntu1.4                     amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                          2.27-3ubuntu1.5                     amd64 GNU C Library: Binaries
++ii  libc-dev-bin                      2.27-3ubuntu1.5                     amd64 GNU C Library: Development binaries
++ii  libc6:amd64                       2.27-3ubuntu1.5                     amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64                   2.27-3ubuntu1.5                     amd64 GNU C Library: Development Libraries and Header Files
+-ii  libsasl2-2:amd64                  2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64 Cyrus SASL - authentication abstraction library
+-ii  libsasl2-dev                      2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64 Cyrus SASL - development files for authentication abstraction library
+-ii  libsasl2-modules:amd64            2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64 Cyrus SASL - pluggable authentication modules
+-ii  libsasl2-modules-db:amd64         2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64 Cyrus SASL - pluggable authentication modules (DB)
+-ii  libsasl2-modules-gssapi-mit:amd64 2.1.27~101-g0780600+dfsg-3ubuntu2.3 amd64 Cyrus SASL - pluggable authentication modules (GSSAPI)
++ii  libsasl2-2:amd64                  2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64 Cyrus SASL - authentication abstraction library
++ii  libsasl2-dev                      2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64 Cyrus SASL - development files for authentication abstraction library
++ii  libsasl2-modules:amd64            2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64 Cyrus SASL - pluggable authentication modules
++ii  libsasl2-modules-db:amd64         2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64 Cyrus SASL - pluggable authentication modules (DB)
++ii  libsasl2-modules-gssapi-mit:amd64 2.1.27~101-g0780600+dfsg-3ubuntu2.4 amd64 Cyrus SASL - pluggable authentication modules (GSSAPI)
+-ii  locales                           2.27-3ubuntu1.4                     all   GNU C Library: National Language (locale) data [support]
++ii  locales                           2.27-3ubuntu1.5                     all   GNU C Library: National Language (locale) data [support]
+-ii  multiarch-support                 2.27-3ubuntu1.4                     amd64 Transitional package to ensure multiarch compatibility
++ii  multiarch-support                 2.27-3ubuntu1.5                     amd64 Transitional package to ensure multiarch compatibility
+-ii  rsync                             3.1.2-2.1ubuntu1.2                  amd64 fast, versatile, remote (and local) file-copying tool
++ii  rsync                             3.1.2-2.1ubuntu1.3                  amd64 fast, versatile, remote (and local) file-copying tool
 ```
