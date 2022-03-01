@@ -13,7 +13,7 @@ This contains the state for the Cloud Foundry Buildpacks team [Concourse deploym
 * [binary-built-output](binary-built-output) When an automatic build finishes, it stores binary signatures and timestamps in this branch.
 
 
-* [new-cve-notifications](new-cve-notifications) Tracks CVEs and sorts them based on whether they affect the cflinuxfs2 rootfs
+* [new-cve-notifications](new-cve-notifications) Tracks CVEs and sorts them based on whether they affect the cflinuxfs3 rootfs
 
 * [resource-pools](resource-pools) Used to control access to the LTS BOSH-lite environments via the [Concourse Pool Resource](https://github.com/concourse/pool-resource)
 
