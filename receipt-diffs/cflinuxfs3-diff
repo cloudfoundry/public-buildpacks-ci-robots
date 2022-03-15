@@ -1,16 +1,4 @@
-newpackages_cflinuxfs3_1647368197:
+empty_1647375381:
 
 ```
--ii  libssl-dev:amd64  1.1.1-1ubuntu2.1~18.04.14 amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.0.0:amd64 1.0.2n-1ubuntu5.7         amd64  Secure Sockets Layer toolkit - shared libraries
--ii  libssl1.1:amd64   1.1.1-1ubuntu2.1~18.04.14 amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64  1.1.1-1ubuntu2.1~18.04.15 amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl1.0.0:amd64 1.0.2n-1ubuntu5.8         amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.1:amd64   1.1.1-1ubuntu2.1~18.04.15 amd64  Secure Sockets Layer toolkit - shared libraries
--ii  openssl           1.1.1-1ubuntu2.1~18.04.14 amd64  Secure Sockets Layer toolkit - cryptographic utility
--ii  openssl1.0        1.0.2n-1ubuntu5.7         amd64  Secure Sockets Layer toolkit 1.0 - cryptographic utility
-+ii  openssl           1.1.1-1ubuntu2.1~18.04.15 amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl1.0        1.0.2n-1ubuntu5.8         amd64  Secure Sockets Layer toolkit 1.0 - cryptographic utility
--ii  tar               1.29b-2ubuntu0.2          amd64  GNU version of the tar archiving utility
-+ii  tar               1.29b-2ubuntu0.3          amd64  GNU version of the tar archiving utility
 ```
