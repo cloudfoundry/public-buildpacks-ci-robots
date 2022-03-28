@@ -1,4 +1,48 @@
-empty_1647376180:
+newpackages_cflinuxfs3_1648466273:
 
 ```
+-ii  bind9-host                 1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS lookup utility (deprecated)
++ii  bind9-host                 1:9.11.3+dfsg-1ubuntu1.17 amd64 DNS lookup utility (deprecated)
+-ii  dnsutils                   1:9.11.3+dfsg-1ubuntu1.16 amd64 Clients provided with BIND
++ii  dnsutils                   1:9.11.3+dfsg-1ubuntu1.17 amd64 Clients provided with BIND
+-ii  libbind9-160:amd64         1:9.11.3+dfsg-1ubuntu1.16 amd64 BIND9 Shared Library used by BIND
++ii  libbind9-160:amd64         1:9.11.3+dfsg-1ubuntu1.17 amd64 BIND9 Shared Library used by BIND
+-ii  libdns-export1100          1:9.11.3+dfsg-1ubuntu1.16 amd64 Exported DNS Shared Library
+-ii  libdns1100:amd64           1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS Shared Library used by BIND
++ii  libdns-export1100          1:9.11.3+dfsg-1ubuntu1.17 amd64 Exported DNS Shared Library
++ii  libdns1100:amd64           1:9.11.3+dfsg-1ubuntu1.17 amd64 DNS Shared Library used by BIND
+-ii  libirs160:amd64            1:9.11.3+dfsg-1ubuntu1.16 amd64 DNS Shared Library used by BIND
+-ii  libisc-export169:amd64     1:9.11.3+dfsg-1ubuntu1.16 amd64 Exported ISC Shared Library
+-ii  libisc169:amd64            1:9.11.3+dfsg-1ubuntu1.16 amd64 ISC Shared Library used by BIND
+-ii  libisccc160:amd64          1:9.11.3+dfsg-1ubuntu1.16 amd64 Command Channel Library used by BIND
+-ii  libisccfg160:amd64         1:9.11.3+dfsg-1ubuntu1.16 amd64 Config File Handling Library used by BIND
++ii  libirs160:amd64            1:9.11.3+dfsg-1ubuntu1.17 amd64 DNS Shared Library used by BIND
++ii  libisc-export169:amd64     1:9.11.3+dfsg-1ubuntu1.17 amd64 Exported ISC Shared Library
++ii  libisc169:amd64            1:9.11.3+dfsg-1ubuntu1.17 amd64 ISC Shared Library used by BIND
++ii  libisccc160:amd64          1:9.11.3+dfsg-1ubuntu1.17 amd64 Command Channel Library used by BIND
++ii  libisccfg160:amd64         1:9.11.3+dfsg-1ubuntu1.17 amd64 Config File Handling Library used by BIND
+-ii  liblwres160:amd64          1:9.11.3+dfsg-1ubuntu1.16 amd64 Lightweight Resolver Library used by BIND
++ii  liblwres160:amd64          1:9.11.3+dfsg-1ubuntu1.17 amd64 Lightweight Resolver Library used by BIND
+-ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.6   amd64 Minimal subset of the Python language (version 2.7)
+-ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.6   amd64 Interactive high-level object-oriented language (standard library, version 2.7)
++ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.7   amd64 Minimal subset of the Python language (version 2.7)
++ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.7   amd64 Interactive high-level object-oriented language (standard library, version 2.7)
+-ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.6    amd64 Shared Python runtime library (version 3.6)
+-ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.6    amd64 Minimal subset of the Python language (version 3.6)
+-ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.6    amd64 Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.7    amd64 Shared Python runtime library (version 3.6)
++ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.7    amd64 Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.7    amd64 Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  linux-libc-dev:amd64       4.15.0-171.180            amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64       4.15.0-173.182            amd64 Linux Kernel Headers for development
+-ii  python2.7                  2.7.17-1~18.04ubuntu1.6   amd64 Interactive high-level object-oriented language (version 2.7)
+-ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.6   amd64 Minimal subset of the Python language (version 2.7)
++ii  python2.7                  2.7.17-1~18.04ubuntu1.7   amd64 Interactive high-level object-oriented language (version 2.7)
++ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.7   amd64 Minimal subset of the Python language (version 2.7)
+-ii  python3.6                  3.6.9-1~18.04ubuntu1.6    amd64 Interactive high-level object-oriented language (version 3.6)
+-ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.6    amd64 Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.9-1~18.04ubuntu1.7    amd64 Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.7    amd64 Minimal subset of the Python language (version 3.6)
+-ii  tzdata                     2021e-0ubuntu0.18.04      all   time zone and daylight-saving time data
++ii  tzdata                     2022a-0ubuntu0.18.04      all   time zone and daylight-saving time data
 ```
