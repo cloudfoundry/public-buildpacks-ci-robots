@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1648660665:
+empty_1648668042:
 
 ```
--ii  linux-libc-dev:amd64 4.15.0-173.182           amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-175.184           amd64  Linux Kernel Headers for development
--ii  zlib1g:amd64         1:1.2.11.dfsg-0ubuntu2   amd64  compression library - runtime
--ii  zlib1g-dev:amd64     1:1.2.11.dfsg-0ubuntu2   amd64  compression library - development
-+ii  zlib1g:amd64         1:1.2.11.dfsg-0ubuntu2.1 amd64  compression library - runtime
-+ii  zlib1g-dev:amd64     1:1.2.11.dfsg-0ubuntu2.1 amd64  compression library - development
 ```
