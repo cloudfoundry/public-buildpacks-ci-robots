@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1649373871:
+empty_1649377469:
 
 ```
--ii  libfribidi0:amd64      0.19.7-2           amd64  Free Implementation of the Unicode BiDi algorithm
-+ii  libfribidi0:amd64      0.19.7-2ubuntu0.1  amd64  Free Implementation of the Unicode BiDi algorithm
--ii  libkeyutils1:amd64     1.5.9-9.2ubuntu2   amd64  Linux Key Management Utilities (library)
-+ii  libkeyutils1:amd64     1.5.9-9.2ubuntu2.1 amd64  Linux Key Management Utilities (library)
--ii  ubuntu-advantage-tools 27.6~18.04.1       amd64  management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.7~18.04.1       amd64  management tools for Ubuntu Advantage
 ```
