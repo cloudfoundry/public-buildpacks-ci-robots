@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1651054875:
+empty_1651061688:
 
 ```
--ii  distro-info-data    0.37ubuntu0.13 all   information about the distributions' releases (data files)
-+ii  distro-info-data    0.37ubuntu0.14 all   information about the distributions' releases (data files)
--ii  libsepol1:amd64     2.7-1          amd64 SELinux library for manipulating binary security policies
--ii  libsepol1-dev:amd64 2.7-1          amd64 SELinux binary policy manipulation library and development files
-+ii  libsepol1:amd64     2.7-1ubuntu0.1 amd64 SELinux library for manipulating binary security policies
-+ii  libsepol1-dev:amd64 2.7-1ubuntu0.1 amd64 SELinux binary policy manipulation library and development files
 ```
