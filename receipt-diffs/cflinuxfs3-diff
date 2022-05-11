@@ -1,12 +1,4 @@
-newpackages_cflinuxfs3_1652282379:
+empty_1652289878:
 
 ```
--ii  curl                       7.58.0-2ubuntu3.17  amd64  command line tool for transferring data with URL syntax
-+ii  curl                       7.58.0-2ubuntu3.18  amd64  command line tool for transferring data with URL syntax
--ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.17  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
--ii  libcurl4:amd64             7.58.0-2ubuntu3.17  amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
--ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.17  amd64  development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64      7.58.0-2ubuntu3.18  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64             7.58.0-2ubuntu3.18  amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64 7.58.0-2ubuntu3.18  amd64  development files and documentation for libcurl (OpenSSL flavour)
 ```
