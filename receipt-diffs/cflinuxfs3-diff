@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1652732275:
+empty_1652739282:
 
 ```
--ii  libxml2:amd64          2.9.4+dfsg1-6.1ubuntu1.5 amd64  GNOME XML library
--ii  libxml2-dev:amd64      2.9.4+dfsg1-6.1ubuntu1.5 amd64  Development files for the GNOME XML library
-+ii  libxml2:amd64          2.9.4+dfsg1-6.1ubuntu1.6 amd64  GNOME XML library
-+ii  libxml2-dev:amd64      2.9.4+dfsg1-6.1ubuntu1.6 amd64  Development files for the GNOME XML library
--ii  ubuntu-advantage-tools 27.7~18.04.1             amd64  management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.8~18.04.1             amd64  management tools for Ubuntu Advantage
 ```
