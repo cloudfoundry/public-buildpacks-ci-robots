@@ -1,20 +1,4 @@
-newpackages_cflinuxfs3_1652804192:
+empty_1652811445:
 
 ```
--ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10 amd64 OpenLDAP libraries
--ii  libldap-common      2.4.45+dfsg-1ubuntu1.10 all   OpenLDAP common files for libraries
--ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1.10 amd64 OpenLDAP development libraries
-+ii  libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.11 amd64 OpenLDAP libraries
-+ii  libldap-common      2.4.45+dfsg-1ubuntu1.11 all   OpenLDAP common files for libraries
-+ii  libldap2-dev:amd64  2.4.45+dfsg-1ubuntu1.11 amd64 OpenLDAP development libraries
--ii  libpcre16-3:amd64   2:8.39-9                amd64 Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
--ii  libpcre3:amd64      2:8.39-9                amd64 Old Perl 5 Compatible Regular Expression Library - runtime files
--ii  libpcre3-dev:amd64  2:8.39-9                amd64 Old Perl 5 Compatible Regular Expression Library - development files
--ii  libpcre32-3:amd64   2:8.39-9                amd64 Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
--ii  libpcrecpp0v5:amd64 2:8.39-9                amd64 Old Perl 5 Compatible Regular Expression Library - C++ runtime files
-+ii  libpcre16-3:amd64   2:8.39-9ubuntu0.1       amd64 Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
-+ii  libpcre3:amd64      2:8.39-9ubuntu0.1       amd64 Old Perl 5 Compatible Regular Expression Library - runtime files
-+ii  libpcre3-dev:amd64  2:8.39-9ubuntu0.1       amd64 Old Perl 5 Compatible Regular Expression Library - development files
-+ii  libpcre32-3:amd64   2:8.39-9ubuntu0.1       amd64 Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
-+ii  libpcrecpp0v5:amd64 2:8.39-9ubuntu0.1       amd64 Old Perl 5 Compatible Regular Expression Library - C++ runtime files
 ```
