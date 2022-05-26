@@ -1,0 +1,12 @@
+newpackages_cflinuxfs4_1653603483:
+
+```
+-ii  dpkg         1.21.1ubuntu2     amd64 Debian package management system
+-ii  dpkg-dev     1.21.1ubuntu2     all   Debian package development tools
++ii  dpkg         1.21.1ubuntu2.1   amd64 Debian package management system
++ii  dpkg-dev     1.21.1ubuntu2.1   all   Debian package development tools
+-ii  libdpkg-perl 1.21.1ubuntu2     all   Dpkg perl modules
++ii  libdpkg-perl 1.21.1ubuntu2.1   all   Dpkg perl modules
+-ii  logrotate    3.19.0-1ubuntu1   amd64 Log rotation utility
++ii  logrotate    3.19.0-1ubuntu1.1 amd64 Log rotation utility
+```
