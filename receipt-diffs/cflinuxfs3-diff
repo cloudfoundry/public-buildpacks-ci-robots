@@ -1,4 +1,26 @@
-empty_1652811445:
+newpackages_cflinuxfs3_1653545890:
 
 ```
+-ii  libc-bin             2.27-3ubuntu1.5        amd64 GNU C Library: Binaries
+-ii  libc-dev-bin         2.27-3ubuntu1.5        amd64 GNU C Library: Development binaries
+-ii  libc6:amd64          2.27-3ubuntu1.5        amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64      2.27-3ubuntu1.5        amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin             2.27-3ubuntu1.6        amd64 GNU C Library: Binaries
++ii  libc-dev-bin         2.27-3ubuntu1.6        amd64 GNU C Library: Development binaries
++ii  libc6:amd64          2.27-3ubuntu1.6        amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64      2.27-3ubuntu1.6        amd64 GNU C Library: Development Libraries and Header Files
+-ii  libpq-dev            10.20-0ubuntu0.18.04.1 amd64 header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64         10.20-0ubuntu0.18.04.1 amd64 PostgreSQL C client library
++ii  libpq-dev            10.21-0ubuntu0.18.04.1 amd64 header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64         10.21-0ubuntu0.18.04.1 amd64 PostgreSQL C client library
+-ii  libsvn1:amd64        1.9.7-4ubuntu1         amd64 Shared libraries used by Apache Subversion
++ii  libsvn1:amd64        1.9.7-4ubuntu1.1       amd64 Shared libraries used by Apache Subversion
+-ii  linux-libc-dev:amd64 4.15.0-177.186         amd64 Linux Kernel Headers for development
+-ii  locales              2.27-3ubuntu1.5        all   GNU C Library: National Language (locale) data [support]
++ii  linux-libc-dev:amd64 4.15.0-180.189         amd64 Linux Kernel Headers for development
++ii  locales              2.27-3ubuntu1.6        all   GNU C Library: National Language (locale) data [support]
+-ii  multiarch-support    2.27-3ubuntu1.5        amd64 Transitional package to ensure multiarch compatibility
++ii  multiarch-support    2.27-3ubuntu1.6        amd64 Transitional package to ensure multiarch compatibility
+-ii  subversion           1.9.7-4ubuntu1         amd64 Advanced version control system
++ii  subversion           1.9.7-4ubuntu1.1       amd64 Advanced version control system
 ```
