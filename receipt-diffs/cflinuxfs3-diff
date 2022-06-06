@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1654550773:
+empty_1654557662:
 
 ```
--ii  libruby2.5:amd64 2.5.1-1ubuntu1.11  amd64  Libraries necessary to run Ruby 2.5
-+ii  libruby2.5:amd64 2.5.1-1ubuntu1.12  amd64  Libraries necessary to run Ruby 2.5
--ii  ruby2.5          2.5.1-1ubuntu1.11  amd64  Interpreter of object-oriented scripting language Ruby
-+ii  ruby2.5          2.5.1-1ubuntu1.12  amd64  Interpreter of object-oriented scripting language Ruby
 ```
