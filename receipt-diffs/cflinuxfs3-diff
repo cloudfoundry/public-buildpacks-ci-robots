@@ -1,4 +1,12 @@
-empty_1654648546:
+newpackages_cflinuxfs3_1654719789:
 
 ```
+-ii  ca-certificates      20210119~18.04.2    all   Common CA certificates
++ii  ca-certificates      20211016~18.04.1    all   Common CA certificates
+-ii  libavcodec57:amd64   7:3.4.8-0ubuntu0.2  amd64 FFmpeg library with de/encoders for audio/video codecs - runtime files
+-ii  libavutil55:amd64    7:3.4.8-0ubuntu0.2  amd64 FFmpeg library with functions for simplifying programming - runtime files
++ii  libavcodec57:amd64   7:3.4.11-0ubuntu0.1 amd64 FFmpeg library with de/encoders for audio/video codecs - runtime files
++ii  libavutil55:amd64    7:3.4.11-0ubuntu0.1 amd64 FFmpeg library with functions for simplifying programming - runtime files
+-ii  libswresample2:amd64 7:3.4.8-0ubuntu0.2  amd64 FFmpeg library for audio resampling, rematrixing etc. - runtime files
++ii  libswresample2:amd64 7:3.4.11-0ubuntu0.1 amd64 FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ```
