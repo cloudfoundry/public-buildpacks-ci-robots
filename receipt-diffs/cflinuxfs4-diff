@@ -1,15 +1,4 @@
-newpackages_cflinuxfs4_1655834237:
+empty_1655835888:
 
 ```
--ii  libssl-dev:amd64     3.0.2-0ubuntu1.2 amd64 Secure Sockets Layer toolkit - development files
--ii  libssl3:amd64        3.0.2-0ubuntu1.2 amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64     3.0.2-0ubuntu1.5 amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl3:amd64        3.0.2-0ubuntu1.5 amd64 Secure Sockets Layer toolkit - shared libraries
--ii  linux-libc-dev:amd64 5.15.0-37.39     amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 5.15.0-39.42     amd64 Linux Kernel Headers for development
--ii  openssl              3.0.2-0ubuntu1.2 amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl              3.0.2-0ubuntu1.5 amd64 Secure Sockets Layer toolkit - cryptographic utility
--ii  ruby-xmlrpc          0.3.2-1          all   XMLRPC library for Ruby
-+ii  ruby-webrick         1.7.0-3          all   HTTP server toolkit in Ruby
-+ii  ruby-xmlrpc          0.3.2-1ubuntu0.1 all   XMLRPC library for Ruby
 ```
