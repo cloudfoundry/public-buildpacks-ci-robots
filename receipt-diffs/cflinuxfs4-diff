@@ -1,30 +1,4 @@
-newpackages_cflinuxfs4_1656351052:
+empty_1656352825:
 
 ```
--ii  curl                       7.81.0-1ubuntu1.2            amd64 command line tool for transferring data with URL syntax
-+ii  curl                       7.81.0-1ubuntu1.3            amd64 command line tool for transferring data with URL syntax
--ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.2            amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
--ii  libcurl4:amd64             7.81.0-1ubuntu1.2            amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
--ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.2            amd64 development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.3            amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64             7.81.0-1ubuntu1.3            amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.3            amd64 development files and documentation for libcurl (OpenSSL flavour)
--ii  libldap-2.5-0:amd64        2.5.11+dfsg-1~exp1ubuntu3.1  amd64 OpenLDAP libraries
--ii  libldap-dev:amd64          2.5.11+dfsg-1~exp1ubuntu3.1  amd64 OpenLDAP development libraries
--ii  libldap2-dev               2.5.11+dfsg-1~exp1ubuntu3.1  all   transitional package for libldap-dev
-+ii  libldap-2.5-0:amd64        2.5.12+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
-+ii  libldap-dev:amd64          2.5.12+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
-+ii  libldap2-dev               2.5.12+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
--ii  libsystemd0:amd64          249.11-0ubuntu3.1            amd64 systemd utility library
-+ii  libsystemd0:amd64          249.11-0ubuntu3.3            amd64 systemd utility library
--ii  libudev1:amd64             249.11-0ubuntu3.1            amd64 libudev shared library
-+ii  libudev1:amd64             249.11-0ubuntu3.3            amd64 libudev shared library
--ii  linux-libc-dev:amd64       5.15.0-39.42                 amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       5.15.0-40.43                 amd64 Linux Kernel Headers for development
--ii  systemd                    249.11-0ubuntu3.1            amd64 system and service manager
--ii  systemd-sysv               249.11-0ubuntu3.1            amd64 system and service manager - SysV links
-+ii  systemd                    249.11-0ubuntu3.3            amd64 system and service manager
-+ii  systemd-sysv               249.11-0ubuntu3.3            amd64 system and service manager - SysV links
--ii  udev                       249.11-0ubuntu3.1            amd64 /dev/ and hotplug management daemon
-+ii  udev                       249.11-0ubuntu3.3            amd64 /dev/ and hotplug management daemon
 ```
