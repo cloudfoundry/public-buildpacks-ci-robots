@@ -1,18 +1,4 @@
-newpackages_cflinuxfs3_1657038124:
+empty_1657046586:
 
 ```
--ii  gpgv                   2.2.4-1ubuntu1.5          amd64  GNU privacy guard - signature verification tool
-+ii  gpgv                   2.2.4-1ubuntu1.6          amd64  GNU privacy guard - signature verification tool
--ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.19 amd64  Secure Sockets Layer toolkit - development files
-+ii  libssl-dev:amd64       1.1.1-1ubuntu2.1~18.04.20 amd64  Secure Sockets Layer toolkit - development files
--ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.19 amd64  Secure Sockets Layer toolkit - shared libraries
-+ii  libssl1.1:amd64        1.1.1-1ubuntu2.1~18.04.20 amd64  Secure Sockets Layer toolkit - shared libraries
--ii  login                  1:4.5-1ubuntu2.2          amd64  system login tools
-+ii  login                  1:4.5-1ubuntu2.3          amd64  system login tools
--ii  openssl                1.1.1-1ubuntu2.1~18.04.19 amd64  Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl                1.1.1-1ubuntu2.1~18.04.20 amd64  Secure Sockets Layer toolkit - cryptographic utility
--ii  passwd                 1:4.5-1ubuntu2.2          amd64  change and administer password and group data
-+ii  passwd                 1:4.5-1ubuntu2.3          amd64  change and administer password and group data
--ii  ubuntu-advantage-tools 27.8~18.04.1              amd64  management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.9~18.04.1              amd64  management tools for Ubuntu Advantage
 ```
