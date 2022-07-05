@@ -1,4 +1,22 @@
-empty_1656352825:
+newpackages_cflinuxfs4_1657038720:
 
 ```
+-ii  gpgv                   2.2.27-3ubuntu2       amd64  GNU privacy guard - signature verification tool
++ii  gpgv                   2.2.27-3ubuntu2.1     amd64  GNU privacy guard - signature verification tool
+-ii  isc-dhcp-client        4.4.1-2.3ubuntu2      amd64  DHCP client for automatically obtaining an IP address
++ii  isc-dhcp-client        4.4.1-2.3ubuntu2.1    amd64  DHCP client for automatically obtaining an IP address
+-ii  libapparmor1:amd64     3.0.4-2ubuntu2        amd64  changehat AppArmor library
++ii  libapparmor1:amd64     3.0.4-2ubuntu2.1      amd64  changehat AppArmor library
+-ii  libpq-dev              14.3-0ubuntu0.22.04.1 amd64  header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64           14.3-0ubuntu0.22.04.1 amd64  PostgreSQL C client library
++ii  libpq-dev              14.4-0ubuntu0.22.04.1 amd64  header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64           14.4-0ubuntu0.22.04.1 amd64  PostgreSQL C client library
+-ii  libssl-dev:amd64       3.0.2-0ubuntu1.5      amd64  Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64          3.0.2-0ubuntu1.5      amd64  Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64       3.0.2-0ubuntu1.6      amd64  Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64          3.0.2-0ubuntu1.6      amd64  Secure Sockets Layer toolkit - shared libraries
+-ii  openssl                3.0.2-0ubuntu1.5      amd64  Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                3.0.2-0ubuntu1.6      amd64  Secure Sockets Layer toolkit - cryptographic utility
+-ii  ubuntu-advantage-tools 27.8~22.04.1          amd64  management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools 27.9~22.04.1          amd64  management tools for Ubuntu Advantage
 ```
