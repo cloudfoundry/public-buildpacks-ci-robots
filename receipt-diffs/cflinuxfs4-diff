@@ -1,14 +1,4 @@
-newpackages_cflinuxfs4_1657136128:
+empty_1657144939:
 
 ```
--ii  libsystemd0:amd64 249.11-0ubuntu3.3  amd64  systemd utility library
-+ii  libsystemd0:amd64 249.11-0ubuntu3.4  amd64  systemd utility library
--ii  libudev1:amd64    249.11-0ubuntu3.3  amd64  libudev shared library
-+ii  libudev1:amd64    249.11-0ubuntu3.4  amd64  libudev shared library
--ii  systemd           249.11-0ubuntu3.3  amd64  system and service manager
--ii  systemd-sysv      249.11-0ubuntu3.3  amd64  system and service manager - SysV links
-+ii  systemd           249.11-0ubuntu3.4  amd64  system and service manager
-+ii  systemd-sysv      249.11-0ubuntu3.4  amd64  system and service manager - SysV links
--ii  udev              249.11-0ubuntu3.3  amd64  /dev/ and hotplug management daemon
-+ii  udev              249.11-0ubuntu3.4  amd64  /dev/ and hotplug management daemon
 ```
