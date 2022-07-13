@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1657744168:
+empty_1657753549:
 
 ```
--ii  git                  1:2.17.1-1ubuntu0.11 amd64 fast, scalable, distributed revision control system
--ii  git-man              1:2.17.1-1ubuntu0.11 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                  1:2.17.1-1ubuntu0.12 amd64 fast, scalable, distributed revision control system
-+ii  git-man              1:2.17.1-1ubuntu0.12 all   fast, scalable, distributed revision control system (manual pages)
--ii  linux-libc-dev:amd64 4.15.0-188.199       amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-189.200       amd64 Linux Kernel Headers for development
 ```
