@@ -1,20 +1,4 @@
-newpackages_cflinuxfs4_1657744086:
+empty_1657753329:
 
 ```
--ii  git                         1:2.34.1-1ubuntu1.2      amd64 fast, scalable, distributed revision control system
--ii  git-man                     1:2.34.1-1ubuntu1.2      all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                         1:2.34.1-1ubuntu1.4      amd64 fast, scalable, distributed revision control system
-+ii  git-man                     1:2.34.1-1ubuntu1.4      all   fast, scalable, distributed revision control system (manual pages)
--ii  libmariadb-dev              1:10.6.7-2ubuntu1        amd64 MariaDB database development files
--ii  libmariadb-dev-compat:amd64 1:10.6.7-2ubuntu1        amd64 MariaDB Connector/C, compatibility symlinks
--ii  libmariadb3:amd64           1:10.6.7-2ubuntu1        amd64 MariaDB database client library
-+ii  libmariadb-dev              1:10.6.7-2ubuntu1.1      amd64 MariaDB database development files
-+ii  libmariadb-dev-compat:amd64 1:10.6.7-2ubuntu1.1      amd64 MariaDB Connector/C, compatibility symlinks
-+ii  libmariadb3:amd64           1:10.6.7-2ubuntu1.1      amd64 MariaDB database client library
--ii  libwbclient0:amd64          2:4.15.5~dfsg-0ubuntu5   amd64 Samba winbind client library
-+ii  libwbclient0:amd64          2:4.15.5~dfsg-0ubuntu5.1 amd64 Samba winbind client library
--ii  linux-libc-dev:amd64        5.15.0-40.43             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64        5.15.0-41.44             amd64 Linux Kernel Headers for development
--ii  mariadb-common              1:10.6.7-2ubuntu1        all   MariaDB common configuration files
-+ii  mariadb-common              1:10.6.7-2ubuntu1.1      all   MariaDB common configuration files
 ```
