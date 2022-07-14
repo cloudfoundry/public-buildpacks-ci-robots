@@ -1,4 +1,22 @@
-empty_1657753549:
+newpackages_cflinuxfs3_1657812176:
 
 ```
+-ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.7 amd64  Minimal subset of the Python language (version 2.7)
+-ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.7 amd64  Interactive high-level object-oriented language (standard library, version 2.7)
++ii  libpython2.7-minimal:amd64 2.7.17-1~18.04ubuntu1.8 amd64  Minimal subset of the Python language (version 2.7)
++ii  libpython2.7-stdlib:amd64  2.7.17-1~18.04ubuntu1.8 amd64  Interactive high-level object-oriented language (standard library, version 2.7)
+-ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.7  amd64  Shared Python runtime library (version 3.6)
+-ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.7  amd64  Minimal subset of the Python language (version 3.6)
+-ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.7  amd64  Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.8  amd64  Shared Python runtime library (version 3.6)
++ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.8  amd64  Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.8  amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  python2.7                  2.7.17-1~18.04ubuntu1.7 amd64  Interactive high-level object-oriented language (version 2.7)
+-ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.7 amd64  Minimal subset of the Python language (version 2.7)
++ii  python2.7                  2.7.17-1~18.04ubuntu1.8 amd64  Interactive high-level object-oriented language (version 2.7)
++ii  python2.7-minimal          2.7.17-1~18.04ubuntu1.8 amd64  Minimal subset of the Python language (version 2.7)
+-ii  python3.6                  3.6.9-1~18.04ubuntu1.7  amd64  Interactive high-level object-oriented language (version 3.6)
+-ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.7  amd64  Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.9-1~18.04ubuntu1.8  amd64  Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.8  amd64  Minimal subset of the Python language (version 3.6)
 ```
