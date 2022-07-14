@@ -1,14 +1,4 @@
-newpackages_cflinuxfs4_1657812329:
+empty_1657821782:
 
 ```
--ii  libpython3.10:amd64         3.10.4-3          amd64  Shared Python runtime library (version 3.10)
--ii  libpython3.10-minimal:amd64 3.10.4-3          amd64  Minimal subset of the Python language (version 3.10)
--ii  libpython3.10-stdlib:amd64  3.10.4-3          amd64  Interactive high-level object-oriented language (standard library, version 3.10)
-+ii  libpython3.10:amd64         3.10.4-3ubuntu0.1 amd64  Shared Python runtime library (version 3.10)
-+ii  libpython3.10-minimal:amd64 3.10.4-3ubuntu0.1 amd64  Minimal subset of the Python language (version 3.10)
-+ii  libpython3.10-stdlib:amd64  3.10.4-3ubuntu0.1 amd64  Interactive high-level object-oriented language (standard library, version 3.10)
--ii  python3.10                  3.10.4-3          amd64  Interactive high-level object-oriented language (version 3.10)
--ii  python3.10-minimal          3.10.4-3          amd64  Minimal subset of the Python language (version 3.10)
-+ii  python3.10                  3.10.4-3ubuntu0.1 amd64  Interactive high-level object-oriented language (version 3.10)
-+ii  python3.10-minimal          3.10.4-3ubuntu0.1 amd64  Minimal subset of the Python language (version 3.10)
 ```
