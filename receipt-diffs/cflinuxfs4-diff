@@ -1,6 +1,4 @@
-newpackages_cflinuxfs4_1658240720:
+empty_1658250629:
 
 ```
--ii  libharfbuzz0b:amd64  2.7.4-1ubuntu3   amd64  OpenType text shaping engine (shared library)
-+ii  libharfbuzz0b:amd64  2.7.4-1ubuntu3.1 amd64  OpenType text shaping engine (shared library)
 ```
