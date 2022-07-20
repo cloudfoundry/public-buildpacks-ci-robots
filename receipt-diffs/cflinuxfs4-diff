@@ -1,4 +1,10 @@
-empty_1658253145:
+newpackages_cflinuxfs4_1658330826:
 
 ```
+-ii  libfreetype-dev:amd64  2.11.1+dfsg-1build1    amd64  FreeType 2 font engine, development files
+-ii  libfreetype6:amd64     2.11.1+dfsg-1build1    amd64  FreeType 2 font engine, shared library files
+-ii  libfreetype6-dev:amd64 2.11.1+dfsg-1build1    amd64  FreeType 2 font engine, development files (transitional package)
++ii  libfreetype-dev:amd64  2.11.1+dfsg-1ubuntu0.1 amd64  FreeType 2 font engine, development files
++ii  libfreetype6:amd64     2.11.1+dfsg-1ubuntu0.1 amd64  FreeType 2 font engine, shared library files
++ii  libfreetype6-dev:amd64 2.11.1+dfsg-1ubuntu0.1 amd64  FreeType 2 font engine, development files (transitional package)
 ```
