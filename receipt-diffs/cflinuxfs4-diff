@@ -1,4 +1,36 @@
-empty_1658340682:
+newpackages_cflinuxfs4_1659033030:
 
 ```
+-ii  apt                  2.4.5            amd64 commandline package manager
+-ii  apt-utils            2.4.5            amd64 package management related utility programs
++ii  apt                  2.4.6            amd64 commandline package manager
++ii  apt-utils            2.4.6            amd64 package management related utility programs
+-ii  libapt-pkg6.0:amd64  2.4.5            amd64 package management runtime library
++ii  libapt-pkg6.0:amd64  2.4.6            amd64 package management runtime library
+-ii  libc-bin             2.35-0ubuntu3    amd64 GNU C Library: Binaries
+-ii  libc-dev-bin         2.35-0ubuntu3    amd64 GNU C Library: Development binaries
+-ii  libc6:amd64          2.35-0ubuntu3    amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64      2.35-0ubuntu3    amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin             2.35-0ubuntu3.1  amd64 GNU C Library: Binaries
++ii  libc-dev-bin         2.35-0ubuntu3.1  amd64 GNU C Library: Development binaries
++ii  libc6:amd64          2.35-0ubuntu3.1  amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64      2.35-0ubuntu3.1  amd64 GNU C Library: Development Libraries and Header Files
+-ii  libnetplan0:amd64    0.104-0ubuntu2   amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64    0.104-0ubuntu2.1 amd64 YAML network configuration abstraction runtime library
+-ii  libtirpc-common      1.3.2-2build1    all   transport-independent RPC library - common files
+-ii  libtirpc-dev:amd64   1.3.2-2build1    amd64 transport-independent RPC library - development files
+-ii  libtirpc3:amd64      1.3.2-2build1    amd64 transport-independent RPC library
++ii  libtirpc-common      1.3.2-2ubuntu0.1 all   transport-independent RPC library - common files
++ii  libtirpc-dev:amd64   1.3.2-2ubuntu0.1 amd64 transport-independent RPC library - development files
++ii  libtirpc3:amd64      1.3.2-2ubuntu0.1 amd64 transport-independent RPC library
+-ii  linux-libc-dev:amd64 5.15.0-41.44     amd64 Linux Kernel Headers for development
+-ii  locales              2.35-0ubuntu3    all   GNU C Library: National Language (locale) data [support]
++ii  linux-libc-dev:amd64 5.15.0-43.46     amd64 Linux Kernel Headers for development
++ii  locales              2.35-0ubuntu3.1  all   GNU C Library: National Language (locale) data [support]
+-ii  netplan.io           0.104-0ubuntu2   amd64 YAML network configuration abstraction for various backends
++ii  netplan.io           0.104-0ubuntu2.1 amd64 YAML network configuration abstraction for various backends
+-ii  python-apt-common    2.3.0ubuntu2     all   Python interface to libapt-pkg (locales)
++ii  python-apt-common    2.3.0ubuntu2.1   all   Python interface to libapt-pkg (locales)
+-ii  python3-apt          2.3.0ubuntu2     amd64 Python 3 interface to libapt-pkg
++ii  python3-apt          2.3.0ubuntu2.1   amd64 Python 3 interface to libapt-pkg
 ```
