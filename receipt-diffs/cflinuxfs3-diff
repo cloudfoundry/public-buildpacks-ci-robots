@@ -1,14 +1,8 @@
-newpackages_cflinuxfs3_1659637604:
+newpackages_cflinuxfs3_1659648316:
 
 ```
--ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.5  amd64  GNU TLS library - DANE security support
--ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.5  amd64  GNU TLS library - OpenSSL wrapper
--ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.5  amd64  GNU TLS library - development files
--ii  libgnutls30:amd64         3.5.18-1ubuntu1.5  amd64  GNU TLS library - main runtime library
--ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.5  amd64  GNU TLS library - C++ runtime library
-+ii  libgnutls-dane0:amd64     3.5.18-1ubuntu1.6  amd64  GNU TLS library - DANE security support
-+ii  libgnutls-openssl27:amd64 3.5.18-1ubuntu1.6  amd64  GNU TLS library - OpenSSL wrapper
-+ii  libgnutls28-dev:amd64     3.5.18-1ubuntu1.6  amd64  GNU TLS library - development files
-+ii  libgnutls30:amd64         3.5.18-1ubuntu1.6  amd64  GNU TLS library - main runtime library
-+ii  libgnutlsxx28:amd64       3.5.18-1ubuntu1.6  amd64  GNU TLS library - C++ runtime library
+-ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.6  amd64  GNOME XML library
+-ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.6  amd64  Development files for the GNOME XML library
++ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.7  amd64  GNOME XML library
++ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.7  amd64  Development files for the GNOME XML library
 ```
