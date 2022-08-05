@@ -1,8 +1,4 @@
-newpackages_cflinuxfs3_1659650210:
+empty_1659659290:
 
 ```
--ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.6  amd64  GNOME XML library
--ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.6  amd64  Development files for the GNOME XML library
-+ii  libxml2:amd64     2.9.4+dfsg1-6.1ubuntu1.7  amd64  GNOME XML library
-+ii  libxml2-dev:amd64 2.9.4+dfsg1-6.1ubuntu1.7  amd64  Development files for the GNOME XML library
 ```
