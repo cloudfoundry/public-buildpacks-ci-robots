@@ -1,4 +1,12 @@
-empty_1662508214:
+newpackages_cflinuxfs3_1662974662:
 
 ```
+-ii  libtiff-dev        4.0.9-5ubuntu0.5  amd64  Tag Image File Format library (TIFF), development files, current version
+-ii  libtiff5:amd64     4.0.9-5ubuntu0.5  amd64  Tag Image File Format (TIFF) library
+-ii  libtiff5-dev:amd64 4.0.9-5ubuntu0.5  amd64  Tag Image File Format library (TIFF), development files
+-ii  libtiffxx5:amd64   4.0.9-5ubuntu0.5  amd64  Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev        4.0.9-5ubuntu0.6  amd64  Tag Image File Format library (TIFF), development files, current version
++ii  libtiff5:amd64     4.0.9-5ubuntu0.6  amd64  Tag Image File Format (TIFF) library
++ii  libtiff5-dev:amd64 4.0.9-5ubuntu0.6  amd64  Tag Image File Format library (TIFF), development files
++ii  libtiffxx5:amd64   4.0.9-5ubuntu0.6  amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
