@@ -1,24 +1,4 @@
-newpackages_cflinuxfs3_1663678748:
+empty_1663689139:
 
 ```
--ii  libsqlite3-0:amd64   3.22.0-1ubuntu0.5     amd64 SQLite 3 shared library
--ii  libsqlite3-dev:amd64 3.22.0-1ubuntu0.5     amd64 SQLite 3 development files
-+ii  libsqlite3-0:amd64   3.22.0-1ubuntu0.6     amd64 SQLite 3 shared library
-+ii  libsqlite3-dev:amd64 3.22.0-1ubuntu0.6     amd64 SQLite 3 development files
--ii  libtiff-dev          4.0.9-5ubuntu0.6      amd64 Tag Image File Format library (TIFF), development files, current version
--ii  libtiff5:amd64       4.0.9-5ubuntu0.6      amd64 Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64   4.0.9-5ubuntu0.6      amd64 Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64     4.0.9-5ubuntu0.6      amd64 Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff-dev          4.0.9-5ubuntu0.7      amd64 Tag Image File Format library (TIFF), development files, current version
-+ii  libtiff5:amd64       4.0.9-5ubuntu0.7      amd64 Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64   4.0.9-5ubuntu0.7      amd64 Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64     4.0.9-5ubuntu0.7      amd64 Tag Image File Format (TIFF) library -- C++ interface
--ii  linux-libc-dev:amd64 4.15.0-192.203        amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-193.204        amd64 Linux Kernel Headers for development
--ii  vim-common           2:8.0.1453-1ubuntu1.8 all   Vi IMproved - Common files
--ii  vim-tiny             2:8.0.1453-1ubuntu1.8 amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common           2:8.0.1453-1ubuntu1.9 all   Vi IMproved - Common files
-+ii  vim-tiny             2:8.0.1453-1ubuntu1.9 amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd                  2:8.0.1453-1ubuntu1.8 amd64 tool to make (or reverse) a hex dump
-+ii  xxd                  2:8.0.1453-1ubuntu1.9 amd64 tool to make (or reverse) a hex dump
 ```
