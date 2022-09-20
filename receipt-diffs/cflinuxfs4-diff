@@ -1,4 +1,38 @@
-empty_1663107428:
+newpackages_cflinuxfs4_1663669891:
 
 ```
+-ii  gcc-12-base:amd64  12-20220319-1ubuntu1  amd64 GCC, the GNU Compiler Collection (base package)
++ii  gcc-12-base:amd64  12.1.0-2ubuntu1~22.04 amd64 GCC, the GNU Compiler Collection (base package)
+-ii  libatomic1:amd64   12-20220319-1ubuntu1  amd64 support library providing __atomic built-in functions
++ii  libatomic1:amd64   12.1.0-2ubuntu1~22.04 amd64 support library providing __atomic built-in functions
+-ii  libcc1-0:amd64     12-20220319-1ubuntu1  amd64 GCC cc1 plugin for GDB
++ii  libcc1-0:amd64     12.1.0-2ubuntu1~22.04 amd64 GCC cc1 plugin for GDB
+-ii  libgcc-s1:amd64    12-20220319-1ubuntu1  amd64 GCC support library
++ii  libgcc-s1:amd64    12.1.0-2ubuntu1~22.04 amd64 GCC support library
+-ii  libgfortran5:amd64 12-20220319-1ubuntu1  amd64 Runtime library for GNU Fortran applications
++ii  libgfortran5:amd64 12.1.0-2ubuntu1~22.04 amd64 Runtime library for GNU Fortran applications
+-ii  libgomp1:amd64     12-20220319-1ubuntu1  amd64 GCC OpenMP (GOMP) support library
++ii  libgomp1:amd64     12.1.0-2ubuntu1~22.04 amd64 GCC OpenMP (GOMP) support library
+-ii  libitm1:amd64      12-20220319-1ubuntu1  amd64 GNU Transactional Memory Library
++ii  libitm1:amd64      12.1.0-2ubuntu1~22.04 amd64 GNU Transactional Memory Library
+-ii  liblsan0:amd64     12-20220319-1ubuntu1  amd64 LeakSanitizer -- a memory leak detector (runtime)
++ii  liblsan0:amd64     12.1.0-2ubuntu1~22.04 amd64 LeakSanitizer -- a memory leak detector (runtime)
+-ii  libquadmath0:amd64 12-20220319-1ubuntu1  amd64 GCC Quad-Precision Math Library
++ii  libquadmath0:amd64 12.1.0-2ubuntu1~22.04 amd64 GCC Quad-Precision Math Library
+-ii  libstdc++6:amd64   12-20220319-1ubuntu1  amd64 GNU Standard C++ Library v3
++ii  libstdc++6:amd64   12.1.0-2ubuntu1~22.04 amd64 GNU Standard C++ Library v3
+-ii  libtiff-dev:amd64  4.3.0-6               amd64 Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64     4.3.0-6               amd64 Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64   4.3.0-6               amd64 Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64  4.3.0-6ubuntu0.1      amd64 Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64     4.3.0-6ubuntu0.1      amd64 Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64   4.3.0-6ubuntu0.1      amd64 Tag Image File Format (TIFF) library -- C++ interface
+-ii  libubsan1:amd64    12-20220319-1ubuntu1  amd64 UBSan -- undefined behaviour sanitizer (runtime)
++ii  libubsan1:amd64    12.1.0-2ubuntu1~22.04 amd64 UBSan -- undefined behaviour sanitizer (runtime)
+-ii  vim-common         2:8.2.3995-1ubuntu2   all   Vi IMproved - Common files
+-ii  vim-tiny           2:8.2.3995-1ubuntu2   amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common         2:8.2.3995-1ubuntu2.1 all   Vi IMproved - Common files
++ii  vim-tiny           2:8.2.3995-1ubuntu2.1 amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                2:8.2.3995-1ubuntu2   amd64 tool to make (or reverse) a hex dump
++ii  xxd                2:8.2.3995-1ubuntu2.1 amd64 tool to make (or reverse) a hex dump
 ```
