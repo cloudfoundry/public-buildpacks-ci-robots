@@ -1,4 +1,14 @@
-empty_1663866516:
+newpackages_cflinuxfs4_1664994670:
 
 ```
+-ii  apt                    2.4.7              amd64  commandline package manager
+-ii  apt-utils              2.4.7              amd64  package management related utility programs
++ii  apt                    2.4.8              amd64  commandline package manager
++ii  apt-utils              2.4.8              amd64  package management related utility programs
+-ii  isc-dhcp-client        4.4.1-2.3ubuntu2.2 amd64  DHCP client for automatically obtaining an IP address
++ii  isc-dhcp-client        4.4.1-2.3ubuntu2.3 amd64  DHCP client for automatically obtaining an IP address
+-ii  libapt-pkg6.0:amd64    2.4.7              amd64  package management runtime library
++ii  libapt-pkg6.0:amd64    2.4.8              amd64  package management runtime library
+-ii  ubuntu-advantage-tools 27.10.1~22.04.1    amd64  management tools for Ubuntu Advantage
++ii  ubuntu-advantage-tools 27.11.2~22.04.1    amd64  management tools for Ubuntu Advantage
 ```
