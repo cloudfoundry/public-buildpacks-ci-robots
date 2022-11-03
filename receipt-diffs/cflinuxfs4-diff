@@ -1,18 +1,4 @@
-newpackages_cflinuxfs4_1667489229:
+empty_1667498841:
 
 ```
--ii  distro-info-data            0.52ubuntu0.1          all   information about the distributions' releases (data files)
-+ii  distro-info-data            0.52ubuntu0.2          all   information about the distributions' releases (data files)
--ii  libpython3.10:amd64         3.10.6-1~22.04         amd64 Shared Python runtime library (version 3.10)
--ii  libpython3.10-minimal:amd64 3.10.6-1~22.04         amd64 Minimal subset of the Python language (version 3.10)
--ii  libpython3.10-stdlib:amd64  3.10.6-1~22.04         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
-+ii  libpython3.10:amd64         3.10.6-1~22.04.1       amd64 Shared Python runtime library (version 3.10)
-+ii  libpython3.10-minimal:amd64 3.10.6-1~22.04.1       amd64 Minimal subset of the Python language (version 3.10)
-+ii  libpython3.10-stdlib:amd64  3.10.6-1~22.04.1       amd64 Interactive high-level object-oriented language (standard library, version 3.10)
--ii  python3.10                  3.10.6-1~22.04         amd64 Interactive high-level object-oriented language (version 3.10)
--ii  python3.10-minimal          3.10.6-1~22.04         amd64 Minimal subset of the Python language (version 3.10)
-+ii  python3.10                  3.10.6-1~22.04.1       amd64 Interactive high-level object-oriented language (version 3.10)
-+ii  python3.10-minimal          3.10.6-1~22.04.1       amd64 Minimal subset of the Python language (version 3.10)
--ii  tzdata                      2022e-0ubuntu0.22.04.0 all   time zone and daylight-saving time data
-+ii  tzdata                      2022f-0ubuntu0.22.04.0 all   time zone and daylight-saving time data
 ```
