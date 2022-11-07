@@ -1,10 +1,4 @@
-newpackages_cflinuxfs4_1667845700:
+empty_1667855319:
 
 ```
--ii  libsqlite3-0:amd64     3.37.2-2          amd64  SQLite 3 shared library
--ii  libsqlite3-dev:amd64   3.37.2-2          amd64  SQLite 3 development files
-+ii  libsqlite3-0:amd64     3.37.2-2ubuntu0.1 amd64  SQLite 3 shared library
-+ii  libsqlite3-dev:amd64   3.37.2-2ubuntu0.1 amd64  SQLite 3 development files
--ii  ubuntu-advantage-tools 27.11.2~22.04.1   amd64  management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.11.3~22.04.1   amd64  management tools for Ubuntu Advantage
 ```
