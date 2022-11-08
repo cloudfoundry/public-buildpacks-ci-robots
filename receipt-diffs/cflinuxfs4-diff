@@ -1,14 +1,4 @@
-newpackages_cflinuxfs4_1667924907:
+empty_1667934564:
 
 ```
--ii  libpixman-1-0:amd64   0.40.0-1build4          amd64  pixel-manipulation library for X and cairo
--ii  libpixman-1-dev:amd64 0.40.0-1build4          amd64  pixel-manipulation library for X and cairo (development files)
-+ii  libpixman-1-0:amd64   0.40.0-1ubuntu0.22.04.1 amd64  pixel-manipulation library for X and cairo
-+ii  libpixman-1-dev:amd64 0.40.0-1ubuntu0.22.04.1 amd64  pixel-manipulation library for X and cairo (development files)
--ii  libtiff-dev:amd64     4.3.0-6ubuntu0.1        amd64  Tag Image File Format library (TIFF), development files
--ii  libtiff5:amd64        4.3.0-6ubuntu0.1        amd64  Tag Image File Format (TIFF) library
--ii  libtiffxx5:amd64      4.3.0-6ubuntu0.1        amd64  Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff-dev:amd64     4.3.0-6ubuntu0.2        amd64  Tag Image File Format library (TIFF), development files
-+ii  libtiff5:amd64        4.3.0-6ubuntu0.2        amd64  Tag Image File Format (TIFF) library
-+ii  libtiffxx5:amd64      4.3.0-6ubuntu0.2        amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
