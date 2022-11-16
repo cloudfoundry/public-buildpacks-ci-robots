@@ -1,16 +1,6 @@
-newpackages_cflinuxfs3_1667924652:
+newpackages_cflinuxfs3_1668627660:
 
 ```
--ii  libpixman-1-0:amd64   0.34.0-2          amd64  pixel-manipulation library for X and cairo
--ii  libpixman-1-dev:amd64 0.34.0-2          amd64  pixel-manipulation library for X and cairo (development files)
-+ii  libpixman-1-0:amd64   0.34.0-2ubuntu0.1 amd64  pixel-manipulation library for X and cairo
-+ii  libpixman-1-dev:amd64 0.34.0-2ubuntu0.1 amd64  pixel-manipulation library for X and cairo (development files)
--ii  libtiff-dev           4.0.9-5ubuntu0.7  amd64  Tag Image File Format library (TIFF), development files, current version
--ii  libtiff5:amd64        4.0.9-5ubuntu0.7  amd64  Tag Image File Format (TIFF) library
--ii  libtiff5-dev:amd64    4.0.9-5ubuntu0.7  amd64  Tag Image File Format library (TIFF), development files
--ii  libtiffxx5:amd64      4.0.9-5ubuntu0.7  amd64  Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff-dev           4.0.9-5ubuntu0.8  amd64  Tag Image File Format library (TIFF), development files, current version
-+ii  libtiff5:amd64        4.0.9-5ubuntu0.8  amd64  Tag Image File Format (TIFF) library
-+ii  libtiff5-dev:amd64    4.0.9-5ubuntu0.8  amd64  Tag Image File Format library (TIFF), development files
-+ii  libtiffxx5:amd64      4.0.9-5ubuntu0.8  amd64  Tag Image File Format (TIFF) library -- C++ interface
+-ii  linux-libc-dev:amd64  4.15.0-196.207  amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64  4.15.0-197.208  amd64  Linux Kernel Headers for development
 ```
