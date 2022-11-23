@@ -1,8 +1,12 @@
-newpackages_cflinuxfs4_1669220793:
+newpackages_cflinuxfs4_1669230887:
 
 ```
--ii  libexpat1:amd64     2.4.7-1ubuntu0.1  amd64  XML parsing C library - runtime library
--ii  libexpat1-dev:amd64 2.4.7-1ubuntu0.1  amd64  XML parsing C library - development kit
-+ii  libexpat1:amd64     2.4.7-1ubuntu0.2  amd64  XML parsing C library - runtime library
-+ii  libexpat1-dev:amd64 2.4.7-1ubuntu0.2  amd64  XML parsing C library - development kit
+-ii  libmariadb-dev              1:10.6.7-2ubuntu1.1        amd64 MariaDB database development files
+-ii  libmariadb-dev-compat:amd64 1:10.6.7-2ubuntu1.1        amd64 MariaDB Connector/C, compatibility symlinks
+-ii  libmariadb3:amd64           1:10.6.7-2ubuntu1.1        amd64 MariaDB database client library
++ii  libmariadb-dev              1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB database development files
++ii  libmariadb-dev-compat:amd64 1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
++ii  libmariadb3:amd64           1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB database client library
+-ii  mariadb-common              1:10.6.7-2ubuntu1.1        all   MariaDB common configuration files
++ii  mariadb-common              1:10.6.11-0ubuntu0.22.04.1 all   MariaDB common configuration files
 ```
