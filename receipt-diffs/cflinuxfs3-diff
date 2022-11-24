@@ -1,4 +1,8 @@
-empty_1669291193:
+newpackages_cflinuxfs3_1669314363:
 
 ```
+-ii  libjbig-dev:amd64 2.1-3.1build1          amd64  JBIGkit development files
+-ii  libjbig0:amd64    2.1-3.1build1          amd64  JBIGkit libraries
++ii  libjbig-dev:amd64 2.1-3.1ubuntu0.18.04.1 amd64  JBIGkit development files
++ii  libjbig0:amd64    2.1-3.1ubuntu0.18.04.1 amd64  JBIGkit libraries
 ```
