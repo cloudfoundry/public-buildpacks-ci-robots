@@ -1,28 +1,4 @@
-newpackages_cflinuxfs4_1669920900:
+empty_1669930889:
 
 ```
--ii  libglib2.0-0:amd64     2.72.1-1         amd64 GLib library of C routines
--ii  libglib2.0-bin         2.72.1-1         amd64 Programs for the GLib library
--ii  libglib2.0-data        2.72.1-1         all   Common files for GLib library
--ii  libglib2.0-dev:amd64   2.72.1-1         amd64 Development files for the GLib library
--ii  libglib2.0-dev-bin     2.72.1-1         amd64 Development utilities for the GLib library
-+ii  libglib2.0-0:amd64     2.72.4-0ubuntu1  amd64 GLib library of C routines
-+ii  libglib2.0-bin         2.72.4-0ubuntu1  amd64 Programs for the GLib library
-+ii  libglib2.0-data        2.72.4-0ubuntu1  all   Common files for GLib library
-+ii  libglib2.0-dev:amd64   2.72.4-0ubuntu1  amd64 Development files for the GLib library
-+ii  libglib2.0-dev-bin     2.72.4-0ubuntu1  amd64 Development utilities for the GLib library
--ii  libruby3.0:amd64       3.0.2-7ubuntu2.1 amd64 Libraries necessary to run Ruby 3.0
-+ii  libruby3.0:amd64       3.0.2-7ubuntu2.2 amd64 Libraries necessary to run Ruby 3.0
--ii  libtiff-dev:amd64      4.3.0-6ubuntu0.2 amd64 Tag Image File Format library (TIFF), development files
--ii  libtiff5:amd64         4.3.0-6ubuntu0.2 amd64 Tag Image File Format (TIFF) library
--ii  libtiffxx5:amd64       4.3.0-6ubuntu0.2 amd64 Tag Image File Format (TIFF) library -- C++ interface
-+ii  libtiff-dev:amd64      4.3.0-6ubuntu0.3 amd64 Tag Image File Format library (TIFF), development files
-+ii  libtiff5:amd64         4.3.0-6ubuntu0.3 amd64 Tag Image File Format (TIFF) library
-+ii  libtiffxx5:amd64       4.3.0-6ubuntu0.3 amd64 Tag Image File Format (TIFF) library -- C++ interface
--ii  linux-libc-dev:amd64   5.15.0-53.59     amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   5.15.0-56.62     amd64 Linux Kernel Headers for development
--ii  ruby3.0                3.0.2-7ubuntu2.1 amd64 Interpreter of object-oriented scripting language Ruby
-+ii  ruby3.0                3.0.2-7ubuntu2.2 amd64 Interpreter of object-oriented scripting language Ruby
--ii  ubuntu-advantage-tools 27.11.3~22.04.1  amd64 management tools for Ubuntu Advantage
-+ii  ubuntu-advantage-tools 27.12~22.04.1    amd64 management tools for Ubuntu Pro
 ```
