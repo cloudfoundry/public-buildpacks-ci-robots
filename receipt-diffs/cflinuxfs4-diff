@@ -1,10 +1,4 @@
-newpackages_cflinuxfs4_1670246752:
+empty_1670256849:
 
 ```
--ii  libbpf0:amd64     1:0.5.0-1              amd64  eBPF helper library (shared library)
-+ii  libbpf0:amd64     1:0.5.0-1ubuntu22.04.1 amd64  eBPF helper library (shared library)
--ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.1 amd64  GNOME XML library
--ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.1 amd64  GNOME XML library - development files
-+ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.2 amd64  GNOME XML library
-+ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.2 amd64  GNOME XML library - development files
 ```
