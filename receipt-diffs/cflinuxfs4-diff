@@ -1,4 +1,16 @@
-empty_1670286391:
+newpackages_cflinuxfs4_1670517093:
 
 ```
+-ii  libpython3.10:amd64         3.10.6-1~22.04.1         amd64  Shared Python runtime library (version 3.10)
+-ii  libpython3.10-minimal:amd64 3.10.6-1~22.04.1         amd64  Minimal subset of the Python language (version 3.10)
+-ii  libpython3.10-stdlib:amd64  3.10.6-1~22.04.1         amd64  Interactive high-level object-oriented language (standard library, version 3.10)
++ii  libpython3.10:amd64         3.10.6-1~22.04.2         amd64  Shared Python runtime library (version 3.10)
++ii  libpython3.10-minimal:amd64 3.10.6-1~22.04.2         amd64  Minimal subset of the Python language (version 3.10)
++ii  libpython3.10-stdlib:amd64  3.10.6-1~22.04.2         amd64  Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  libwbclient0:amd64          2:4.15.9+dfsg-0ubuntu0.2 amd64  Samba winbind client library
++ii  libwbclient0:amd64          2:4.15.9+dfsg-0ubuntu0.3 amd64  Samba winbind client library
+-ii  python3.10                  3.10.6-1~22.04.1         amd64  Interactive high-level object-oriented language (version 3.10)
+-ii  python3.10-minimal          3.10.6-1~22.04.1         amd64  Minimal subset of the Python language (version 3.10)
++ii  python3.10                  3.10.6-1~22.04.2         amd64  Interactive high-level object-oriented language (version 3.10)
++ii  python3.10-minimal          3.10.6-1~22.04.2         amd64  Minimal subset of the Python language (version 3.10)
 ```
