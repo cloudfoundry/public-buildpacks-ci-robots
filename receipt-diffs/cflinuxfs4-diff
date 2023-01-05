@@ -1,24 +1,4 @@
-newpackages_cflinuxfs4_1672946915:
+empty_1672955709:
 
 ```
--ii  curl                              7.81.0-1ubuntu1.6       amd64 command line tool for transferring data with URL syntax
-+ii  curl                              7.81.0-1ubuntu1.7       amd64 command line tool for transferring data with URL syntax
--ii  libcurl3-gnutls:amd64             7.81.0-1ubuntu1.6       amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
--ii  libcurl4:amd64                    7.81.0-1ubuntu1.6       amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
--ii  libcurl4-openssl-dev:amd64        7.81.0-1ubuntu1.6       amd64 development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64             7.81.0-1ubuntu1.7       amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64                    7.81.0-1ubuntu1.7       amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64        7.81.0-1ubuntu1.7       amd64 development files and documentation for libcurl (OpenSSL flavour)
--ii  libsasl2-2:amd64                  2.1.27+dfsg2-3ubuntu1   amd64 Cyrus SASL - authentication abstraction library
--ii  libsasl2-dev                      2.1.27+dfsg2-3ubuntu1   amd64 Cyrus SASL - development files for authentication abstraction library
--ii  libsasl2-modules:amd64            2.1.27+dfsg2-3ubuntu1   amd64 Cyrus SASL - pluggable authentication modules
--ii  libsasl2-modules-db:amd64         2.1.27+dfsg2-3ubuntu1   amd64 Cyrus SASL - pluggable authentication modules (DB)
--ii  libsasl2-modules-gssapi-mit:amd64 2.1.27+dfsg2-3ubuntu1   amd64 Cyrus SASL - pluggable authentication modules (GSSAPI)
-+ii  libsasl2-2:amd64                  2.1.27+dfsg2-3ubuntu1.1 amd64 Cyrus SASL - authentication abstraction library
-+ii  libsasl2-dev                      2.1.27+dfsg2-3ubuntu1.1 amd64 Cyrus SASL - development files for authentication abstraction library
-+ii  libsasl2-modules:amd64            2.1.27+dfsg2-3ubuntu1.1 amd64 Cyrus SASL - pluggable authentication modules
-+ii  libsasl2-modules-db:amd64         2.1.27+dfsg2-3ubuntu1.1 amd64 Cyrus SASL - pluggable authentication modules (DB)
-+ii  libsasl2-modules-gssapi-mit:amd64 2.1.27+dfsg2-3ubuntu1.1 amd64 Cyrus SASL - pluggable authentication modules (GSSAPI)
--ii  tzdata                            2022f-0ubuntu0.22.04.1  all   time zone and daylight-saving time data
-+ii  tzdata                            2022g-0ubuntu0.22.04.1  all   time zone and daylight-saving time data
 ```
