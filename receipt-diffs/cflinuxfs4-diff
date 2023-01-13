@@ -1,4 +1,22 @@
-empty_1672955709:
+newpackages_cflinuxfs4_1673590042:
 
 ```
+-ii  libpq-dev            14.5-0ubuntu0.22.04.1 amd64 header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64         14.5-0ubuntu0.22.04.1 amd64 PostgreSQL C client library
++ii  libpq-dev            14.6-0ubuntu0.22.04.1 amd64 header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64         14.6-0ubuntu0.22.04.1 amd64 PostgreSQL C client library
+-ii  linux-libc-dev:amd64 5.15.0-56.62          amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-58.64          amd64 Linux Kernel Headers for development
+-ii  openssh-client       1:8.9p1-3             amd64 secure shell (SSH) client, for secure access to remote machines
+-ii  openssh-server       1:8.9p1-3             amd64 secure shell (SSH) server, for secure access from remote machines
+-ii  openssh-sftp-server  1:8.9p1-3             amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
++ii  openssh-client       1:8.9p1-3ubuntu0.1    amd64 secure shell (SSH) client, for secure access to remote machines
++ii  openssh-server       1:8.9p1-3ubuntu0.1    amd64 secure shell (SSH) server, for secure access from remote machines
++ii  openssh-sftp-server  1:8.9p1-3ubuntu0.1    amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
+-ii  vim-common           2:8.2.3995-1ubuntu2.1 all   Vi IMproved - Common files
+-ii  vim-tiny             2:8.2.3995-1ubuntu2.1 amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common           2:8.2.3995-1ubuntu2.3 all   Vi IMproved - Common files
++ii  vim-tiny             2:8.2.3995-1ubuntu2.3 amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                  2:8.2.3995-1ubuntu2.1 amd64 tool to make (or reverse) a hex dump
++ii  xxd                  2:8.2.3995-1ubuntu2.3 amd64 tool to make (or reverse) a hex dump
 ```
