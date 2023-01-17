@@ -1,4 +1,8 @@
-empty_1673897360:
+newpackages_cflinuxfs4_1673983627:
 
 ```
+-ii  libxpm-dev:amd64 1:3.5.12-1build2          amd64  X11 pixmap library (development headers)
+-ii  libxpm4:amd64    1:3.5.12-1build2          amd64  X11 pixmap library
++ii  libxpm-dev:amd64 1:3.5.12-1ubuntu0.22.04.1 amd64  X11 pixmap library (development headers)
++ii  libxpm4:amd64    1:3.5.12-1ubuntu0.22.04.1 amd64  X11 pixmap library
 ```
