@@ -1,8 +1,4 @@
-newpackages_cflinuxfs4_1673997267:
+empty_1674007446:
 
 ```
--ii  python-apt-common 2.3.0ubuntu2.1 all   Python interface to libapt-pkg (locales)
-+ii  python-apt-common 2.4.0          all   Python interface to libapt-pkg (locales)
--ii  python3-apt       2.3.0ubuntu2.1 amd64 Python 3 interface to libapt-pkg
-+ii  python3-apt       2.4.0          amd64 Python 3 interface to libapt-pkg
 ```
