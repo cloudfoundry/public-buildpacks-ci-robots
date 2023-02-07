@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1675722829:
+newpackages_cflinuxfs4_1675802725:
 
 ```
 -ii  bind9-dnsutils           1:9.18.1-1ubuntu1.2       amd64 Clients provided with BIND 9
@@ -45,6 +45,12 @@ newpackages_cflinuxfs4_1675722829:
 +ii  libpam-modules-bin       1.4.0-11ubuntu2.3         amd64 Pluggable Authentication Modules for PAM - helper binaries
 +ii  libpam-runtime           1.4.0-11ubuntu2.3         all   Runtime support for the PAM library
 +ii  libpam0g:amd64           1.4.0-11ubuntu2.3         amd64 Pluggable Authentication Modules library
+-ii  libssl-dev:amd64         3.0.2-0ubuntu1.7          amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64            3.0.2-0ubuntu1.7          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64         3.0.2-0ubuntu1.8          amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64            3.0.2-0ubuntu1.8          amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  openssl                  3.0.2-0ubuntu1.7          amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                  3.0.2-0ubuntu1.8          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  ubuntu-advantage-tools   27.12~22.04.1             amd64 management tools for Ubuntu Pro
 +ii  ubuntu-advantage-tools   27.13.3~22.04.1           amd64 management tools for Ubuntu Pro
 ```
