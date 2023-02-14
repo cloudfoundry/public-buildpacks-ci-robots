@@ -1,4 +1,12 @@
-empty_1675905360:
+newpackages_cflinuxfs4_1676405901:
 
 ```
+-ii  git                    1:2.34.1-1ubuntu1.6  amd64 fast, scalable, distributed revision control system
+-ii  git-man                1:2.34.1-1ubuntu1.6  all   fast, scalable, distributed revision control system (manual pages)
++ii  git                    1:2.34.1-1ubuntu1.8  amd64 fast, scalable, distributed revision control system
++ii  git-man                1:2.34.1-1ubuntu1.8  all   fast, scalable, distributed revision control system (manual pages)
+-ii  less                   590-1build1          amd64 pager program similar to more
++ii  less                   590-1ubuntu0.22.04.1 amd64 pager program similar to more
+-ii  ubuntu-advantage-tools 27.13.3~22.04.1      amd64 management tools for Ubuntu Pro
++ii  ubuntu-advantage-tools 27.13.5~22.04.1      amd64 management tools for Ubuntu Pro
 ```
