@@ -1,6 +1,4 @@
-newpackages_cflinuxfs4_1676415298:
+empty_1676423363:
 
 ```
--ii  libaprutil1:amd64  1.6.1-5ubuntu4         amd64  Apache Portable Runtime Utility Library
-+ii  libaprutil1:amd64  1.6.1-5ubuntu4.22.04.1 amd64  Apache Portable Runtime Utility Library
 ```
