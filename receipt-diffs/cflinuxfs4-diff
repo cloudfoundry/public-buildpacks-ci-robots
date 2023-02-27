@@ -1,4 +1,20 @@
-empty_1676423363:
+newpackages_cflinuxfs4_1677475385:
 
 ```
+-ii  base-files                  12ubuntu4.2                amd64 Debian base system miscellaneous files
++ii  base-files                  12ubuntu4.3                amd64 Debian base system miscellaneous files
+-ii  libapr1:amd64               1.7.0-8build1              amd64 Apache Portable Runtime Library
++ii  libapr1:amd64               1.7.0-8ubuntu0.22.04.1     amd64 Apache Portable Runtime Library
+-ii  libmariadb-dev              1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB database development files
+-ii  libmariadb-dev-compat:amd64 1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
+-ii  libmariadb3:amd64           1:10.6.11-0ubuntu0.22.04.1 amd64 MariaDB database client library
++ii  libmariadb-dev              1:10.6.12-0ubuntu0.22.04.1 amd64 MariaDB database development files
++ii  libmariadb-dev-compat:amd64 1:10.6.12-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
++ii  libmariadb3:amd64           1:10.6.12-0ubuntu0.22.04.1 amd64 MariaDB database client library
+-ii  mariadb-common              1:10.6.11-0ubuntu0.22.04.1 all   MariaDB common configuration files
++ii  mariadb-common              1:10.6.12-0ubuntu0.22.04.1 all   MariaDB common configuration files
+-ii  python-apt-common           2.4.0                      all   Python interface to libapt-pkg (locales)
++ii  python-apt-common           2.4.0ubuntu1               all   Python interface to libapt-pkg (locales)
+-ii  python3-apt                 2.4.0                      amd64 Python 3 interface to libapt-pkg
++ii  python3-apt                 2.4.0ubuntu1               amd64 Python 3 interface to libapt-pkg
 ```
