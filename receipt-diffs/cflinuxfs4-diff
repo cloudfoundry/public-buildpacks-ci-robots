@@ -1,32 +1,4 @@
-newpackages_cflinuxfs4_1677774195:
+empty_1677782710:
 
 ```
--ii  libpango-1.0-0:amd64              1.50.6+ds-2             amd64  Layout and rendering of internationalized text
--ii  libpango1.0-0:amd64               1.50.6+ds-2             amd64  Layout and rendering of internationalized text (transitional package)
--ii  libpangocairo-1.0-0:amd64         1.50.6+ds-2             amd64  Layout and rendering of internationalized text
--ii  libpangoft2-1.0-0:amd64           1.50.6+ds-2             amd64  Layout and rendering of internationalized text
--ii  libpangoxft-1.0-0:amd64           1.50.6+ds-2             amd64  Layout and rendering of internationalized text
-+ii  libpango-1.0-0:amd64              1.50.6+ds-2ubuntu1      amd64  Layout and rendering of internationalized text
-+ii  libpango1.0-0:amd64               1.50.6+ds-2ubuntu1      amd64  Layout and rendering of internationalized text (transitional package)
-+ii  libpangocairo-1.0-0:amd64         1.50.6+ds-2ubuntu1      amd64  Layout and rendering of internationalized text
-+ii  libpangoft2-1.0-0:amd64           1.50.6+ds-2ubuntu1      amd64  Layout and rendering of internationalized text
-+ii  libpangoxft-1.0-0:amd64           1.50.6+ds-2ubuntu1      amd64  Layout and rendering of internationalized text
--ii  libpq-dev                         14.6-0ubuntu0.22.04.1   amd64  header files for libpq5 (PostgreSQL library)
--ii  libpq5:amd64                      14.6-0ubuntu0.22.04.1   amd64  PostgreSQL C client library
-+ii  libpq-dev                         14.7-0ubuntu0.22.04.1   amd64  header files for libpq5 (PostgreSQL library)
-+ii  libpq5:amd64                      14.7-0ubuntu0.22.04.1   amd64  PostgreSQL C client library
--ii  libsasl2-2:amd64                  2.1.27+dfsg2-3ubuntu1.1 amd64  Cyrus SASL - authentication abstraction library
--ii  libsasl2-dev                      2.1.27+dfsg2-3ubuntu1.1 amd64  Cyrus SASL - development files for authentication abstraction library
--ii  libsasl2-modules:amd64            2.1.27+dfsg2-3ubuntu1.1 amd64  Cyrus SASL - pluggable authentication modules
--ii  libsasl2-modules-db:amd64         2.1.27+dfsg2-3ubuntu1.1 amd64  Cyrus SASL - pluggable authentication modules (DB)
--ii  libsasl2-modules-gssapi-mit:amd64 2.1.27+dfsg2-3ubuntu1.1 amd64  Cyrus SASL - pluggable authentication modules (GSSAPI)
-+ii  libsasl2-2:amd64                  2.1.27+dfsg2-3ubuntu1.2 amd64  Cyrus SASL - authentication abstraction library
-+ii  libsasl2-dev                      2.1.27+dfsg2-3ubuntu1.2 amd64  Cyrus SASL - development files for authentication abstraction library
-+ii  libsasl2-modules:amd64            2.1.27+dfsg2-3ubuntu1.2 amd64  Cyrus SASL - pluggable authentication modules
-+ii  libsasl2-modules-db:amd64         2.1.27+dfsg2-3ubuntu1.2 amd64  Cyrus SASL - pluggable authentication modules (DB)
-+ii  libsasl2-modules-gssapi-mit:amd64 2.1.27+dfsg2-3ubuntu1.2 amd64  Cyrus SASL - pluggable authentication modules (GSSAPI)
--ii  linux-libc-dev:amd64              5.15.0-60.66            amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64              5.15.0-67.74            amd64  Linux Kernel Headers for development
--ii  sudo                              1.9.9-1ubuntu2.2        amd64  Provide limited super user privileges to specific users
-+ii  sudo                              1.9.9-1ubuntu2.3        amd64  Provide limited super user privileges to specific users
 ```
