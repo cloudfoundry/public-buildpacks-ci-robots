@@ -1,4 +1,10 @@
-empty_1677782710:
+newpackages_cflinuxfs4_1678115835:
 
 ```
+-ii  rsync                  3.2.3-8ubuntu3.1       amd64  fast, versatile, remote (and local) file-copying tool
++ii  rsync                  3.2.7-0ubuntu0.22.04.2 amd64  fast, versatile, remote (and local) file-copying tool
+-ii  tcpdump                4.99.1-3build2         amd64  command-line network traffic analyzer
++ii  tcpdump                4.99.1-3ubuntu0.1      amd64  command-line network traffic analyzer
+-ii  ubuntu-advantage-tools 27.13.5~22.04.1        amd64  management tools for Ubuntu Pro
++ii  ubuntu-advantage-tools 27.13.6~22.04.1        amd64  management tools for Ubuntu Pro
 ```
