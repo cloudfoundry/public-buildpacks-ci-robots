@@ -1,10 +1,10 @@
-newpackages_cflinuxfs4_1678115835:
+newpackages_cflinuxfs4_1678125341:
 
 ```
--ii  rsync                  3.2.3-8ubuntu3.1       amd64  fast, versatile, remote (and local) file-copying tool
-+ii  rsync                  3.2.7-0ubuntu0.22.04.2 amd64  fast, versatile, remote (and local) file-copying tool
--ii  tcpdump                4.99.1-3build2         amd64  command-line network traffic analyzer
-+ii  tcpdump                4.99.1-3ubuntu0.1      amd64  command-line network traffic analyzer
--ii  ubuntu-advantage-tools 27.13.5~22.04.1        amd64  management tools for Ubuntu Pro
-+ii  ubuntu-advantage-tools 27.13.6~22.04.1        amd64  management tools for Ubuntu Pro
+-ii  libtiff-dev:amd64 4.3.0-6ubuntu0.3  amd64  Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64    4.3.0-6ubuntu0.3  amd64  Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64  4.3.0-6ubuntu0.3  amd64  Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64 4.3.0-6ubuntu0.4  amd64  Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64    4.3.0-6ubuntu0.4  amd64  Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64  4.3.0-6ubuntu0.4  amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
