@@ -1,4 +1,20 @@
-empty_1677782566:
+newpackages_cflinuxfs3_1678115781:
 
 ```
+-ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.9  amd64  Shared Python runtime library (version 3.6)
+-ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.9  amd64  Minimal subset of the Python language (version 3.6)
+-ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.9  amd64  Interactive high-level object-oriented language (standard library, version 3.6)
++ii  libpython3.6:amd64         3.6.9-1~18.04ubuntu1.10 amd64  Shared Python runtime library (version 3.6)
++ii  libpython3.6-minimal:amd64 3.6.9-1~18.04ubuntu1.10 amd64  Minimal subset of the Python language (version 3.6)
++ii  libpython3.6-stdlib:amd64  3.6.9-1~18.04ubuntu1.10 amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+-ii  python3.6                  3.6.9-1~18.04ubuntu1.9  amd64  Interactive high-level object-oriented language (version 3.6)
+-ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.9  amd64  Minimal subset of the Python language (version 3.6)
++ii  python3.6                  3.6.9-1~18.04ubuntu1.10 amd64  Interactive high-level object-oriented language (version 3.6)
++ii  python3.6-minimal          3.6.9-1~18.04ubuntu1.10 amd64  Minimal subset of the Python language (version 3.6)
+-ii  rsync                      3.1.2-2.1ubuntu1.5      amd64  fast, versatile, remote (and local) file-copying tool
++ii  rsync                      3.1.2-2.1ubuntu1.6      amd64  fast, versatile, remote (and local) file-copying tool
+-ii  tcpdump                    4.9.3-0ubuntu0.18.04.2  amd64  command-line network traffic analyzer
++ii  tcpdump                    4.9.3-0ubuntu0.18.04.3  amd64  command-line network traffic analyzer
+-ii  ubuntu-advantage-tools     27.13.5~18.04.1         amd64  management tools for Ubuntu Pro
++ii  ubuntu-advantage-tools     27.13.6~18.04.1         amd64  management tools for Ubuntu Pro
 ```
