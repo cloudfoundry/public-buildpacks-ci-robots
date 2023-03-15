@@ -1,4 +1,16 @@
-empty_1678184298:
+newpackages_cflinuxfs4_1678919687:
 
 ```
+-ii  libapparmor1:amd64 3.0.4-2ubuntu2.1  amd64  changehat AppArmor library
++ii  libapparmor1:amd64 3.0.4-2ubuntu2.2  amd64  changehat AppArmor library
+-ii  libsystemd0:amd64  249.11-0ubuntu3.6 amd64  systemd utility library
++ii  libsystemd0:amd64  249.11-0ubuntu3.7 amd64  systemd utility library
+-ii  libudev1:amd64     249.11-0ubuntu3.6 amd64  libudev shared library
++ii  libudev1:amd64     249.11-0ubuntu3.7 amd64  libudev shared library
+-ii  systemd            249.11-0ubuntu3.6 amd64  system and service manager
+-ii  systemd-sysv       249.11-0ubuntu3.6 amd64  system and service manager - SysV links
++ii  systemd            249.11-0ubuntu3.7 amd64  system and service manager
++ii  systemd-sysv       249.11-0ubuntu3.7 amd64  system and service manager - SysV links
+-ii  udev               249.11-0ubuntu3.6 amd64  /dev/ and hotplug management daemon
++ii  udev               249.11-0ubuntu3.7 amd64  /dev/ and hotplug management daemon
 ```
