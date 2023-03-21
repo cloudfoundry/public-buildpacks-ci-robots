@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1679419415:
+newpackages_cflinuxfs4_1679431221:
 
 ```
 -ii  brz                                3.2.1+bzr7585-1build1               all   easy to use distributed version control system
@@ -25,12 +25,11 @@ newpackages_cflinuxfs4_1679419415:
 -ii  libpangoxft-1.0-0:amd64            1.50.6+ds-2ubuntu1                  amd64 Layout and rendering of internationalized text
 -ii  librsvg2-common:amd64              2.52.5+dfsg-3                       amd64 SAX-based renderer library for SVG files (extra runtime)
 -ii  librsvg2-dev:amd64                 2.52.5+dfsg-3                       amd64 SAX-based renderer library for SVG files (development)
--ii  lsb-release                        11.1.0ubuntu4                       all   Linux Standard Base version reporting utility
+-ii  libruby3.0:amd64                   3.0.2-7ubuntu2.3                    amd64 Libraries necessary to run Ruby 3.0
 -ii  mercurial                          6.1.1-1ubuntu1                      amd64 easy-to-use, scalable distributed version control system
 -ii  mercurial-common                   6.1.1-1ubuntu1                      all   easy-to-use, scalable distributed version control system (common files)
 -ii  netplan.io                         0.105-0ubuntu2~22.04.3              amd64 YAML network configuration abstraction for various backends
 -ii  python-apt-common                  2.4.0ubuntu1                        all   Python interface to libapt-pkg (locales)
--ii  python3                            3.10.6-1~22.04                      amd64 interactive high-level object-oriented language (default python3 version)
 -ii  python3-apt                        2.4.0ubuntu1                        amd64 Python 3 interface to libapt-pkg
 -ii  python3-breezy                     3.2.1+bzr7585-1build1               amd64 distributed version control system - Python 3 library
 -ii  python3-certifi                    2020.6.20-1                         all   root certificates for validating SSL certs and verifying TLS hosts (python3)
@@ -39,15 +38,20 @@ newpackages_cflinuxfs4_1679419415:
 -ii  python3-dulwich                    0.20.31-1.1build1                   amd64 Python Git library - Python3 module
 -ii  python3-fastbencode                0.0.5-1build1                       amd64 Fast bencode implementation
 -ii  python3-lib2to3                    3.10.6-1~22.04                      all   Interactive high-level object-oriented language (lib2to3)
--ii  python3-minimal                    3.10.6-1~22.04                      amd64 minimal subset of the Python language (default python3 version)
 -ii  python3-netifaces:amd64            0.11.0-1build2                      amd64 portable network interface information - Python 3.x
 -ii  python3-patiencediff               0.2.1-1build3                       amd64 diff implementation with balanced performance, output and implementation
 -ii  python3-pkg-resources              59.6.0-1.2ubuntu0.22.04.1           all   Package Discovery and Resource Access using pkg_resources
 -ii  python3-six                        1.16.0-3ubuntu1                     all   Python 2 and 3 compatibility library (Python 3 interface)
 -ii  python3-urllib3                    1.26.5-1~exp1                       all   HTTP library with thread-safe connection pooling for Python3
 -ii  python3-yaml                       5.4.1-1ubuntu1                      amd64 YAML parser and emitter for Python3
--ii  python3.10                         3.10.6-1~22.04.2ubuntu1             amd64 Interactive high-level object-oriented language (version 3.10)
--ii  python3.10-minimal                 3.10.6-1~22.04.2ubuntu1             amd64 Minimal subset of the Python language (version 3.10)
+-ii  rake                               13.0.6-2                            all   ruby make-like utility
+-ii  ruby                               1:3.0~exp1                          amd64 Interpreter of object-oriented scripting language Ruby (default version)
+-ii  ruby-net-telnet                    0.1.1-2                             all   telnet client library
+-ii  ruby-rubygems                      3.3.5-2                             all   Package management framework for Ruby
+-ii  ruby-webrick                       1.7.0-3                             all   HTTP server toolkit in Ruby
+-ii  ruby-xmlrpc                        0.3.2-1ubuntu0.1                    all   XMLRPC library for Ruby
+-ii  ruby3.0                            3.0.2-7ubuntu2.3                    amd64 Interpreter of object-oriented scripting language Ruby
+-ii  rubygems-integration               1.18                                all   integration of Debian Ruby packages with Rubygems
 -ii  ubuntu-advantage-tools             27.13.6~22.04.1                     amd64 management tools for Ubuntu Pro
 -ii  ubuntu-minimal                     1.481                               amd64 Minimal core of Ubuntu
 ```
