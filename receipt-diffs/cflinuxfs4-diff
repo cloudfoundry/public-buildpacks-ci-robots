@@ -1,4 +1,53 @@
-empty_1679373262:
+newpackages_cflinuxfs4_1679419415:
 
 ```
+-ii  brz                                3.2.1+bzr7585-1build1               all   easy to use distributed version control system
+-ii  bzr                                2.7.0+bzr6622+brz                   all   transitional dummy package for brz
+-ii  dh-python                          5.20220403                          all   Debian helper tools for packaging Python libraries and applications
+-ii  libcairo-script-interpreter2:amd64 1.16.0-5ubuntu2                     amd64 Cairo 2D vector graphics library (script interpreter)
+-ii  libcairo2-dev:amd64                1.16.0-5ubuntu2                     amd64 Development files for the Cairo 2D graphics library
+-ii  libgdk-pixbuf-2.0-dev:amd64        2.42.8+dfsg-1ubuntu0.2              amd64 GDK Pixbuf library (development files)
+-ii  libgdk-pixbuf2.0-bin               2.42.8+dfsg-1ubuntu0.2              amd64 GDK Pixbuf library (thumbnailer)
+-ii  libglib2.0-bin                     2.72.4-0ubuntu1                     amd64 Programs for the GLib library
+-ii  libglib2.0-data                    2.72.4-0ubuntu1                     all   Common files for GLib library
+-ii  libglib2.0-dev:amd64               2.72.4-0ubuntu1                     amd64 Development files for the GLib library
+-ii  libglib2.0-dev-bin                 2.72.4-0ubuntu1                     amd64 Development utilities for the GLib library
+-ii  libjson-glib-1.0-0:amd64           1.6.6-1build1                       amd64 GLib JSON manipulation library
+-ii  libjson-glib-1.0-common            1.6.6-1build1                       all   GLib JSON manipulation library (common files)
+-ii  libmagickcore-6-arch-config:amd64  8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 amd64 low-level image manipulation library - architecture header files
+-ii  libmagickcore-6-headers            8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 all   low-level image manipulation library - header files
+-ii  libmagickcore-6.q16-6-extra:amd64  8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 amd64 low-level image manipulation library - extra codecs (Q16)
+-ii  libmagickcore-6.q16-dev:amd64      8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 amd64 low-level image manipulation library - development files (Q16)
+-ii  libmagickwand-6-headers            8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 all   image manipulation library - headers files
+-ii  libmagickwand-6.q16-dev:amd64      8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 amd64 image manipulation library - development files (Q16)
+-ii  libmagickwand-dev                  8:6.9.11.60+dfsg-1.3ubuntu0.22.04.2 all   image manipulation library -- dummy package
+-ii  libpango1.0-0:amd64                1.50.6+ds-2ubuntu1                  amd64 Layout and rendering of internationalized text (transitional package)
+-ii  libpangoxft-1.0-0:amd64            1.50.6+ds-2ubuntu1                  amd64 Layout and rendering of internationalized text
+-ii  librsvg2-common:amd64              2.52.5+dfsg-3                       amd64 SAX-based renderer library for SVG files (extra runtime)
+-ii  librsvg2-dev:amd64                 2.52.5+dfsg-3                       amd64 SAX-based renderer library for SVG files (development)
+-ii  lsb-release                        11.1.0ubuntu4                       all   Linux Standard Base version reporting utility
+-ii  mercurial                          6.1.1-1ubuntu1                      amd64 easy-to-use, scalable distributed version control system
+-ii  mercurial-common                   6.1.1-1ubuntu1                      all   easy-to-use, scalable distributed version control system (common files)
+-ii  netplan.io                         0.105-0ubuntu2~22.04.3              amd64 YAML network configuration abstraction for various backends
+-ii  python-apt-common                  2.4.0ubuntu1                        all   Python interface to libapt-pkg (locales)
+-ii  python3                            3.10.6-1~22.04                      amd64 interactive high-level object-oriented language (default python3 version)
+-ii  python3-apt                        2.4.0ubuntu1                        amd64 Python 3 interface to libapt-pkg
+-ii  python3-breezy                     3.2.1+bzr7585-1build1               amd64 distributed version control system - Python 3 library
+-ii  python3-certifi                    2020.6.20-1                         all   root certificates for validating SSL certs and verifying TLS hosts (python3)
+-ii  python3-configobj                  5.0.6-5                             all   simple but powerful config file reader and writer for Python 3
+-ii  python3-distutils                  3.10.6-1~22.04                      all   distutils package for Python 3.x
+-ii  python3-dulwich                    0.20.31-1.1build1                   amd64 Python Git library - Python3 module
+-ii  python3-fastbencode                0.0.5-1build1                       amd64 Fast bencode implementation
+-ii  python3-lib2to3                    3.10.6-1~22.04                      all   Interactive high-level object-oriented language (lib2to3)
+-ii  python3-minimal                    3.10.6-1~22.04                      amd64 minimal subset of the Python language (default python3 version)
+-ii  python3-netifaces:amd64            0.11.0-1build2                      amd64 portable network interface information - Python 3.x
+-ii  python3-patiencediff               0.2.1-1build3                       amd64 diff implementation with balanced performance, output and implementation
+-ii  python3-pkg-resources              59.6.0-1.2ubuntu0.22.04.1           all   Package Discovery and Resource Access using pkg_resources
+-ii  python3-six                        1.16.0-3ubuntu1                     all   Python 2 and 3 compatibility library (Python 3 interface)
+-ii  python3-urllib3                    1.26.5-1~exp1                       all   HTTP library with thread-safe connection pooling for Python3
+-ii  python3-yaml                       5.4.1-1ubuntu1                      amd64 YAML parser and emitter for Python3
+-ii  python3.10                         3.10.6-1~22.04.2ubuntu1             amd64 Interactive high-level object-oriented language (version 3.10)
+-ii  python3.10-minimal                 3.10.6-1~22.04.2ubuntu1             amd64 Minimal subset of the Python language (version 3.10)
+-ii  ubuntu-advantage-tools             27.13.6~22.04.1                     amd64 management tools for Ubuntu Pro
+-ii  ubuntu-minimal                     1.481                               amd64 Minimal core of Ubuntu
 ```
