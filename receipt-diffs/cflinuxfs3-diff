@@ -1,10 +1,4 @@
-newpackages_cflinuxfs3_1680611198:
+empty_1680618406:
 
 ```
--ii  vim-common 2:8.0.1453-1ubuntu1.11  all   Vi IMproved - Common files
--ii  vim-tiny   2:8.0.1453-1ubuntu1.11  amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common 2:8.0.1453-1ubuntu1.12  all   Vi IMproved - Common files
-+ii  vim-tiny   2:8.0.1453-1ubuntu1.12  amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd        2:8.0.1453-1ubuntu1.11  amd64 tool to make (or reverse) a hex dump
-+ii  xxd        2:8.0.1453-1ubuntu1.12  amd64 tool to make (or reverse) a hex dump
 ```
