@@ -1,4 +1,28 @@
-empty_1681234486:
+newpackages_cflinuxfs3_1681925024:
 
 ```
+-ii  apt                    1.6.14                   amd64 commandline package manager
+-ii  apt-utils              1.6.14                   amd64 package management related utility programs
++ii  apt                    1.6.17                   amd64 commandline package manager
++ii  apt-utils              1.6.17                   amd64 package management related utility programs
+-ii  libapt-inst2.0:amd64   1.6.14                   amd64 deb package format runtime library
+-ii  libapt-pkg5.0:amd64    1.6.14                   amd64 package management runtime library
++ii  libapt-inst2.0:amd64   1.6.17                   amd64 deb package format runtime library
++ii  libapt-pkg5.0:amd64    1.6.17                   amd64 package management runtime library
+-ii  libxml2:amd64          2.9.4+dfsg1-6.1ubuntu1.8 amd64 GNOME XML library
+-ii  libxml2-dev:amd64      2.9.4+dfsg1-6.1ubuntu1.8 amd64 Development files for the GNOME XML library
++ii  libxml2:amd64          2.9.4+dfsg1-6.1ubuntu1.9 amd64 GNOME XML library
++ii  libxml2-dev:amd64      2.9.4+dfsg1-6.1ubuntu1.9 amd64 Development files for the GNOME XML library
+-ii  linux-libc-dev:amd64   4.15.0-208.220           amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64   4.15.0-209.220           amd64 Linux Kernel Headers for development
+-ii  tzdata                 2022g-0ubuntu0.18.04     all   time zone and daylight-saving time data
+-ii  ubuntu-advantage-tools 27.13.6~18.04.1          amd64 management tools for Ubuntu Pro
++ii  tzdata                 2023c-0ubuntu0.18.04     all   time zone and daylight-saving time data
++ii  ubuntu-advantage-tools 27.14.4~18.04            amd64 management tools for Ubuntu Pro
+-ii  vim-common             2:8.0.1453-1ubuntu1.12   all   Vi IMproved - Common files
+-ii  vim-tiny               2:8.0.1453-1ubuntu1.12   amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common             2:8.0.1453-1ubuntu1.13   all   Vi IMproved - Common files
++ii  vim-tiny               2:8.0.1453-1ubuntu1.13   amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                    2:8.0.1453-1ubuntu1.12   amd64 tool to make (or reverse) a hex dump
++ii  xxd                    2:8.0.1453-1ubuntu1.13   amd64 tool to make (or reverse) a hex dump
 ```
