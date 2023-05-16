@@ -1,16 +1,20 @@
-newpackages_cflinuxfs3_1683300147:
+newpackages_cflinuxfs3_1684263055:
 
 ```
--ii  distro-info-data     0.37ubuntu0.16       all   information about the distributions' releases (data files)
-+ii  distro-info-data     0.37ubuntu0.17       all   information about the distributions' releases (data files)
--ii  git                  1:2.17.1-1ubuntu0.17 amd64 fast, scalable, distributed revision control system
--ii  git-man              1:2.17.1-1ubuntu0.17 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                  1:2.17.1-1ubuntu0.18 amd64 fast, scalable, distributed revision control system
-+ii  git-man              1:2.17.1-1ubuntu0.18 all   fast, scalable, distributed revision control system (manual pages)
--ii  libruby2.5:amd64     2.5.1-1ubuntu1.13    amd64 Libraries necessary to run Ruby 2.5
-+ii  libruby2.5:amd64     2.5.1-1ubuntu1.15    amd64 Libraries necessary to run Ruby 2.5
--ii  linux-libc-dev:amd64 4.15.0-209.220       amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 4.15.0-210.221       amd64 Linux Kernel Headers for development
--ii  ruby2.5              2.5.1-1ubuntu1.13    amd64 Interpreter of object-oriented scripting language Ruby
-+ii  ruby2.5              2.5.1-1ubuntu1.15    amd64 Interpreter of object-oriented scripting language Ruby
+-ii  distro-info-data     0.37ubuntu0.16         all   information about the distributions' releases (data files)
++ii  distro-info-data     0.37ubuntu0.17         all   information about the distributions' releases (data files)
+-ii  git                  1:2.17.1-1ubuntu0.17   amd64 fast, scalable, distributed revision control system
+-ii  git-man              1:2.17.1-1ubuntu0.17   all   fast, scalable, distributed revision control system (manual pages)
++ii  git                  1:2.17.1-1ubuntu0.18   amd64 fast, scalable, distributed revision control system
++ii  git-man              1:2.17.1-1ubuntu0.18   all   fast, scalable, distributed revision control system (manual pages)
+-ii  libruby2.5:amd64     2.5.1-1ubuntu1.13      amd64 Libraries necessary to run Ruby 2.5
++ii  libruby2.5:amd64     2.5.1-1ubuntu1.15      amd64 Libraries necessary to run Ruby 2.5
+-ii  libwebp6:amd64       0.6.1-2ubuntu0.18.04.1 amd64 Lossy compression of digital photographic images.
+-ii  libwebpmux3:amd64    0.6.1-2ubuntu0.18.04.1 amd64 Lossy compression of digital photographic images.
++ii  libwebp6:amd64       0.6.1-2ubuntu0.18.04.2 amd64 Lossy compression of digital photographic images.
++ii  libwebpmux3:amd64    0.6.1-2ubuntu0.18.04.2 amd64 Lossy compression of digital photographic images.
+-ii  linux-libc-dev:amd64 4.15.0-209.220         amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 4.15.0-211.222         amd64 Linux Kernel Headers for development
+-ii  ruby2.5              2.5.1-1ubuntu1.13      amd64 Interpreter of object-oriented scripting language Ruby
++ii  ruby2.5              2.5.1-1ubuntu1.15      amd64 Interpreter of object-oriented scripting language Ruby
 ```
