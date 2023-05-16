@@ -1,20 +1,50 @@
-newpackages_cflinuxfs4_1683645980:
+newpackages_cflinuxfs4_1684251870:
 
 ```
--ii  distro-info-data       0.52ubuntu0.3          all   information about the distributions' releases (data files)
-+ii  distro-info-data       0.52ubuntu0.4          all   information about the distributions' releases (data files)
--ii  git                    1:2.34.1-1ubuntu1.8    amd64 fast, scalable, distributed revision control system
--ii  git-man                1:2.34.1-1ubuntu1.8    all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                    1:2.34.1-1ubuntu1.9    amd64 fast, scalable, distributed revision control system
-+ii  git-man                1:2.34.1-1ubuntu1.9    all   fast, scalable, distributed revision control system (manual pages)
--ii  libfreetype-dev:amd64  2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, development files
--ii  libfreetype6:amd64     2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, shared library files
--ii  libfreetype6-dev:amd64 2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, development files (transitional package)
-+ii  libfreetype-dev:amd64  2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, development files
-+ii  libfreetype6:amd64     2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, shared library files
-+ii  libfreetype6-dev:amd64 2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, development files (transitional package)
--ii  libglib2.0-0:amd64     2.72.4-0ubuntu1        amd64 GLib library of C routines
-+ii  libglib2.0-0:amd64     2.72.4-0ubuntu2        amd64 GLib library of C routines
--ii  tzdata                 2023c-0ubuntu0.22.04.0 all   time zone and daylight-saving time data
-+ii  tzdata                 2023c-0ubuntu0.22.04.1 all   time zone and daylight-saving time data
+-ii  distro-info-data         0.52ubuntu0.3          all   information about the distributions' releases (data files)
++ii  distro-info-data         0.52ubuntu0.4          all   information about the distributions' releases (data files)
+-ii  git                      1:2.34.1-1ubuntu1.8    amd64 fast, scalable, distributed revision control system
+-ii  git-man                  1:2.34.1-1ubuntu1.8    all   fast, scalable, distributed revision control system (manual pages)
++ii  git                      1:2.34.1-1ubuntu1.9    amd64 fast, scalable, distributed revision control system
++ii  git-man                  1:2.34.1-1ubuntu1.9    all   fast, scalable, distributed revision control system (manual pages)
+-ii  krb5-multidev:amd64      1.19.2-2ubuntu0.1      amd64 development files for MIT Kerberos without Heimdal conflict
+-ii  krb5-user                1.19.2-2ubuntu0.1      amd64 basic programs to authenticate using MIT Kerberos
++ii  krb5-multidev:amd64      1.19.2-2ubuntu0.2      amd64 development files for MIT Kerberos without Heimdal conflict
++ii  krb5-user                1.19.2-2ubuntu0.2      amd64 basic programs to authenticate using MIT Kerberos
+-ii  libfreetype-dev:amd64    2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, development files
+-ii  libfreetype6:amd64       2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, shared library files
+-ii  libfreetype6-dev:amd64   2.11.1+dfsg-1ubuntu0.1 amd64 FreeType 2 font engine, development files (transitional package)
++ii  libfreetype-dev:amd64    2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, development files
++ii  libfreetype6:amd64       2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, shared library files
++ii  libfreetype6-dev:amd64   2.11.1+dfsg-1ubuntu0.2 amd64 FreeType 2 font engine, development files (transitional package)
+-ii  libglib2.0-0:amd64       2.72.4-0ubuntu1        amd64 GLib library of C routines
++ii  libglib2.0-0:amd64       2.72.4-0ubuntu2        amd64 GLib library of C routines
+-ii  libgssapi-krb5-2:amd64   1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+-ii  libgssrpc4:amd64         1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
++ii  libgssapi-krb5-2:amd64   1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
++ii  libgssrpc4:amd64         1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
+-ii  libk5crypto3:amd64       1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - Crypto Library
+-ii  libkadm5clnt-mit12:amd64 1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - Administration Clients
+-ii  libkadm5srv-mit12:amd64  1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - KDC and Admin Server
+-ii  libkdb5-10:amd64         1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - Kerberos database
++ii  libk5crypto3:amd64       1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - Crypto Library
++ii  libkadm5clnt-mit12:amd64 1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - Administration Clients
++ii  libkadm5srv-mit12:amd64  1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - KDC and Admin Server
++ii  libkdb5-10:amd64         1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - Kerberos database
+-ii  libkrb5-3:amd64          1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries
+-ii  libkrb5-dev:amd64        1.19.2-2ubuntu0.1      amd64 headers and development libraries for MIT Kerberos
+-ii  libkrb5support0:amd64    1.19.2-2ubuntu0.1      amd64 MIT Kerberos runtime libraries - Support library
++ii  libkrb5-3:amd64          1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries
++ii  libkrb5-dev:amd64        1.19.2-2ubuntu0.2      amd64 headers and development libraries for MIT Kerberos
++ii  libkrb5support0:amd64    1.19.2-2ubuntu0.2      amd64 MIT Kerberos runtime libraries - Support library
+-ii  libwebp7:amd64           1.2.2-2                amd64 Lossy compression of digital photographic images
+-ii  libwebpdemux2:amd64      1.2.2-2                amd64 Lossy compression of digital photographic images.
+-ii  libwebpmux3:amd64        1.2.2-2                amd64 Lossy compression of digital photographic images
++ii  libwebp7:amd64           1.2.2-2ubuntu0.22.04.1 amd64 Lossy compression of digital photographic images
++ii  libwebpdemux2:amd64      1.2.2-2ubuntu0.22.04.1 amd64 Lossy compression of digital photographic images.
++ii  libwebpmux3:amd64        1.2.2-2ubuntu0.22.04.1 amd64 Lossy compression of digital photographic images
+-ii  linux-libc-dev:amd64     5.15.0-71.78           amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64     5.15.0-72.79           amd64 Linux Kernel Headers for development
+-ii  tzdata                   2023c-0ubuntu0.22.04.0 all   time zone and daylight-saving time data
++ii  tzdata                   2023c-0ubuntu0.22.04.1 all   time zone and daylight-saving time data
 ```
