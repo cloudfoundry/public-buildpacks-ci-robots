@@ -1,4 +1,4 @@
-newpackages_cflinuxfs3_1684949406:
+newpackages_cflinuxfs3_1685388142:
 
 ```
 -ii  binutils                  2.30-21ubuntu1~18.04.8  amd64 GNU assembler, linker and binary utilities
@@ -11,8 +11,16 @@ newpackages_cflinuxfs3_1684949406:
 +ii  ca-certificates           20230311ubuntu0.18.04.1 all   Common CA certificates
 -ii  libbinutils:amd64         2.30-21ubuntu1~18.04.8  amd64 GNU binary utilities (private shared library)
 +ii  libbinutils:amd64         2.30-21ubuntu1~18.04.9  amd64 GNU binary utilities (private shared library)
+-ii  libperl5.26:amd64         5.26.1-6ubuntu0.6       amd64 shared Perl library
++ii  libperl5.26:amd64         5.26.1-6ubuntu0.7       amd64 shared Perl library
 -ii  libpq-dev                 10.23-0ubuntu0.18.04.1  amd64 header files for libpq5 (PostgreSQL library)
 -ii  libpq5:amd64              10.23-0ubuntu0.18.04.1  amd64 PostgreSQL C client library
 +ii  libpq-dev                 10.23-0ubuntu0.18.04.2  amd64 header files for libpq5 (PostgreSQL library)
 +ii  libpq5:amd64              10.23-0ubuntu0.18.04.2  amd64 PostgreSQL C client library
+-ii  perl                      5.26.1-6ubuntu0.6       amd64 Larry Wall's Practical Extraction and Report Language
+-ii  perl-base                 5.26.1-6ubuntu0.6       amd64 minimal Perl system
+-ii  perl-modules-5.26         5.26.1-6ubuntu0.6       all   Core Perl modules
++ii  perl                      5.26.1-6ubuntu0.7       amd64 Larry Wall's Practical Extraction and Report Language
++ii  perl-base                 5.26.1-6ubuntu0.7       amd64 minimal Perl system
++ii  perl-modules-5.26         5.26.1-6ubuntu0.7       all   Core Perl modules
 ```
