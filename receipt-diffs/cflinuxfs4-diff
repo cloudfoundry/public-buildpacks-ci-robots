@@ -1,4 +1,12 @@
-empty_1686687784:
+newpackages_cflinuxfs4_1686756448:
 
 ```
+-ii  libcap2:amd64      1:2.44-1build3          amd64  POSIX 1003.1e capabilities (library)
+-ii  libcap2-bin        1:2.44-1build3          amd64  POSIX 1003.1e capabilities (utilities)
++ii  libcap2:amd64      1:2.44-1ubuntu0.22.04.1 amd64  POSIX 1003.1e capabilities (library)
++ii  libcap2-bin        1:2.44-1ubuntu0.22.04.1 amd64  POSIX 1003.1e capabilities (utilities)
+-ii  libglib2.0-0:amd64 2.72.4-0ubuntu2         amd64  GLib library of C routines
++ii  libglib2.0-0:amd64 2.72.4-0ubuntu2.2       amd64  GLib library of C routines
+-ii  libpam-cap:amd64   1:2.44-1build3          amd64  POSIX 1003.1e capabilities (PAM module)
++ii  libpam-cap:amd64   1:2.44-1ubuntu0.22.04.1 amd64  POSIX 1003.1e capabilities (PAM module)
 ```
