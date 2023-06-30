@@ -1,14 +1,4 @@
-newpackages_cflinuxfs4_1688054118:
+empty_1688138388:
 
 ```
--ii  bind9-dnsutils       1:9.18.12-0ubuntu0.22.04.1 amd64 Clients provided with BIND 9
--ii  bind9-host           1:9.18.12-0ubuntu0.22.04.1 amd64 DNS Lookup Utility
--ii  bind9-libs:amd64     1:9.18.12-0ubuntu0.22.04.1 amd64 Shared Libraries used by BIND 9
-+ii  bind9-dnsutils       1:9.18.12-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
-+ii  bind9-host           1:9.18.12-0ubuntu0.22.04.2 amd64 DNS Lookup Utility
-+ii  bind9-libs:amd64     1:9.18.12-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
--ii  dnsutils             1:9.18.12-0ubuntu0.22.04.1 all   Transitional package for bind9-dnsutils
-+ii  dnsutils             1:9.18.12-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
--ii  linux-libc-dev:amd64 5.15.0-73.80               amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 5.15.0-76.83               amd64 Linux Kernel Headers for development
 ```
