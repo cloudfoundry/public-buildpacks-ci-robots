@@ -1,4 +1,30 @@
-empty_1691068612:
+newpackages_cflinuxfs4_1692141978:
 
 ```
+-ii  apt                  2.4.9                        amd64 commandline package manager
+-ii  apt-utils            2.4.9                        amd64 package management related utility programs
++ii  apt                  2.4.10                       amd64 commandline package manager
++ii  apt-utils            2.4.10                       amd64 package management related utility programs
+-ii  base-files           12ubuntu4.3                  amd64 Debian base system miscellaneous files
++ii  base-files           12ubuntu4.4                  amd64 Debian base system miscellaneous files
+-ii  distro-info          1.1build1                    amd64 provides information about the distributions' releases
++ii  distro-info          1.1ubuntu0.1                 amd64 provides information about the distributions' releases
+-ii  libapt-pkg6.0:amd64  2.4.9                        amd64 package management runtime library
++ii  libapt-pkg6.0:amd64  2.4.10                       amd64 package management runtime library
+-ii  libldap-2.5-0:amd64  2.5.15+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
+-ii  libldap-dev:amd64    2.5.15+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
+-ii  libldap2-dev         2.5.15+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
++ii  libldap-2.5-0:amd64  2.5.16+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
++ii  libldap-dev:amd64    2.5.16+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
++ii  libldap2-dev         2.5.16+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
+-ii  libtiff-dev:amd64    4.3.0-6ubuntu0.4             amd64 Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64       4.3.0-6ubuntu0.4             amd64 Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64     4.3.0-6ubuntu0.4             amd64 Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64    4.3.0-6ubuntu0.5             amd64 Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64       4.3.0-6ubuntu0.5             amd64 Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64     4.3.0-6ubuntu0.5             amd64 Tag Image File Format (TIFF) library -- C++ interface
+-ii  libwbclient0:amd64   2:4.15.13+dfsg-0ubuntu1.2    amd64 Samba winbind client library
++ii  libwbclient0:amd64   2:4.15.13+dfsg-0ubuntu1.3    amd64 Samba winbind client library
+-ii  linux-libc-dev:amd64 5.15.0-78.85                 amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-79.86                 amd64 Linux Kernel Headers for development
 ```
