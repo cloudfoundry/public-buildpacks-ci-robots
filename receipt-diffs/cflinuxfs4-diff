@@ -1,4 +1,8 @@
-empty_1692613005:
+newpackages_cflinuxfs4_1693261708:
 
 ```
+-ii  libjson-c5:amd64     0.15-3~ubuntu1.22.04.1 amd64  JSON manipulation library - shared library
++ii  libjson-c5:amd64     0.15-3~ubuntu1.22.04.2 amd64  JSON manipulation library - shared library
+-ii  linux-libc-dev:amd64 5.15.0-79.86           amd64  Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-82.91           amd64  Linux Kernel Headers for development
 ```
