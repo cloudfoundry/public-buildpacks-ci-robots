@@ -1,22 +1,4 @@
-newpackages_cflinuxfs4_1694546850:
+empty_1694554535:
 
 ```
--ii  file            1:5.41-3          amd64 Recognize the type of data in a file using "magic" numbers
-+ii  file            1:5.41-3ubuntu0.1 amd64 Recognize the type of data in a file using "magic" numbers
--ii  libc-bin        2.35-0ubuntu3.1   amd64 GNU C Library: Binaries
--ii  libc-dev-bin    2.35-0ubuntu3.1   amd64 GNU C Library: Development binaries
--ii  libc6:amd64     2.35-0ubuntu3.1   amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64 2.35-0ubuntu3.1   amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin        2.35-0ubuntu3.3   amd64 GNU C Library: Binaries
-+ii  libc-dev-bin    2.35-0ubuntu3.3   amd64 GNU C Library: Development binaries
-+ii  libc6:amd64     2.35-0ubuntu3.3   amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64 2.35-0ubuntu3.3   amd64 GNU C Library: Development Libraries and Header Files
--ii  libflac8:amd64  1.3.3-2ubuntu0.1  amd64 Free Lossless Audio Codec - runtime C library
-+ii  libflac8:amd64  1.3.3-2ubuntu0.2  amd64 Free Lossless Audio Codec - runtime C library
--ii  libmagic-mgc    1:5.41-3          amd64 File type determination library using "magic" numbers (compiled magic file)
--ii  libmagic1:amd64 1:5.41-3          amd64 Recognize the type of data in a file using "magic" numbers - library
-+ii  libmagic-mgc    1:5.41-3ubuntu0.1 amd64 File type determination library using "magic" numbers (compiled magic file)
-+ii  libmagic1:amd64 1:5.41-3ubuntu0.1 amd64 Recognize the type of data in a file using "magic" numbers - library
--ii  locales         2.35-0ubuntu3.1   all   GNU C Library: National Language (locale) data [support]
-+ii  locales         2.35-0ubuntu3.3   all   GNU C Library: National Language (locale) data [support]
 ```
