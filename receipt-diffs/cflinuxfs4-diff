@@ -1,10 +1,10 @@
-newpackages_cflinuxfs4_1694705149:
+newpackages_cflinuxfs4_1694712353:
 
 ```
--ii  libwebp7:amd64      1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images
--ii  libwebpdemux2:amd64 1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images.
--ii  libwebpmux3:amd64   1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images
-+ii  libwebp7:amd64      1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images
-+ii  libwebpdemux2:amd64 1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images.
-+ii  libwebpmux3:amd64   1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images
+-ii  openssh-client      1:8.9p1-3ubuntu0.3  amd64  secure shell (SSH) client, for secure access to remote machines
+-ii  openssh-server      1:8.9p1-3ubuntu0.3  amd64  secure shell (SSH) server, for secure access from remote machines
+-ii  openssh-sftp-server 1:8.9p1-3ubuntu0.3  amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
++ii  openssh-client      1:8.9p1-3ubuntu0.4  amd64  secure shell (SSH) client, for secure access to remote machines
++ii  openssh-server      1:8.9p1-3ubuntu0.4  amd64  secure shell (SSH) server, for secure access from remote machines
++ii  openssh-sftp-server 1:8.9p1-3ubuntu0.4  amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ```
