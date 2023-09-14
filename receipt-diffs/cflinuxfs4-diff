@@ -1,4 +1,10 @@
-empty_1694554535:
+newpackages_cflinuxfs4_1694705149:
 
 ```
+-ii  libwebp7:amd64      1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images
+-ii  libwebpdemux2:amd64 1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images.
+-ii  libwebpmux3:amd64   1.2.2-2ubuntu0.22.04.1  amd64  Lossy compression of digital photographic images
++ii  libwebp7:amd64      1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images
++ii  libwebpdemux2:amd64 1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images.
++ii  libwebpmux3:amd64   1.2.2-2ubuntu0.22.04.2  amd64  Lossy compression of digital photographic images
 ```
