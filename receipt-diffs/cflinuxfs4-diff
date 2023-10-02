@@ -1,16 +1,4 @@
-newpackages_cflinuxfs4_1696274626:
+empty_1696281614:
 
 ```
--ii  bind9-dnsutils   1:9.18.12-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
--ii  bind9-host       1:9.18.12-0ubuntu0.22.04.2 amd64 DNS Lookup Utility
--ii  bind9-libs:amd64 1:9.18.12-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
-+ii  bind9-dnsutils   1:9.18.12-0ubuntu0.22.04.3 amd64 Clients provided with BIND 9
-+ii  bind9-host       1:9.18.12-0ubuntu0.22.04.3 amd64 DNS Lookup Utility
-+ii  bind9-libs:amd64 1:9.18.12-0ubuntu0.22.04.3 amd64 Shared Libraries used by BIND 9
--ii  dnsutils         1:9.18.12-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
-+ii  dnsutils         1:9.18.12-0ubuntu0.22.04.3 all   Transitional package for bind9-dnsutils
--ii  libvpx-dev:amd64 1.11.0-2ubuntu2            amd64 VP8 and VP9 video codec (development files)
--ii  libvpx7:amd64    1.11.0-2ubuntu2            amd64 VP8 and VP9 video codec (shared library)
-+ii  libvpx-dev:amd64 1.11.0-2ubuntu2.2          amd64 VP8 and VP9 video codec (development files)
-+ii  libvpx7:amd64    1.11.0-2ubuntu2.2          amd64 VP8 and VP9 video codec (shared library)
 ```
