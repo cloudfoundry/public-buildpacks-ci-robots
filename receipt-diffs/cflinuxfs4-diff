@@ -1,7 +1,4 @@
-newpackages_cflinuxfs4_1697552604:
+empty_1697560106:
 
 ```
-+ii  libldap-common    2.5.16+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
--ii  libnetplan0:amd64 0.105-0ubuntu2~22.04.3       amd64 YAML network configuration abstraction runtime library
-+ii  libnetplan0:amd64 0.106.1-7ubuntu0.22.04.2     amd64 YAML network configuration abstraction runtime library
 ```
