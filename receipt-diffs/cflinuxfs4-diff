@@ -1,12 +1,4 @@
-newpackages_cflinuxfs4_1698246982:
+empty_1698254232:
 
 ```
--ii  distro-info-data 0.52ubuntu0.4     all   information about the distributions' releases (data files)
-+ii  distro-info-data 0.52ubuntu0.5     all   information about the distributions' releases (data files)
--ii  libssl-dev:amd64 3.0.2-0ubuntu1.10 amd64 Secure Sockets Layer toolkit - development files
--ii  libssl3:amd64    3.0.2-0ubuntu1.10 amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64 3.0.2-0ubuntu1.12 amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl3:amd64    3.0.2-0ubuntu1.12 amd64 Secure Sockets Layer toolkit - shared libraries
--ii  openssl          3.0.2-0ubuntu1.10 amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl          3.0.2-0ubuntu1.12 amd64 Secure Sockets Layer toolkit - cryptographic utility
 ```
