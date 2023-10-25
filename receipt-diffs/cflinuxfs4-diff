@@ -1,20 +1,4 @@
-newpackages_cflinuxfs4_1698265818:
+empty_1698272835:
 
 ```
--ii  libsystemd0:amd64 249.11-0ubuntu3.10     amd64 systemd utility library
-+ii  libsystemd0:amd64 249.11-0ubuntu3.11     amd64 systemd utility library
--ii  libudev1:amd64    249.11-0ubuntu3.10     amd64 libudev shared library
-+ii  libudev1:amd64    249.11-0ubuntu3.11     amd64 libudev shared library
--ii  systemd           249.11-0ubuntu3.10     amd64 system and service manager
--ii  systemd-sysv      249.11-0ubuntu3.10     amd64 system and service manager - SysV links
-+ii  systemd           249.11-0ubuntu3.11     amd64 system and service manager
-+ii  systemd-sysv      249.11-0ubuntu3.11     amd64 system and service manager - SysV links
--ii  udev              249.11-0ubuntu3.10     amd64 /dev/ and hotplug management daemon
-+ii  udev              249.11-0ubuntu3.11     amd64 /dev/ and hotplug management daemon
--ii  vim-common        2:8.2.3995-1ubuntu2.12 all   Vi IMproved - Common files
--ii  vim-tiny          2:8.2.3995-1ubuntu2.12 amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common        2:8.2.3995-1ubuntu2.13 all   Vi IMproved - Common files
-+ii  vim-tiny          2:8.2.3995-1ubuntu2.13 amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd               2:8.2.3995-1ubuntu2.12 amd64 tool to make (or reverse) a hex dump
-+ii  xxd               2:8.2.3995-1ubuntu2.13 amd64 tool to make (or reverse) a hex dump
 ```
