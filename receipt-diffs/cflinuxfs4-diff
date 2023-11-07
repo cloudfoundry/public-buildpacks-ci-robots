@@ -1,4 +1,26 @@
-empty_1699266473:
+newpackages_cflinuxfs4_1699383002:
 
 ```
+-ii  krb5-multidev:amd64      1.19.2-2ubuntu0.2  amd64  development files for MIT Kerberos without Heimdal conflict
+-ii  krb5-user                1.19.2-2ubuntu0.2  amd64  basic programs to authenticate using MIT Kerberos
++ii  krb5-multidev:amd64      1.19.2-2ubuntu0.3  amd64  development files for MIT Kerberos without Heimdal conflict
++ii  krb5-user                1.19.2-2ubuntu0.3  amd64  basic programs to authenticate using MIT Kerberos
+-ii  libgssapi-krb5-2:amd64   1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
++ii  libgssapi-krb5-2:amd64   1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+-ii  libgssrpc4:amd64         1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - GSS enabled ONCRPC
++ii  libgssrpc4:amd64         1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - GSS enabled ONCRPC
+-ii  libk5crypto3:amd64       1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - Crypto Library
+-ii  libkadm5clnt-mit12:amd64 1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - Administration Clients
+-ii  libkadm5srv-mit12:amd64  1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - KDC and Admin Server
+-ii  libkdb5-10:amd64         1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - Kerberos database
++ii  libk5crypto3:amd64       1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - Crypto Library
++ii  libkadm5clnt-mit12:amd64 1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - Administration Clients
++ii  libkadm5srv-mit12:amd64  1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - KDC and Admin Server
++ii  libkdb5-10:amd64         1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - Kerberos database
+-ii  libkrb5-3:amd64          1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries
+-ii  libkrb5-dev:amd64        1.19.2-2ubuntu0.2  amd64  headers and development libraries for MIT Kerberos
+-ii  libkrb5support0:amd64    1.19.2-2ubuntu0.2  amd64  MIT Kerberos runtime libraries - Support library
++ii  libkrb5-3:amd64          1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries
++ii  libkrb5-dev:amd64        1.19.2-2ubuntu0.3  amd64  headers and development libraries for MIT Kerberos
++ii  libkrb5support0:amd64    1.19.2-2ubuntu0.3  amd64  MIT Kerberos runtime libraries - Support library
 ```
