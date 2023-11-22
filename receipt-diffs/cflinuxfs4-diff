@@ -1,26 +1,4 @@
-newpackages_cflinuxfs4_1700677912:
+empty_1700682457:
 
 ```
--ii  apt                       2.4.10            amd64  commandline package manager
--ii  apt-utils                 2.4.10            amd64  package management related utility programs
-+ii  apt                       2.4.11            amd64  commandline package manager
-+ii  apt-utils                 2.4.11            amd64  package management related utility programs
--ii  libapparmor1:amd64        3.0.4-2ubuntu2.2  amd64  changehat AppArmor library
-+ii  libapparmor1:amd64        3.0.4-2ubuntu2.3  amd64  changehat AppArmor library
--ii  libapt-pkg6.0:amd64       2.4.10            amd64  package management runtime library
-+ii  libapt-pkg6.0:amd64       2.4.11            amd64  package management runtime library
--ii  libgnutls-dane0:amd64     3.7.3-4ubuntu1.2  amd64  GNU TLS library - DANE security support
--ii  libgnutls-openssl27:amd64 3.7.3-4ubuntu1.2  amd64  GNU TLS library - OpenSSL wrapper
--ii  libgnutls28-dev:amd64     3.7.3-4ubuntu1.2  amd64  GNU TLS library - development files
--ii  libgnutls30:amd64         3.7.3-4ubuntu1.2  amd64  GNU TLS library - main runtime library
--ii  libgnutlsxx28:amd64       3.7.3-4ubuntu1.2  amd64  GNU TLS library - C++ runtime library
-+ii  libgnutls-dane0:amd64     3.7.3-4ubuntu1.3  amd64  GNU TLS library - DANE security support
-+ii  libgnutls-openssl27:amd64 3.7.3-4ubuntu1.3  amd64  GNU TLS library - OpenSSL wrapper
-+ii  libgnutls28-dev:amd64     3.7.3-4ubuntu1.3  amd64  GNU TLS library - development files
-+ii  libgnutls30:amd64         3.7.3-4ubuntu1.3  amd64  GNU TLS library - main runtime library
-+ii  libgnutlsxx28:amd64       3.7.3-4ubuntu1.3  amd64  GNU TLS library - C++ runtime library
--ii  libnghttp2-14:amd64       1.43.0-1build3    amd64  library implementing HTTP/2 protocol (shared library)
-+ii  libnghttp2-14:amd64       1.43.0-1ubuntu0.1 amd64  library implementing HTTP/2 protocol (shared library)
--ii  linux-libc-dev:amd64      5.15.0-88.98      amd64  Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64      5.15.0-89.99      amd64  Linux Kernel Headers for development
 ```
