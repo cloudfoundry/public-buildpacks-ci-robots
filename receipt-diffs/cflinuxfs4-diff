@@ -1,14 +1,4 @@
-newpackages_cflinuxfs4_1701970045:
+empty_1701977527:
 
 ```
--ii  libc-bin        2.35-0ubuntu3.4  amd64 GNU C Library: Binaries
--ii  libc-dev-bin    2.35-0ubuntu3.4  amd64 GNU C Library: Development binaries
--ii  libc6:amd64     2.35-0ubuntu3.4  amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64 2.35-0ubuntu3.4  amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin        2.35-0ubuntu3.5  amd64 GNU C Library: Binaries
-+ii  libc-dev-bin    2.35-0ubuntu3.5  amd64 GNU C Library: Development binaries
-+ii  libc6:amd64     2.35-0ubuntu3.5  amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64 2.35-0ubuntu3.5  amd64 GNU C Library: Development Libraries and Header Files
--ii  locales         2.35-0ubuntu3.4  all   GNU C Library: National Language (locale) data [support]
-+ii  locales         2.35-0ubuntu3.5  all   GNU C Library: National Language (locale) data [support]
 ```
