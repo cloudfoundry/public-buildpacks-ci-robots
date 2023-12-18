@@ -1,12 +1,4 @@
-newpackages_cflinuxfs4_1702584257:
+empty_1702916951:
 
 ```
--ii  libaudiofile1:amd64 0.3.6-5build1                 amd64 Open-source version of SGI's audiofile library
-+ii  libaudiofile1:amd64 0.3.6-5+deb10u1build0.22.04.1 amd64 Open-source version of SGI's audiofile library
--ii  vim-common          2:8.2.3995-1ubuntu2.13        all   Vi IMproved - Common files
--ii  vim-tiny            2:8.2.3995-1ubuntu2.13        amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common          2:8.2.3995-1ubuntu2.15        all   Vi IMproved - Common files
-+ii  vim-tiny            2:8.2.3995-1ubuntu2.15        amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd                 2:8.2.3995-1ubuntu2.13        amd64 tool to make (or reverse) a hex dump
-+ii  xxd                 2:8.2.3995-1ubuntu2.15        amd64 tool to make (or reverse) a hex dump
 ```
