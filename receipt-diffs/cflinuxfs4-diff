@@ -1,18 +1,4 @@
-newpackages_cflinuxfs4_1704319529:
+empty_1704484067:
 
 ```
--ii  distro-info          1.1ubuntu0.1       amd64 provides information about the distributions' releases
--ii  distro-info-data     0.52ubuntu0.5      all   information about the distributions' releases (data files)
-+ii  distro-info          1.1ubuntu0.2       amd64 provides information about the distributions' releases
-+ii  distro-info-data     0.52ubuntu0.6      all   information about the distributions' releases (data files)
--ii  libsqlite3-0:amd64   3.37.2-2ubuntu0.1  amd64 SQLite 3 shared library
--ii  libsqlite3-dev:amd64 3.37.2-2ubuntu0.1  amd64 SQLite 3 development files
-+ii  libsqlite3-0:amd64   3.37.2-2ubuntu0.3  amd64 SQLite 3 shared library
-+ii  libsqlite3-dev:amd64 3.37.2-2ubuntu0.3  amd64 SQLite 3 development files
--ii  openssh-client       1:8.9p1-3ubuntu0.5 amd64 secure shell (SSH) client, for secure access to remote machines
--ii  openssh-server       1:8.9p1-3ubuntu0.5 amd64 secure shell (SSH) server, for secure access from remote machines
--ii  openssh-sftp-server  1:8.9p1-3ubuntu0.5 amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
-+ii  openssh-client       1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) client, for secure access to remote machines
-+ii  openssh-server       1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) server, for secure access from remote machines
-+ii  openssh-sftp-server  1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
 ```
