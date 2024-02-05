@@ -1,4 +1,28 @@
-empty_1705960073:
+newpackages_cflinuxfs4_1707176539:
 
 ```
+-ii  libldap-2.5-0:amd64         2.5.16+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
+-ii  libldap-common              2.5.16+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
+-ii  libldap-dev:amd64           2.5.16+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
+-ii  libldap2-dev                2.5.16+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
++ii  libldap-2.5-0:amd64         2.5.16+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP libraries
++ii  libldap-common              2.5.16+dfsg-0ubuntu0.22.04.2 all   OpenLDAP common files for libraries
++ii  libldap-dev:amd64           2.5.16+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP development libraries
++ii  libldap2-dev                2.5.16+dfsg-0ubuntu0.22.04.2 all   transitional package for libldap-dev
+-ii  libmariadb-dev              1:10.6.12-0ubuntu0.22.04.1   amd64 MariaDB database development files
+-ii  libmariadb-dev-compat:amd64 1:10.6.12-0ubuntu0.22.04.1   amd64 MariaDB Connector/C, compatibility symlinks
+-ii  libmariadb3:amd64           1:10.6.12-0ubuntu0.22.04.1   amd64 MariaDB database client library
++ii  libmariadb-dev              1:10.6.16-0ubuntu0.22.04.1   amd64 MariaDB database development files
++ii  libmariadb-dev-compat:amd64 1:10.6.16-0ubuntu0.22.04.1   amd64 MariaDB Connector/C, compatibility symlinks
++ii  libmariadb3:amd64           1:10.6.16-0ubuntu0.22.04.1   amd64 MariaDB database client library
+-ii  libssl-dev:amd64            3.0.2-0ubuntu1.12            amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64               3.0.2-0ubuntu1.12            amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64            3.0.2-0ubuntu1.14            amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64               3.0.2-0ubuntu1.14            amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  linux-libc-dev:amd64        5.15.0-91.101                amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64        5.15.0-92.102                amd64 Linux Kernel Headers for development
+-ii  mariadb-common              1:10.6.12-0ubuntu0.22.04.1   all   MariaDB common configuration files
++ii  mariadb-common              1:10.6.16-0ubuntu0.22.04.1   all   MariaDB common configuration files
+-ii  openssl                     3.0.2-0ubuntu1.12            amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                     3.0.2-0ubuntu1.14            amd64 Secure Sockets Layer toolkit - cryptographic utility
 ```
