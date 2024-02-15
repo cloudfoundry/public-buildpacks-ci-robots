@@ -1,6 +1,22 @@
-newpackages_cflinuxfs4_1707416352:
+newpackages_cflinuxfs4_1708016279:
 
 ```
--ii  libde265-0:amd64  1.0.8-1          amd64  Open H.265 video codec implementation
-+ii  libde265-0:amd64  1.0.8-1ubuntu0.1 amd64  Open H.265 video codec implementation
+-ii  base-files         12ubuntu4.5                amd64 Debian base system miscellaneous files
++ii  base-files         12ubuntu4.6                amd64 Debian base system miscellaneous files
+-ii  bind9-dnsutils     1:9.18.18-0ubuntu0.22.04.1 amd64 Clients provided with BIND 9
+-ii  bind9-host         1:9.18.18-0ubuntu0.22.04.1 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64   1:9.18.18-0ubuntu0.22.04.1 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils     1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
++ii  bind9-host         1:9.18.18-0ubuntu0.22.04.2 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64   1:9.18.18-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
+-ii  coreutils          8.32-4.1ubuntu1            amd64 GNU core utilities
++ii  coreutils          8.32-4.1ubuntu1.1          amd64 GNU core utilities
+-ii  dnsutils           1:9.18.18-0ubuntu0.22.04.1 all   Transitional package for bind9-dnsutils
++ii  dnsutils           1:9.18.18-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
+-ii  libip4tc2:amd64    1.8.7-1ubuntu5.1           amd64 netfilter libip4tc library
++ii  libip4tc2:amd64    1.8.7-1ubuntu5.2           amd64 netfilter libip4tc library
+-ii  libxtables12:amd64 1.8.7-1ubuntu5.1           amd64 netfilter xtables library
++ii  libxtables12:amd64 1.8.7-1ubuntu5.2           amd64 netfilter xtables library
+-ii  unzip              6.0-26ubuntu3.1            amd64 De-archiver for .zip files
++ii  unzip              6.0-26ubuntu3.2            amd64 De-archiver for .zip files
 ```
