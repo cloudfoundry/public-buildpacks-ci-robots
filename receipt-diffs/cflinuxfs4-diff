@@ -1,6 +1,10 @@
-newpackages_cflinuxfs4_1709061679:
+newpackages_cflinuxfs4_1709069128:
 
 ```
--ii  less  590-1ubuntu0.22.04.1  amd64  pager program similar to more
-+ii  less  590-1ubuntu0.22.04.2  amd64  pager program similar to more
+-ii  libtiff-dev:amd64 4.3.0-6ubuntu0.7  amd64  Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64    4.3.0-6ubuntu0.7  amd64  Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64  4.3.0-6ubuntu0.7  amd64  Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64 4.3.0-6ubuntu0.8  amd64  Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64    4.3.0-6ubuntu0.8  amd64  Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64  4.3.0-6ubuntu0.8  amd64  Tag Image File Format (TIFF) library -- C++ interface
 ```
