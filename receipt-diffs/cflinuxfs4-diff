@@ -1,15 +1,2 @@
-newpackages_cflinuxfs4_1710426139:
+empty_1710433155:
 
-```
--ii  dpkg                 1.21.1ubuntu2.2  amd64 Debian package management system
--ii  dpkg-dev             1.21.1ubuntu2.2  all   Debian package development tools
-+ii  dpkg                 1.21.1ubuntu2.3  amd64 Debian package management system
-+ii  dpkg-dev             1.21.1ubuntu2.3  all   Debian package development tools
--ii  libdpkg-perl         1.21.1ubuntu2.2  all   Dpkg perl modules
-+ii  libdpkg-perl         1.21.1ubuntu2.3  all   Dpkg perl modules
--ii  libexpat1:amd64      2.4.7-1ubuntu0.2 amd64 XML parsing C library - runtime library
--ii  libexpat1-dev:amd64  2.4.7-1ubuntu0.2 amd64 XML parsing C library - development kit
-+ii  libexpat1:amd64      2.4.7-1ubuntu0.3 amd64 XML parsing C library - runtime library
-+ii  libexpat1-dev:amd64  2.4.7-1ubuntu0.3 amd64 XML parsing C library - development kit
--ii  linux-libc-dev:amd64 5.15.0-97.107    amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 5.15.0-100.110   amd64 Linux Kernel Headers for development```
