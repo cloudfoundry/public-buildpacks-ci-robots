@@ -1,2 +1,15 @@
-empty_1710433155:
+newpackages_cflinuxfs4_1710775133:
 
+```
+-ii  bash                 5.1-6ubuntu1                 amd64 GNU Bourne Again SHell
++ii  bash                 5.1-6ubuntu1.1               amd64 GNU Bourne Again SHell
+-ii  libldap-2.5-0:amd64  2.5.16+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP libraries
+-ii  libldap-common       2.5.16+dfsg-0ubuntu0.22.04.2 all   OpenLDAP common files for libraries
+-ii  libldap-dev:amd64    2.5.16+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP development libraries
+-ii  libldap2-dev         2.5.16+dfsg-0ubuntu0.22.04.2 all   transitional package for libldap-dev
++ii  libldap-2.5-0:amd64  2.5.17+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
++ii  libldap-common       2.5.17+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
++ii  libldap-dev:amd64    2.5.17+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
++ii  libldap2-dev         2.5.17+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
+-ii  linux-libc-dev:amd64 5.15.0-100.110               amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-101.111               amd64 Linux Kernel Headers for development```
