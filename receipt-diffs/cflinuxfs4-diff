@@ -1,25 +1,2 @@
-newpackages_cflinuxfs4_1711559855:
+empty_1711567339:
 
-```
--ii  bsdutils            1:2.37.2-4ubuntu3   amd64 basic utilities from 4.4BSD-Lite
-+ii  bsdutils            1:2.37.2-4ubuntu3.3 amd64 basic utilities from 4.4BSD-Lite
--ii  eject               2.37.2-4ubuntu3     amd64 ejects CDs and operates CD-Changers under Linux
-+ii  eject               2.37.2-4ubuntu3.3   amd64 ejects CDs and operates CD-Changers under Linux
--ii  libblkid-dev:amd64  2.37.2-4ubuntu3     amd64 block device ID library - headers
--ii  libblkid1:amd64     2.37.2-4ubuntu3     amd64 block device ID library
-+ii  libblkid-dev:amd64  2.37.2-4ubuntu3.3   amd64 block device ID library - headers
-+ii  libblkid1:amd64     2.37.2-4ubuntu3.3   amd64 block device ID library
--ii  libmount-dev:amd64  2.37.2-4ubuntu3     amd64 device mounting library - headers
--ii  libmount1:amd64     2.37.2-4ubuntu3     amd64 device mounting library
-+ii  libmount-dev:amd64  2.37.2-4ubuntu3.3   amd64 device mounting library - headers
-+ii  libmount1:amd64     2.37.2-4ubuntu3.3   amd64 device mounting library
--ii  libsmartcols1:amd64 2.37.2-4ubuntu3     amd64 smart column output alignment library
-+ii  libsmartcols1:amd64 2.37.2-4ubuntu3.3   amd64 smart column output alignment library
--ii  libuuid1:amd64      2.37.2-4ubuntu3     amd64 Universally Unique ID library
-+ii  libuuid1:amd64      2.37.2-4ubuntu3.3   amd64 Universally Unique ID library
--ii  mount               2.37.2-4ubuntu3     amd64 tools for mounting and manipulating filesystems
-+ii  mount               2.37.2-4ubuntu3.3   amd64 tools for mounting and manipulating filesystems
--ii  util-linux          2.37.2-4ubuntu3     amd64 miscellaneous system utilities
--ii  uuid-dev:amd64      2.37.2-4ubuntu3     amd64 Universally Unique ID library - headers and static libraries
-+ii  util-linux          2.37.2-4ubuntu3.3   amd64 miscellaneous system utilities
-+ii  uuid-dev:amd64      2.37.2-4ubuntu3.3   amd64 Universally Unique ID library - headers and static libraries```
