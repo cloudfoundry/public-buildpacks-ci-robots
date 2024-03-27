@@ -1,2 +1,19 @@
-empty_1710781690:
+newpackages_cflinuxfs4_1711549126:
 
+```
+-ii  coreutils                  8.32-4.1ubuntu1.1      amd64 GNU core utilities
++ii  coreutils                  8.32-4.1ubuntu1.2      amd64 GNU core utilities
+-ii  curl                       7.81.0-1ubuntu1.15     amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.81.0-1ubuntu1.16     amd64 command line tool for transferring data with URL syntax
+-ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.15     amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.81.0-1ubuntu1.15     amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.15     amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.16     amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.81.0-1ubuntu1.16     amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.16     amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  vim-common                 2:8.2.3995-1ubuntu2.15 all   Vi IMproved - Common files
+-ii  vim-tiny                   2:8.2.3995-1ubuntu2.15 amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common                 2:8.2.3995-1ubuntu2.16 all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.2.3995-1ubuntu2.16 amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                        2:8.2.3995-1ubuntu2.15 amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.2.3995-1ubuntu2.16 amd64 tool to make (or reverse) a hex dump```
