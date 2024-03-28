@@ -1,2 +1,17 @@
-empty_1711567339:
+newpackages_cflinuxfs4_1711589006:
 
+```
+-ii  libodbc2:amd64         2.3.9-5          amd64 ODBC Driver Manager library for Unix
+-ii  libodbccr2:amd64       2.3.9-5          amd64 ODBC Cursor library for Unix
+-ii  libodbcinst2:amd64     2.3.9-5          amd64 Support library for accessing ODBC configuration files
++ii  libodbc2:amd64         2.3.9-5ubuntu0.1 amd64 ODBC Driver Manager library for Unix
++ii  libodbccr2:amd64       2.3.9-5ubuntu0.1 amd64 ODBC Cursor library for Unix
++ii  libodbcinst2:amd64     2.3.9-5ubuntu0.1 amd64 Support library for accessing ODBC configuration files
+-ii  odbcinst               2.3.9-5          amd64 Helper program for accessing ODBC configuration files
+-ii  odbcinst1debian2:amd64 2.3.9-5          amd64 Support library for accessing ODBC configuration files (transitional package)
++ii  odbcinst               2.3.9-5ubuntu0.1 amd64 Helper program for accessing ODBC configuration files
++ii  odbcinst1debian2:amd64 2.3.9-5ubuntu0.1 amd64 Support library for accessing ODBC configuration files (transitional package)
+-ii  unixodbc-common        2.3.9-5          all   Common ODBC configuration files
+-ii  unixodbc-dev:amd64     2.3.9-5          amd64 ODBC libraries for Unix (development files)
++ii  unixodbc-common        2.3.9-5ubuntu0.1 all   Common ODBC configuration files
++ii  unixodbc-dev:amd64     2.3.9-5ubuntu0.1 amd64 ODBC libraries for Unix (development files)```
