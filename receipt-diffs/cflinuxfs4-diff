@@ -1,11 +1,2 @@
-newpackages_cflinuxfs4_1712162739:
+empty_1712170114:
 
-```
--ii  apt                 2.4.11                    amd64 commandline package manager
--ii  apt-utils           2.4.11                    amd64 package management related utility programs
-+ii  apt                 2.4.12                    amd64 commandline package manager
-+ii  apt-utils           2.4.12                    amd64 package management related utility programs
--ii  libapt-pkg6.0:amd64 2.4.11                    amd64 package management runtime library
-+ii  libapt-pkg6.0:amd64 2.4.12                    amd64 package management runtime library
--ii  libwbclient0:amd64  2:4.15.13+dfsg-0ubuntu1.5 amd64 Samba winbind client library
-+ii  libwbclient0:amd64  2:4.15.13+dfsg-0ubuntu1.6 amd64 Samba winbind client library```
