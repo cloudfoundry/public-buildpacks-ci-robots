@@ -1,2 +1,9 @@
-empty_1713216989:
+newpackages_cflinuxfs4_1713372179:
 
+```
+-ii  openssh-client      1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) client, for secure access to remote machines
+-ii  openssh-server      1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) server, for secure access from remote machines
+-ii  openssh-sftp-server 1:8.9p1-3ubuntu0.6 amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
++ii  openssh-client      1:8.9p1-3ubuntu0.7 amd64 secure shell (SSH) client, for secure access to remote machines
++ii  openssh-server      1:8.9p1-3ubuntu0.7 amd64 secure shell (SSH) server, for secure access from remote machines
++ii  openssh-sftp-server 1:8.9p1-3ubuntu0.7 amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines```
