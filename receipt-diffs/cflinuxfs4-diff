@@ -1,7 +1,2 @@
-newpackages_cflinuxfs4_1714098493:
+empty_1714106274:
 
-```
--ii  libnghttp2-14:amd64  1.43.0-1ubuntu0.1 amd64 library implementing HTTP/2 protocol (shared library)
-+ii  libnghttp2-14:amd64  1.43.0-1ubuntu0.2 amd64 library implementing HTTP/2 protocol (shared library)
--ii  linux-libc-dev:amd64 5.15.0-102.112    amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 5.15.0-105.115    amd64 Linux Kernel Headers for development```
