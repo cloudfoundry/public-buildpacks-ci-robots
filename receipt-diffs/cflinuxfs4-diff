@@ -1,5 +1,7 @@
-newpackages_cflinuxfs4_1714407192:
+newpackages_cflinuxfs4_1714752068:
 
 ```
--ii  less 590-1ubuntu0.22.04.2 amd64 pager program similar to more
-+ii  less 590-1ubuntu0.22.04.3 amd64 pager program similar to more```
+-ii  distro-info-data 0.52ubuntu0.6        all   information about the distributions' releases (data files)
++ii  distro-info-data 0.52ubuntu0.7        all   information about the distributions' releases (data files)
+-ii  less             590-1ubuntu0.22.04.2 amd64 pager program similar to more
++ii  less             590-1ubuntu0.22.04.3 amd64 pager program similar to more```
