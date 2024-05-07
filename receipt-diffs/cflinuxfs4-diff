@@ -1,7 +1,9 @@
-newpackages_cflinuxfs4_1714752068:
+newpackages_cflinuxfs4_1715110728:
 
 ```
--ii  distro-info-data 0.52ubuntu0.6        all   information about the distributions' releases (data files)
-+ii  distro-info-data 0.52ubuntu0.7        all   information about the distributions' releases (data files)
--ii  less             590-1ubuntu0.22.04.2 amd64 pager program similar to more
-+ii  less             590-1ubuntu0.22.04.3 amd64 pager program similar to more```
+-ii  distro-info-data     0.52ubuntu0.6        all   information about the distributions' releases (data files)
++ii  distro-info-data     0.52ubuntu0.7        all   information about the distributions' releases (data files)
+-ii  less                 590-1ubuntu0.22.04.2 amd64 pager program similar to more
++ii  less                 590-1ubuntu0.22.04.3 amd64 pager program similar to more
+-ii  linux-libc-dev:amd64 5.15.0-105.115       amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-106.116       amd64 Linux Kernel Headers for development```
