@@ -1,31 +1,45 @@
-newpackages_cflinuxfs4_1717528587:
+newpackages_cflinuxfs4_1717612310:
 
 ```
--ii  git                1:2.34.1-1ubuntu1.10   amd64 fast, scalable, distributed revision control system
--ii  git-man            1:2.34.1-1ubuntu1.10   all   fast, scalable, distributed revision control system (manual pages)
-+ii  git                1:2.34.1-1ubuntu1.11   amd64 fast, scalable, distributed revision control system
-+ii  git-man            1:2.34.1-1ubuntu1.11   all   fast, scalable, distributed revision control system (manual pages)
--ii  libarchive13:amd64 3.6.0-1ubuntu1         amd64 Multi-format archive and compression library (shared library)
-+ii  libarchive13:amd64 3.6.0-1ubuntu1.1       amd64 Multi-format archive and compression library (shared library)
--ii  libc-bin           2.35-0ubuntu3.7        amd64 GNU C Library: Binaries
--ii  libc-dev-bin       2.35-0ubuntu3.7        amd64 GNU C Library: Development binaries
--ii  libc6:amd64        2.35-0ubuntu3.7        amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64    2.35-0ubuntu3.7        amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin           2.35-0ubuntu3.8        amd64 GNU C Library: Binaries
-+ii  libc-dev-bin       2.35-0ubuntu3.8        amd64 GNU C Library: Development binaries
-+ii  libc6:amd64        2.35-0ubuntu3.8        amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64    2.35-0ubuntu3.8        amd64 GNU C Library: Development Libraries and Header Files
--ii  libpq-dev          14.11-0ubuntu0.22.04.1 amd64 header files for libpq5 (PostgreSQL library)
--ii  libpq5:amd64       14.11-0ubuntu0.22.04.1 amd64 PostgreSQL C client library
-+ii  libpq-dev          14.12-0ubuntu0.22.04.1 amd64 header files for libpq5 (PostgreSQL library)
-+ii  libpq5:amd64       14.12-0ubuntu0.22.04.1 amd64 PostgreSQL C client library
--ii  libunbound8:amd64  1.13.1-1ubuntu5.4      amd64 library implementing DNS resolution and validation
-+ii  libunbound8:amd64  1.13.1-1ubuntu5.5      amd64 library implementing DNS resolution and validation
--ii  locales            2.35-0ubuntu3.7        all   GNU C Library: National Language (locale) data [support]
-+ii  locales            2.35-0ubuntu3.8        all   GNU C Library: National Language (locale) data [support]
--ii  vim-common         2:8.2.3995-1ubuntu2.16 all   Vi IMproved - Common files
--ii  vim-tiny           2:8.2.3995-1ubuntu2.16 amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common         2:8.2.3995-1ubuntu2.17 all   Vi IMproved - Common files
-+ii  vim-tiny           2:8.2.3995-1ubuntu2.17 amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd                2:8.2.3995-1ubuntu2.16 amd64 tool to make (or reverse) a hex dump
-+ii  xxd                2:8.2.3995-1ubuntu2.17 amd64 tool to make (or reverse) a hex dump```
+-ii  bind9-dnsutils             1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
+-ii  bind9-host                 1:9.18.18-0ubuntu0.22.04.2 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64           1:9.18.18-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils             1:9.18.24-0ubuntu0.22.04.1 amd64 Clients provided with BIND 9
++ii  bind9-host                 1:9.18.24-0ubuntu0.22.04.1 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64           1:9.18.24-0ubuntu0.22.04.1 amd64 Shared Libraries used by BIND 9
+-ii  dnsutils                   1:9.18.18-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
++ii  dnsutils                   1:9.18.24-0ubuntu0.22.04.1 all   Transitional package for bind9-dnsutils
+-ii  gir1.2-gdkpixbuf-2.0:amd64 2.42.8+dfsg-1ubuntu0.2     amd64 GDK Pixbuf library - GObject-Introspection
++ii  gir1.2-gdkpixbuf-2.0:amd64 2.42.8+dfsg-1ubuntu0.3     amd64 GDK Pixbuf library - GObject-Introspection
+-ii  git                        1:2.34.1-1ubuntu1.10       amd64 fast, scalable, distributed revision control system
+-ii  git-man                    1:2.34.1-1ubuntu1.10       all   fast, scalable, distributed revision control system (manual pages)
++ii  git                        1:2.34.1-1ubuntu1.11       amd64 fast, scalable, distributed revision control system
++ii  git-man                    1:2.34.1-1ubuntu1.11       all   fast, scalable, distributed revision control system (manual pages)
+-ii  libarchive13:amd64         3.6.0-1ubuntu1             amd64 Multi-format archive and compression library (shared library)
++ii  libarchive13:amd64         3.6.0-1ubuntu1.1           amd64 Multi-format archive and compression library (shared library)
+-ii  libc-bin                   2.35-0ubuntu3.7            amd64 GNU C Library: Binaries
+-ii  libc-dev-bin               2.35-0ubuntu3.7            amd64 GNU C Library: Development binaries
+-ii  libc6:amd64                2.35-0ubuntu3.7            amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64            2.35-0ubuntu3.7            amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                   2.35-0ubuntu3.8            amd64 GNU C Library: Binaries
++ii  libc-dev-bin               2.35-0ubuntu3.8            amd64 GNU C Library: Development binaries
++ii  libc6:amd64                2.35-0ubuntu3.8            amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64            2.35-0ubuntu3.8            amd64 GNU C Library: Development Libraries and Header Files
+-ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.2     amd64 GDK Pixbuf library
+-ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.2     all   GDK Pixbuf library - data files
++ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.3     amd64 GDK Pixbuf library
++ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.3     all   GDK Pixbuf library - data files
+-ii  libpq-dev                  14.11-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64               14.11-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
++ii  libpq-dev                  14.12-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64               14.12-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
+-ii  libunbound8:amd64          1.13.1-1ubuntu5.4          amd64 library implementing DNS resolution and validation
++ii  libunbound8:amd64          1.13.1-1ubuntu5.5          amd64 library implementing DNS resolution and validation
+-ii  locales                    2.35-0ubuntu3.7            all   GNU C Library: National Language (locale) data [support]
++ii  locales                    2.35-0ubuntu3.8            all   GNU C Library: National Language (locale) data [support]
+-ii  vim-common                 2:8.2.3995-1ubuntu2.16     all   Vi IMproved - Common files
+-ii  vim-tiny                   2:8.2.3995-1ubuntu2.16     amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common                 2:8.2.3995-1ubuntu2.17     all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.2.3995-1ubuntu2.17     amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  xxd                        2:8.2.3995-1ubuntu2.16     amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.2.3995-1ubuntu2.17     amd64 tool to make (or reverse) a hex dump```
