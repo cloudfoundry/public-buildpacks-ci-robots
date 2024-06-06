@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1717612310:
+newpackages_cflinuxfs4_1717698739:
 
 ```
 -ii  bind9-dnsutils             1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -35,7 +35,13 @@ newpackages_cflinuxfs4_1717612310:
 +ii  libpq5:amd64               14.12-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
 -ii  libunbound8:amd64          1.13.1-1ubuntu5.4          amd64 library implementing DNS resolution and validation
 +ii  libunbound8:amd64          1.13.1-1ubuntu5.5          amd64 library implementing DNS resolution and validation
+-ii  libvpx-dev:amd64           1.11.0-2ubuntu2.2          amd64 VP8 and VP9 video codec (development files)
+-ii  libvpx7:amd64              1.11.0-2ubuntu2.2          amd64 VP8 and VP9 video codec (shared library)
++ii  libvpx-dev:amd64           1.11.0-2ubuntu2.3          amd64 VP8 and VP9 video codec (development files)
++ii  libvpx7:amd64              1.11.0-2ubuntu2.3          amd64 VP8 and VP9 video codec (shared library)
+-ii  linux-libc-dev:amd64       5.15.0-107.117             amd64 Linux Kernel Headers for development
 -ii  locales                    2.35-0ubuntu3.7            all   GNU C Library: National Language (locale) data [support]
++ii  linux-libc-dev:amd64       5.15.0-112.122             amd64 Linux Kernel Headers for development
 +ii  locales                    2.35-0ubuntu3.8            all   GNU C Library: National Language (locale) data [support]
 -ii  vim-common                 2:8.2.3995-1ubuntu2.16     all   Vi IMproved - Common files
 -ii  vim-tiny                   2:8.2.3995-1ubuntu2.16     amd64 Vi IMproved - enhanced vi editor - compact version
