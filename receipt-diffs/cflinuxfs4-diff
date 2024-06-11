@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1717698739:
+newpackages_cflinuxfs4_1718130734:
 
 ```
 -ii  bind9-dnsutils             1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -33,6 +33,12 @@ newpackages_cflinuxfs4_1717698739:
 -ii  libpq5:amd64               14.11-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
 +ii  libpq-dev                  14.12-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
 +ii  libpq5:amd64               14.12-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
+-ii  libtiff-dev:amd64          4.3.0-6ubuntu0.8           amd64 Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64             4.3.0-6ubuntu0.8           amd64 Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64           4.3.0-6ubuntu0.8           amd64 Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64          4.3.0-6ubuntu0.9           amd64 Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64             4.3.0-6ubuntu0.9           amd64 Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64           4.3.0-6ubuntu0.9           amd64 Tag Image File Format (TIFF) library -- C++ interface
 -ii  libunbound8:amd64          1.13.1-1ubuntu5.4          amd64 library implementing DNS resolution and validation
 +ii  libunbound8:amd64          1.13.1-1ubuntu5.5          amd64 library implementing DNS resolution and validation
 -ii  libvpx-dev:amd64           1.11.0-2ubuntu2.2          amd64 VP8 and VP9 video codec (development files)
