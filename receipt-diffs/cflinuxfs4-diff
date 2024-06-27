@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1719426372:
+newpackages_cflinuxfs4_1719462263:
 
 ```
 -ii  bind9-dnsutils              1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -43,6 +43,10 @@ newpackages_cflinuxfs4_1719426372:
 -ii  libpq5:amd64                14.11-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
 +ii  libpq-dev                   14.12-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
 +ii  libpq5:amd64                14.12-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
+-ii  libssl-dev:amd64            3.0.2-0ubuntu1.15          amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64               3.0.2-0ubuntu1.15          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64            3.0.2-0ubuntu1.16          amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64               3.0.2-0ubuntu1.16          amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libtiff-dev:amd64           4.3.0-6ubuntu0.8           amd64 Tag Image File Format library (TIFF), development files
 -ii  libtiff5:amd64              4.3.0-6ubuntu0.8           amd64 Tag Image File Format (TIFF) library
 -ii  libtiffxx5:amd64            4.3.0-6ubuntu0.8           amd64 Tag Image File Format (TIFF) library -- C++ interface
@@ -61,6 +65,8 @@ newpackages_cflinuxfs4_1719426372:
 +ii  locales                     2.35-0ubuntu3.8            all   GNU C Library: National Language (locale) data [support]
 -ii  mariadb-common              1:10.6.16-0ubuntu0.22.04.1 all   MariaDB common configuration files
 +ii  mariadb-common              1:10.6.18-0ubuntu0.22.04.1 all   MariaDB common configuration files
+-ii  openssl                     3.0.2-0ubuntu1.15          amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                     3.0.2-0ubuntu1.16          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  vim-common                  2:8.2.3995-1ubuntu2.16     all   Vi IMproved - Common files
 -ii  vim-tiny                    2:8.2.3995-1ubuntu2.16     amd64 Vi IMproved - enhanced vi editor - compact version
 -ii  wget                        1.21.2-2ubuntu1            amd64 retrieves files from the web
