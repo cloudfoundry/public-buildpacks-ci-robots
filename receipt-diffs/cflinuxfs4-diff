@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1719606563:
+newpackages_cflinuxfs4_1719611114:
 
 ```
 -ii  bind9-dnsutils              1:9.18.18-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -38,7 +38,7 @@ newpackages_cflinuxfs4_1719606563:
 +ii  libmariadb-dev-compat:amd64 1:10.6.18-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
 +ii  libmariadb3:amd64           1:10.6.18-0ubuntu0.22.04.1 amd64 MariaDB database client library
 -ii  libnetplan0:amd64           0.106.1-7ubuntu0.22.04.2   amd64 YAML network configuration abstraction runtime library
-+ii  libnetplan0:amd64           0.106.1-7ubuntu0.22.04.3   amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64           0.106.1-7ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 -ii  libpq-dev                   14.11-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
 -ii  libpq5:amd64                14.11-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
 +ii  libpq-dev                   14.12-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
