@@ -1,0 +1,1 @@
+{"version":"2.4.60","source":{"url":"https://dlcdn.apache.org/httpd/httpd-2.4.60.tar.bz2","md5":null,"sha256":"7b1ec7ec5635da7cb01550513215a90f8b2f52bb7c90cf3e97ede936d3e55b0f"},"sha256":"6a7803c66dda65347da8ec4393a13726ef22e9bc2f4f7979666d79db93d37bcc","url":"https://buildpacks.cloudfoundry.org/dependencies/httpd/httpd_2.4.60_linux_x64_cflinuxfs3_6a7803c6.tgz"}
