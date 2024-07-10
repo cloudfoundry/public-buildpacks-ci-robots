@@ -1,2 +1,11 @@
-newpackages_cflinuxfs4_1720015071:
+newpackages_cflinuxfs4_1720619911:
 
+```
+-ii  libpython3.10:amd64         3.10.12-1~22.04.3      amd64 Shared Python runtime library (version 3.10)
+-ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.3      amd64 Minimal subset of the Python language (version 3.10)
+-ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.3      amd64 Interactive high-level object-oriented language (standard library, version 3.10)
++ii  libpython3.10:amd64         3.10.12-1~22.04.4      amd64 Shared Python runtime library (version 3.10)
++ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.4      amd64 Minimal subset of the Python language (version 3.10)
++ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.4      amd64 Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  tzdata                      2024a-0ubuntu0.22.04   all   time zone and daylight-saving time data
++ii  tzdata                      2024a-0ubuntu0.22.04.1 all   time zone and daylight-saving time data```
