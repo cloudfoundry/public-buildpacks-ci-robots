@@ -1,19 +1,2 @@
-newpackages_cflinuxfs4_1721311048:
+newpackages_cflinuxfs4_1721397457:
 
-```
--ii  graphviz            2.42.2-6          amd64 rich set of graph drawing tools
-+ii  graphviz            2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools
--ii  libcdt5:amd64       2.42.2-6          amd64 rich set of graph drawing tools - cdt library
--ii  libcgraph6:amd64    2.42.2-6          amd64 rich set of graph drawing tools - cgraph library
-+ii  libcdt5:amd64       2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - cdt library
-+ii  libcgraph6:amd64    2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - cgraph library
--ii  libgvc6             2.42.2-6          amd64 rich set of graph drawing tools - gvc library
--ii  libgvpr2:amd64      2.42.2-6          amd64 rich set of graph drawing tools - gvpr library
-+ii  libgvc6             2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - gvc library
-+ii  libgvpr2:amd64      2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - gvpr library
--ii  liblab-gamut1:amd64 2.42.2-6          amd64 rich set of graph drawing tools - liblab_gamut library
-+ii  liblab-gamut1:amd64 2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - liblab_gamut library
--ii  libpathplan4:amd64  2.42.2-6          amd64 rich set of graph drawing tools - pathplan library
-+ii  libpathplan4:amd64  2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - pathplan library
--ii  libxdot4:amd64      2.42.2-6          amd64 rich set of graph drawing tools - xdot library
-+ii  libxdot4:amd64      2.42.2-6ubuntu0.1 amd64 rich set of graph drawing tools - xdot library```
