@@ -1,13 +1,13 @@
-newpackages_cflinuxfs4_1721915839:
+newpackages_cflinuxfs4_1722002225:
 
 ```
--ii  libldap-2.5-0:amd64  2.5.18+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
--ii  libldap-common       2.5.18+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
--ii  libldap-dev:amd64    2.5.18+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
--ii  libldap2-dev         2.5.18+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
-+ii  libldap-2.5-0:amd64  2.5.18+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP libraries
-+ii  libldap-common       2.5.18+dfsg-0ubuntu0.22.04.2 all   OpenLDAP common files for libraries
-+ii  libldap-dev:amd64    2.5.18+dfsg-0ubuntu0.22.04.2 amd64 OpenLDAP development libraries
-+ii  libldap2-dev         2.5.18+dfsg-0ubuntu0.22.04.2 all   transitional package for libldap-dev
--ii  linux-libc-dev:amd64 5.15.0-116.126               amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64 5.15.0-117.127               amd64 Linux Kernel Headers for development```
+-ii  imagemagick                 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3 amd64 image manipulation programs -- binaries
+-ii  imagemagick-6-common        8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3 all   image manipulation programs -- infrastructure
+-ii  imagemagick-6.q16           8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3 amd64 image manipulation programs -- quantum depth Q16
++ii  imagemagick                 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 amd64 image manipulation programs -- binaries
++ii  imagemagick-6-common        8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 all   image manipulation programs -- infrastructure
++ii  imagemagick-6.q16           8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 amd64 image manipulation programs -- quantum depth Q16
+-ii  libmagickcore-6.q16-6:amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3 amd64 low-level image manipulation library -- quantum depth Q16
+-ii  libmagickwand-6.q16-6:amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3 amd64 image manipulation library -- quantum depth Q16
++ii  libmagickcore-6.q16-6:amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 amd64 low-level image manipulation library -- quantum depth Q16
++ii  libmagickwand-6.q16-6:amd64 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5 amd64 image manipulation library -- quantum depth Q16```
