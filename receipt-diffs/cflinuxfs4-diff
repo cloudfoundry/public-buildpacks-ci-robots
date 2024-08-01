@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1722434183:
+newpackages_cflinuxfs4_1722520600:
 
 ```
 -ii  libpython3.10:amd64         3.10.12-1~22.04.4 amd64 Shared Python runtime library (version 3.10)
@@ -6,4 +6,10 @@ newpackages_cflinuxfs4_1722434183:
 -ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.4 amd64 Interactive high-level object-oriented language (standard library, version 3.10)
 +ii  libpython3.10:amd64         3.10.12-1~22.04.5 amd64 Shared Python runtime library (version 3.10)
 +ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.5 amd64 Minimal subset of the Python language (version 3.10)
-+ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.5 amd64 Interactive high-level object-oriented language (standard library, version 3.10)```
++ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.5 amd64 Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  libssl-dev:amd64            3.0.2-0ubuntu1.16 amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64               3.0.2-0ubuntu1.16 amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64            3.0.2-0ubuntu1.17 amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64               3.0.2-0ubuntu1.17 amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  openssl                     3.0.2-0ubuntu1.16 amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                     3.0.2-0ubuntu1.17 amd64 Secure Sockets Layer toolkit - cryptographic utility```
