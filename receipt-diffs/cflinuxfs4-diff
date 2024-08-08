@@ -1,14 +1,36 @@
-newpackages_cflinuxfs4_1723039057:
+newpackages_cflinuxfs4_1723125259:
 
 ```
 -ii  curl                        7.81.0-1ubuntu1.16 amd64 command line tool for transferring data with URL syntax
 +ii  curl                        7.81.0-1ubuntu1.17 amd64 command line tool for transferring data with URL syntax
+-ii  krb5-multidev:amd64         1.19.2-2ubuntu0.3  amd64 development files for MIT Kerberos without Heimdal conflict
+-ii  krb5-user                   1.19.2-2ubuntu0.3  amd64 basic programs to authenticate using MIT Kerberos
++ii  krb5-multidev:amd64         1.19.2-2ubuntu0.4  amd64 development files for MIT Kerberos without Heimdal conflict
++ii  krb5-user                   1.19.2-2ubuntu0.4  amd64 basic programs to authenticate using MIT Kerberos
 -ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.16 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 -ii  libcurl4:amd64              7.81.0-1ubuntu1.16 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 -ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.16 amd64 development files and documentation for libcurl (OpenSSL flavour)
 +ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.17 amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64              7.81.0-1ubuntu1.17 amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.17 amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
++ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+-ii  libgssrpc4:amd64            1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
++ii  libgssrpc4:amd64            1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
+-ii  libk5crypto3:amd64          1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - Crypto Library
+-ii  libkadm5clnt-mit12:amd64    1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - Administration Clients
+-ii  libkadm5srv-mit12:amd64     1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - KDC and Admin Server
+-ii  libkdb5-10:amd64            1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - Kerberos database
++ii  libk5crypto3:amd64          1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - Crypto Library
++ii  libkadm5clnt-mit12:amd64    1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - Administration Clients
++ii  libkadm5srv-mit12:amd64     1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - KDC and Admin Server
++ii  libkdb5-10:amd64            1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - Kerberos database
+-ii  libkrb5-3:amd64             1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries
+-ii  libkrb5-dev:amd64           1.19.2-2ubuntu0.3  amd64 headers and development libraries for MIT Kerberos
+-ii  libkrb5support0:amd64       1.19.2-2ubuntu0.3  amd64 MIT Kerberos runtime libraries - Support library
++ii  libkrb5-3:amd64             1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries
++ii  libkrb5-dev:amd64           1.19.2-2ubuntu0.4  amd64 headers and development libraries for MIT Kerberos
++ii  libkrb5support0:amd64       1.19.2-2ubuntu0.4  amd64 MIT Kerberos runtime libraries - Support library
 -ii  libpython3.10:amd64         3.10.12-1~22.04.4  amd64 Shared Python runtime library (version 3.10)
 -ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.4  amd64 Minimal subset of the Python language (version 3.10)
 -ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.4  amd64 Interactive high-level object-oriented language (standard library, version 3.10)
@@ -19,5 +41,7 @@ newpackages_cflinuxfs4_1723039057:
 -ii  libssl3:amd64               3.0.2-0ubuntu1.16  amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssl-dev:amd64            3.0.2-0ubuntu1.17  amd64 Secure Sockets Layer toolkit - development files
 +ii  libssl3:amd64               3.0.2-0ubuntu1.17  amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  linux-libc-dev:amd64        5.15.0-117.127     amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64        5.15.0-118.128     amd64 Linux Kernel Headers for development
 -ii  openssl                     3.0.2-0ubuntu1.16  amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl                     3.0.2-0ubuntu1.17  amd64 Secure Sockets Layer toolkit - cryptographic utility```
