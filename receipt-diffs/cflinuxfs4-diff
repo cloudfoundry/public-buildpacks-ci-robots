@@ -1,2 +1,11 @@
-newpackages_cflinuxfs4_1725371606:
+newpackages_cflinuxfs4_1725458214:
 
+```
+-ii  libapparmor1:amd64 3.0.4-2ubuntu2.3       amd64 changehat AppArmor library
++ii  libapparmor1:amd64 3.0.4-2ubuntu2.3build2 amd64 changehat AppArmor library
+-ii  libssl-dev:amd64   3.0.2-0ubuntu1.17      amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64      3.0.2-0ubuntu1.17      amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64   3.0.2-0ubuntu1.18      amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64      3.0.2-0ubuntu1.18      amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  openssl            3.0.2-0ubuntu1.17      amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl            3.0.2-0ubuntu1.18      amd64 Secure Sockets Layer toolkit - cryptographic utility```
