@@ -1,2 +1,21 @@
-newpackages_cflinuxfs4_1726494795:
+newpackages_cflinuxfs4_1726581201:
 
+```
+-ii  curl                        7.81.0-1ubuntu1.17     amd64 command line tool for transferring data with URL syntax
++ii  curl                        7.81.0-1ubuntu1.18     amd64 command line tool for transferring data with URL syntax
+-ii  libapparmor1:amd64          3.0.4-2ubuntu2.3build2 amd64 changehat AppArmor library
++ii  libapparmor1:amd64          3.0.4-2ubuntu2.4       amd64 changehat AppArmor library
+-ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.17     amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64              7.81.0-1ubuntu1.17     amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.17     amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.18     amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64              7.81.0-1ubuntu1.18     amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.18     amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libpython3.10:amd64         3.10.12-1~22.04.5      amd64 Shared Python runtime library (version 3.10)
+-ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.5      amd64 Minimal subset of the Python language (version 3.10)
+-ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.5      amd64 Interactive high-level object-oriented language (standard library, version 3.10)
++ii  libpython3.10:amd64         3.10.12-1~22.04.6      amd64 Shared Python runtime library (version 3.10)
++ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.6      amd64 Minimal subset of the Python language (version 3.10)
++ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.6      amd64 Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  linux-libc-dev:amd64        5.15.0-121.131         amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64        5.15.0-122.132         amd64 Linux Kernel Headers for development```
