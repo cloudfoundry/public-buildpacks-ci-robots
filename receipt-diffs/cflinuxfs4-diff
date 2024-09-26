@@ -1,2 +1,11 @@
-newpackages_cflinuxfs4_1727272314:
+newpackages_cflinuxfs4_1727358711:
 
+```
+-ii  ca-certificates        20230311ubuntu0.22.04.1 all   Common CA certificates
++ii  ca-certificates        20240203~22.04.1        all   Common CA certificates
+-ii  libapr1:amd64          1.7.0-8ubuntu0.22.04.1  amd64 Apache Portable Runtime Library
++ii  libapr1:amd64          1.7.0-8ubuntu0.22.04.2  amd64 Apache Portable Runtime Library
+-ii  libopenjp2-7:amd64     2.4.0-6                 amd64 JPEG 2000 image compression/decompression library
+-ii  libopenjp2-7-dev:amd64 2.4.0-6                 amd64 development files for OpenJPEG, a JPEG 2000 image library
++ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.1        amd64 JPEG 2000 image compression/decompression library
++ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.1        amd64 development files for OpenJPEG, a JPEG 2000 image library```
