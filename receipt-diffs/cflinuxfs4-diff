@@ -1,2 +1,5 @@
-newpackages_cflinuxfs4_1727963623:
+newpackages_cflinuxfs4_1728050299:
 
+```
+-ii  libnetplan0:amd64 0.106.1-7ubuntu0.22.04.4 amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64 0.107.1-3ubuntu0.22.04.1 amd64 YAML network configuration abstraction runtime library```
