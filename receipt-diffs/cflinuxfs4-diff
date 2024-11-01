@@ -1,5 +1,2 @@
-newpackages_cflinuxfs4_1730382990:
+newpackages_cflinuxfs4_1730469263:
 
-```
--ii  libarchive13:amd64 3.6.0-1ubuntu1.2 amd64 Multi-format archive and compression library (shared library)
-+ii  libarchive13:amd64 3.6.0-1ubuntu1.3 amd64 Multi-format archive and compression library (shared library)```
