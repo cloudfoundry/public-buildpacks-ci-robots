@@ -1,7 +1,2 @@
-newpackages_cflinuxfs4_1730818942:
+newpackages_cflinuxfs4_1730905126:
 
-```
--ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.1 amd64 JPEG 2000 image compression/decompression library
--ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.1 amd64 development files for OpenJPEG, a JPEG 2000 image library
-+ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.2 amd64 JPEG 2000 image compression/decompression library
-+ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.2 amd64 development files for OpenJPEG, a JPEG 2000 image library```
