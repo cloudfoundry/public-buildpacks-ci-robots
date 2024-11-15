@@ -1,13 +1,2 @@
-newpackages_cflinuxfs4_1731682608:
+newpackages_cflinuxfs4_1731702710:
 
-```
--ii  libgd-dev:amd64 2.3.0-2ubuntu2         amd64 GD Graphics Library (development version)
--ii  libgd3:amd64    2.3.0-2ubuntu2         amd64 GD Graphics Library
-+ii  libgd-dev:amd64 2.3.0-2ubuntu2.3       amd64 GD Graphics Library (development version)
-+ii  libgd3:amd64    2.3.0-2ubuntu2.3       amd64 GD Graphics Library
--ii  vim-common      2:8.2.3995-1ubuntu2.19 all   Vi IMproved - Common files
--ii  vim-tiny        2:8.2.3995-1ubuntu2.19 amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common      2:8.2.3995-1ubuntu2.20 all   Vi IMproved - Common files
-+ii  vim-tiny        2:8.2.3995-1ubuntu2.20 amd64 Vi IMproved - enhanced vi editor - compact version
--ii  xxd             2:8.2.3995-1ubuntu2.19 amd64 tool to make (or reverse) a hex dump
-+ii  xxd             2:8.2.3995-1ubuntu2.20 amd64 tool to make (or reverse) a hex dump```
