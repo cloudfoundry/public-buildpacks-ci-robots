@@ -1,2 +1,9 @@
-newpackages_cflinuxfs4_1736866834:
+newpackages_cflinuxfs4_1736953312:
 
+```
+-ii  git     1:2.34.1-1ubuntu1.11   amd64 fast, scalable, distributed revision control system
+-ii  git-man 1:2.34.1-1ubuntu1.11   all   fast, scalable, distributed revision control system (manual pages)
++ii  git     1:2.34.1-1ubuntu1.12   amd64 fast, scalable, distributed revision control system
++ii  git-man 1:2.34.1-1ubuntu1.12   all   fast, scalable, distributed revision control system (manual pages)
+-ii  rsync   3.2.7-0ubuntu0.22.04.2 amd64 fast, versatile, remote (and local) file-copying tool
++ii  rsync   3.2.7-0ubuntu0.22.04.3 amd64 fast, versatile, remote (and local) file-copying tool```
