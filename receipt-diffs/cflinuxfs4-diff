@@ -1,2 +1,5 @@
-newpackages_cflinuxfs4_1737063368:
+newpackages_cflinuxfs4_1737125790:
 
+```
+-ii  rsync 3.2.7-0ubuntu0.22.04.3 amd64 fast, versatile, remote (and local) file-copying tool
++ii  rsync 3.2.7-0ubuntu0.22.04.4 amd64 fast, versatile, remote (and local) file-copying tool```
