@@ -1,17 +1,31 @@
-newpackages_cflinuxfs4_1738162313:
+newpackages_cflinuxfs4_1738248870:
 
 ```
--ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.2  amd64 JPEG 2000 image compression/decompression library
--ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.2  amd64 development files for OpenJPEG, a JPEG 2000 image library
-+ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.3  amd64 JPEG 2000 image compression/decompression library
-+ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.3  amd64 development files for OpenJPEG, a JPEG 2000 image library
--ii  libpam-modules:amd64   1.4.0-11ubuntu2.4 amd64 Pluggable Authentication Modules for PAM
--ii  libpam-modules-bin     1.4.0-11ubuntu2.4 amd64 Pluggable Authentication Modules for PAM - helper binaries
--ii  libpam-runtime         1.4.0-11ubuntu2.4 all   Runtime support for the PAM library
--ii  libpam0g:amd64         1.4.0-11ubuntu2.4 amd64 Pluggable Authentication Modules library
-+ii  libpam-modules:amd64   1.4.0-11ubuntu2.5 amd64 Pluggable Authentication Modules for PAM
-+ii  libpam-modules-bin     1.4.0-11ubuntu2.5 amd64 Pluggable Authentication Modules for PAM - helper binaries
-+ii  libpam-runtime         1.4.0-11ubuntu2.5 all   Runtime support for the PAM library
-+ii  libpam0g:amd64         1.4.0-11ubuntu2.5 amd64 Pluggable Authentication Modules library
--ii  linux-libc-dev:amd64   5.15.0-130.140    amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64   5.15.0-131.141    amd64 Linux Kernel Headers for development```
+-ii  bind9-dnsutils         1:9.18.30-0ubuntu0.22.04.1 amd64 Clients provided with BIND 9
+-ii  bind9-host             1:9.18.30-0ubuntu0.22.04.1 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64       1:9.18.30-0ubuntu0.22.04.1 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils         1:9.18.30-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
++ii  bind9-host             1:9.18.30-0ubuntu0.22.04.2 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64       1:9.18.30-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
+-ii  dnsutils               1:9.18.30-0ubuntu0.22.04.1 all   Transitional package for bind9-dnsutils
++ii  dnsutils               1:9.18.30-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
+-ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.2           amd64 JPEG 2000 image compression/decompression library
+-ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.2           amd64 development files for OpenJPEG, a JPEG 2000 image library
++ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.3           amd64 JPEG 2000 image compression/decompression library
++ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.3           amd64 development files for OpenJPEG, a JPEG 2000 image library
+-ii  libpam-modules:amd64   1.4.0-11ubuntu2.4          amd64 Pluggable Authentication Modules for PAM
+-ii  libpam-modules-bin     1.4.0-11ubuntu2.4          amd64 Pluggable Authentication Modules for PAM - helper binaries
+-ii  libpam-runtime         1.4.0-11ubuntu2.4          all   Runtime support for the PAM library
+-ii  libpam0g:amd64         1.4.0-11ubuntu2.4          amd64 Pluggable Authentication Modules library
++ii  libpam-modules:amd64   1.4.0-11ubuntu2.5          amd64 Pluggable Authentication Modules for PAM
++ii  libpam-modules-bin     1.4.0-11ubuntu2.5          amd64 Pluggable Authentication Modules for PAM - helper binaries
++ii  libpam-runtime         1.4.0-11ubuntu2.5          all   Runtime support for the PAM library
++ii  libpam0g:amd64         1.4.0-11ubuntu2.5          amd64 Pluggable Authentication Modules library
+-ii  libxml2:amd64          2.9.13+dfsg-1ubuntu0.4     amd64 GNOME XML library
+-ii  libxml2-dev:amd64      2.9.13+dfsg-1ubuntu0.4     amd64 GNOME XML library - development files
++ii  libxml2:amd64          2.9.13+dfsg-1ubuntu0.5     amd64 GNOME XML library
++ii  libxml2-dev:amd64      2.9.13+dfsg-1ubuntu0.5     amd64 GNOME XML library - development files
+-ii  linux-libc-dev:amd64   5.15.0-130.140             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64   5.15.0-131.141             amd64 Linux Kernel Headers for development
+-ii  tzdata                 2024a-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
++ii  tzdata                 2024b-0ubuntu0.22.04       all   time zone and daylight-saving time data```
