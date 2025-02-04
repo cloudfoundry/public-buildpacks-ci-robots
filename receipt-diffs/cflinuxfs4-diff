@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1738248870:
+newpackages_cflinuxfs4_1738630710:
 
 ```
 -ii  bind9-dnsutils         1:9.18.30-0ubuntu0.22.04.1 amd64 Clients provided with BIND 9
@@ -9,6 +9,8 @@ newpackages_cflinuxfs4_1738248870:
 +ii  bind9-libs:amd64       1:9.18.30-0ubuntu0.22.04.2 amd64 Shared Libraries used by BIND 9
 -ii  dnsutils               1:9.18.30-0ubuntu0.22.04.1 all   Transitional package for bind9-dnsutils
 +ii  dnsutils               1:9.18.30-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
+-ii  libharfbuzz0b:amd64    2.7.4-1ubuntu3.1           amd64 OpenType text shaping engine (shared library)
++ii  libharfbuzz0b:amd64    2.7.4-1ubuntu3.2           amd64 OpenType text shaping engine (shared library)
 -ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.2           amd64 JPEG 2000 image compression/decompression library
 -ii  libopenjp2-7-dev:amd64 2.4.0-6ubuntu0.2           amd64 development files for OpenJPEG, a JPEG 2000 image library
 +ii  libopenjp2-7:amd64     2.4.0-6ubuntu0.3           amd64 JPEG 2000 image compression/decompression library
