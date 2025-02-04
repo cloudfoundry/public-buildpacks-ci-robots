@@ -1,0 +1,1 @@
+{"version":"2.4.63","source":{"url":"https://dlcdn.apache.org/httpd/httpd-2.4.63.tar.bz2","md5":null,"sha256":"88fc236ab99b2864b248de7d49a008ec2afd7551e64dce8b95f58f32f94c46ab"},"sha256":"262e06ae60f2242080ed772db9c4085225f88e518a380f6b588aada3698b095d","url":"https://buildpacks.cloudfoundry.org/dependencies/httpd/httpd_2.4.63_linux_x64_cflinuxfs3_262e06ae.tgz"}
