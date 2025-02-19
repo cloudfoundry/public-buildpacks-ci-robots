@@ -1,0 +1,1 @@
+{"version":"1.27.4","source":{"url":"http://nginx.org/download/nginx-1.27.4.tar.gz","md5":null,"sha256":"294816f879b300e621fa4edd5353dd1ec00badb056399eceb30de7db64b753b2"},"sha256":"42baae87bf752b57d3a1f2a5d8fd717db6d2dc39791cbab229d2d4b8add03646","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.27.4_linux_x64_cflinuxfs4_42baae87.tgz"}
