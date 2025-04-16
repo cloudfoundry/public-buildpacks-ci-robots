@@ -1,0 +1,1 @@
+{"version":"1.27.5","source":{"url":"http://nginx.org/download/nginx-1.27.5.tar.gz","md5":null,"sha256":"e96acebb9c2a6db8a000c3dd1b32ecba1b810f0cd586232d4d921e376674dd0e"},"sha256":"292d08531aa8d15f7ac239871987be7b52d36152fbb0cf3f5329627f3a778a2d","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx-static/nginx-static_1.27.5_linux_x64_cflinuxfs4_292d0853.tgz"}
