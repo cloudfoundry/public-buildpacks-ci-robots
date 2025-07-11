@@ -1,0 +1,1 @@
+{"version":"1.28.0","source":{"url":"http://nginx.org/download/nginx-1.28.0.tar.gz","md5":null,"sha256":"c6b5c6b086c0df9d3ca3ff5e084c1d0ef909e6038279c71c1c3e985f576ff76a"},"sha256":"fe2bfd855a434b994a9e67ee808dd97b33f6ab8880c616ae8397e9f968b532a0","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.28.0_linux_x64_cflinuxfs4_fe2bfd85.tgz"}
