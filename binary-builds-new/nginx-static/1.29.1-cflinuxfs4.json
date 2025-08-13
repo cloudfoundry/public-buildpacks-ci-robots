@@ -1,0 +1,1 @@
+{"version":"1.29.1","source":{"url":"http://nginx.org/download/nginx-1.29.1.tar.gz","md5":null,"sha256":"c589f7e7ed801ddbd904afbf3de26ae24eb0cce27c7717a2e94df7fb12d6ad27"},"sha256":"90370ce35a4776a7e2b7b3f752f423a7aa02a0c247f152d0ef9f8d72205920fe","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx-static/nginx-static_1.29.1_linux_x64_cflinuxfs4_90370ce3.tgz"}
