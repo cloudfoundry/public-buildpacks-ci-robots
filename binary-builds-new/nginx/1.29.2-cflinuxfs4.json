@@ -1,0 +1,1 @@
+{"version":"1.29.2","source":{"url":"http://nginx.org/download/nginx-1.29.2.tar.gz","md5":null,"sha256":"5669e3c29d49bf7f6eb577275b86efe4504cf81af885c58a1ed7d2e7b8492437"},"sha256":"19dce57878d28655cc9370a9264ab6b1197a012428fc7581a40c059b9b870b6d","url":"https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.29.2_linux_x64_cflinuxfs4_19dce578.tgz"}
