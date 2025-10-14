@@ -29,3 +29,8 @@
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-10.7.0_linux.tar.gz
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-20.1.0_linux.tar.gz
 - https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-20.11.0_linux.tar.gz
+
+# dotnet-core the following artifects are ancient "2019" and not used anymore. but still checks it as the verify code go overall commits 
+- https://s3.amazonaws.com/pivotal-buildpacks/dependencies/dotnet-aspnetcore/dotnet-aspnetcore.3.0.0-preview7.linux-amd64-9c0a49fd.tar.xz
+- https://s3.amazonaws.com/pivotal-buildpacks/dependencies/dotnet-runtime/dotnet-runtime.3.0.0-preview7.linux-amd64-38421a8a.tar.xz
+- https://s3.amazonaws.com/pivotal-buildpacks/dependencies/dotnet-sdk/dotnet-sdk.3.0.100-preview7.linux-amd64-2d9fc144.tar.xz
