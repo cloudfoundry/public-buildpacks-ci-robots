@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1760622926:
+newpackages_cflinuxfs4_1760709066:
 
 ```
 -ii  bind9-dnsutils              1:9.18.30-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -153,7 +153,7 @@ newpackages_cflinuxfs4_1760622926:
 +ii  libxml2-dev:amd64           2.9.13+dfsg-1ubuntu0.9     amd64 GNOME XML library - development files
 -ii  linux-libc-dev:amd64        5.15.0-143.153             amd64 Linux Kernel Headers for development
 -ii  locales                     2.35-0ubuntu3.10           all   GNU C Library: National Language (locale) data [support]
-+ii  linux-libc-dev:amd64        5.15.0-157.167             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64        5.15.0-160.170             amd64 Linux Kernel Headers for development
 +ii  locales                     2.35-0ubuntu3.11           all   GNU C Library: National Language (locale) data [support]
 -ii  openssl                     3.0.2-0ubuntu1.19          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl                     3.0.2-0ubuntu1.20          amd64 Secure Sockets Layer toolkit - cryptographic utility
