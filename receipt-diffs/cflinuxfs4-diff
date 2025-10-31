@@ -1,5 +1,7 @@
-newpackages_cflinuxfs4_1761839105:
+newpackages_cflinuxfs4_1761902000:
 
 ```
--ii  libssh-4:amd64 0.9.6-2ubuntu0.22.04.4 amd64 tiny C SSH library (OpenSSL flavor)
-+ii  libssh-4:amd64 0.9.6-2ubuntu0.22.04.5 amd64 tiny C SSH library (OpenSSL flavor)```
+-ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.9  amd64 GNOME XML library
+-ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.9  amd64 GNOME XML library - development files
++ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library
++ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library - development files```
