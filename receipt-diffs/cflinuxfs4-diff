@@ -1,6 +1,2 @@
-newpackages_cflinuxfs4_1765291495:
+empty_1765378120:
 
-```
--ii  libapparmor1:amd64 3.0.4-2ubuntu2.4 amd64 changehat AppArmor library
-+ii  libapparmor1:amd64 3.0.4-2ubuntu2.5 amd64 changehat AppArmor library
-```
