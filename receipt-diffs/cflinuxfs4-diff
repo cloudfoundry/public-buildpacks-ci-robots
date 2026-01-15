@@ -1,8 +1,2 @@
-newpackages_cflinuxfs4_1768504884:
+empty_1768510760:
 
-```
--ii  libpng-dev:amd64  1.6.37-3ubuntu0.1 amd64 PNG library - development (version 1.6)
--ii  libpng16-16:amd64 1.6.37-3ubuntu0.1 amd64 PNG library - runtime (version 1.6)
-+ii  libpng-dev:amd64  1.6.37-3ubuntu0.3 amd64 PNG library - development (version 1.6)
-+ii  libpng16-16:amd64 1.6.37-3ubuntu0.3 amd64 PNG library - runtime (version 1.6)
-```
