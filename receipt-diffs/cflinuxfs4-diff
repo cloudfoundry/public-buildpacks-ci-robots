@@ -1,2 +1,22 @@
-empty_1768920232:
+newpackages_cflinuxfs4_1769006637:
 
+```
+-ii  libc-bin                    2.35-0ubuntu3.11           amd64 GNU C Library: Binaries
+-ii  libc-dev-bin                2.35-0ubuntu3.11           amd64 GNU C Library: Development binaries
+-ii  libc6:amd64                 2.35-0ubuntu3.11           amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64             2.35-0ubuntu3.11           amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                    2.35-0ubuntu3.12           amd64 GNU C Library: Binaries
++ii  libc-dev-bin                2.35-0ubuntu3.12           amd64 GNU C Library: Development binaries
++ii  libc6:amd64                 2.35-0ubuntu3.12           amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64             2.35-0ubuntu3.12           amd64 GNU C Library: Development Libraries and Header Files
+-ii  libmariadb-dev              1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB database development files
+-ii  libmariadb-dev-compat:amd64 1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
+-ii  libmariadb3:amd64           1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB database client library
++ii  libmariadb-dev              1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB database development files
++ii  libmariadb-dev-compat:amd64 1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
++ii  libmariadb3:amd64           1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB database client library
+-ii  locales                     2.35-0ubuntu3.11           all   GNU C Library: National Language (locale) data [support]
++ii  locales                     2.35-0ubuntu3.12           all   GNU C Library: National Language (locale) data [support]
+-ii  mariadb-common              1:10.6.22-0ubuntu0.22.04.1 all   MariaDB common configuration files
++ii  mariadb-common              1:10.6.23-0ubuntu0.22.04.1 all   MariaDB common configuration files
+```
