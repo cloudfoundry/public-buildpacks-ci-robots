@@ -1,22 +1,10 @@
-newpackages_cflinuxfs4_1769006637:
+newpackages_cflinuxfs4_1769179416:
 
 ```
--ii  libc-bin                    2.35-0ubuntu3.11           amd64 GNU C Library: Binaries
--ii  libc-dev-bin                2.35-0ubuntu3.11           amd64 GNU C Library: Development binaries
--ii  libc6:amd64                 2.35-0ubuntu3.11           amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64             2.35-0ubuntu3.11           amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin                    2.35-0ubuntu3.12           amd64 GNU C Library: Binaries
-+ii  libc-dev-bin                2.35-0ubuntu3.12           amd64 GNU C Library: Development binaries
-+ii  libc6:amd64                 2.35-0ubuntu3.12           amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64             2.35-0ubuntu3.12           amd64 GNU C Library: Development Libraries and Header Files
--ii  libmariadb-dev              1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB database development files
--ii  libmariadb-dev-compat:amd64 1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
--ii  libmariadb3:amd64           1:10.6.22-0ubuntu0.22.04.1 amd64 MariaDB database client library
-+ii  libmariadb-dev              1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB database development files
-+ii  libmariadb-dev-compat:amd64 1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB Connector/C, compatibility symlinks
-+ii  libmariadb3:amd64           1:10.6.23-0ubuntu0.22.04.1 amd64 MariaDB database client library
--ii  locales                     2.35-0ubuntu3.11           all   GNU C Library: National Language (locale) data [support]
-+ii  locales                     2.35-0ubuntu3.12           all   GNU C Library: National Language (locale) data [support]
--ii  mariadb-common              1:10.6.22-0ubuntu0.22.04.1 all   MariaDB common configuration files
-+ii  mariadb-common              1:10.6.23-0ubuntu0.22.04.1 all   MariaDB common configuration files
+-ii  libglib2.0-0:amd64 2.72.4-0ubuntu2.7       amd64 GLib library of C routines
++ii  libglib2.0-0:amd64 2.72.4-0ubuntu2.8       amd64 GLib library of C routines
+-ii  libxml2:amd64      2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library
+-ii  libxml2-dev:amd64  2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library - development files
++ii  libxml2:amd64      2.9.13+dfsg-1ubuntu0.11 amd64 GNOME XML library
++ii  libxml2-dev:amd64  2.9.13+dfsg-1ubuntu0.11 amd64 GNOME XML library - development files
 ```
