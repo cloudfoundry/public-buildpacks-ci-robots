@@ -1,10 +1,2 @@
-newpackages_cflinuxfs4_1769179416:
+empty_1769183324:
 
-```
--ii  libglib2.0-0:amd64 2.72.4-0ubuntu2.7       amd64 GLib library of C routines
-+ii  libglib2.0-0:amd64 2.72.4-0ubuntu2.8       amd64 GLib library of C routines
--ii  libxml2:amd64      2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library
--ii  libxml2-dev:amd64  2.9.13+dfsg-1ubuntu0.10 amd64 GNOME XML library - development files
-+ii  libxml2:amd64      2.9.13+dfsg-1ubuntu0.11 amd64 GNOME XML library
-+ii  libxml2-dev:amd64  2.9.13+dfsg-1ubuntu0.11 amd64 GNOME XML library - development files
-```
