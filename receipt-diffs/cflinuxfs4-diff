@@ -1,10 +1,2 @@
-newpackages_cflinuxfs4_1769698087:
+empty_1769704778:
 
-```
--ii  libssl-dev:amd64 3.0.2-0ubuntu1.20 amd64 Secure Sockets Layer toolkit - development files
--ii  libssl3:amd64    3.0.2-0ubuntu1.20 amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64 3.0.2-0ubuntu1.21 amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl3:amd64    3.0.2-0ubuntu1.21 amd64 Secure Sockets Layer toolkit - shared libraries
--ii  openssl          3.0.2-0ubuntu1.20 amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl          3.0.2-0ubuntu1.21 amd64 Secure Sockets Layer toolkit - cryptographic utility
-```
