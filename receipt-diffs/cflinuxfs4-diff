@@ -1,22 +1,2 @@
-newpackages_cflinuxfs4_1770130056:
+empty_1770222629:
 
-```
--ii  libc-bin            2.35-0ubuntu3.12             amd64 GNU C Library: Binaries
--ii  libc-dev-bin        2.35-0ubuntu3.12             amd64 GNU C Library: Development binaries
--ii  libc6:amd64         2.35-0ubuntu3.12             amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64     2.35-0ubuntu3.12             amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin            2.35-0ubuntu3.13             amd64 GNU C Library: Binaries
-+ii  libc-dev-bin        2.35-0ubuntu3.13             amd64 GNU C Library: Development binaries
-+ii  libc6:amd64         2.35-0ubuntu3.13             amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64     2.35-0ubuntu3.13             amd64 GNU C Library: Development Libraries and Header Files
--ii  libldap-2.5-0:amd64 2.5.19+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
--ii  libldap-common      2.5.19+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
--ii  libldap-dev:amd64   2.5.19+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
--ii  libldap2-dev        2.5.19+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
-+ii  libldap-2.5-0:amd64 2.5.20+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP libraries
-+ii  libldap-common      2.5.20+dfsg-0ubuntu0.22.04.1 all   OpenLDAP common files for libraries
-+ii  libldap-dev:amd64   2.5.20+dfsg-0ubuntu0.22.04.1 amd64 OpenLDAP development libraries
-+ii  libldap2-dev        2.5.20+dfsg-0ubuntu0.22.04.1 all   transitional package for libldap-dev
--ii  locales             2.35-0ubuntu3.12             all   GNU C Library: National Language (locale) data [support]
-+ii  locales             2.35-0ubuntu3.13             all   GNU C Library: National Language (locale) data [support]
-```
