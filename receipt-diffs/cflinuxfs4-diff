@@ -1,8 +1,14 @@
-newpackages_cflinuxfs4_1771253345:
+newpackages_cflinuxfs4_1771258423:
 
 ```
--ii  libpng-dev:amd64  1.6.37-3ubuntu0.3 amd64 PNG library - development (version 1.6)
--ii  libpng16-16:amd64 1.6.37-3ubuntu0.3 amd64 PNG library - runtime (version 1.6)
-+ii  libpng-dev:amd64  1.6.37-3ubuntu0.4 amd64 PNG library - development (version 1.6)
-+ii  libpng16-16:amd64 1.6.37-3ubuntu0.4 amd64 PNG library - runtime (version 1.6)
+-ii  libgnutls-dane0:amd64     3.7.3-4ubuntu1.7 amd64 GNU TLS library - DANE security support
+-ii  libgnutls-openssl27:amd64 3.7.3-4ubuntu1.7 amd64 GNU TLS library - OpenSSL wrapper
+-ii  libgnutls28-dev:amd64     3.7.3-4ubuntu1.7 amd64 GNU TLS library - development files
+-ii  libgnutls30:amd64         3.7.3-4ubuntu1.7 amd64 GNU TLS library - main runtime library
+-ii  libgnutlsxx28:amd64       3.7.3-4ubuntu1.7 amd64 GNU TLS library - C++ runtime library
++ii  libgnutls-dane0:amd64     3.7.3-4ubuntu1.8 amd64 GNU TLS library - DANE security support
++ii  libgnutls-openssl27:amd64 3.7.3-4ubuntu1.8 amd64 GNU TLS library - OpenSSL wrapper
++ii  libgnutls28-dev:amd64     3.7.3-4ubuntu1.8 amd64 GNU TLS library - development files
++ii  libgnutls30:amd64         3.7.3-4ubuntu1.8 amd64 GNU TLS library - main runtime library
++ii  libgnutlsxx28:amd64       3.7.3-4ubuntu1.8 amd64 GNU TLS library - C++ runtime library
 ```
