@@ -1,2 +1,12 @@
-empty_1771601373:
+newpackages_cflinuxfs4_1771944957:
 
+```
+-ii  libdjvulibre-dev:amd64 3.5.28-2ubuntu0.22.04.1 amd64 Development files for the DjVu image format
+-ii  libdjvulibre-text      3.5.28-2ubuntu0.22.04.1 all   Linguistic support files for libdjvulibre
+-ii  libdjvulibre21:amd64   3.5.28-2ubuntu0.22.04.1 amd64 Runtime support for the DjVu image format
++ii  libdjvulibre-dev:amd64 3.5.28-2ubuntu0.22.04.2 amd64 Development files for the DjVu image format
++ii  libdjvulibre-text      3.5.28-2ubuntu0.22.04.2 all   Linguistic support files for libdjvulibre
++ii  libdjvulibre21:amd64   3.5.28-2ubuntu0.22.04.2 amd64 Runtime support for the DjVu image format
+-ii  linux-libc-dev:amd64   5.15.0-170.180          amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64   5.15.0-171.181          amd64 Linux Kernel Headers for development
+```
