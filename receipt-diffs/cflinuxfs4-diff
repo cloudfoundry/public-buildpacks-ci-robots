@@ -1,8 +1,2 @@
-newpackages_cflinuxfs4_1772037770:
+empty_1772203967:
 
-```
--ii  git     1:2.34.1-1ubuntu1.15 amd64 fast, scalable, distributed revision control system
--ii  git-man 1:2.34.1-1ubuntu1.15 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git     1:2.34.1-1ubuntu1.16 amd64 fast, scalable, distributed revision control system
-+ii  git-man 1:2.34.1-1ubuntu1.16 all   fast, scalable, distributed revision control system (manual pages)
-```
