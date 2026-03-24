@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node_20.20.2_linux_x64_cflinuxfs4_9802e12d.tgz",
+  "sha256": "9802e12d3d4c8ccffcb5721f5a5890bbb8a669ef191f4989b1c4ba95c955fb78",
+  "source": {
+    "url": "https://nodejs.org/dist/v20.20.2/node-v20.20.2.tar.gz",
+    "md5": null,
+    "sha256": "8cb85a81f75169eb811f7b2512cf17a646826430debbe016a7461f31e286fdef",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "8cb85a81f75169eb811f7b2512cf17a646826430debbe016a7461f31e286fdef",
+  "sub_dependencies": {}
+}
