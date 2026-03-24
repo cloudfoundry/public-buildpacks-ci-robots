@@ -1,2 +1,20 @@
-empty_1774014620:
+newpackages_cflinuxfs4_1774359938:
 
+```
+-ii  libsystemd0:amd64 249.11-0ubuntu3.17 amd64 systemd utility library
++ii  libsystemd0:amd64 249.11-0ubuntu3.19 amd64 systemd utility library
+-ii  libtiff-dev:amd64 4.3.0-6ubuntu0.12  amd64 Tag Image File Format library (TIFF), development files
+-ii  libtiff5:amd64    4.3.0-6ubuntu0.12  amd64 Tag Image File Format (TIFF) library
+-ii  libtiffxx5:amd64  4.3.0-6ubuntu0.12  amd64 Tag Image File Format (TIFF) library -- C++ interface
++ii  libtiff-dev:amd64 4.3.0-6ubuntu0.13  amd64 Tag Image File Format library (TIFF), development files
++ii  libtiff5:amd64    4.3.0-6ubuntu0.13  amd64 Tag Image File Format (TIFF) library
++ii  libtiffxx5:amd64  4.3.0-6ubuntu0.13  amd64 Tag Image File Format (TIFF) library -- C++ interface
+-ii  libudev1:amd64    249.11-0ubuntu3.17 amd64 libudev shared library
++ii  libudev1:amd64    249.11-0ubuntu3.19 amd64 libudev shared library
+-ii  systemd           249.11-0ubuntu3.17 amd64 system and service manager
+-ii  systemd-sysv      249.11-0ubuntu3.17 amd64 system and service manager - SysV links
++ii  systemd           249.11-0ubuntu3.19 amd64 system and service manager
++ii  systemd-sysv      249.11-0ubuntu3.19 amd64 system and service manager - SysV links
+-ii  udev              249.11-0ubuntu3.17 amd64 /dev/ and hotplug management daemon
++ii  udev              249.11-0ubuntu3.19 amd64 /dev/ and hotplug management daemon
+```
