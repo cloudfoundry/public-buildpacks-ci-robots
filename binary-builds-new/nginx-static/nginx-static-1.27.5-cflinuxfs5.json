@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx-static/nginx-static_1.27.5_linux_x64_cflinuxfs5_eca27223.tgz",
+  "sha256": "eca27223d7db26a020e7e1622db4f437fbf9a8b868c0f7a05154c8116ae242a7",
+  "source": {
+    "url": "http://nginx.org/download/nginx-1.27.5.tar.gz",
+    "md5": null,
+    "sha256": "e96acebb9c2a6db8a000c3dd1b32ecba1b810f0cd586232d4d921e376674dd0e",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "e96acebb9c2a6db8a000c3dd1b32ecba1b810f0cd586232d4d921e376674dd0e",
+  "sub_dependencies": {}
+}
