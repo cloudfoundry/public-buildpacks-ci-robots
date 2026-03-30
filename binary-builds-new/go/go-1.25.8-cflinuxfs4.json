@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/go/go_1.25.8_linux_x64_cflinuxfs4_6c92885b.tgz",
+  "sha256": "6c92885b4a4b0d4d9c71159b0158d11b565d5054a6bec4ba2205c2e96bbff728",
+  "source": {
+    "url": "https://dl.google.com/go/go1.25.8.src.tar.gz",
+    "md5": null,
+    "sha256": "e988d4a2446ac7fe3f6daa089a58e9936a52a381355adec1c8983230a8d6c59e",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "e988d4a2446ac7fe3f6daa089a58e9936a52a381355adec1c8983230a8d6c59e",
+  "sub_dependencies": {}
+}
