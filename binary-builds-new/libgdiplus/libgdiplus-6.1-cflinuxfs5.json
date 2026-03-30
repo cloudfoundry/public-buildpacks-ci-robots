@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/libgdiplus/libgdiplus_6.1_linux_noarch_cflinuxfs5_3a60aaec.tgz",
+  "sha256": "3a60aaec84bab82c5edd1d5ca3f41ee7107798f73b44ecbd4906f9a36b61938e",
+  "source": {
+    "url": "https://github.com/mono/libgdiplus/archive/44b44f92836f035e12b27c718e1f7bd42e369e28.tar.gz",
+    "md5": null,
+    "sha256": "a1656e30bee9adc6c453e0df2ca3ce74210d1c00fdba99fcf082cac8392e5e43",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "a1656e30bee9adc6c453e0df2ca3ce74210d1c00fdba99fcf082cac8392e5e43",
+  "sub_dependencies": {}
+}
