@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/libunwind/libunwind_1.8.3_linux_noarch_cflinuxfs4_2f05be4e.tgz",
+  "sha256": "2f05be4eac973c96907bb6d9723047f69c227e041f6c9e24adc2c955b6f2f80d",
+  "source": {
+    "url": "https://github.com/libunwind/libunwind/releases/download/v1.8.3/libunwind-1.8.3.tar.gz",
+    "md5": null,
+    "sha256": "be30d910e67f58d82e753231f1357f326a1a088acf126b21ff77e60aab19b90b",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "be30d910e67f58d82e753231f1357f326a1a088acf126b21ff77e60aab19b90b",
+  "sub_dependencies": {}
+}
