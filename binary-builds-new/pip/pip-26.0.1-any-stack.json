@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/pip/pip_26.0.1_linux_noarch_cflinuxfs4_d51a6034.tgz",
+  "sha256": "d51a6034c1d163a6fb7bd2ae4b6c4e3f14389d27a54c47e813460e18e32b3499",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/48/83/0d7d4e9efe3344b8e2fe25d93be44f64b65364d3c8d7bc6dc90198d5422e/pip-26.0.1.tar.gz",
+    "md5": "566bd094e3a0c382ba2705349c83d55e",
+    "sha256": "c4037d8a277c89b320abe636d59f91e6d0922d08a05b60e85e53b296613346d8",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "c4037d8a277c89b320abe636d59f91e6d0922d08a05b60e85e53b296613346d8",
+  "sub_dependencies": {}
+}
