@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/rubygems/rubygems_4.0.9_linux_noarch_cflinuxfs4_20a2394d.tgz",
+  "sha256": "20a2394db353745e0432d138ff592725c637dd209b2dfc9693af95a68dc8d67f",
+  "source": {
+    "url": "https://rubygems.org/rubygems/rubygems-4.0.9.tgz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
