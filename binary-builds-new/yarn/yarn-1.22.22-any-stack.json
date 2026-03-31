@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/yarn/yarn_1.22.22_linux_noarch_cflinuxfs4_6333a60f.tgz",
+  "sha256": "6333a60f6ab1e2f543b58f478abb04e7d2a11a754aad5e94075f25d02106dfe1",
+  "source": {
+    "url": "https://github.com/yarnpkg/yarn/releases/download/v1.22.22/yarn-v1.22.22.tar.gz",
+    "md5": null,
+    "sha256": "88268464199d1611fcf73ce9c0a6c4d44c7d5363682720d8506f6508addf36a0",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "88268464199d1611fcf73ce9c0a6c4d44c7d5363682720d8506f6508addf36a0",
+  "sub_dependencies": {}
+}
