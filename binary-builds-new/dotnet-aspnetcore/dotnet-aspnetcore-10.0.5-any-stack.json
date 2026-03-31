@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-aspnetcore/dotnet-aspnetcore_10.0.5_linux_x64_cflinuxfs4_8ea65fa1.tar.xz",
+  "sha256": "8ea65fa18d45e9328f78cf62b4c879f716eadd60ecd24c512f9600fe0e0ba5f1",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.5/aspnetcore-runtime-10.0.5-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "7108ecdda8e2607fa80e2b45f1209d7af5301d53438b65d2269605b8415aebd49db23455d8dcd77d8fdccc904c9202b4834f9ca2e00e27a501d2006174d76cc4",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
