@@ -1,6 +1,7 @@
 {
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.29.7_linux_x64_cflinuxfs5_3a747211.tgz",
-  "sha256": "3a747211358ddf61b58048ef64717c01cb901a2807c8fc4a3455ad8b66156e7a",
+  "version": "1.29.7",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.29.7_linux_x64_cflinuxfs5_7fc38247.tgz",
+  "sha256": "7fc382478d16c7001a85ecefdfb454283d7c2ab006a38bf91d8d1280ebdfeea0",
   "source": {
     "url": "http://nginx.org/download/nginx-1.29.7.tar.gz",
     "md5": null,
