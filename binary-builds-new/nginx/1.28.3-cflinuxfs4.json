@@ -1,0 +1,13 @@
+{
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.28.3_linux_x64_cflinuxfs4_cc98044d.tgz",
+  "sha256": "cc98044dbe159fba116d757799906b1cc35e223f3a0ed6bd3b0e547a0c81529c",
+  "source": {
+    "url": "http://nginx.org/download/nginx-1.28.3.tar.gz",
+    "md5": null,
+    "sha256": "2c96a946bfb0882a21744ed429770a2123ae1828c7c48665092993ddee91a918",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "2c96a946bfb0882a21744ed429770a2123ae1828c7c48665092993ddee91a918",
+  "sub_dependencies": {}
+}
