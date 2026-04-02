@@ -1,4 +1,5 @@
 {
+  "version": "10.1.53",
   "url": "https://buildpacks.cloudfoundry.org/dependencies/tomcat/tomcat_10.1.53_linux_noarch_any-stack_44ef5dc9.tgz",
   "sha256": "44ef5dc9c99e52e4e981fb6b6ab898023415e300f72e6e0aa0623d0a10413782",
   "source": {
