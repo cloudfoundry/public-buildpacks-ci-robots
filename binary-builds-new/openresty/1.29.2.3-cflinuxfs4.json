@@ -1,7 +1,7 @@
 {
   "version": "1.29.2.3",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/openresty/openresty_1.29.2.3_linux_x64_cflinuxfs4_24ca270a.tgz",
-  "sha256": "24ca270a3b8cda83d7779fa915a552eeb5e4dbd4f5656bb54996ef01503cda85",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openresty/openresty_1.29.2.3_linux_x64_cflinuxfs4_759e0156.tgz",
+  "sha256": "759e015616ee26eae2ac07b86184f15a6461cbc92ca3355a9a4dee14e3337d56",
   "source": {
     "url": "http://openresty.org/download/openresty-1.29.2.3.tar.gz",
     "md5": null,
