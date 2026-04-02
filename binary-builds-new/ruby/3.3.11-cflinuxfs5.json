@@ -1,6 +1,7 @@
 {
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/ruby/ruby_3.3.11_linux_x64_cflinuxfs5_7c61e4d5.tgz",
-  "sha256": "7c61e4d55c1a8a92cf573b64ed89d0383cfa6e5715fe2bd5d5729b0455c23de9",
+  "version": "3.3.11",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/ruby/ruby_3.3.11_linux_x64_cflinuxfs5_1c0767bd.tgz",
+  "sha256": "1c0767bd7442ae097bc17a6ef33dc76d138eca20b037d8543ff3702b975a213d",
   "source": {
     "url": "https://cache.ruby-lang.org/pub/ruby/3.3/ruby-3.3.11.tar.gz",
     "md5": null,
