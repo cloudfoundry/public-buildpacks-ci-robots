@@ -1,14 +1,14 @@
 {
   "version": "4.0.9",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/rubygems/rubygems_4.0.9_linux_noarch_any-stack_f5dd54af.tgz",
-  "sha256": "f5dd54afcd79e3feeec0cee724e513a524ba0c2f2b788d1b397c09157ae9e04c",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/rubygems/rubygems_4.0.9_linux_noarch_any-stack_99452d87.tgz",
+  "sha256": "99452d87d70b91f792f752e6dead71af3922cebe96c140473a2c36cc24ab89c3",
   "source": {
     "url": "https://rubygems.org/rubygems/rubygems-4.0.9.tgz",
     "md5": null,
-    "sha256": "",
+    "sha256": "39b1e2c878946e420116c3c26e4e708c0ddbdf7cd4a13c48dd0fc0774c7add8d",
     "sha512": "",
     "sha1": null
   },
-  "source_sha256": "",
+  "source_sha256": "39b1e2c878946e420116c3c26e4e708c0ddbdf7cd4a13c48dd0fc0774c7add8d",
   "sub_dependencies": {}
 }
