@@ -1,0 +1,14 @@
+{
+  "version": "3.14.4",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/python/python_3.14.4_linux_x64_cflinuxfs4_c99dfa05.tgz",
+  "sha256": "c99dfa053d8b47dab158af2e072d0a4c80c6593443cb97e759e45de1934afc96",
+  "source": {
+    "url": "https://www.python.org/ftp/python/3.14.4/Python-3.14.4.tgz",
+    "md5": null,
+    "sha256": "b4c059d5895f030e7df9663894ce3732bfa1b32cd3ab2883980266a45ce3cb3b",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b4c059d5895f030e7df9663894ce3732bfa1b32cd3ab2883980266a45ce3cb3b",
+  "sub_dependencies": {}
+}
