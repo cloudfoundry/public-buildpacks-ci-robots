@@ -1,7 +1,7 @@
 {
   "version": "8.2.30",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/php/php_8.2.30_linux_x64_cflinuxfs5_f262bff5.tgz",
-  "sha256": "f262bff52f491a8e7c5443ccfe5ede64805f271a81d121d4171c3552e0a3a793",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/php/php_8.2.30_linux_x64_cflinuxfs5_3f85c3e9.tgz",
+  "sha256": "3f85c3e9705a297090a14df6f7e5bf73eda8b39809198b4bfcaabe4e4275832a",
   "source": {
     "url": "https://php.net/distributions/php-8.2.30.tar.gz",
     "md5": null,
