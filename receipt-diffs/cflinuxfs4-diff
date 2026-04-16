@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1776246778:
+newpackages_cflinuxfs4_1776355853:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -21,6 +21,8 @@ newpackages_cflinuxfs4_1776246778:
 -ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.4     all   GDK Pixbuf library - data files
 +ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.5     amd64 GDK Pixbuf library
 +ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.5     all   GDK Pixbuf library - data files
+-ii  libnetplan0:amd64          0.106.1-7ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.3   amd64 YAML network configuration abstraction runtime library
 -ii  libssl-dev:amd64           3.0.2-0ubuntu1.21          amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64              3.0.2-0ubuntu1.21          amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssl-dev:amd64           3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - development files
@@ -30,7 +32,7 @@ newpackages_cflinuxfs4_1776246778:
 -ii  libudev1:amd64             249.11-0ubuntu3.19         amd64 libudev shared library
 +ii  libudev1:amd64             249.11-0ubuntu3.20         amd64 libudev shared library
 -ii  linux-libc-dev:amd64       5.15.0-173.183             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       5.15.0-174.184             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64       5.15.0-176.186             amd64 Linux Kernel Headers for development
 -ii  openssl                    3.0.2-0ubuntu1.21          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl                    3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  systemd                    249.11-0ubuntu3.19         amd64 system and service manager
