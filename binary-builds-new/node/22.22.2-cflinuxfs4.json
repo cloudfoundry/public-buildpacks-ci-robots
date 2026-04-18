@@ -1,7 +1,7 @@
 {
   "version": "22.22.2",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node_22.22.2_linux_x64_cflinuxfs4_e5459374.tgz",
-  "sha256": "e54593743560302a8f74cbe0fd3ff92d288220674dfc0ecbc1516b4535d633d3",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node_22.22.2_linux_x64_cflinuxfs4_3a5101e4.tgz",
+  "sha256": "3a5101e4681b0d9c4f2e1b971b7dea2ef15a9eca7fd8f4f40b39f14003c63bdc",
   "source": {
     "url": "https://nodejs.org/dist/v22.22.2/node-v22.22.2.tar.gz",
     "md5": null,
