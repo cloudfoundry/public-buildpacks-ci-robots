@@ -1,0 +1,14 @@
+{
+  "version": "17.0.19",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/zulu/zulu_17.0.19_linux_x64_cflinuxfs4_c72c1967.tgz",
+  "sha256": "c72c1967afec8ca4b66747875468178ffa45cd8133a5ab7823650a15a01db204",
+  "source": {
+    "url": "https://cdn.azul.com/zulu/bin/zulu17.66.19-ca-jre17.0.19-linux_x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
