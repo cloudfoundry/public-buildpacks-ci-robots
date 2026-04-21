@@ -1,0 +1,14 @@
+{
+  "version": "10.0.7",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-runtime/dotnet-runtime_10.0.7_linux_x64_cflinuxfs4_24313361.tar.xz",
+  "sha256": "24313361707b78ba4ce2a535ecf86e7a5600f55f2141d82d36a89126d2d43f33",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.7/dotnet-runtime-10.0.7-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "7023ae9b580322566c1be1dc7711cca0dc18e7c8921a9dfe446df278e5fbd12f85f9cf77ad977fac0a07293dabd0878816934fd02d831545af9ff5e0786a5a83",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
