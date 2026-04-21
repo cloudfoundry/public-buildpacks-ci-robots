@@ -1,0 +1,14 @@
+{
+  "version": "11.0.31",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/zulu/zulu_11.0.31_linux_x64_cflinuxfs4_11643d8f.tgz",
+  "sha256": "11643d8f13f5af8201b361f8d35fdbc9794c5f6ef98915f5379abb226e5138ab",
+  "source": {
+    "url": "https://cdn.azul.com/zulu/bin/zulu11.88.17-ca-jre11.0.31-linux_x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
