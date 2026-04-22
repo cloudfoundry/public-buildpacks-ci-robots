@@ -1,0 +1,14 @@
+{
+  "version": "8.0.492+9",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_8.0.492%2B9_linux_x64_cflinuxfs4_c8a7c418.tgz",
+  "sha256": "c8a7c418481fb2e35af5a6afb2bc02a6862ce3f30d8a2b38fd9f18cd8b87ae07",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/8u492+9/bellsoft-jre8u492+9-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
