@@ -1,0 +1,138 @@
+{
+  "version": "8.5.5",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/php/php_8.5.5_linux_x64_cflinuxfs5_78c25c49.tgz",
+  "sha256": "78c25c496731dac2ad640185e9552635338bfbf715eb76c126e6cfdcab903f79",
+  "source": {
+    "url": "https://php.net/distributions/php-8.5.5.tar.gz",
+    "md5": null,
+    "sha256": "276279f637a875a514346b332bba6d8b06c036cf7979a858e5c55f72c4874884",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "276279f637a875a514346b332bba6d8b06c036cf7979a858e5c55f72c4874884",
+  "sub_dependencies": {
+    "LZF": {
+      "version": "1.7.0"
+    },
+    "amqp": {
+      "version": "2.2.0"
+    },
+    "apcu": {
+      "version": "5.1.24"
+    },
+    "enchant": {
+      "version": "nil"
+    },
+    "gd": {
+      "version": "nil"
+    },
+    "gnupg": {
+      "version": "1.5.4"
+    },
+    "hiredis": {
+      "version": "1.2.0"
+    },
+    "igbinary": {
+      "version": "3.2.17RC1"
+    },
+    "imagick": {
+      "version": "3.8.1"
+    },
+    "ioncube": {
+      "version": "15.5.0"
+    },
+    "librdkafka": {
+      "version": "2.3.0"
+    },
+    "libsodium": {
+      "version": "1.0.19"
+    },
+    "lua": {
+      "version": "5.4.6"
+    },
+    "mailparse": {
+      "version": "3.2.0"
+    },
+    "maxminddb": {
+      "version": "1.11.1"
+    },
+    "memcached": {
+      "version": "3.4.0"
+    },
+    "mongodb": {
+      "version": "2.2.1"
+    },
+    "msgpack": {
+      "version": "2.2.0"
+    },
+    "oauth": {
+      "version": "2.0.10"
+    },
+    "oci8": {
+      "version": "3.3.0"
+    },
+    "odbc": {
+      "version": "nil"
+    },
+    "pdo_firebird": {
+      "version": "nil"
+    },
+    "pdo_oci": {
+      "version": "nil"
+    },
+    "pdo_odbc": {
+      "version": "nil"
+    },
+    "pdo_sqlsrv": {
+      "version": "5.13.0"
+    },
+    "phpiredis": {
+      "version": "1.0.1"
+    },
+    "psr": {
+      "version": "1.2.0"
+    },
+    "rabbitmq": {
+      "version": "0.11.0"
+    },
+    "rdkafka": {
+      "version": "6.0.3"
+    },
+    "readline": {
+      "version": "nil"
+    },
+    "redis": {
+      "version": "6.3.0"
+    },
+    "snmp": {
+      "version": "nil"
+    },
+    "sodium": {
+      "version": "nil"
+    },
+    "solr": {
+      "version": "2.9.3"
+    },
+    "sqlsrv": {
+      "version": "5.13.0"
+    },
+    "ssh2": {
+      "version": "1.4.1"
+    },
+    "tidy": {
+      "version": "nil"
+    },
+    "xdebug": {
+      "version": "3.5.1"
+    },
+    "yaf": {
+      "version": "3.3.7"
+    },
+    "yaml": {
+      "version": "2.3.0"
+    },
+    "zip": {
+      "version": "nil"
+    }
+  }
+}
