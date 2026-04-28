@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1777124793:
+newpackages_cflinuxfs4_1777384293:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -29,6 +29,10 @@ newpackages_cflinuxfs4_1777124793:
 +ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.5     all   GDK Pixbuf library - data files
 -ii  libjq1:amd64               1.6-2.1ubuntu3.1           amd64 lightweight and flexible command-line JSON processor - shared library
 +ii  libjq1:amd64               1.6-2.1ubuntu3.2           amd64 lightweight and flexible command-line JSON processor - shared library
+-ii  liblcms2-2:amd64           2.12~rc1-2build2           amd64 Little CMS 2 color management library
+-ii  liblcms2-dev:amd64         2.12~rc1-2build2           amd64 Little CMS 2 color management library development headers
++ii  liblcms2-2:amd64           2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library
++ii  liblcms2-dev:amd64         2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library development headers
 -ii  libnetplan0:amd64          0.106.1-7ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 +ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.3   amd64 YAML network configuration abstraction runtime library
 -ii  libpam-cap:amd64           1:2.44-1ubuntu0.22.04.2    amd64 POSIX 1003.1e capabilities (PAM module)
@@ -55,8 +59,8 @@ newpackages_cflinuxfs4_1777124793:
 +ii  udev                       249.11-0ubuntu3.20         amd64 /dev/ and hotplug management daemon
 -ii  vim-common                 2:8.2.3995-1ubuntu2.26     all   Vi IMproved - Common files
 -ii  vim-tiny                   2:8.2.3995-1ubuntu2.26     amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common                 2:8.2.3995-1ubuntu2.27     all   Vi IMproved - Common files
-+ii  vim-tiny                   2:8.2.3995-1ubuntu2.27     amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common                 2:8.2.3995-1ubuntu2.28     all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.2.3995-1ubuntu2.28     amd64 Vi IMproved - enhanced vi editor - compact version
 -ii  xxd                        2:8.2.3995-1ubuntu2.26     amd64 tool to make (or reverse) a hex dump
-+ii  xxd                        2:8.2.3995-1ubuntu2.27     amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.2.3995-1ubuntu2.28     amd64 tool to make (or reverse) a hex dump
 ```
