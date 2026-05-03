@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1777556968:
+newpackages_cflinuxfs4_1777816359:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -15,6 +15,8 @@ newpackages_cflinuxfs4_1777556968:
 +ii  iproute2                   5.15.0-1ubuntu2.1          amd64 networking and traffic control tools
 -ii  jq                         1.6-2.1ubuntu3.1           amd64 lightweight and flexible command-line JSON processor
 +ii  jq                         1.6-2.1ubuntu3.2           amd64 lightweight and flexible command-line JSON processor
+-ii  kmod                       29-1ubuntu1                amd64 tools for managing Linux kernel modules
++ii  kmod                       29-1ubuntu1.1              amd64 tools for managing Linux kernel modules
 -ii  libarchive13:amd64         3.6.0-1ubuntu1.5           amd64 Multi-format archive and compression library (shared library)
 +ii  libarchive13:amd64         3.6.0-1ubuntu1.6           amd64 Multi-format archive and compression library (shared library)
 -ii  libcairo-gobject2:amd64    1.16.0-5ubuntu2            amd64 Cairo 2D vector graphics library (GObject library)
@@ -31,6 +33,8 @@ newpackages_cflinuxfs4_1777556968:
 +ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.5     all   GDK Pixbuf library - data files
 -ii  libjq1:amd64               1.6-2.1ubuntu3.1           amd64 lightweight and flexible command-line JSON processor - shared library
 +ii  libjq1:amd64               1.6-2.1ubuntu3.2           amd64 lightweight and flexible command-line JSON processor - shared library
+-ii  libkmod2:amd64             29-1ubuntu1                amd64 libkmod shared library
++ii  libkmod2:amd64             29-1ubuntu1.1              amd64 libkmod shared library
 -ii  liblcms2-2:amd64           2.12~rc1-2build2           amd64 Little CMS 2 color management library
 -ii  liblcms2-dev:amd64         2.12~rc1-2build2           amd64 Little CMS 2 color management library development headers
 +ii  liblcms2-2:amd64           2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library
@@ -48,7 +52,7 @@ newpackages_cflinuxfs4_1777556968:
 -ii  libudev1:amd64             249.11-0ubuntu3.19         amd64 libudev shared library
 +ii  libudev1:amd64             249.11-0ubuntu3.20         amd64 libudev shared library
 -ii  linux-libc-dev:amd64       5.15.0-173.183             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64       5.15.0-176.186             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64       5.15.0-177.187             amd64 Linux Kernel Headers for development
 -ii  openssh-client             1:8.9p1-3ubuntu0.14        amd64 secure shell (SSH) client, for secure access to remote machines
 -ii  openssh-server             1:8.9p1-3ubuntu0.14        amd64 secure shell (SSH) server, for secure access from remote machines
 -ii  openssh-sftp-server        1:8.9p1-3ubuntu0.14        amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
