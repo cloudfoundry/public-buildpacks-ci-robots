@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1777816359:
+newpackages_cflinuxfs4_1777904299:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -7,6 +7,8 @@ newpackages_cflinuxfs4_1777816359:
 +ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.3 amd64 Clients provided with BIND 9
 +ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.3 amd64 DNS Lookup Utility
 +ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.3 amd64 Shared Libraries used by BIND 9
+-ii  curl                       7.81.0-1ubuntu1.23         amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.81.0-1ubuntu1.24         amd64 command line tool for transferring data with URL syntax
 -ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
 +ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.3 all   Transitional package for bind9-dnsutils
 -ii  gir1.2-gdkpixbuf-2.0:amd64 2.42.8+dfsg-1ubuntu0.4     amd64 GDK Pixbuf library - GObject-Introspection
@@ -27,6 +29,12 @@ newpackages_cflinuxfs4_1777816359:
 -ii  libcap2-bin                1:2.44-1ubuntu0.22.04.2    amd64 POSIX 1003.1e capabilities (utilities)
 +ii  libcap2:amd64              1:2.44-1ubuntu0.22.04.3    amd64 POSIX 1003.1e capabilities (library)
 +ii  libcap2-bin                1:2.44-1ubuntu0.22.04.3    amd64 POSIX 1003.1e capabilities (utilities)
+-ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.23         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.81.0-1ubuntu1.23         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.23         amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.24         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.81.0-1ubuntu1.24         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.24         amd64 development files and documentation for libcurl (OpenSSL flavour)
 -ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.4     amd64 GDK Pixbuf library
 -ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.4     all   GDK Pixbuf library - data files
 +ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.5     amd64 GDK Pixbuf library
