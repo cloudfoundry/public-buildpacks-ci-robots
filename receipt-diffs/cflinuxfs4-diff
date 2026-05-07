@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1778075108:
+newpackages_cflinuxfs4_1778161879:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -9,7 +9,9 @@ newpackages_cflinuxfs4_1778075108:
 +ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.3 amd64 Shared Libraries used by BIND 9
 -ii  curl                       7.81.0-1ubuntu1.23         amd64 command line tool for transferring data with URL syntax
 +ii  curl                       7.81.0-1ubuntu1.24         amd64 command line tool for transferring data with URL syntax
+-ii  distro-info-data           0.52ubuntu0.11             all   information about the distributions' releases (data files)
 -ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.2 all   Transitional package for bind9-dnsutils
++ii  distro-info-data           0.52ubuntu0.12             all   information about the distributions' releases (data files)
 +ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.3 all   Transitional package for bind9-dnsutils
 -ii  gir1.2-gdkpixbuf-2.0:amd64 2.42.8+dfsg-1ubuntu0.4     amd64 GDK Pixbuf library - GObject-Introspection
 +ii  gir1.2-gdkpixbuf-2.0:amd64 2.42.8+dfsg-1ubuntu0.5     amd64 GDK Pixbuf library - GObject-Introspection
