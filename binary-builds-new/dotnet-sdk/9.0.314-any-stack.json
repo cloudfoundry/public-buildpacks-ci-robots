@@ -1,0 +1,14 @@
+{
+  "version": "9.0.314",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-sdk/dotnet-sdk_9.0.314_linux_x64_cflinuxfs4_2010b880.tar.xz",
+  "sha256": "2010b880ce82517ae7834c9385664e030f18f66a6a4d4041cbaa5ca6754b75d6",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.314/dotnet-sdk-9.0.314-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "9cc8250b9e3bbc29b64e55866b1007d49a155e4a3790570e37315e4175fbfaea2e06ff38f6aabd89e35d943f9915b33b32d6aa33e8d419a8fb9d7188cec97a18",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
