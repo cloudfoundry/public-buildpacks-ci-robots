@@ -1,0 +1,14 @@
+{
+  "version": "42.7.11",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/postgresql-jdbc/postgresql-jdbc_42.7.11_linux_noarch_any-stack_1981b31d.jar",
+  "sha256": "1981b31d3993c58702783c1cddf10a34e48c1f413d70ff1cb6def0a143484647",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.11/postgresql-42.7.11.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": "4c21cdd1b3938f400703716d37c4e8ca4d332808"
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
