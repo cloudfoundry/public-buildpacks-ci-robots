@@ -1,0 +1,14 @@
+{
+  "version": "4.0.32",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/groovy/groovy_4.0.32_linux_noarch_any-stack_f03e8838.zip",
+  "sha256": "f03e8838b56c202d8c864d462f6117d3512fdb6d1db9afcd47dfd1af81683f50",
+  "source": {
+    "url": "https://groovy.jfrog.io/artifactory/dist-release-local/groovy-zips/apache-groovy-binary-4.0.32.zip",
+    "md5": null,
+    "sha256": "f03e8838b56c202d8c864d462f6117d3512fdb6d1db9afcd47dfd1af81683f50",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "f03e8838b56c202d8c864d462f6117d3512fdb6d1db9afcd47dfd1af81683f50",
+  "sub_dependencies": {}
+}
