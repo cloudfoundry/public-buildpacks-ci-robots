@@ -1,0 +1,14 @@
+{
+  "version": "2.7.18",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/spring-boot-cli/spring-boot-cli_2.7.18_linux_noarch_any-stack_e35d1ee2.tgz",
+  "sha256": "e35d1ee2c6ddc5c97a3eb305297d0e8aad328c3d87ab3c62b7cfb42de04d8720",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-cli/2.7.18/spring-boot-cli-2.7.18-bin.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": "24aec9e131c6e979363ee073d88f0475253e86c3"
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
