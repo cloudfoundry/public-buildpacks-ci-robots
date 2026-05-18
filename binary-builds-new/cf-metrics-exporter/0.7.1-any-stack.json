@@ -1,0 +1,14 @@
+{
+  "version": "0.7.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/cf-metrics-exporter/cf-metrics-exporter_0.7.1_linux_noarch_any-stack_7ebabd3f.jar",
+  "sha256": "7ebabd3ffd812082cf92a513c8d2ac52906f5b42cd952cbe740bd5d5b086e79b",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/io/github/rabobank/cf-metrics-exporter/0.7.1/cf-metrics-exporter-0.7.1.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "0174b42f0840f12216416cb8d67c4ae43b8375564989e4fd67863a2e46bc60c13d56a813a6ee7fb62bb54df10ac3c902364830b69a3d1d81e8bc55e32a559efe",
+    "sha1": null
+  },
+  "source_sha256": "",
+  "sub_dependencies": {}
+}
