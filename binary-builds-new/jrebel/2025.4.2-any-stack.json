@@ -1,0 +1,14 @@
+{
+  "version": "2025.4.2",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jrebel/jrebel_2025.4.2_linux_noarch_any-stack_ebda7ad0.zip",
+  "sha256": "ebda7ad0f07cb5115c7259ebddaed5ed154c04907a6f698e596f41d3c464eac1",
+  "source": {
+    "url": "https://dl.zeroturnaround.com/jrebel/releases/jrebel-2025.4.2-nosetup.zip",
+    "md5": null,
+    "sha256": "ebda7ad0f07cb5115c7259ebddaed5ed154c04907a6f698e596f41d3c464eac1",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "ebda7ad0f07cb5115c7259ebddaed5ed154c04907a6f698e596f41d3c464eac1",
+  "sub_dependencies": {}
+}
