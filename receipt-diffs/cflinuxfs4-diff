@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1779284636:
+newpackages_cflinuxfs4_1779371365:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -41,6 +41,16 @@ newpackages_cflinuxfs4_1779284636:
 -ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.4     all   GDK Pixbuf library - data files
 +ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.5     amd64 GDK Pixbuf library
 +ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.5     all   GDK Pixbuf library - data files
+-ii  libgnutls-dane0:amd64      3.7.3-4ubuntu1.8           amd64 GNU TLS library - DANE security support
+-ii  libgnutls-openssl27:amd64  3.7.3-4ubuntu1.8           amd64 GNU TLS library - OpenSSL wrapper
+-ii  libgnutls28-dev:amd64      3.7.3-4ubuntu1.8           amd64 GNU TLS library - development files
+-ii  libgnutls30:amd64          3.7.3-4ubuntu1.8           amd64 GNU TLS library - main runtime library
+-ii  libgnutlsxx28:amd64        3.7.3-4ubuntu1.8           amd64 GNU TLS library - C++ runtime library
++ii  libgnutls-dane0:amd64      3.7.3-4ubuntu1.9           amd64 GNU TLS library - DANE security support
++ii  libgnutls-openssl27:amd64  3.7.3-4ubuntu1.9           amd64 GNU TLS library - OpenSSL wrapper
++ii  libgnutls28-dev:amd64      3.7.3-4ubuntu1.9           amd64 GNU TLS library - development files
++ii  libgnutls30:amd64          3.7.3-4ubuntu1.9           amd64 GNU TLS library - main runtime library
++ii  libgnutlsxx28:amd64        3.7.3-4ubuntu1.9           amd64 GNU TLS library - C++ runtime library
 -ii  libjq1:amd64               1.6-2.1ubuntu3.1           amd64 lightweight and flexible command-line JSON processor - shared library
 +ii  libjq1:amd64               1.6-2.1ubuntu3.2           amd64 lightweight and flexible command-line JSON processor - shared library
 -ii  libkmod2:amd64             29-1ubuntu1                amd64 libkmod shared library
@@ -83,7 +93,9 @@ newpackages_cflinuxfs4_1779284636:
 +ii  openssh-server             1:8.9p1-3ubuntu0.15        amd64 secure shell (SSH) server, for secure access from remote machines
 +ii  openssh-sftp-server        1:8.9p1-3ubuntu0.15        amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
 +ii  openssl                    3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - cryptographic utility
+-ii  rsync                      3.2.7-0ubuntu0.22.04.4     amd64 fast, versatile, remote (and local) file-copying tool
 -ii  sed                        4.8-1ubuntu2               amd64 GNU stream editor for filtering/transforming text
++ii  rsync                      3.2.7-0ubuntu0.22.04.6     amd64 fast, versatile, remote (and local) file-copying tool
 +ii  sed                        4.8-1ubuntu2.1             amd64 GNU stream editor for filtering/transforming text
 -ii  systemd                    249.11-0ubuntu3.19         amd64 system and service manager
 -ii  systemd-sysv               249.11-0ubuntu3.19         amd64 system and service manager - SysV links
