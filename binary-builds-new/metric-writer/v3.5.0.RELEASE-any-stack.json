@@ -1,0 +1,14 @@
+{
+  "version": "v3.5.0.RELEASE",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/metric-writer/metric-writer_v3.5.0.RELEASE_linux_noarch_any-stack_c55672f7.jar",
+  "sha256": "c55672f76e28097fdcf80230dd7344349cf760d60785120c9884f3f81c56d70e",
+  "source": {
+    "url": "https://github.com/cloudfoundry/java-buildpack-metric-writer/archive/b94de5ddd1e0d6e521c530eaed622d151eea256b.tar.gz",
+    "md5": null,
+    "sha256": "c55672f76e28097fdcf80230dd7344349cf760d60785120c9884f3f81c56d70e",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "c55672f76e28097fdcf80230dd7344349cf760d60785120c9884f3f81c56d70e",
+  "sub_dependencies": {}
+}
