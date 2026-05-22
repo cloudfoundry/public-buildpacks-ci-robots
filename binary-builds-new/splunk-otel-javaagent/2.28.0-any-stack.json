@@ -1,0 +1,14 @@
+{
+  "version": "2.28.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/splunk-otel-javaagent/splunk-otel-javaagent_2.28.0_linux_noarch_any-stack_70d177dd.jar",
+  "sha256": "70d177dd63a4bbdb153e65c962ff678ed98b5555ff5bb63afdb6e7fff05c1351",
+  "source": {
+    "url": "https://github.com/signalfx/splunk-otel-java/releases/download/v2.28.0/splunk-otel-javaagent.jar",
+    "md5": null,
+    "sha256": "70d177dd63a4bbdb153e65c962ff678ed98b5555ff5bb63afdb6e7fff05c1351",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "70d177dd63a4bbdb153e65c962ff678ed98b5555ff5bb63afdb6e7fff05c1351",
+  "sub_dependencies": {}
+}
