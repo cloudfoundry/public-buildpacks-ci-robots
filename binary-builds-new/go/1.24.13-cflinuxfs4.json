@@ -1,1 +1,14 @@
-{"version":"1.24.13","source":{"url":"https://dl.google.com/go/go1.24.13.src.tar.gz","md5":null,"sha512":null,"sha256":"639a6204c2486b137df1eb6e78ee3ed038f9877d0e4b5a465e796a2153f858d7","sha1":null},"sha256":"7ed0876f713f6add32f07c1d82e7ea026b07995c084492c36e6fa27b37d58291","url":"https://buildpacks.cloudfoundry.org/dependencies/go/go_1.24.13_linux_x64_cflinuxfs4_7ed0876f.tgz"}
+{
+  "version": "1.24.13",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/go/go_1.24.13_linux_x64_cflinuxfs4_35e339bc.tgz",
+  "sha256": "35e339bc2c9cd9421c214e61c48f7cf7c3797db2ad1861f84cf2cd007330e216",
+  "source": {
+    "url": "https://dl.google.com/go/go1.24.13.src.tar.gz",
+    "md5": null,
+    "sha256": "639a6204c2486b137df1eb6e78ee3ed038f9877d0e4b5a465e796a2153f858d7",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "639a6204c2486b137df1eb6e78ee3ed038f9877d0e4b5a465e796a2153f858d7",
+  "sub_dependencies": {}
+}
