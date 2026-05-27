@@ -1,7 +1,7 @@
 {
   "version": "10.0.300",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-sdk/dotnet-sdk_10.0.300_linux_x64_cflinuxfs4_28e838f8.tar.xz",
-  "sha256": "28e838f88ccb6261902df03ae991e6a473338218fd2e335064ab0fa83ce20558",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-sdk/dotnet-sdk_10.0.300_linux_x64_cflinuxfs4_37012356.tar.xz",
+  "sha256": "370123563a1b4d738a006354443728bf20383bd6179b45d2db65ef48308dbe73",
   "source": {
     "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.300/dotnet-sdk-10.0.300-linux-x64.tar.gz",
     "md5": null,
@@ -9,6 +9,6 @@
     "sha512": "a0c404c1a2f85d70e32392ce297eb388c0310c519521b538a031a895469444c67f347d4f9ca1f8441f525967a89c9b75e2cd1676da486f95118cf4025c38d904",
     "sha1": null
   },
-  "source_sha256": "",
+  "source_sha256": "370123563a1b4d738a006354443728bf20383bd6179b45d2db65ef48308dbe73",
   "sub_dependencies": {}
 }
