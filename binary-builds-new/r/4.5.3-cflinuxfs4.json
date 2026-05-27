@@ -1,7 +1,7 @@
 {
   "version": "4.5.3",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/r/r_4.5.3_linux_noarch_cflinuxfs4_9437e4c0.tgz",
-  "sha256": "9437e4c05d30cf30e96653d76eba9626d90c87b9a5fdd05ee7f557aaf4fb8d9c",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/r/r_4.5.3_linux_noarch_cflinuxfs4_8eb6644f.tgz",
+  "sha256": "8eb6644fb9657910ebc2573909991e47030b8ad23ce62434c33a0ae6a770354f",
   "source": {
     "url": "https://cran.r-project.org/src/base/R-4/R-4.5.3.tar.gz",
     "md5": null,
