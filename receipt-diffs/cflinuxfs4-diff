@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1779803057:
+newpackages_cflinuxfs4_1779889694:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -37,6 +37,10 @@ newpackages_cflinuxfs4_1779803057:
 +ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.24         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64             7.81.0-1ubuntu1.24         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.24         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libgcrypt20:amd64          1.9.4-3ubuntu3             amd64 LGPL Crypto library - runtime library
+-ii  libgcrypt20-dev            1.9.4-3ubuntu3             amd64 LGPL Crypto library - development files
++ii  libgcrypt20:amd64          1.9.4-3ubuntu3.2           amd64 LGPL Crypto library - runtime library
++ii  libgcrypt20-dev            1.9.4-3ubuntu3.2           amd64 LGPL Crypto library - development files
 -ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.4     amd64 GDK Pixbuf library
 -ii  libgdk-pixbuf2.0-common    2.42.8+dfsg-1ubuntu0.4     all   GDK Pixbuf library - data files
 +ii  libgdk-pixbuf-2.0-0:amd64  2.42.8+dfsg-1ubuntu0.5     amd64 GDK Pixbuf library
@@ -60,7 +64,7 @@ newpackages_cflinuxfs4_1779803057:
 +ii  liblcms2-2:amd64           2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library
 +ii  liblcms2-dev:amd64         2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library development headers
 -ii  libnetplan0:amd64          0.106.1-7ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
-+ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.3   amd64 YAML network configuration abstraction runtime library
++ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 -ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.2          amd64 library implementing HTTP/2 protocol (shared library)
 +ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.3          amd64 library implementing HTTP/2 protocol (shared library)
 -ii  libopenjp2-7:amd64         2.4.0-6ubuntu0.4           amd64 JPEG 2000 image compression/decompression library
@@ -87,6 +91,8 @@ newpackages_cflinuxfs4_1779803057:
 -ii  libunbound8:amd64          1.13.1-1ubuntu5.14         amd64 library implementing DNS resolution and validation
 +ii  libudev1:amd64             249.11-0ubuntu3.20         amd64 libudev shared library
 +ii  libunbound8:amd64          1.13.1-1ubuntu5.15         amd64 library implementing DNS resolution and validation
+-ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.10 amd64 Samba winbind client library
++ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
 -ii  linux-libc-dev:amd64       5.15.0-173.183             amd64 Linux Kernel Headers for development
 +ii  linux-libc-dev:amd64       5.15.0-179.189             amd64 Linux Kernel Headers for development
 -ii  openssh-client             1:8.9p1-3ubuntu0.14        amd64 secure shell (SSH) client, for secure access to remote machines
