@@ -1,1 +1,14 @@
-{"version":"9.4.14.0","source":{"url":"https://github.com/jruby/jruby/releases/download/9.4.14.0/jruby-src-9.4.14.0.zip","md5":null,"sha512":null,"sha256":"400086b33f701a47dc28c5965d5a408bc2740301a5fb3b545e37abaa002ccdf8","sha1":null},"sha256":"d7e5d1a2b8bfbd37461c4f2a689ecebe6470d094413c7cb41d0837f28e07e62d","url":"https://buildpacks.cloudfoundry.org/dependencies/jruby/jruby_9.4.14.0-ruby-3.1_linux_x64_cflinuxfs4_d7e5d1a2.tgz"}
+{
+  "version": "9.4.14.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jruby/jruby_9.4.14.0-ruby-3.1_linux_x64_cflinuxfs4_1263cd2e.tgz",
+  "sha256": "1263cd2e2bb801d322aaabe3ae0447ea9a0f2b1a5e7d4a383dc1ba8242a45d17",
+  "source": {
+    "url": "https://github.com/jruby/jruby/releases/download/9.4.14.0/jruby-src-9.4.14.0.zip",
+    "md5": null,
+    "sha256": "400086b33f701a47dc28c5965d5a408bc2740301a5fb3b545e37abaa002ccdf8",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "400086b33f701a47dc28c5965d5a408bc2740301a5fb3b545e37abaa002ccdf8",
+  "sub_dependencies": {}
+}
