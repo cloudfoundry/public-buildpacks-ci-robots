@@ -1,7 +1,7 @@
 {
   "version": "2.4.1",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/poetry-core/poetry-core_2.4.1_linux_noarch_cflinuxfs4_8e8be0d4.tgz",
-  "sha256": "8e8be0d4ec90b4b5e5d283c5996da2e591f49d4797525a92316d4dd400671bfd",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/poetry-core/poetry-core_2.4.1_linux_noarch_cflinuxfs4_e8608303.tgz",
+  "sha256": "e8608303f2f76854a35a5ffe33bf8f89887b639a4bc2aef0d2e024732552ba02",
   "source": {
     "url": "https://files.pythonhosted.org/packages/b2/f2/fa88c58efb9a737c7e0e40e470edd0973fe33f0f277d24dcf17454b50974/poetry_core-2.4.1.tar.gz",
     "md5": "6c4fb726467b1e270892f51c54c392ba",
