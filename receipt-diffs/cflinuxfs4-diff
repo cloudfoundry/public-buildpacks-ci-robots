@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1780321474:
+newpackages_cflinuxfs4_1780408604:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -63,6 +63,10 @@ newpackages_cflinuxfs4_1780321474:
 -ii  liblcms2-dev:amd64         2.12~rc1-2build2           amd64 Little CMS 2 color management library development headers
 +ii  liblcms2-2:amd64           2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library
 +ii  liblcms2-dev:amd64         2.12~rc1-2ubuntu0.1        amd64 Little CMS 2 color management library development headers
+-ii  liblzma-dev:amd64          5.2.5-2ubuntu1             amd64 XZ-format compression library - development files
+-ii  liblzma5:amd64             5.2.5-2ubuntu1             amd64 XZ-format compression library
++ii  liblzma-dev:amd64          5.2.5-2ubuntu1.1           amd64 XZ-format compression library - development files
++ii  liblzma5:amd64             5.2.5-2ubuntu1.1           amd64 XZ-format compression library
 -ii  libnetplan0:amd64          0.106.1-7ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 +ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 -ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.2          amd64 library implementing HTTP/2 protocol (shared library)
@@ -120,5 +124,7 @@ newpackages_cflinuxfs4_1780321474:
 +ii  vim-common                 2:8.2.3995-1ubuntu2.30     all   Vi IMproved - Common files
 +ii  vim-tiny                   2:8.2.3995-1ubuntu2.30     amd64 Vi IMproved - enhanced vi editor - compact version
 -ii  xxd                        2:8.2.3995-1ubuntu2.26     amd64 tool to make (or reverse) a hex dump
+-ii  xz-utils                   5.2.5-2ubuntu1             amd64 XZ-format compression utilities
 +ii  xxd                        2:8.2.3995-1ubuntu2.30     amd64 tool to make (or reverse) a hex dump
++ii  xz-utils                   5.2.5-2ubuntu1.1           amd64 XZ-format compression utilities
 ```
