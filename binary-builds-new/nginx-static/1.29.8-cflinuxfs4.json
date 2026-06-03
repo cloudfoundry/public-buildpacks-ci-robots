@@ -1,0 +1,14 @@
+{
+  "version": "1.29.8",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx-static/nginx-static_1.29.8_linux_x64_cflinuxfs4_080131fe.tgz",
+  "sha256": "080131fe202401866de098325bf4d5e83b21b87b231342ca074b2ea11131b22a",
+  "source": {
+    "url": "http://nginx.org/download/nginx-1.29.8.tar.gz",
+    "md5": null,
+    "sha256": "7f1b985dace8fe706dfc288b83927c928f0ae60bcb7507c2d4e0025eca7280c3",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "7f1b985dace8fe706dfc288b83927c928f0ae60bcb7507c2d4e0025eca7280c3",
+  "sub_dependencies": {}
+}
