@@ -1,0 +1,14 @@
+{
+  "version": "2.10.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/composer/composer_2.10.1_linux_noarch_any-stack_345b9c6a.phar",
+  "sha256": "345b9c6a98da5c30dcbd4b0d99fc8710bf0ae98a3898eea18f7b2ad9dec93f06",
+  "source": {
+    "url": "https://github.com/composer/composer/releases/download/2.10.1/composer.phar",
+    "md5": null,
+    "sha256": "345b9c6a98da5c30dcbd4b0d99fc8710bf0ae98a3898eea18f7b2ad9dec93f06",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "345b9c6a98da5c30dcbd4b0d99fc8710bf0ae98a3898eea18f7b2ad9dec93f06",
+  "sub_dependencies": {}
+}
