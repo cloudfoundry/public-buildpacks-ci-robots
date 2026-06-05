@@ -1,0 +1,14 @@
+{
+  "version": "0.8.15",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jacoco/jacoco_0.8.15_linux_noarch_any-stack_5b3f6ddb.zip",
+  "sha256": "5b3f6ddb724e761d25c937d68b0189a3a23f3e220e3282575ee0b53359e8110e",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/org/jacoco/jacoco/0.8.15/jacoco-0.8.15.zip",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": "e8943bd0c24c700cdda471c2f327682e74a8908a"
+  },
+  "source_sha256": "5b3f6ddb724e761d25c937d68b0189a3a23f3e220e3282575ee0b53359e8110e",
+  "sub_dependencies": {}
+}
