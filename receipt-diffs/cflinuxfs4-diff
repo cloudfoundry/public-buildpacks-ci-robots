@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1780926349:
+newpackages_cflinuxfs4_1781012715:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -90,10 +90,10 @@ newpackages_cflinuxfs4_1780926349:
 +ii  libssl-dev:amd64           3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - development files
 +ii  libssl3:amd64              3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libsystemd0:amd64          249.11-0ubuntu3.19         amd64 systemd utility library
-+ii  libsystemd0:amd64          249.11-0ubuntu3.20         amd64 systemd utility library
++ii  libsystemd0:amd64          249.11-0ubuntu3.21         amd64 systemd utility library
 -ii  libudev1:amd64             249.11-0ubuntu3.19         amd64 libudev shared library
 -ii  libunbound8:amd64          1.13.1-1ubuntu5.14         amd64 library implementing DNS resolution and validation
-+ii  libudev1:amd64             249.11-0ubuntu3.20         amd64 libudev shared library
++ii  libudev1:amd64             249.11-0ubuntu3.21         amd64 libudev shared library
 +ii  libunbound8:amd64          1.13.1-1ubuntu5.15         amd64 library implementing DNS resolution and validation
 -ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.10 amd64 Samba winbind client library
 +ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
@@ -109,16 +109,16 @@ newpackages_cflinuxfs4_1780926349:
 +ii  openssl                    3.0.2-0ubuntu1.23          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  rsync                      3.2.7-0ubuntu0.22.04.4     amd64 fast, versatile, remote (and local) file-copying tool
 -ii  sed                        4.8-1ubuntu2               amd64 GNU stream editor for filtering/transforming text
-+ii  rsync                      3.2.7-0ubuntu0.22.04.6     amd64 fast, versatile, remote (and local) file-copying tool
++ii  rsync                      3.2.7-0ubuntu0.22.04.7     amd64 fast, versatile, remote (and local) file-copying tool
 +ii  sed                        4.8-1ubuntu2.1             amd64 GNU stream editor for filtering/transforming text
 -ii  systemd                    249.11-0ubuntu3.19         amd64 system and service manager
 -ii  systemd-sysv               249.11-0ubuntu3.19         amd64 system and service manager - SysV links
-+ii  systemd                    249.11-0ubuntu3.20         amd64 system and service manager
-+ii  systemd-sysv               249.11-0ubuntu3.20         amd64 system and service manager - SysV links
++ii  systemd                    249.11-0ubuntu3.21         amd64 system and service manager
++ii  systemd-sysv               249.11-0ubuntu3.21         amd64 system and service manager - SysV links
 -ii  tzdata                     2025b-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 +ii  tzdata                     2026a-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 -ii  udev                       249.11-0ubuntu3.19         amd64 /dev/ and hotplug management daemon
-+ii  udev                       249.11-0ubuntu3.20         amd64 /dev/ and hotplug management daemon
++ii  udev                       249.11-0ubuntu3.21         amd64 /dev/ and hotplug management daemon
 -ii  vim-common                 2:8.2.3995-1ubuntu2.26     all   Vi IMproved - Common files
 -ii  vim-tiny                   2:8.2.3995-1ubuntu2.26     amd64 Vi IMproved - enhanced vi editor - compact version
 +ii  vim-common                 2:8.2.3995-1ubuntu2.30     all   Vi IMproved - Common files
