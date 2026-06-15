@@ -1,0 +1,14 @@
+{
+  "version": "1.56.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/elastic-apm-agent/elastic-apm-agent_1.56.0_linux_noarch_any-stack_4595ce67.jar",
+  "sha256": "4595ce678bfe3a3420ada95356bc85c241e287de0220251dec9d390bcdeaf2f5",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/co/elastic/apm/elastic-apm-agent/1.56.0/elastic-apm-agent-1.56.0.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "de88a1a8f537538e0b21398a073c5d7b2485fe509b2334bb34df9e9748e58706bb8c543b24d52560272a99e01e6b78b7ce6143a791a67ebf8b3e1cbd748c3093",
+    "sha1": null
+  },
+  "source_sha256": "4595ce678bfe3a3420ada95356bc85c241e287de0220251dec9d390bcdeaf2f5",
+  "sub_dependencies": {}
+}
