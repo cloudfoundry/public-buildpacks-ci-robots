@@ -1,0 +1,14 @@
+{
+  "version": "122.0.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/hwc/hwc_122.0.0_windows_x86-64_any-stack_44d68bb3.zip",
+  "sha256": "44d68bb352b7fd64811ec58b2bf43d394cb8d781ff21f23dcd2d7b9c29d9bfa0",
+  "source": {
+    "url": "https://github.com/cloudfoundry/hwc/archive/122.0.0.tar.gz",
+    "md5": null,
+    "sha256": "8e51d2144b7a9ffe3e97961de2b140bf3adc12d8078d655230465df1c2f3f7d2",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "8e51d2144b7a9ffe3e97961de2b140bf3adc12d8078d655230465df1c2f3f7d2",
+  "sub_dependencies": {}
+}
