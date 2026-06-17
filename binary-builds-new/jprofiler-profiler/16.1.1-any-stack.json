@@ -1,0 +1,14 @@
+{
+  "version": "16.1.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jprofiler-profiler/jprofiler-profiler_16.1.1_linux_x64_cflinuxfs4_4778a85b.tgz",
+  "sha256": "4778a85b978308553129326e9bb7941b9cd73943539248fe62ba6b04f6ee3ef4",
+  "source": {
+    "url": "https://download-gcdn.ej-technologies.com/jprofiler/jprofiler_linux_16_1_1.tar.gz",
+    "md5": null,
+    "sha256": "4778a85b978308553129326e9bb7941b9cd73943539248fe62ba6b04f6ee3ef4",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "4778a85b978308553129326e9bb7941b9cd73943539248fe62ba6b04f6ee3ef4",
+  "sub_dependencies": {}
+}
