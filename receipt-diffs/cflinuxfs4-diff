@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1781617581:
+newpackages_cflinuxfs4_1781704353:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2 amd64 Clients provided with BIND 9
@@ -7,6 +7,8 @@ newpackages_cflinuxfs4_1781617581:
 +ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
 +ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.4 amd64 DNS Lookup Utility
 +ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.4 amd64 Shared Libraries used by BIND 9
+-ii  ca-certificates            20240203~22.04.1           all   Common CA certificates
++ii  ca-certificates            20260601~22.04.1           all   Common CA certificates
 -ii  curl                       7.81.0-1ubuntu1.23         amd64 command line tool for transferring data with URL syntax
 +ii  curl                       7.81.0-1ubuntu1.24         amd64 command line tool for transferring data with URL syntax
 -ii  distro-info-data           0.52ubuntu0.11             all   information about the distributions' releases (data files)
