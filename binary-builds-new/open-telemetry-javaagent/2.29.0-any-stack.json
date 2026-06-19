@@ -1,0 +1,14 @@
+{
+  "version": "2.29.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/open-telemetry-javaagent/open-telemetry-javaagent_2.29.0_linux_noarch_any-stack_546531ca.jar",
+  "sha256": "546531ca690a8603d2923b6db26bbda35c6409327b1e610430ae33c2f8f68050",
+  "source": {
+    "url": "https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases/download/v2.29.0/opentelemetry-javaagent.jar",
+    "md5": null,
+    "sha256": "546531ca690a8603d2923b6db26bbda35c6409327b1e610430ae33c2f8f68050",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "546531ca690a8603d2923b6db26bbda35c6409327b1e610430ae33c2f8f68050",
+  "sub_dependencies": {}
+}
