@@ -1,0 +1,14 @@
+{
+  "version": "11.0.23",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/tomcat/tomcat_11.0.23_linux_noarch_any-stack_0473e3e8.tgz",
+  "sha256": "0473e3e87c88ecf5c1ac3cd046b504573aa4de39fc5f4bf865ae807cf8c5546e",
+  "source": {
+    "url": "https://archive.apache.org/dist/tomcat/tomcat-11/v11.0.23/bin/apache-tomcat-11.0.23.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "0473e3e87c88ecf5c1ac3cd046b504573aa4de39fc5f4bf865ae807cf8c5546e",
+  "sub_dependencies": {}
+}
