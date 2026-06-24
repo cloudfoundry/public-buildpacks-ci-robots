@@ -1,0 +1,14 @@
+{
+  "version": "24.18.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/node/node_24.18.0_linux_x64_cflinuxfs5_220cd0c9.tgz",
+  "sha256": "220cd0c93368f8bbfa3ac72f8a985967b1c57f45675acd2c98eb680922d37532",
+  "source": {
+    "url": "https://nodejs.org/dist/v24.18.0/node-v24.18.0.tar.gz",
+    "md5": null,
+    "sha256": "c8348067b41d8739ec69fd4da615cd8995ad6a76eb53e84a7fa7291c8a477eb7",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "c8348067b41d8739ec69fd4da615cd8995ad6a76eb53e84a7fa7291c8a477eb7",
+  "sub_dependencies": {}
+}
