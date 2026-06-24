@@ -1,0 +1,14 @@
+{
+  "version": "6.31.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/contrast-security/contrast-security_6.31.0_linux_noarch_any-stack_0c176385.jar",
+  "sha256": "0c1763850f31734e3514713cfe78dc5d95ea276561b4dc42c6f1272c112c1a86",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/com/contrastsecurity/contrast-agent/6.31.0/contrast-agent-6.31.0.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": "e5d61789fdd77a5b86bc937bd0ef1358371d2fbd"
+  },
+  "source_sha256": "0c1763850f31734e3514713cfe78dc5d95ea276561b4dc42c6f1272c112c1a86",
+  "sub_dependencies": {}
+}
