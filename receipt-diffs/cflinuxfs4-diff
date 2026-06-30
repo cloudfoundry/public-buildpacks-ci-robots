@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1782654248:
+newpackages_cflinuxfs4_1782827016:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2   amd64 Clients provided with BIND 9
@@ -91,6 +91,10 @@ newpackages_cflinuxfs4_1782654248:
 -ii  libpq5:amd64               14.22-0ubuntu0.22.04.1       amd64 PostgreSQL C client library
 +ii  libpq-dev                  14.23-0ubuntu0.22.04.1       amd64 header files for libpq5 (PostgreSQL library)
 +ii  libpq5:amd64               14.23-0ubuntu0.22.04.1       amd64 PostgreSQL C client library
+-ii  libsqlite3-0:amd64         3.37.2-2ubuntu0.5            amd64 SQLite 3 shared library
+-ii  libsqlite3-dev:amd64       3.37.2-2ubuntu0.5            amd64 SQLite 3 development files
++ii  libsqlite3-0:amd64         3.37.2-2ubuntu0.6            amd64 SQLite 3 shared library
++ii  libsqlite3-dev:amd64       3.37.2-2ubuntu0.6            amd64 SQLite 3 development files
 -ii  libssl-dev:amd64           3.0.2-0ubuntu1.21            amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64              3.0.2-0ubuntu1.21            amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssl-dev:amd64           3.0.2-0ubuntu1.25            amd64 Secure Sockets Layer toolkit - development files
