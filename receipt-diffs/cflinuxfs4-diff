@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1782827016:
+newpackages_cflinuxfs4_1782913340:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2   amd64 Clients provided with BIND 9
@@ -10,7 +10,7 @@ newpackages_cflinuxfs4_1782827016:
 -ii  ca-certificates            20240203~22.04.1             all   Common CA certificates
 +ii  ca-certificates            20260601~22.04.1             all   Common CA certificates
 -ii  curl                       7.81.0-1ubuntu1.23           amd64 command line tool for transferring data with URL syntax
-+ii  curl                       7.81.0-1ubuntu1.24           amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.81.0-1ubuntu1.25           amd64 command line tool for transferring data with URL syntax
 -ii  distro-info-data           0.52ubuntu0.11               all   information about the distributions' releases (data files)
 -ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.2   all   Transitional package for bind9-dnsutils
 +ii  distro-info-data           0.52ubuntu0.12               all   information about the distributions' releases (data files)
@@ -36,9 +36,9 @@ newpackages_cflinuxfs4_1782827016:
 -ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.23           amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 -ii  libcurl4:amd64             7.81.0-1ubuntu1.23           amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 -ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.23           amd64 development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.24           amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64             7.81.0-1ubuntu1.24           amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.24           amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.25           amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.81.0-1ubuntu1.25           amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.25           amd64 development files and documentation for libcurl (OpenSSL flavour)
 -ii  libgcrypt20:amd64          1.9.4-3ubuntu3               amd64 LGPL Crypto library - runtime library
 -ii  libgcrypt20-dev            1.9.4-3ubuntu3               amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64          1.9.4-3ubuntu3.2             amd64 LGPL Crypto library - runtime library
