@@ -1,0 +1,147 @@
+{
+  "version": "8.3.32",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/php/php_8.3.32_linux_x64_cflinuxfs5_aed6dba6.tgz",
+  "sha256": "aed6dba671748a4ad8f16d8dab4b9d95cb1360812bc372d663238ea1b0187a84",
+  "source": {
+    "url": "https://php.net/distributions/php-8.3.32.tar.gz",
+    "md5": null,
+    "sha256": "8e1f03eea0b07bc29e1f94d3cfcf0532b0421ec63c1792346b58c3ad8e40fc9b",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "8e1f03eea0b07bc29e1f94d3cfcf0532b0421ec63c1792346b58c3ad8e40fc9b",
+  "sub_dependencies": {
+    "LZF": {
+      "version": "1.7.0"
+    },
+    "amqp": {
+      "version": "2.1.2"
+    },
+    "apcu": {
+      "version": "5.1.28"
+    },
+    "enchant": {
+      "version": "nil"
+    },
+    "gd": {
+      "version": "nil"
+    },
+    "gnupg": {
+      "version": "1.5.1"
+    },
+    "hiredis": {
+      "version": "1.2.0"
+    },
+    "igbinary": {
+      "version": "3.2.15"
+    },
+    "imagick": {
+      "version": "3.7.0"
+    },
+    "ioncube": {
+      "version": "14.0.0"
+    },
+    "librdkafka": {
+      "version": "2.3.0"
+    },
+    "libsodium": {
+      "version": "1.0.19"
+    },
+    "lua": {
+      "version": "5.4.6"
+    },
+    "mailparse": {
+      "version": "3.1.6"
+    },
+    "maxminddb": {
+      "version": "1.11.1"
+    },
+    "memcached": {
+      "version": "3.2.0"
+    },
+    "mongodb": {
+      "version": "1.18.1"
+    },
+    "msgpack": {
+      "version": "2.2.0"
+    },
+    "oauth": {
+      "version": "2.0.7"
+    },
+    "oci8": {
+      "version": "3.3.0"
+    },
+    "odbc": {
+      "version": "nil"
+    },
+    "pdo_firebird": {
+      "version": "nil"
+    },
+    "pdo_oci": {
+      "version": "nil"
+    },
+    "pdo_odbc": {
+      "version": "nil"
+    },
+    "pdo_sqlsrv": {
+      "version": "5.12.0"
+    },
+    "phalcon": {
+      "version": "5.6.2"
+    },
+    "phpiredis": {
+      "version": "1.0.1"
+    },
+    "psr": {
+      "version": "1.2.0"
+    },
+    "rabbitmq": {
+      "version": "0.11.0"
+    },
+    "rdkafka": {
+      "version": "6.0.3"
+    },
+    "readline": {
+      "version": "nil"
+    },
+    "redis": {
+      "version": "6.0.2"
+    },
+    "snmp": {
+      "version": "nil"
+    },
+    "sodium": {
+      "version": "nil"
+    },
+    "solr": {
+      "version": "2.7.0"
+    },
+    "sqlsrv": {
+      "version": "5.12.0"
+    },
+    "ssh2": {
+      "version": "1.4.1"
+    },
+    "stomp": {
+      "version": "2.0.3"
+    },
+    "tideways_xhprof": {
+      "version": "5.0.4"
+    },
+    "tidy": {
+      "version": "nil"
+    },
+    "xdebug": {
+      "version": "3.3.2"
+    },
+    "yaf": {
+      "version": "3.3.7"
+    },
+    "yaml": {
+      "version": "2.2.3"
+    },
+    "zip": {
+      "version": "nil"
+    }
+  }
+}
