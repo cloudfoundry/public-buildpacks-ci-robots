@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1783000102:
+newpackages_cflinuxfs4_1783086474:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.2   amd64 Clients provided with BIND 9
@@ -71,10 +71,18 @@ newpackages_cflinuxfs4_1783000102:
 -ii  liblzma5:amd64             5.2.5-2ubuntu1               amd64 XZ-format compression library
 +ii  liblzma-dev:amd64          5.2.5-2ubuntu1.1             amd64 XZ-format compression library - development files
 +ii  liblzma5:amd64             5.2.5-2ubuntu1.1             amd64 XZ-format compression library
+-ii  libncurses-dev:amd64       6.3-2ubuntu0.1               amd64 developer's libraries for ncurses
+-ii  libncurses5-dev:amd64      6.3-2ubuntu0.1               amd64 transitional package for libncurses-dev
+-ii  libncurses6:amd64          6.3-2ubuntu0.1               amd64 shared libraries for terminal handling
+-ii  libncursesw6:amd64         6.3-2ubuntu0.1               amd64 shared libraries for terminal handling (wide character support)
 -ii  libnetplan0:amd64          0.106.1-7ubuntu0.22.04.4     amd64 YAML network configuration abstraction runtime library
++ii  libncurses-dev:amd64       6.3-2ubuntu0.2               amd64 developer's libraries for ncurses
++ii  libncurses5-dev:amd64      6.3-2ubuntu0.2               amd64 transitional package for libncurses-dev
++ii  libncurses6:amd64          6.3-2ubuntu0.2               amd64 shared libraries for terminal handling
++ii  libncursesw6:amd64         6.3-2ubuntu0.2               amd64 shared libraries for terminal handling (wide character support)
 +ii  libnetplan0:amd64          0.107.1-3ubuntu0.22.04.4     amd64 YAML network configuration abstraction runtime library
 -ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.2            amd64 library implementing HTTP/2 protocol (shared library)
-+ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.3            amd64 library implementing HTTP/2 protocol (shared library)
++ii  libnghttp2-14:amd64        1.43.0-1ubuntu0.4            amd64 library implementing HTTP/2 protocol (shared library)
 -ii  libopenjp2-7:amd64         2.4.0-6ubuntu0.4             amd64 JPEG 2000 image compression/decompression library
 -ii  libopenjp2-7-dev:amd64     2.4.0-6ubuntu0.4             amd64 development files for OpenJPEG, a JPEG 2000 image library
 +ii  libopenjp2-7:amd64         2.4.0-6ubuntu0.5             amd64 JPEG 2000 image compression/decompression library
@@ -101,6 +109,8 @@ newpackages_cflinuxfs4_1783000102:
 +ii  libssl3:amd64              3.0.2-0ubuntu1.25            amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libsystemd0:amd64          249.11-0ubuntu3.19           amd64 systemd utility library
 +ii  libsystemd0:amd64          249.11-0ubuntu3.21           amd64 systemd utility library
+-ii  libtinfo6:amd64            6.3-2ubuntu0.1               amd64 shared low-level terminfo library for terminal handling
++ii  libtinfo6:amd64            6.3-2ubuntu0.2               amd64 shared low-level terminfo library for terminal handling
 -ii  libudev1:amd64             249.11-0ubuntu3.19           amd64 libudev shared library
 -ii  libunbound8:amd64          1.13.1-1ubuntu5.14           amd64 library implementing DNS resolution and validation
 +ii  libudev1:amd64             249.11-0ubuntu3.21           amd64 libudev shared library
@@ -113,6 +123,10 @@ newpackages_cflinuxfs4_1783000102:
 +ii  libxml2-dev:amd64          2.9.13+dfsg-1ubuntu0.12      amd64 GNOME XML library - development files
 -ii  linux-libc-dev:amd64       5.15.0-173.183               amd64 Linux Kernel Headers for development
 +ii  linux-libc-dev:amd64       5.15.0-185.195               amd64 Linux Kernel Headers for development
+-ii  ncurses-base               6.3-2ubuntu0.1               all   basic terminal type definitions
+-ii  ncurses-bin                6.3-2ubuntu0.1               amd64 terminal-related programs and man pages
++ii  ncurses-base               6.3-2ubuntu0.2               all   basic terminal type definitions
++ii  ncurses-bin                6.3-2ubuntu0.2               amd64 terminal-related programs and man pages
 -ii  openssh-client             1:8.9p1-3ubuntu0.14          amd64 secure shell (SSH) client, for secure access to remote machines
 -ii  openssh-server             1:8.9p1-3ubuntu0.14          amd64 secure shell (SSH) server, for secure access from remote machines
 -ii  openssh-sftp-server        1:8.9p1-3ubuntu0.14          amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -143,10 +157,10 @@ newpackages_cflinuxfs4_1783000102:
 +ii  udev                       249.11-0ubuntu3.21           amd64 /dev/ and hotplug management daemon
 -ii  vim-common                 2:8.2.3995-1ubuntu2.26       all   Vi IMproved - Common files
 -ii  vim-tiny                   2:8.2.3995-1ubuntu2.26       amd64 Vi IMproved - enhanced vi editor - compact version
-+ii  vim-common                 2:8.2.3995-1ubuntu2.32       all   Vi IMproved - Common files
-+ii  vim-tiny                   2:8.2.3995-1ubuntu2.32       amd64 Vi IMproved - enhanced vi editor - compact version
++ii  vim-common                 2:8.2.3995-1ubuntu2.33       all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.2.3995-1ubuntu2.33       amd64 Vi IMproved - enhanced vi editor - compact version
 -ii  xxd                        2:8.2.3995-1ubuntu2.26       amd64 tool to make (or reverse) a hex dump
 -ii  xz-utils                   5.2.5-2ubuntu1               amd64 XZ-format compression utilities
-+ii  xxd                        2:8.2.3995-1ubuntu2.32       amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.2.3995-1ubuntu2.33       amd64 tool to make (or reverse) a hex dump
 +ii  xz-utils                   5.2.5-2ubuntu1.1             amd64 XZ-format compression utilities
 ```
