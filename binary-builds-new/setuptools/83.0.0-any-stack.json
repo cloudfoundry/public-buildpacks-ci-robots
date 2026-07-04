@@ -1,0 +1,14 @@
+{
+  "version": "83.0.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/setuptools/setuptools_83.0.0_linux_noarch_cflinuxfs4_37588691.tgz",
+  "sha256": "375886914059dcb03845fd7dbf7bfdd763f0c4f98c886f67d93dd68a1e833c6e",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/34/26/f5d29e25ffdb535afef2d35cdb55b325298f96debd670da4c325e08d70f4/setuptools-83.0.0.tar.gz",
+    "md5": "f1d047722f6155a2150ed8546bfb75d8",
+    "sha256": "025bccbbf0fa05b6192bc64ae1e7b16e001fd6d6d4d5de03c97b1c1ade523bef",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "025bccbbf0fa05b6192bc64ae1e7b16e001fd6d6d4d5de03c97b1c1ade523bef",
+  "sub_dependencies": {}
+}
