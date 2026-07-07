@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1783345363:
+newpackages_cflinuxfs4_1783431920:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.2   amd64 Clients provided with BIND 9
@@ -17,6 +17,8 @@ newpackages_cflinuxfs4_1783345363:
 +ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.4   all   Transitional package for bind9-dnsutils
 -ii  gir1.2-gdkpixbuf-2.0:amd64  2.42.8+dfsg-1ubuntu0.4       amd64 GDK Pixbuf library - GObject-Introspection
 +ii  gir1.2-gdkpixbuf-2.0:amd64  2.42.8+dfsg-1ubuntu0.5       amd64 GDK Pixbuf library - GObject-Introspection
+-ii  gzip                        1.10-4ubuntu4.1              amd64 GNU compression utilities
++ii  gzip                        1.10-4ubuntu4.2              amd64 GNU compression utilities
 -ii  iproute2                    5.15.0-1ubuntu2              amd64 networking and traffic control tools
 +ii  iproute2                    5.15.0-1ubuntu2.2            amd64 networking and traffic control tools
 -ii  jq                          1.6-2.1ubuntu3.1             amd64 lightweight and flexible command-line JSON processor
