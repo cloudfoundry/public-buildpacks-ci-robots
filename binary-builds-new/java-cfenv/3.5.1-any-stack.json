@@ -1,14 +1,14 @@
 {
   "version": "3.5.1",
-  "url": "https://buildpacks.cloudfoundry.org/dependencies/java-cfenv/java-cfenv_3.5.1_linux_noarch_any-stack_caa4a786.jar",
-  "sha256": "caa4a78642a39df4fe01ed2013fef1f58ac7ce5376d7791f9b4c8f6eba9da94e",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/java-cfenv/java-cfenv_3.5.1_linux_noarch_any-stack_696225e3.jar",
+  "sha256": "696225e3bcd9cdd662c0df1dbeb4d2483cb0183a51ca67b0d7ee56cba87736a1",
   "source": {
-    "url": "https://repo1.maven.org/maven2/io/pivotal/cfenv/java-cfenv/3.5.1/java-cfenv-3.5.1.jar",
+    "url": "https://repo1.maven.org/maven2/io/pivotal/cfenv/java-cfenv-all/3.5.1/java-cfenv-all-3.5.1.jar",
     "md5": null,
     "sha256": "",
     "sha512": "",
-    "sha1": "e35e6af21d26b75f70289b2bb31725d345dbb6a7"
+    "sha1": "bdba6173b76b9201b9664d4e640452c66daca67c"
   },
-  "source_sha256": "caa4a78642a39df4fe01ed2013fef1f58ac7ce5376d7791f9b4c8f6eba9da94e",
+  "source_sha256": "696225e3bcd9cdd662c0df1dbeb4d2483cb0183a51ca67b0d7ee56cba87736a1",
   "sub_dependencies": {}
 }
