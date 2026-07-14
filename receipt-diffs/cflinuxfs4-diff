@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1783690981:
+newpackages_cflinuxfs4_1784036788:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.2   amd64 Clients provided with BIND 9
@@ -41,6 +41,10 @@ newpackages_cflinuxfs4_1783690981:
 +ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.25           amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64              7.81.0-1ubuntu1.25           amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.25           amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libexif-dev:amd64           0.6.24-1build1               amd64 library to parse EXIF files (development files)
+-ii  libexif12:amd64             0.6.24-1build1               amd64 library to parse EXIF files
++ii  libexif-dev:amd64           0.6.24-1ubuntu0.22.04.1      amd64 library to parse EXIF files (development files)
++ii  libexif12:amd64             0.6.24-1ubuntu0.22.04.1      amd64 library to parse EXIF files
 -ii  libgcrypt20:amd64           1.9.4-3ubuntu3               amd64 LGPL Crypto library - runtime library
 -ii  libgcrypt20-dev             1.9.4-3ubuntu3               amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64           1.9.4-3ubuntu3.2             amd64 LGPL Crypto library - runtime library
@@ -145,9 +149,9 @@ newpackages_cflinuxfs4_1783690981:
 -ii  openssh-server              1:8.9p1-3ubuntu0.14          amd64 secure shell (SSH) server, for secure access from remote machines
 -ii  openssh-sftp-server         1:8.9p1-3ubuntu0.14          amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
 -ii  openssl                     3.0.2-0ubuntu1.21            amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssh-client              1:8.9p1-3ubuntu0.15          amd64 secure shell (SSH) client, for secure access to remote machines
-+ii  openssh-server              1:8.9p1-3ubuntu0.15          amd64 secure shell (SSH) server, for secure access from remote machines
-+ii  openssh-sftp-server         1:8.9p1-3ubuntu0.15          amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
++ii  openssh-client              1:8.9p1-3ubuntu0.16          amd64 secure shell (SSH) client, for secure access to remote machines
++ii  openssh-server              1:8.9p1-3ubuntu0.16          amd64 secure shell (SSH) server, for secure access from remote machines
++ii  openssh-sftp-server         1:8.9p1-3ubuntu0.16          amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
 +ii  openssl                     3.0.2-0ubuntu1.25            amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  perl                        5.34.0-3ubuntu1.5            amd64 Larry Wall's Practical Extraction and Report Language
 -ii  perl-base                   5.34.0-3ubuntu1.5            amd64 minimal Perl system
