@@ -1,0 +1,14 @@
+{
+  "version": "8.0.29",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-runtime/dotnet-runtime_8.0.29_linux_x64_cflinuxfs4_795d91f3.tar.xz",
+  "sha256": "795d91f34b02fdd4ef08aedcc7f36f214090a54e053b30b5e8c835e3bdb8d27d",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.29/dotnet-runtime-8.0.29-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "2739a48f5ec81738d05376f7bf26b2efc5297639db3f4748b458d54bf795a084c5bd47886449b9996eb1a3371bb8c3900d72049e8f0150d0a5ac8230ef38a65e",
+    "sha1": null
+  },
+  "source_sha256": "795d91f34b02fdd4ef08aedcc7f36f214090a54e053b30b5e8c835e3bdb8d27d",
+  "sub_dependencies": {}
+}
