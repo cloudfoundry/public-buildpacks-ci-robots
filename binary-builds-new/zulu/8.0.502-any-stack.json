@@ -1,0 +1,14 @@
+{
+  "version": "8.0.502",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/zulu/zulu_8.0.502_linux_x64_cflinuxfs4_1b8ecd86.tgz",
+  "sha256": "1b8ecd86c30177937fb98ce516e28378bb7f01d0eb71b93eb5bfc3153f27cb4e",
+  "source": {
+    "url": "https://cdn.azul.com/zulu/bin/zulu8.96.0.19-ca-jre8.0.502-linux_x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "1b8ecd86c30177937fb98ce516e28378bb7f01d0eb71b93eb5bfc3153f27cb4e",
+  "sub_dependencies": {}
+}
