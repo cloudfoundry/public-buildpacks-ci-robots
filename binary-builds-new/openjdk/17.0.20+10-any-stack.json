@@ -1,0 +1,14 @@
+{
+  "version": "17.0.20+10",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_17.0.20%2B10_linux_x64_cflinuxfs4_42fe5962.tgz",
+  "sha256": "42fe59620f1b72b247f90c4b5392106336d812d1b82f2a3320fbaeacf2d00e05",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.20+10/bellsoft-jre17.0.20+10-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "42fe59620f1b72b247f90c4b5392106336d812d1b82f2a3320fbaeacf2d00e05",
+  "sub_dependencies": {}
+}
