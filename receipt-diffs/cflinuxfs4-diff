@@ -1,6 +1,8 @@
-newpackages_cflinuxfs4_1784641484:
+newpackages_cflinuxfs4_1784726038:
 
 ```
+-ii  libarchive13:amd64   3.6.0-1ubuntu1.7  amd64 Multi-format archive and compression library (shared library)
++ii  libarchive13:amd64   3.6.0-1ubuntu1.8  amd64 Multi-format archive and compression library (shared library)
 -ii  libsqlite3-0:amd64   3.37.2-2ubuntu0.6 amd64 SQLite 3 shared library
 -ii  libsqlite3-dev:amd64 3.37.2-2ubuntu0.6 amd64 SQLite 3 development files
 +ii  libsqlite3-0:amd64   3.37.2-2ubuntu0.7 amd64 SQLite 3 shared library
