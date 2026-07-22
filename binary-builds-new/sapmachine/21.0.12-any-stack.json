@@ -1,0 +1,14 @@
+{
+  "version": "21.0.12",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/sapmachine/sapmachine_21.0.12_linux_x64_cflinuxfs4_1054f195.tgz",
+  "sha256": "1054f195874edc90920d3428da874b2cebd150169fe650018bfc62ddee06bbaa",
+  "source": {
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.12/sapmachine-jre-21.0.12_linux-x64_bin.tar.gz",
+    "md5": null,
+    "sha256": "1054f195874edc90920d3428da874b2cebd150169fe650018bfc62ddee06bbaa",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "1054f195874edc90920d3428da874b2cebd150169fe650018bfc62ddee06bbaa",
+  "sub_dependencies": {}
+}
