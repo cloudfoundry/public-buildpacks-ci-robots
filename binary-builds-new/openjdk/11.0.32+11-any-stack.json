@@ -1,0 +1,14 @@
+{
+  "version": "11.0.32+11",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_11.0.32%2B11_linux_x64_cflinuxfs4_34cadaf9.tgz",
+  "sha256": "34cadaf995e29039f45c2915b371a53685e4196a155c654d83b5fb1fa0dee3be",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.32+11/bellsoft-jre11.0.32+11-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "34cadaf995e29039f45c2915b371a53685e4196a155c654d83b5fb1fa0dee3be",
+  "sub_dependencies": {}
+}
