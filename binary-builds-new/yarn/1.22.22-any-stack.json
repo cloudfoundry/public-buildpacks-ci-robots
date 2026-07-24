@@ -1,1 +1,14 @@
-{"version":"1.22.22","source":{"url":"https://github.com/yarnpkg/yarn/releases/download/v1.22.22/yarn-v1.22.22.tar.gz","md5":null,"sha512":null,"sha256":"88268464199d1611fcf73ce9c0a6c4d44c7d5363682720d8506f6508addf36a0","sha1":null},"sha256":"b6132b864c1948174385b4efec842d21cb964c2ae1e79fedcb4eb783ffdaa8a5","url":"https://buildpacks.cloudfoundry.org/dependencies/yarn/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz"}
+{
+  "version": "1.22.22",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/yarn/yarn_1.22.22_linux_noarch_cflinuxfs4_80d47045.tgz",
+  "sha256": "80d47045a49a50bcdd341310311f797bae75349022203a92d8cd298f1c3c6aa1",
+  "source": {
+    "url": "https://github.com/yarnpkg/yarn/releases/download/v1.22.22/yarn-v1.22.22.tar.gz",
+    "md5": null,
+    "sha256": "88268464199d1611fcf73ce9c0a6c4d44c7d5363682720d8506f6508addf36a0",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "88268464199d1611fcf73ce9c0a6c4d44c7d5363682720d8506f6508addf36a0",
+  "sub_dependencies": {}
+}
