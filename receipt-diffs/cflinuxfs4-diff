@@ -1,2 +1,16 @@
-empty_1784992555:
+newpackages_cflinuxfs4_1785246726:
 
+```
+-ii  libc-bin           2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
+-ii  libc-dev-bin       2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
+-ii  libc6:amd64        2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64    2.35-0ubuntu3.13           amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin           2.35-0ubuntu3.14           amd64 GNU C Library: Binaries
++ii  libc-dev-bin       2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
++ii  libc6:amd64        2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64    2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
+-ii  libwbclient0:amd64 2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
++ii  libwbclient0:amd64 2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
+-ii  locales            2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
++ii  locales            2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
+```
