@@ -1,0 +1,14 @@
+{
+  "version": "3.5.10",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/mariadb-jdbc/mariadb-jdbc_3.5.10_linux_noarch_any-stack_919b8c1c.jar",
+  "sha256": "919b8c1c771d9ee3465811462f242c9543ab401e140c64988ddbf1d8abcb18b2",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.10/mariadb-java-client-3.5.10.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "63eab212a9b5f05c0771b9650c797f91e42b67de23d37bbcef2974f6b700b79458e41050f131ad09589e16bd639c553b82b822b89910bb03d6d45f3089f0de3d",
+    "sha1": null
+  },
+  "source_sha256": "919b8c1c771d9ee3465811462f242c9543ab401e140c64988ddbf1d8abcb18b2",
+  "sub_dependencies": {}
+}
