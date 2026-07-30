@@ -1,6 +1,8 @@
-newpackages_cflinuxfs4_1785332625:
+newpackages_cflinuxfs4_1785419192:
 
 ```
+-ii  distro-info-data   0.52ubuntu0.12             all   information about the distributions' releases (data files)
++ii  distro-info-data   0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
 -ii  libc-bin           2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
 -ii  libc-dev-bin       2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
 -ii  libc6:amd64        2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
@@ -13,4 +15,6 @@ newpackages_cflinuxfs4_1785332625:
 +ii  libwbclient0:amd64 2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
 -ii  locales            2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
 +ii  locales            2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
+-ii  tzdata             2026b-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
++ii  tzdata             2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 ```
