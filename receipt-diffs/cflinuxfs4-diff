@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1785419192:
+newpackages_cflinuxfs4_1785505823:
 
 ```
 -ii  distro-info-data   0.52ubuntu0.12             all   information about the distributions' releases (data files)
@@ -11,10 +11,16 @@ newpackages_cflinuxfs4_1785419192:
 +ii  libc-dev-bin       2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
 +ii  libc6:amd64        2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
 +ii  libc6-dev:amd64    2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
+-ii  libssl-dev:amd64   3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64      3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64   3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64      3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libwbclient0:amd64 2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
 +ii  libwbclient0:amd64 2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
 -ii  locales            2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
 +ii  locales            2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
+-ii  openssl            3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl            3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  tzdata             2026b-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 +ii  tzdata             2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 ```
