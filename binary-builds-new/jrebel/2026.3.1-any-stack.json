@@ -1,0 +1,14 @@
+{
+  "version": "2026.3.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jrebel/jrebel_2026.3.1_linux_noarch_any-stack_b04ebd0e.zip",
+  "sha256": "b04ebd0eecc25458343442c62ba009311a370a2c248b8ebd5048bfdaa50fa37b",
+  "source": {
+    "url": "https://dl.zeroturnaround.com/jrebel/releases/jrebel-2026.3.1-nosetup.zip",
+    "md5": null,
+    "sha256": "b04ebd0eecc25458343442c62ba009311a370a2c248b8ebd5048bfdaa50fa37b",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b04ebd0eecc25458343442c62ba009311a370a2c248b8ebd5048bfdaa50fa37b",
+  "sub_dependencies": {}
+}
