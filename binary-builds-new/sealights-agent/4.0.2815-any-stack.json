@@ -1,0 +1,14 @@
+{
+  "version": "4.0.2815",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/sealights-agent/sealights-agent_4.0.2815_linux_noarch_any-stack_e84c2ca4.zip",
+  "sha256": "e84c2ca46b57878168b80851a6bd3249c7a20d738679d692b5867110941f293d",
+  "source": {
+    "url": "https://agents.sealights.co/sealights-java/sealights-java-4.0.2815.zip",
+    "md5": null,
+    "sha256": "e84c2ca46b57878168b80851a6bd3249c7a20d738679d692b5867110941f293d",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "e84c2ca46b57878168b80851a6bd3249c7a20d738679d692b5867110941f293d",
+  "sub_dependencies": {}
+}
