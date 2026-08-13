@@ -1,0 +1,14 @@
+{
+  "version": "3.11.16",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/python/python_3.11.16_linux_x64_cflinuxfs5_47af9519.tgz",
+  "sha256": "47af9519a8d56e5a27157462f8491ef4c3a434d6bb8cbe7f5cd3f1e41a422a6a",
+  "source": {
+    "url": "https://www.python.org/ftp/python/3.11.16/Python-3.11.16.tgz",
+    "md5": null,
+    "sha256": "6c0bd76ab0ec7d94ed400b1497f01ac6c7751c8822615ee0855a3eb2d893ea76",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "6c0bd76ab0ec7d94ed400b1497f01ac6c7751c8822615ee0855a3eb2d893ea76",
+  "sub_dependencies": {}
+}
