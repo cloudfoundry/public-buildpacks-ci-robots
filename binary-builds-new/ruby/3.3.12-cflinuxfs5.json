@@ -1,0 +1,14 @@
+{
+  "version": "3.3.12",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/ruby/ruby_3.3.12_linux_x64_cflinuxfs5_61910f17.tgz",
+  "sha256": "61910f17ca71992395da48ee971a67e66aecf01dee86632d8bdd02103ac777b8",
+  "source": {
+    "url": "https://cache.ruby-lang.org/pub/ruby/3.3/ruby-3.3.12.tar.gz",
+    "md5": null,
+    "sha256": "b06d63beae271933033e27f0a389bc582a009e7845357d44365c39de525a051b",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b06d63beae271933033e27f0a389bc582a009e7845357d44365c39de525a051b",
+  "sub_dependencies": {}
+}
