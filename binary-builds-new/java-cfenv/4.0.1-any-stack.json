@@ -1,0 +1,14 @@
+{
+  "version": "4.0.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/java-cfenv/java-cfenv_4.0.1_linux_noarch_any-stack_b119e915.jar",
+  "sha256": "b119e9155098dad907943cc7ddd8239227b6f0fb407354acb56d14fe3ad95169",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/io/pivotal/cfenv/java-cfenv-all/4.0.1/java-cfenv-all-4.0.1.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": "8cadc817f6ad2967b015ae4651e57906100c2d8d"
+  },
+  "source_sha256": "b119e9155098dad907943cc7ddd8239227b6f0fb407354acb56d14fe3ad95169",
+  "sub_dependencies": {}
+}
