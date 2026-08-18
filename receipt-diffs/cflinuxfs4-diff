@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1786716303:
+newpackages_cflinuxfs4_1787060591:
 
 ```
 -ii  distro-info-data     0.52ubuntu0.12             all   information about the distributions' releases (data files)
@@ -11,6 +11,10 @@ newpackages_cflinuxfs4_1786716303:
 +ii  libc-dev-bin         2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
 +ii  libc6:amd64          2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
 +ii  libc6-dev:amd64      2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
+-ii  libpng-dev:amd64     1.6.37-3ubuntu0.5          amd64 PNG library - development (version 1.6)
+-ii  libpng16-16:amd64    1.6.37-3ubuntu0.5          amd64 PNG library - runtime (version 1.6)
++ii  libpng-dev:amd64     1.6.37-3ubuntu0.6          amd64 PNG library - development (version 1.6)
++ii  libpng16-16:amd64    1.6.37-3ubuntu0.6          amd64 PNG library - runtime (version 1.6)
 -ii  libssl-dev:amd64     3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64        3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssl-dev:amd64     3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - development files
@@ -23,7 +27,7 @@ newpackages_cflinuxfs4_1786716303:
 +ii  libwbclient0:amd64   2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
 -ii  linux-libc-dev:amd64 5.15.0-186.196             amd64 Linux Kernel Headers for development
 -ii  locales              2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
-+ii  linux-libc-dev:amd64 5.15.0-187.197             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-190.200             amd64 Linux Kernel Headers for development
 +ii  locales              2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
 -ii  openssl              3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl              3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - cryptographic utility
