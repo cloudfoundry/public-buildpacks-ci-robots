@@ -1,8 +1,16 @@
-newpackages_cflinuxfs4_1787146979:
+newpackages_cflinuxfs4_1787155220:
 
 ```
+-ii  bind9-dnsutils       1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
+-ii  bind9-host           1:9.18.39-0ubuntu0.22.04.4 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64     1:9.18.39-0ubuntu0.22.04.4 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils       1:9.18.39-0ubuntu0.22.04.5 amd64 Clients provided with BIND 9
++ii  bind9-host           1:9.18.39-0ubuntu0.22.04.5 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64     1:9.18.39-0ubuntu0.22.04.5 amd64 Shared Libraries used by BIND 9
 -ii  distro-info-data     0.52ubuntu0.12             all   information about the distributions' releases (data files)
+-ii  dnsutils             1:9.18.39-0ubuntu0.22.04.4 all   Transitional package for bind9-dnsutils
 +ii  distro-info-data     0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
++ii  dnsutils             1:9.18.39-0ubuntu0.22.04.5 all   Transitional package for bind9-dnsutils
 -ii  libc-bin             2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
 -ii  libc-dev-bin         2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
 -ii  libc6:amd64          2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
