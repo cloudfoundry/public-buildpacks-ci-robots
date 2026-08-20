@@ -1,50 +1,62 @@
-newpackages_cflinuxfs4_1787155220:
+newpackages_cflinuxfs4_1787233607:
 
 ```
--ii  bind9-dnsutils       1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
--ii  bind9-host           1:9.18.39-0ubuntu0.22.04.4 amd64 DNS Lookup Utility
--ii  bind9-libs:amd64     1:9.18.39-0ubuntu0.22.04.4 amd64 Shared Libraries used by BIND 9
-+ii  bind9-dnsutils       1:9.18.39-0ubuntu0.22.04.5 amd64 Clients provided with BIND 9
-+ii  bind9-host           1:9.18.39-0ubuntu0.22.04.5 amd64 DNS Lookup Utility
-+ii  bind9-libs:amd64     1:9.18.39-0ubuntu0.22.04.5 amd64 Shared Libraries used by BIND 9
--ii  distro-info-data     0.52ubuntu0.12             all   information about the distributions' releases (data files)
--ii  dnsutils             1:9.18.39-0ubuntu0.22.04.4 all   Transitional package for bind9-dnsutils
-+ii  distro-info-data     0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
-+ii  dnsutils             1:9.18.39-0ubuntu0.22.04.5 all   Transitional package for bind9-dnsutils
--ii  libc-bin             2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
--ii  libc-dev-bin         2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
--ii  libc6:amd64          2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
--ii  libc6-dev:amd64      2.35-0ubuntu3.13           amd64 GNU C Library: Development Libraries and Header Files
-+ii  libc-bin             2.35-0ubuntu3.14           amd64 GNU C Library: Binaries
-+ii  libc-dev-bin         2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
-+ii  libc6:amd64          2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64      2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
--ii  libpng-dev:amd64     1.6.37-3ubuntu0.5          amd64 PNG library - development (version 1.6)
--ii  libpng16-16:amd64    1.6.37-3ubuntu0.5          amd64 PNG library - runtime (version 1.6)
-+ii  libpng-dev:amd64     1.6.37-3ubuntu0.6          amd64 PNG library - development (version 1.6)
-+ii  libpng16-16:amd64    1.6.37-3ubuntu0.6          amd64 PNG library - runtime (version 1.6)
--ii  libssl-dev:amd64     3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
--ii  libssl3:amd64        3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
-+ii  libssl-dev:amd64     3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl3:amd64        3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - shared libraries
--ii  libsystemd0:amd64    249.11-0ubuntu3.21         amd64 systemd utility library
-+ii  libsystemd0:amd64    249.11-0ubuntu3.22         amd64 systemd utility library
--ii  libudev1:amd64       249.11-0ubuntu3.21         amd64 libudev shared library
-+ii  libudev1:amd64       249.11-0ubuntu3.22         amd64 libudev shared library
--ii  libwbclient0:amd64   2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
-+ii  libwbclient0:amd64   2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
--ii  linux-libc-dev:amd64 5.15.0-186.196             amd64 Linux Kernel Headers for development
--ii  locales              2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
-+ii  linux-libc-dev:amd64 5.15.0-190.200             amd64 Linux Kernel Headers for development
-+ii  locales              2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
--ii  openssl              3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
-+ii  openssl              3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - cryptographic utility
--ii  systemd              249.11-0ubuntu3.21         amd64 system and service manager
--ii  systemd-sysv         249.11-0ubuntu3.21         amd64 system and service manager - SysV links
-+ii  systemd              249.11-0ubuntu3.22         amd64 system and service manager
-+ii  systemd-sysv         249.11-0ubuntu3.22         amd64 system and service manager - SysV links
--ii  tzdata               2026b-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
-+ii  tzdata               2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
--ii  udev                 249.11-0ubuntu3.21         amd64 /dev/ and hotplug management daemon
-+ii  udev                 249.11-0ubuntu3.22         amd64 /dev/ and hotplug management daemon
+-ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
+-ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.4 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.4 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.5 amd64 Clients provided with BIND 9
++ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.5 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.5 amd64 Shared Libraries used by BIND 9
+-ii  curl                       7.81.0-1ubuntu1.25         amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.81.0-1ubuntu1.26         amd64 command line tool for transferring data with URL syntax
+-ii  distro-info-data           0.52ubuntu0.12             all   information about the distributions' releases (data files)
+-ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.4 all   Transitional package for bind9-dnsutils
++ii  distro-info-data           0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
++ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.5 all   Transitional package for bind9-dnsutils
+-ii  libc-bin                   2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
+-ii  libc-dev-bin               2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
+-ii  libc6:amd64                2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
+-ii  libc6-dev:amd64            2.35-0ubuntu3.13           amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                   2.35-0ubuntu3.14           amd64 GNU C Library: Binaries
++ii  libc-dev-bin               2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
++ii  libc6:amd64                2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64            2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
+-ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.25         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.81.0-1ubuntu1.25         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.25         amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.26         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.81.0-1ubuntu1.26         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.26         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libpng-dev:amd64           1.6.37-3ubuntu0.5          amd64 PNG library - development (version 1.6)
+-ii  libpng16-16:amd64          1.6.37-3ubuntu0.5          amd64 PNG library - runtime (version 1.6)
++ii  libpng-dev:amd64           1.6.37-3ubuntu0.6          amd64 PNG library - development (version 1.6)
++ii  libpng16-16:amd64          1.6.37-3ubuntu0.6          amd64 PNG library - runtime (version 1.6)
+-ii  libpq-dev                  14.23-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
+-ii  libpq5:amd64               14.23-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
++ii  libpq-dev                  14.24-0ubuntu0.22.04.1     amd64 header files for libpq5 (PostgreSQL library)
++ii  libpq5:amd64               14.24-0ubuntu0.22.04.1     amd64 PostgreSQL C client library
+-ii  libssl-dev:amd64           3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
+-ii  libssl3:amd64              3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64           3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64              3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - shared libraries
+-ii  libsystemd0:amd64          249.11-0ubuntu3.21         amd64 systemd utility library
++ii  libsystemd0:amd64          249.11-0ubuntu3.22         amd64 systemd utility library
+-ii  libudev1:amd64             249.11-0ubuntu3.21         amd64 libudev shared library
++ii  libudev1:amd64             249.11-0ubuntu3.22         amd64 libudev shared library
+-ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
++ii  libwbclient0:amd64         2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
+-ii  linux-libc-dev:amd64       5.15.0-186.196             amd64 Linux Kernel Headers for development
+-ii  locales                    2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
++ii  linux-libc-dev:amd64       5.15.0-190.200             amd64 Linux Kernel Headers for development
++ii  locales                    2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
+-ii  openssl                    3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                    3.0.2-0ubuntu1.26          amd64 Secure Sockets Layer toolkit - cryptographic utility
+-ii  systemd                    249.11-0ubuntu3.21         amd64 system and service manager
+-ii  systemd-sysv               249.11-0ubuntu3.21         amd64 system and service manager - SysV links
++ii  systemd                    249.11-0ubuntu3.22         amd64 system and service manager
++ii  systemd-sysv               249.11-0ubuntu3.22         amd64 system and service manager - SysV links
+-ii  tzdata                     2026b-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
++ii  tzdata                     2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
+-ii  udev                       249.11-0ubuntu3.21         amd64 /dev/ and hotplug management daemon
++ii  udev                       249.11-0ubuntu3.22         amd64 /dev/ and hotplug management daemon
 ```
