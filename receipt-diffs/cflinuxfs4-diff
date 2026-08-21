@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1787233607:
+newpackages_cflinuxfs4_1787319853:
 
 ```
 -ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -59,4 +59,12 @@ newpackages_cflinuxfs4_1787233607:
 +ii  tzdata                     2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 -ii  udev                       249.11-0ubuntu3.21         amd64 /dev/ and hotplug management daemon
 +ii  udev                       249.11-0ubuntu3.22         amd64 /dev/ and hotplug management daemon
+-ii  vim-common                 2:8.2.3995-1ubuntu2.34     all   Vi IMproved - Common files
+-ii  vim-tiny                   2:8.2.3995-1ubuntu2.34     amd64 Vi IMproved - enhanced vi editor - compact version
+-ii  wget                       1.21.2-2ubuntu1.4          amd64 retrieves files from the web
++ii  vim-common                 2:8.2.3995-1ubuntu2.35     all   Vi IMproved - Common files
++ii  vim-tiny                   2:8.2.3995-1ubuntu2.35     amd64 Vi IMproved - enhanced vi editor - compact version
++ii  wget                       1.21.2-2ubuntu1.5          amd64 retrieves files from the web
+-ii  xxd                        2:8.2.3995-1ubuntu2.34     amd64 tool to make (or reverse) a hex dump
++ii  xxd                        2:8.2.3995-1ubuntu2.35     amd64 tool to make (or reverse) a hex dump
 ```
