@@ -1,0 +1,14 @@
+{
+  "version": "2026.3.176",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/your-kit-profiler/your-kit-profiler_2026.3.176_linux_x64_cflinuxfs4_b12d3f13.zip",
+  "sha256": "b12d3f1322e866153a64df87dc6002a5aaea47bdafe6e1235e10b5b22b4fb84b",
+  "source": {
+    "url": "https://download.yourkit.com/yjp/2026.3.176/YourKit-Java-Profiler-2026.3.176-x64.zip",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b12d3f1322e866153a64df87dc6002a5aaea47bdafe6e1235e10b5b22b4fb84b",
+  "sub_dependencies": {}
+}
