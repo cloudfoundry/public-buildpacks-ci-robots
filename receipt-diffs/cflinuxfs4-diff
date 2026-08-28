@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1787838554:
+newpackages_cflinuxfs4_1787925324:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -27,6 +27,18 @@ newpackages_cflinuxfs4_1787838554:
 +ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64              7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.27         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libp11-kit-dev:amd64        0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - development
+-ii  libp11-kit0:amd64           0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - runtime
++ii  libp11-kit-dev:amd64        0.24.0-6ubuntu0.1          amd64 library for loading and coordinating access to PKCS#11 modules - development
++ii  libp11-kit0:amd64           0.24.0-6ubuntu0.1          amd64 library for loading and coordinating access to PKCS#11 modules - runtime
+-ii  libpam-modules:amd64        1.4.0-11ubuntu2.7          amd64 Pluggable Authentication Modules for PAM
+-ii  libpam-modules-bin          1.4.0-11ubuntu2.7          amd64 Pluggable Authentication Modules for PAM - helper binaries
+-ii  libpam-runtime              1.4.0-11ubuntu2.7          all   Runtime support for the PAM library
+-ii  libpam0g:amd64              1.4.0-11ubuntu2.7          amd64 Pluggable Authentication Modules library
++ii  libpam-modules:amd64        1.4.0-11ubuntu2.8          amd64 Pluggable Authentication Modules for PAM
++ii  libpam-modules-bin          1.4.0-11ubuntu2.8          amd64 Pluggable Authentication Modules for PAM - helper binaries
++ii  libpam-runtime              1.4.0-11ubuntu2.8          all   Runtime support for the PAM library
++ii  libpam0g:amd64              1.4.0-11ubuntu2.8          amd64 Pluggable Authentication Modules library
 -ii  libperl5.34:amd64           5.34.0-3ubuntu1.7          amd64 shared Perl library
 +ii  libperl5.34:amd64           5.34.0-3ubuntu1.8          amd64 shared Perl library
 -ii  libpng-dev:amd64            1.6.37-3ubuntu0.5          amd64 PNG library - development (version 1.6)
