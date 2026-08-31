@@ -1,22 +1,34 @@
-newpackages_cflinuxfs4_1787925324:
+newpackages_cflinuxfs4_1788183900:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
 -ii  bind9-host                  1:9.18.39-0ubuntu0.22.04.4 amd64 DNS Lookup Utility
 -ii  bind9-libs:amd64            1:9.18.39-0ubuntu0.22.04.4 amd64 Shared Libraries used by BIND 9
-+ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.5 amd64 Clients provided with BIND 9
-+ii  bind9-host                  1:9.18.39-0ubuntu0.22.04.5 amd64 DNS Lookup Utility
-+ii  bind9-libs:amd64            1:9.18.39-0ubuntu0.22.04.5 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.6 amd64 Clients provided with BIND 9
++ii  bind9-host                  1:9.18.39-0ubuntu0.22.04.6 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64            1:9.18.39-0ubuntu0.22.04.6 amd64 Shared Libraries used by BIND 9
+-ii  bzip2                       1.0.8-5build1              amd64 high-quality block-sorting file compressor - utilities
++ii  bzip2                       1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor - utilities
+-ii  coreutils                   8.32-4.1ubuntu1.3          amd64 GNU core utilities
++ii  coreutils                   8.32-4.1ubuntu1.4          amd64 GNU core utilities
 -ii  curl                        7.81.0-1ubuntu1.25         amd64 command line tool for transferring data with URL syntax
 +ii  curl                        7.81.0-1ubuntu1.27         amd64 command line tool for transferring data with URL syntax
+-ii  diffutils                   1:3.8-0ubuntu2             amd64 File comparison utilities
++ii  diffutils                   1:3.8-0ubuntu2.1           amd64 File comparison utilities
 -ii  distro-info-data            0.52ubuntu0.12             all   information about the distributions' releases (data files)
 -ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.4 all   Transitional package for bind9-dnsutils
 +ii  distro-info-data            0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
-+ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.5 all   Transitional package for bind9-dnsutils
++ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.6 all   Transitional package for bind9-dnsutils
+-ii  libattr1:amd64              1:2.5.1-1build1            amd64 extended attribute handling - shared library
++ii  libattr1:amd64              1:2.5.1-1ubuntu0.1         amd64 extended attribute handling - shared library
+-ii  libbz2-1.0:amd64            1.0.8-5build1              amd64 high-quality block-sorting file compressor library - runtime
+-ii  libbz2-dev:amd64            1.0.8-5build1              amd64 high-quality block-sorting file compressor library - development
 -ii  libc-bin                    2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
 -ii  libc-dev-bin                2.35-0ubuntu3.13           amd64 GNU C Library: Development binaries
 -ii  libc6:amd64                 2.35-0ubuntu3.13           amd64 GNU C Library: Shared libraries
 -ii  libc6-dev:amd64             2.35-0ubuntu3.13           amd64 GNU C Library: Development Libraries and Header Files
++ii  libbz2-1.0:amd64            1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor library - runtime
++ii  libbz2-dev:amd64            1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor library - development
 +ii  libc-bin                    2.35-0ubuntu3.14           amd64 GNU C Library: Binaries
 +ii  libc-dev-bin                2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
 +ii  libc6:amd64                 2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
@@ -55,8 +67,10 @@ newpackages_cflinuxfs4_1787925324:
 +ii  libpython3.10:amd64         3.10.12-1~22.04.17         amd64 Shared Python runtime library (version 3.10)
 +ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.17         amd64 Minimal subset of the Python language (version 3.10)
 +ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.17         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  libssh-4:amd64              0.9.6-2ubuntu0.22.04.7     amd64 tiny C SSH library (OpenSSL flavor)
 -ii  libssl-dev:amd64            3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64               3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssh-4:amd64              0.9.6-2ubuntu0.22.04.8     amd64 tiny C SSH library (OpenSSL flavor)
 +ii  libssl-dev:amd64            3.0.2-0ubuntu1.29          amd64 Secure Sockets Layer toolkit - development files
 +ii  libssl3:amd64               3.0.2-0ubuntu1.29          amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libsystemd0:amd64           249.11-0ubuntu3.21         amd64 systemd utility library
