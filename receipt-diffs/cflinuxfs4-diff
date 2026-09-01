@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1788183900:
+newpackages_cflinuxfs4_1788270368:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -7,6 +7,8 @@ newpackages_cflinuxfs4_1788183900:
 +ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.6 amd64 Clients provided with BIND 9
 +ii  bind9-host                  1:9.18.39-0ubuntu0.22.04.6 amd64 DNS Lookup Utility
 +ii  bind9-libs:amd64            1:9.18.39-0ubuntu0.22.04.6 amd64 Shared Libraries used by BIND 9
+-ii  bsdutils                    1:2.37.2-4ubuntu3.5        amd64 basic utilities from 4.4BSD-Lite
++ii  bsdutils                    1:2.37.2-4ubuntu3.6        amd64 basic utilities from 4.4BSD-Lite
 -ii  bzip2                       1.0.8-5build1              amd64 high-quality block-sorting file compressor - utilities
 +ii  bzip2                       1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor - utilities
 -ii  coreutils                   8.32-4.1ubuntu1.3          amd64 GNU core utilities
@@ -19,8 +21,14 @@ newpackages_cflinuxfs4_1788183900:
 -ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.4 all   Transitional package for bind9-dnsutils
 +ii  distro-info-data            0.72-0ubuntu0.22.04.1      all   information about the distributions' releases (data files)
 +ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.6 all   Transitional package for bind9-dnsutils
+-ii  eject                       2.37.2-4ubuntu3.5          amd64 ejects CDs and operates CD-Changers under Linux
++ii  eject                       2.37.2-4ubuntu3.6          amd64 ejects CDs and operates CD-Changers under Linux
 -ii  libattr1:amd64              1:2.5.1-1build1            amd64 extended attribute handling - shared library
 +ii  libattr1:amd64              1:2.5.1-1ubuntu0.1         amd64 extended attribute handling - shared library
+-ii  libblkid-dev:amd64          2.37.2-4ubuntu3.5          amd64 block device ID library - headers
+-ii  libblkid1:amd64             2.37.2-4ubuntu3.5          amd64 block device ID library
++ii  libblkid-dev:amd64          2.37.2-4ubuntu3.6          amd64 block device ID library - headers
++ii  libblkid1:amd64             2.37.2-4ubuntu3.6          amd64 block device ID library
 -ii  libbz2-1.0:amd64            1.0.8-5build1              amd64 high-quality block-sorting file compressor library - runtime
 -ii  libbz2-dev:amd64            1.0.8-5build1              amd64 high-quality block-sorting file compressor library - development
 -ii  libc-bin                    2.35-0ubuntu3.13           amd64 GNU C Library: Binaries
@@ -39,6 +47,10 @@ newpackages_cflinuxfs4_1788183900:
 +ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64              7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.27         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libmount-dev:amd64          2.37.2-4ubuntu3.5          amd64 device mounting library - headers
+-ii  libmount1:amd64             2.37.2-4ubuntu3.5          amd64 device mounting library
++ii  libmount-dev:amd64          2.37.2-4ubuntu3.6          amd64 device mounting library - headers
++ii  libmount1:amd64             2.37.2-4ubuntu3.6          amd64 device mounting library
 -ii  libp11-kit-dev:amd64        0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - development
 -ii  libp11-kit0:amd64           0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - runtime
 +ii  libp11-kit-dev:amd64        0.24.0-6ubuntu0.1          amd64 library for loading and coordinating access to PKCS#11 modules - development
@@ -67,6 +79,8 @@ newpackages_cflinuxfs4_1788183900:
 +ii  libpython3.10:amd64         3.10.12-1~22.04.17         amd64 Shared Python runtime library (version 3.10)
 +ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.17         amd64 Minimal subset of the Python language (version 3.10)
 +ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.17         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
+-ii  libsmartcols1:amd64         2.37.2-4ubuntu3.5          amd64 smart column output alignment library
++ii  libsmartcols1:amd64         2.37.2-4ubuntu3.6          amd64 smart column output alignment library
 -ii  libssh-4:amd64              0.9.6-2ubuntu0.22.04.7     amd64 tiny C SSH library (OpenSSL flavor)
 -ii  libssl-dev:amd64            3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64               3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - shared libraries
@@ -77,12 +91,16 @@ newpackages_cflinuxfs4_1788183900:
 +ii  libsystemd0:amd64           249.11-0ubuntu3.22         amd64 systemd utility library
 -ii  libudev1:amd64              249.11-0ubuntu3.21         amd64 libudev shared library
 +ii  libudev1:amd64              249.11-0ubuntu3.22         amd64 libudev shared library
+-ii  libuuid1:amd64              2.37.2-4ubuntu3.5          amd64 Universally Unique ID library
++ii  libuuid1:amd64              2.37.2-4ubuntu3.6          amd64 Universally Unique ID library
 -ii  libwbclient0:amd64          2:4.15.13+dfsg-0ubuntu1.12 amd64 Samba winbind client library
 +ii  libwbclient0:amd64          2:4.15.13+dfsg-0ubuntu1.13 amd64 Samba winbind client library
 -ii  linux-libc-dev:amd64        5.15.0-186.196             amd64 Linux Kernel Headers for development
 -ii  locales                     2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
 +ii  linux-libc-dev:amd64        5.15.0-190.200             amd64 Linux Kernel Headers for development
 +ii  locales                     2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
+-ii  mount                       2.37.2-4ubuntu3.5          amd64 tools for mounting and manipulating filesystems
++ii  mount                       2.37.2-4ubuntu3.6          amd64 tools for mounting and manipulating filesystems
 -ii  openssl                     3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl                     3.0.2-0ubuntu1.29          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  perl                        5.34.0-3ubuntu1.7          amd64 Larry Wall's Practical Extraction and Report Language
@@ -99,9 +117,13 @@ newpackages_cflinuxfs4_1788183900:
 +ii  tzdata                      2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 -ii  udev                        249.11-0ubuntu3.21         amd64 /dev/ and hotplug management daemon
 +ii  udev                        249.11-0ubuntu3.22         amd64 /dev/ and hotplug management daemon
+-ii  util-linux                  2.37.2-4ubuntu3.5          amd64 miscellaneous system utilities
+-ii  uuid-dev:amd64              2.37.2-4ubuntu3.5          amd64 Universally Unique ID library - headers and static libraries
 -ii  vim-common                  2:8.2.3995-1ubuntu2.34     all   Vi IMproved - Common files
 -ii  vim-tiny                    2:8.2.3995-1ubuntu2.34     amd64 Vi IMproved - enhanced vi editor - compact version
 -ii  wget                        1.21.2-2ubuntu1.4          amd64 retrieves files from the web
++ii  util-linux                  2.37.2-4ubuntu3.6          amd64 miscellaneous system utilities
++ii  uuid-dev:amd64              2.37.2-4ubuntu3.6          amd64 Universally Unique ID library - headers and static libraries
 +ii  vim-common                  2:8.2.3995-1ubuntu2.36     all   Vi IMproved - Common files
 +ii  vim-tiny                    2:8.2.3995-1ubuntu2.36     amd64 Vi IMproved - enhanced vi editor - compact version
 +ii  wget                        1.21.2-2ubuntu1.5          amd64 retrieves files from the web
