@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1788270368:
+newpackages_cflinuxfs4_1788295489:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -47,10 +47,24 @@ newpackages_cflinuxfs4_1788270368:
 +ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 +ii  libcurl4:amd64              7.81.0-1ubuntu1.27         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.27         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  libevent-2.1-7:amd64        2.1.12-stable-1build3      amd64 Asynchronous event notification library
++ii  libevent-2.1-7:amd64        2.1.12-stable-1ubuntu0.1   amd64 Asynchronous event notification library
+-ii  libgcrypt20:amd64           1.9.4-3ubuntu3.2           amd64 LGPL Crypto library - runtime library
+-ii  libgcrypt20-dev             1.9.4-3ubuntu3.2           amd64 LGPL Crypto library - development files
++ii  libgcrypt20:amd64           1.9.4-3ubuntu3.3           amd64 LGPL Crypto library - runtime library
++ii  libgcrypt20-dev             1.9.4-3ubuntu3.3           amd64 LGPL Crypto library - development files
 -ii  libmount-dev:amd64          2.37.2-4ubuntu3.5          amd64 device mounting library - headers
 -ii  libmount1:amd64             2.37.2-4ubuntu3.5          amd64 device mounting library
 +ii  libmount-dev:amd64          2.37.2-4ubuntu3.6          amd64 device mounting library - headers
 +ii  libmount1:amd64             2.37.2-4ubuntu3.6          amd64 device mounting library
+-ii  libncurses-dev:amd64        6.3-2ubuntu0.2             amd64 developer's libraries for ncurses
+-ii  libncurses5-dev:amd64       6.3-2ubuntu0.2             amd64 transitional package for libncurses-dev
+-ii  libncurses6:amd64           6.3-2ubuntu0.2             amd64 shared libraries for terminal handling
+-ii  libncursesw6:amd64          6.3-2ubuntu0.2             amd64 shared libraries for terminal handling (wide character support)
++ii  libncurses-dev:amd64        6.3-2ubuntu0.3             amd64 developer's libraries for ncurses
++ii  libncurses5-dev:amd64       6.3-2ubuntu0.3             amd64 transitional package for libncurses-dev
++ii  libncurses6:amd64           6.3-2ubuntu0.3             amd64 shared libraries for terminal handling
++ii  libncursesw6:amd64          6.3-2ubuntu0.3             amd64 shared libraries for terminal handling (wide character support)
 -ii  libp11-kit-dev:amd64        0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - development
 -ii  libp11-kit0:amd64           0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - runtime
 +ii  libp11-kit-dev:amd64        0.24.0-6ubuntu0.1          amd64 library for loading and coordinating access to PKCS#11 modules - development
@@ -89,6 +103,8 @@ newpackages_cflinuxfs4_1788270368:
 +ii  libssl3:amd64               3.0.2-0ubuntu1.29          amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libsystemd0:amd64           249.11-0ubuntu3.21         amd64 systemd utility library
 +ii  libsystemd0:amd64           249.11-0ubuntu3.22         amd64 systemd utility library
+-ii  libtinfo6:amd64             6.3-2ubuntu0.2             amd64 shared low-level terminfo library for terminal handling
++ii  libtinfo6:amd64             6.3-2ubuntu0.3             amd64 shared low-level terminfo library for terminal handling
 -ii  libudev1:amd64              249.11-0ubuntu3.21         amd64 libudev shared library
 +ii  libudev1:amd64              249.11-0ubuntu3.22         amd64 libudev shared library
 -ii  libuuid1:amd64              2.37.2-4ubuntu3.5          amd64 Universally Unique ID library
@@ -101,6 +117,10 @@ newpackages_cflinuxfs4_1788270368:
 +ii  locales                     2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
 -ii  mount                       2.37.2-4ubuntu3.5          amd64 tools for mounting and manipulating filesystems
 +ii  mount                       2.37.2-4ubuntu3.6          amd64 tools for mounting and manipulating filesystems
+-ii  ncurses-base                6.3-2ubuntu0.2             all   basic terminal type definitions
+-ii  ncurses-bin                 6.3-2ubuntu0.2             amd64 terminal-related programs and man pages
++ii  ncurses-base                6.3-2ubuntu0.3             all   basic terminal type definitions
++ii  ncurses-bin                 6.3-2ubuntu0.3             amd64 terminal-related programs and man pages
 -ii  openssl                     3.0.2-0ubuntu1.25          amd64 Secure Sockets Layer toolkit - cryptographic utility
 +ii  openssl                     3.0.2-0ubuntu1.29          amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  perl                        5.34.0-3ubuntu1.7          amd64 Larry Wall's Practical Extraction and Report Language
