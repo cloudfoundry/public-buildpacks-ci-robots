@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1788356872:
+newpackages_cflinuxfs4_1788443119:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -23,6 +23,8 @@ newpackages_cflinuxfs4_1788356872:
 +ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.6 all   Transitional package for bind9-dnsutils
 -ii  eject                       2.37.2-4ubuntu3.5          amd64 ejects CDs and operates CD-Changers under Linux
 +ii  eject                       2.37.2-4ubuntu3.6          amd64 ejects CDs and operates CD-Changers under Linux
+-ii  libaprutil1:amd64           1.6.1-5ubuntu4.22.04.2     amd64 Apache Portable Runtime Utility Library
++ii  libaprutil1:amd64           1.6.1-5ubuntu4.22.04.3     amd64 Apache Portable Runtime Utility Library
 -ii  libattr1:amd64              1:2.5.1-1build1            amd64 extended attribute handling - shared library
 +ii  libattr1:amd64              1:2.5.1-1ubuntu0.1         amd64 extended attribute handling - shared library
 -ii  libblkid-dev:amd64          2.37.2-4ubuntu3.5          amd64 block device ID library - headers
