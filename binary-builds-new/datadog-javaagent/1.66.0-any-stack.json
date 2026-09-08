@@ -1,0 +1,14 @@
+{
+  "version": "1.66.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/datadog-javaagent/datadog-javaagent_1.66.0_linux_noarch_any-stack_5f0eb511.jar",
+  "sha256": "5f0eb51160fade367d97404624561b6666f7475fb1453a7a73237eb643e398d8",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/com/datadoghq/dd-java-agent/1.66.0/dd-java-agent-1.66.0.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "4699aebf1203a3ede19030812e6b80db8778fa18bd2959f876af45ad247b7daae0a47f3a43f24a9aa3ac202e7c3bd27da015d1918c066aaff9d1e115a8a34c68",
+    "sha1": null
+  },
+  "source_sha256": "5f0eb51160fade367d97404624561b6666f7475fb1453a7a73237eb643e398d8",
+  "sub_dependencies": {}
+}
