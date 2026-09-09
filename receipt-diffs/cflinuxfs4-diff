@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1788875144:
+newpackages_cflinuxfs4_1788961465:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -39,10 +39,10 @@ newpackages_cflinuxfs4_1788875144:
 -ii  libc6-dev:amd64             2.35-0ubuntu3.13           amd64 GNU C Library: Development Libraries and Header Files
 +ii  libbz2-1.0:amd64            1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor library - runtime
 +ii  libbz2-dev:amd64            1.0.8-5ubuntu0.1           amd64 high-quality block-sorting file compressor library - development
-+ii  libc-bin                    2.35-0ubuntu3.14           amd64 GNU C Library: Binaries
-+ii  libc-dev-bin                2.35-0ubuntu3.14           amd64 GNU C Library: Development binaries
-+ii  libc6:amd64                 2.35-0ubuntu3.14           amd64 GNU C Library: Shared libraries
-+ii  libc6-dev:amd64             2.35-0ubuntu3.14           amd64 GNU C Library: Development Libraries and Header Files
++ii  libc-bin                    2.35-0ubuntu3.15           amd64 GNU C Library: Binaries
++ii  libc-dev-bin                2.35-0ubuntu3.15           amd64 GNU C Library: Development binaries
++ii  libc6:amd64                 2.35-0ubuntu3.15           amd64 GNU C Library: Shared libraries
++ii  libc6-dev:amd64             2.35-0ubuntu3.15           amd64 GNU C Library: Development Libraries and Header Files
 -ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.25         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 -ii  libcurl4:amd64              7.81.0-1ubuntu1.25         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 -ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.25         amd64 development files and documentation for libcurl (OpenSSL flavour)
@@ -80,7 +80,7 @@ newpackages_cflinuxfs4_1788875144:
 +ii  libpam-runtime              1.4.0-11ubuntu2.8          all   Runtime support for the PAM library
 +ii  libpam0g:amd64              1.4.0-11ubuntu2.8          amd64 Pluggable Authentication Modules library
 -ii  libperl5.34:amd64           5.34.0-3ubuntu1.7          amd64 shared Perl library
-+ii  libperl5.34:amd64           5.34.0-3ubuntu1.8          amd64 shared Perl library
++ii  libperl5.34:amd64           5.34.0-3ubuntu1.9          amd64 shared Perl library
 -ii  libpng-dev:amd64            1.6.37-3ubuntu0.5          amd64 PNG library - development (version 1.6)
 -ii  libpng16-16:amd64           1.6.37-3ubuntu0.5          amd64 PNG library - runtime (version 1.6)
 +ii  libpng-dev:amd64            1.6.37-3ubuntu0.6          amd64 PNG library - development (version 1.6)
@@ -92,9 +92,9 @@ newpackages_cflinuxfs4_1788875144:
 -ii  libpython3.10:amd64         3.10.12-1~22.04.16         amd64 Shared Python runtime library (version 3.10)
 -ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.16         amd64 Minimal subset of the Python language (version 3.10)
 -ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.16         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
-+ii  libpython3.10:amd64         3.10.12-1~22.04.17         amd64 Shared Python runtime library (version 3.10)
-+ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.17         amd64 Minimal subset of the Python language (version 3.10)
-+ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.17         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
++ii  libpython3.10:amd64         3.10.12-1~22.04.18         amd64 Shared Python runtime library (version 3.10)
++ii  libpython3.10-minimal:amd64 3.10.12-1~22.04.18         amd64 Minimal subset of the Python language (version 3.10)
++ii  libpython3.10-stdlib:amd64  3.10.12-1~22.04.18         amd64 Interactive high-level object-oriented language (standard library, version 3.10)
 -ii  libsmartcols1:amd64         2.37.2-4ubuntu3.5          amd64 smart column output alignment library
 +ii  libsmartcols1:amd64         2.37.2-4ubuntu3.6          amd64 smart column output alignment library
 -ii  libssh-4:amd64              0.9.6-2ubuntu0.22.04.7     amd64 tiny C SSH library (OpenSSL flavor)
@@ -116,7 +116,7 @@ newpackages_cflinuxfs4_1788875144:
 -ii  linux-libc-dev:amd64        5.15.0-186.196             amd64 Linux Kernel Headers for development
 -ii  locales                     2.35-0ubuntu3.13           all   GNU C Library: National Language (locale) data [support]
 +ii  linux-libc-dev:amd64        5.15.0-191.201             amd64 Linux Kernel Headers for development
-+ii  locales                     2.35-0ubuntu3.14           all   GNU C Library: National Language (locale) data [support]
++ii  locales                     2.35-0ubuntu3.15           all   GNU C Library: National Language (locale) data [support]
 -ii  mount                       2.37.2-4ubuntu3.5          amd64 tools for mounting and manipulating filesystems
 +ii  mount                       2.37.2-4ubuntu3.6          amd64 tools for mounting and manipulating filesystems
 -ii  ncurses-base                6.3-2ubuntu0.2             all   basic terminal type definitions
@@ -134,9 +134,9 @@ newpackages_cflinuxfs4_1788875144:
 -ii  perl                        5.34.0-3ubuntu1.7          amd64 Larry Wall's Practical Extraction and Report Language
 -ii  perl-base                   5.34.0-3ubuntu1.7          amd64 minimal Perl system
 -ii  perl-modules-5.34           5.34.0-3ubuntu1.7          all   Core Perl modules
-+ii  perl                        5.34.0-3ubuntu1.8          amd64 Larry Wall's Practical Extraction and Report Language
-+ii  perl-base                   5.34.0-3ubuntu1.8          amd64 minimal Perl system
-+ii  perl-modules-5.34           5.34.0-3ubuntu1.8          all   Core Perl modules
++ii  perl                        5.34.0-3ubuntu1.9          amd64 Larry Wall's Practical Extraction and Report Language
++ii  perl-base                   5.34.0-3ubuntu1.9          amd64 minimal Perl system
++ii  perl-modules-5.34           5.34.0-3ubuntu1.9          all   Core Perl modules
 -ii  systemd                     249.11-0ubuntu3.21         amd64 system and service manager
 -ii  systemd-sysv                249.11-0ubuntu3.21         amd64 system and service manager - SysV links
 +ii  systemd                     249.11-0ubuntu3.22         amd64 system and service manager
