@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1789393400:
+newpackages_cflinuxfs4_1789479757:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4 amd64 Clients provided with BIND 9
@@ -23,6 +23,10 @@ newpackages_cflinuxfs4_1789393400:
 +ii  dnsutils                    1:9.18.39-0ubuntu0.22.04.6 all   Transitional package for bind9-dnsutils
 -ii  eject                       2.37.2-4ubuntu3.5          amd64 ejects CDs and operates CD-Changers under Linux
 +ii  eject                       2.37.2-4ubuntu3.6          amd64 ejects CDs and operates CD-Changers under Linux
+-ii  krb5-multidev:amd64         1.19.2-2ubuntu0.8          amd64 development files for MIT Kerberos without Heimdal conflict
+-ii  krb5-user                   1.19.2-2ubuntu0.8          amd64 basic programs to authenticate using MIT Kerberos
++ii  krb5-multidev:amd64         1.19.2-2ubuntu0.10         amd64 development files for MIT Kerberos without Heimdal conflict
++ii  krb5-user                   1.19.2-2ubuntu0.10         amd64 basic programs to authenticate using MIT Kerberos
 -ii  libaprutil1:amd64           1.6.1-5ubuntu4.22.04.2     amd64 Apache Portable Runtime Utility Library
 +ii  libaprutil1:amd64           1.6.1-5ubuntu4.22.04.3     amd64 Apache Portable Runtime Utility Library
 -ii  libattr1:amd64              1:2.5.1-1build1            amd64 extended attribute handling - shared library
@@ -55,6 +59,24 @@ newpackages_cflinuxfs4_1789393400:
 -ii  libgcrypt20-dev             1.9.4-3ubuntu3.2           amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64           1.9.4-3ubuntu3.3           amd64 LGPL Crypto library - runtime library
 +ii  libgcrypt20-dev             1.9.4-3ubuntu3.3           amd64 LGPL Crypto library - development files
+-ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
++ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+-ii  libgssrpc4:amd64            1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
++ii  libgssrpc4:amd64            1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
+-ii  libk5crypto3:amd64          1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - Crypto Library
+-ii  libkadm5clnt-mit12:amd64    1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - Administration Clients
+-ii  libkadm5srv-mit12:amd64     1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - KDC and Admin Server
+-ii  libkdb5-10:amd64            1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - Kerberos database
++ii  libk5crypto3:amd64          1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - Crypto Library
++ii  libkadm5clnt-mit12:amd64    1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - Administration Clients
++ii  libkadm5srv-mit12:amd64     1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - KDC and Admin Server
++ii  libkdb5-10:amd64            1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - Kerberos database
+-ii  libkrb5-3:amd64             1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries
+-ii  libkrb5-dev:amd64           1.19.2-2ubuntu0.8          amd64 headers and development libraries for MIT Kerberos
+-ii  libkrb5support0:amd64       1.19.2-2ubuntu0.8          amd64 MIT Kerberos runtime libraries - Support library
++ii  libkrb5-3:amd64             1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries
++ii  libkrb5-dev:amd64           1.19.2-2ubuntu0.10         amd64 headers and development libraries for MIT Kerberos
++ii  libkrb5support0:amd64       1.19.2-2ubuntu0.10         amd64 MIT Kerberos runtime libraries - Support library
 -ii  libmount-dev:amd64          2.37.2-4ubuntu3.5          amd64 device mounting library - headers
 -ii  libmount1:amd64             2.37.2-4ubuntu3.5          amd64 device mounting library
 +ii  libmount-dev:amd64          2.37.2-4ubuntu3.6          amd64 device mounting library - headers
@@ -63,10 +85,12 @@ newpackages_cflinuxfs4_1789393400:
 -ii  libncurses5-dev:amd64       6.3-2ubuntu0.2             amd64 transitional package for libncurses-dev
 -ii  libncurses6:amd64           6.3-2ubuntu0.2             amd64 shared libraries for terminal handling
 -ii  libncursesw6:amd64          6.3-2ubuntu0.2             amd64 shared libraries for terminal handling (wide character support)
+-ii  libnetplan0:amd64           0.107.1-3ubuntu0.22.04.4   amd64 YAML network configuration abstraction runtime library
 +ii  libncurses-dev:amd64        6.3-2ubuntu0.3             amd64 developer's libraries for ncurses
 +ii  libncurses5-dev:amd64       6.3-2ubuntu0.3             amd64 transitional package for libncurses-dev
 +ii  libncurses6:amd64           6.3-2ubuntu0.3             amd64 shared libraries for terminal handling
 +ii  libncursesw6:amd64          6.3-2ubuntu0.3             amd64 shared libraries for terminal handling (wide character support)
++ii  libnetplan0:amd64           0.107.1-3ubuntu0.22.04.5   amd64 YAML network configuration abstraction runtime library
 -ii  libp11-kit-dev:amd64        0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - development
 -ii  libp11-kit0:amd64           0.24.0-6build1             amd64 library for loading and coordinating access to PKCS#11 modules - runtime
 +ii  libp11-kit-dev:amd64        0.24.0-6ubuntu0.1          amd64 library for loading and coordinating access to PKCS#11 modules - development
