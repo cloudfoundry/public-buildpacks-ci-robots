@@ -1,0 +1,14 @@
+{
+  "version": "10.1.60",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/tomcat/tomcat_10.1.60_linux_noarch_any-stack_ba8998cb.tgz",
+  "sha256": "ba8998cb41b3695f3c2d47224c70f44035e9c6385652fdafdb64ac31c354efbd",
+  "source": {
+    "url": "https://archive.apache.org/dist/tomcat/tomcat-10/v10.1.60/bin/apache-tomcat-10.1.60.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "ba8998cb41b3695f3c2d47224c70f44035e9c6385652fdafdb64ac31c354efbd",
+  "sub_dependencies": {}
+}
