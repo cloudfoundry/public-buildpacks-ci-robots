@@ -1,0 +1,14 @@
+{
+  "version": "2.5.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/poetry-core/poetry-core_2.5.0_linux_noarch_cflinuxfs5_76a19635.tgz",
+  "sha256": "76a19635e5e54c32d89fa44f4175c01a6b5db45f0d8b4a7fcbee6a47a6e01e5a",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/42/b5/50f1fda26c4fe5b1d6ce5cdf0391bdfa1ca12fdcb8ad68344d5cf678fc90/poetry_core-2.5.0.tar.gz",
+    "md5": "ad4701fd3a73d43eb761131b5916f66d",
+    "sha256": "81d04c9253b19d0604718268d781867c8f7b2128e5b25bbf1e84141eec6b89c4",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "81d04c9253b19d0604718268d781867c8f7b2128e5b25bbf1e84141eec6b89c4",
+  "sub_dependencies": {}
+}
