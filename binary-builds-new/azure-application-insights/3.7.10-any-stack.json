@@ -1,0 +1,14 @@
+{
+  "version": "3.7.10",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/azure-application-insights/azure-application-insights_3.7.10_linux_noarch_any-stack_93a70c8f.jar",
+  "sha256": "93a70c8f5d364c7e777f6c4d1b235dba91aef8448bd3fa94359f1d7f3e2eb0ec",
+  "source": {
+    "url": "https://github.com/microsoft/ApplicationInsights-Java/releases/download/3.7.10/applicationinsights-agent-3.7.10.jar",
+    "md5": null,
+    "sha256": "93a70c8f5d364c7e777f6c4d1b235dba91aef8448bd3fa94359f1d7f3e2eb0ec",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "93a70c8f5d364c7e777f6c4d1b235dba91aef8448bd3fa94359f1d7f3e2eb0ec",
+  "sub_dependencies": {}
+}
