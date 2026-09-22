@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1789998483:
+newpackages_cflinuxfs4_1790084596:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4    amd64 Clients provided with BIND 9
@@ -57,10 +57,16 @@ newpackages_cflinuxfs4_1789998483:
 +ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.27            amd64 development files and documentation for libcurl (OpenSSL flavour)
 -ii  libevent-2.1-7:amd64        2.1.12-stable-1build3         amd64 Asynchronous event notification library
 +ii  libevent-2.1-7:amd64        2.1.12-stable-1ubuntu0.1      amd64 Asynchronous event notification library
+-ii  libexpat1:amd64             2.4.7-1ubuntu0.7              amd64 XML parsing C library - runtime library
+-ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.7              amd64 XML parsing C library - development kit
++ii  libexpat1:amd64             2.4.7-1ubuntu0.8              amd64 XML parsing C library - runtime library
++ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.8              amd64 XML parsing C library - development kit
 -ii  libgcrypt20:amd64           1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - runtime library
 -ii  libgcrypt20-dev             1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64           1.9.4-3ubuntu3.3              amd64 LGPL Crypto library - runtime library
 +ii  libgcrypt20-dev             1.9.4-3ubuntu3.3              amd64 LGPL Crypto library - development files
+-ii  libglib2.0-0:amd64          2.72.4-0ubuntu2.9             amd64 GLib library of C routines
++ii  libglib2.0-0:amd64          2.72.4-0ubuntu2.10            amd64 GLib library of C routines
 -ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.8             amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 +ii  libgssapi-krb5-2:amd64      1.19.2-2ubuntu0.10            amd64 MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 -ii  libgssrpc4:amd64            1.19.2-2ubuntu0.8             amd64 MIT Kerberos runtime libraries - GSS enabled ONCRPC
