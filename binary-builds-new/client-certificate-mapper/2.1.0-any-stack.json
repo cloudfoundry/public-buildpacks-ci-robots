@@ -1,0 +1,14 @@
+{
+  "version": "2.1.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/client-certificate-mapper/client-certificate-mapper_2.1.0_linux_noarch_any-stack_c7bffa85.jar",
+  "sha256": "c7bffa857e1305675aba79d88afae96681fd426674ccb275bf1e2bc4561f0c36",
+  "source": {
+    "url": "https://github.com/cloudfoundry/java-buildpack-client-certificate-mapper/releases/download/v2.1.0/java-buildpack-client-certificate-mapper-2.1.0.jar",
+    "md5": null,
+    "sha256": "c7bffa857e1305675aba79d88afae96681fd426674ccb275bf1e2bc4561f0c36",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "c7bffa857e1305675aba79d88afae96681fd426674ccb275bf1e2bc4561f0c36",
+  "sub_dependencies": {}
+}
