@@ -1,0 +1,14 @@
+{
+  "version": "9.5.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/newrelic/newrelic_9.5.0_linux_noarch_any-stack_41158728.zip",
+  "sha256": "411587286dbb83b06fcdd042ad1c9c1818655831366717aef3611962ea2c1b73",
+  "source": {
+    "url": "https://download.newrelic.com/newrelic/java-agent/newrelic-agent/9.5.0/newrelic-agent-9.5.0.jar",
+    "md5": null,
+    "sha256": "411587286dbb83b06fcdd042ad1c9c1818655831366717aef3611962ea2c1b73",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "411587286dbb83b06fcdd042ad1c9c1818655831366717aef3611962ea2c1b73",
+  "sub_dependencies": {}
+}
