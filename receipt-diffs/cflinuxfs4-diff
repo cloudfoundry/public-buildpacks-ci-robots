@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1790171059:
+newpackages_cflinuxfs4_1790343811:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4    amd64 Clients provided with BIND 9
@@ -16,7 +16,7 @@ newpackages_cflinuxfs4_1790171059:
 -ii  coreutils                   8.32-4.1ubuntu1.3             amd64 GNU core utilities
 +ii  coreutils                   8.32-4.1ubuntu1.4             amd64 GNU core utilities
 -ii  curl                        7.81.0-1ubuntu1.25            amd64 command line tool for transferring data with URL syntax
-+ii  curl                        7.81.0-1ubuntu1.27            amd64 command line tool for transferring data with URL syntax
++ii  curl                        7.81.0-1ubuntu1.29            amd64 command line tool for transferring data with URL syntax
 -ii  diffutils                   1:3.8-0ubuntu2                amd64 File comparison utilities
 +ii  diffutils                   1:3.8-0ubuntu2.1              amd64 File comparison utilities
 -ii  distro-info-data            0.52ubuntu0.12                all   information about the distributions' releases (data files)
@@ -33,6 +33,10 @@ newpackages_cflinuxfs4_1790171059:
 +ii  libaprutil1:amd64           1.6.1-5ubuntu4.22.04.3        amd64 Apache Portable Runtime Utility Library
 -ii  libattr1:amd64              1:2.5.1-1build1               amd64 extended attribute handling - shared library
 +ii  libattr1:amd64              1:2.5.1-1ubuntu0.1            amd64 extended attribute handling - shared library
+-ii  libaudit-common             1:3.0.7-1build1               all   Dynamic library for security auditing - common files
+-ii  libaudit1:amd64             1:3.0.7-1build1               amd64 Dynamic library for security auditing
++ii  libaudit-common             1:3.0.7-1ubuntu0.1            all   Dynamic library for security auditing - common files
++ii  libaudit1:amd64             1:3.0.7-1ubuntu0.1            amd64 Dynamic library for security auditing
 -ii  libblkid-dev:amd64          2.37.2-4ubuntu3.5             amd64 block device ID library - headers
 -ii  libblkid1:amd64             2.37.2-4ubuntu3.5             amd64 block device ID library
 +ii  libblkid-dev:amd64          2.37.2-4ubuntu3.6             amd64 block device ID library - headers
@@ -52,15 +56,15 @@ newpackages_cflinuxfs4_1790171059:
 -ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.25            amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
 -ii  libcurl4:amd64              7.81.0-1ubuntu1.25            amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
 -ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.25            amd64 development files and documentation for libcurl (OpenSSL flavour)
-+ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.27            amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
-+ii  libcurl4:amd64              7.81.0-1ubuntu1.27            amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
-+ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.27            amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64       7.81.0-1ubuntu1.29            amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64              7.81.0-1ubuntu1.29            amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64  7.81.0-1ubuntu1.29            amd64 development files and documentation for libcurl (OpenSSL flavour)
 -ii  libevent-2.1-7:amd64        2.1.12-stable-1build3         amd64 Asynchronous event notification library
 +ii  libevent-2.1-7:amd64        2.1.12-stable-1ubuntu0.1      amd64 Asynchronous event notification library
 -ii  libexpat1:amd64             2.4.7-1ubuntu0.7              amd64 XML parsing C library - runtime library
 -ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.7              amd64 XML parsing C library - development kit
-+ii  libexpat1:amd64             2.4.7-1ubuntu0.8              amd64 XML parsing C library - runtime library
-+ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.8              amd64 XML parsing C library - development kit
++ii  libexpat1:amd64             2.4.7-1ubuntu0.9              amd64 XML parsing C library - runtime library
++ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.9              amd64 XML parsing C library - development kit
 -ii  libgcrypt20:amd64           1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - runtime library
 -ii  libgcrypt20-dev             1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64           1.9.4-3ubuntu3.3              amd64 LGPL Crypto library - runtime library
@@ -111,6 +115,8 @@ newpackages_cflinuxfs4_1790171059:
 +ii  libpam-modules-bin          1.4.0-11ubuntu2.8             amd64 Pluggable Authentication Modules for PAM - helper binaries
 +ii  libpam-runtime              1.4.0-11ubuntu2.8             all   Runtime support for the PAM library
 +ii  libpam0g:amd64              1.4.0-11ubuntu2.8             amd64 Pluggable Authentication Modules library
+-ii  libpcap0.8:amd64            1.10.1-4ubuntu1.22.04.1       amd64 system interface for user-level packet capture
++ii  libpcap0.8:amd64            1.10.1-4ubuntu1.22.04.2       amd64 system interface for user-level packet capture
 -ii  libperl5.34:amd64           5.34.0-3ubuntu1.7             amd64 shared Perl library
 +ii  libperl5.34:amd64           5.34.0-3ubuntu1.9             amd64 shared Perl library
 -ii  libpng-dev:amd64            1.6.37-3ubuntu0.5             amd64 PNG library - development (version 1.6)
