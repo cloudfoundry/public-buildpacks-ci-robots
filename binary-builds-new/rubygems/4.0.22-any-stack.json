@@ -1,0 +1,14 @@
+{
+  "version": "4.0.22",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/rubygems/rubygems_4.0.22_linux_noarch_any-stack_b5f29b2f.tgz",
+  "sha256": "b5f29b2f5653d67d6b6319d1fad163b1fa1e3434abfadcfa348d76904b960fbb",
+  "source": {
+    "url": "https://rubygems.org/rubygems/rubygems-4.0.22.tgz",
+    "md5": null,
+    "sha256": "e7e58e5b95156ce7419f7d3b2ae9ecc4f7fe7a4c61a5837f90c507206d8cc226",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "e7e58e5b95156ce7419f7d3b2ae9ecc4f7fe7a4c61a5837f90c507206d8cc226",
+  "sub_dependencies": {}
+}
