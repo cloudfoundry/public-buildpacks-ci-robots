@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1790689417:
+newpackages_cflinuxfs4_1790775842:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4    amd64 Clients provided with BIND 9
@@ -143,8 +143,8 @@ newpackages_cflinuxfs4_1790689417:
 -ii  libssl-dev:amd64            3.0.2-0ubuntu1.25             amd64 Secure Sockets Layer toolkit - development files
 -ii  libssl3:amd64               3.0.2-0ubuntu1.25             amd64 Secure Sockets Layer toolkit - shared libraries
 +ii  libssh-4:amd64              0.9.6-2ubuntu0.22.04.8        amd64 tiny C SSH library (OpenSSL flavor)
-+ii  libssl-dev:amd64            3.0.2-0ubuntu1.29             amd64 Secure Sockets Layer toolkit - development files
-+ii  libssl3:amd64               3.0.2-0ubuntu1.29             amd64 Secure Sockets Layer toolkit - shared libraries
++ii  libssl-dev:amd64            3.0.2-0ubuntu1.30             amd64 Secure Sockets Layer toolkit - development files
++ii  libssl3:amd64               3.0.2-0ubuntu1.30             amd64 Secure Sockets Layer toolkit - shared libraries
 -ii  libsystemd0:amd64           249.11-0ubuntu3.21            amd64 systemd utility library
 +ii  libsystemd0:amd64           249.11-0ubuntu3.22            amd64 systemd utility library
 -ii  libtinfo6:amd64             6.3-2ubuntu0.2                amd64 shared low-level terminfo library for terminal handling
@@ -176,7 +176,7 @@ newpackages_cflinuxfs4_1790689417:
 +ii  openssh-client              1:8.9p1-3ubuntu0.17           amd64 secure shell (SSH) client, for secure access to remote machines
 +ii  openssh-server              1:8.9p1-3ubuntu0.17           amd64 secure shell (SSH) server, for secure access from remote machines
 +ii  openssh-sftp-server         1:8.9p1-3ubuntu0.17           amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
-+ii  openssl                     3.0.2-0ubuntu1.29             amd64 Secure Sockets Layer toolkit - cryptographic utility
++ii  openssl                     3.0.2-0ubuntu1.30             amd64 Secure Sockets Layer toolkit - cryptographic utility
 -ii  perl                        5.34.0-3ubuntu1.7             amd64 Larry Wall's Practical Extraction and Report Language
 -ii  perl-base                   5.34.0-3ubuntu1.7             amd64 minimal Perl system
 -ii  perl-modules-5.34           5.34.0-3ubuntu1.7             all   Core Perl modules
