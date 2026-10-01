@@ -1,0 +1,14 @@
+{
+  "version": "3.10.22",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/python/python_3.10.22_linux_x64_cflinuxfs4_e1af3723.tgz",
+  "sha256": "e1af372322dcbf05a0458bfb792b811abafd944d40035c63ce367f6ee334e75c",
+  "source": {
+    "url": "https://www.python.org/ftp/python/3.10.22/Python-3.10.22.tgz",
+    "md5": null,
+    "sha256": "9448b34d16f8e3db0964ac3ed9fb283197747543c2c021f283ffd2c8b7287357",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "9448b34d16f8e3db0964ac3ed9fb283197747543c2c021f283ffd2c8b7287357",
+  "sub_dependencies": {}
+}
