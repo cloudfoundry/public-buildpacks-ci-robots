@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1791207885:
+newpackages_cflinuxfs4_1791294382:
 
 ```
 -ii  bind9-dnsutils              1:9.18.39-0ubuntu0.22.04.4    amd64 Clients provided with BIND 9
@@ -65,6 +65,12 @@ newpackages_cflinuxfs4_1791207885:
 -ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.7              amd64 XML parsing C library - development kit
 +ii  libexpat1:amd64             2.4.7-1ubuntu0.9              amd64 XML parsing C library - runtime library
 +ii  libexpat1-dev:amd64         2.4.7-1ubuntu0.9              amd64 XML parsing C library - development kit
+-ii  libfreetype-dev:amd64       2.11.1+dfsg-1ubuntu0.3        amd64 FreeType 2 font engine, development files
+-ii  libfreetype6:amd64          2.11.1+dfsg-1ubuntu0.3        amd64 FreeType 2 font engine, shared library files
+-ii  libfreetype6-dev:amd64      2.11.1+dfsg-1ubuntu0.3        amd64 FreeType 2 font engine, development files (transitional package)
++ii  libfreetype-dev:amd64       2.11.1+dfsg-1ubuntu0.4        amd64 FreeType 2 font engine, development files
++ii  libfreetype6:amd64          2.11.1+dfsg-1ubuntu0.4        amd64 FreeType 2 font engine, shared library files
++ii  libfreetype6-dev:amd64      2.11.1+dfsg-1ubuntu0.4        amd64 FreeType 2 font engine, development files (transitional package)
 -ii  libgcrypt20:amd64           1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - runtime library
 -ii  libgcrypt20-dev             1.9.4-3ubuntu3.2              amd64 LGPL Crypto library - development files
 +ii  libgcrypt20:amd64           1.9.4-3ubuntu3.3              amd64 LGPL Crypto library - runtime library
@@ -150,7 +156,9 @@ newpackages_cflinuxfs4_1791207885:
 -ii  libtinfo6:amd64             6.3-2ubuntu0.2                amd64 shared low-level terminfo library for terminal handling
 +ii  libtinfo6:amd64             6.3-2ubuntu0.3                amd64 shared low-level terminfo library for terminal handling
 -ii  libudev1:amd64              249.11-0ubuntu3.21            amd64 libudev shared library
+-ii  libunbound8:amd64           1.13.1-1ubuntu5.15            amd64 library implementing DNS resolution and validation
 +ii  libudev1:amd64              249.11-0ubuntu3.22            amd64 libudev shared library
++ii  libunbound8:amd64           1.13.1-1ubuntu5.16            amd64 library implementing DNS resolution and validation
 -ii  libuuid1:amd64              2.37.2-4ubuntu3.5             amd64 Universally Unique ID library
 +ii  libuuid1:amd64              2.37.2-4ubuntu3.6             amd64 Universally Unique ID library
 -ii  libwbclient0:amd64          2:4.15.13+dfsg-0ubuntu1.12    amd64 Samba winbind client library
