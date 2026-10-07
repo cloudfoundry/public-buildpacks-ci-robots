@@ -1,0 +1,14 @@
+{
+  "version": "17.0.20.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/sapmachine/sapmachine_17.0.20.1_linux_x64_cflinuxfs4_133f80ba.tgz",
+  "sha256": "133f80ba8db1403a49831ae59392b74670ab0444018d40be5aa16458c3968f8a",
+  "source": {
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.20.1/sapmachine-jre-17.0.20.1_linux-x64_bin.tar.gz",
+    "md5": null,
+    "sha256": "133f80ba8db1403a49831ae59392b74670ab0444018d40be5aa16458c3968f8a",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "133f80ba8db1403a49831ae59392b74670ab0444018d40be5aa16458c3968f8a",
+  "sub_dependencies": {}
+}
