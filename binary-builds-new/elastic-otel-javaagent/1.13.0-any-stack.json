@@ -1,0 +1,14 @@
+{
+  "version": "1.13.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/elastic-otel-javaagent/elastic-otel-javaagent_1.13.0_linux_noarch_any-stack_5034fc8f.jar",
+  "sha256": "5034fc8f6388cd95575a44b4b5a1679a0108b9da8cacc4daf2db59f56cd4b8bd",
+  "source": {
+    "url": "https://repo1.maven.org/maven2/co/elastic/otel/elastic-otel-javaagent/1.13.0/elastic-otel-javaagent-1.13.0.jar",
+    "md5": null,
+    "sha256": "",
+    "sha512": "199bb58afc10b77b08437afc96a83761beac68c66dd46485cb84689e341c9f55f0ec04121da289c7b410a0c85b5e7ee3d4b2007ed123233a6b24d2bb32064cab",
+    "sha1": null
+  },
+  "source_sha256": "5034fc8f6388cd95575a44b4b5a1679a0108b9da8cacc4daf2db59f56cd4b8bd",
+  "sub_dependencies": {}
+}
