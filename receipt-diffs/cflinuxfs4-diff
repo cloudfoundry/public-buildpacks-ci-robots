@@ -1,12 +1,8 @@
-newpackages_cflinuxfs4_1791484259:
+newpackages_cflinuxfs4_1791639761:
 
 ```
--ii  libarchive13:amd64 3.6.0-1ubuntu1.8  amd64 Multi-format archive and compression library (shared library)
-+ii  libarchive13:amd64 3.6.0-1ubuntu1.9  amd64 Multi-format archive and compression library (shared library)
--ii  libpng-dev:amd64   1.6.37-3ubuntu0.6 amd64 PNG library - development (version 1.6)
--ii  libpng16-16:amd64  1.6.37-3ubuntu0.6 amd64 PNG library - runtime (version 1.6)
-+ii  libpng-dev:amd64   1.6.37-3ubuntu0.7 amd64 PNG library - development (version 1.6)
-+ii  libpng16-16:amd64  1.6.37-3ubuntu0.7 amd64 PNG library - runtime (version 1.6)
--ii  sudo               1.9.9-1ubuntu2.6  amd64 Provide limited super user privileges to specific users
-+ii  sudo               1.9.9-1ubuntu2.7  amd64 Provide limited super user privileges to specific users
+-ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.13 amd64 GNOME XML library
+-ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.13 amd64 GNOME XML library - development files
++ii  libxml2:amd64     2.9.13+dfsg-1ubuntu0.14 amd64 GNOME XML library
++ii  libxml2-dev:amd64 2.9.13+dfsg-1ubuntu0.14 amd64 GNOME XML library - development files
 ```
