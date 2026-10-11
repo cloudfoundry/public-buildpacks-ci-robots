@@ -1,0 +1,14 @@
+{
+  "version": "12.12.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/pnpm/pnpm_12.12.1_linux_x64_any-stack_f61657f5.tgz",
+  "sha256": "f61657f53f7891f76ae5cf11e924ee3e9ae1659affcaf7deb9622d4d7ea5637e",
+  "source": {
+    "url": "https://github.com/pnpm/pnpm/releases/download/v12.12.1/pnpm-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "f61657f53f7891f76ae5cf11e924ee3e9ae1659affcaf7deb9622d4d7ea5637e",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "f61657f53f7891f76ae5cf11e924ee3e9ae1659affcaf7deb9622d4d7ea5637e",
+  "sub_dependencies": {}
+}
