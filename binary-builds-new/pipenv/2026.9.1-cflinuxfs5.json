@@ -1,0 +1,14 @@
+{
+  "version": "2026.9.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/pipenv/pipenv_2026.9.1_linux_noarch_cflinuxfs5_3b054a61.tgz",
+  "sha256": "3b054a618995b671373de141eaa5a01a2d1f3f0b3651249158da19ccd50bae25",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/e8/1c/d96925a62b85f0bcaa4381c9a3efc47421f0c634a829f2839485909f0447/pipenv-2026.9.1.tar.gz",
+    "md5": "bad699fd15d780b54086812255a071b1",
+    "sha256": "d6a71b04b62b0000e6d87ee63aae47ea55cb43d9d08b2c04663e2740840a947c",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "d6a71b04b62b0000e6d87ee63aae47ea55cb43d9d08b2c04663e2740840a947c",
+  "sub_dependencies": {}
+}
