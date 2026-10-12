@@ -1,0 +1,14 @@
+{
+  "version": "9.0.123",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/tomcat/tomcat_9.0.123_linux_noarch_any-stack_fc780a68.tgz",
+  "sha256": "fc780a68520ff3af3f20f972bc03a39384c766ed686dd68593fa06d098eda437",
+  "source": {
+    "url": "https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.123/bin/apache-tomcat-9.0.123.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "fc780a68520ff3af3f20f972bc03a39384c766ed686dd68593fa06d098eda437",
+  "sub_dependencies": {}
+}
