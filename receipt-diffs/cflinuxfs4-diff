@@ -1,14 +1,28 @@
-newpackages_cflinuxfs4_1791986012:
+newpackages_cflinuxfs4_1792071802:
 
 ```
--ii  libsystemd0:amd64 249.11-0ubuntu3.22 amd64 systemd utility library
-+ii  libsystemd0:amd64 249.11-0ubuntu3.23 amd64 systemd utility library
--ii  libudev1:amd64    249.11-0ubuntu3.22 amd64 libudev shared library
-+ii  libudev1:amd64    249.11-0ubuntu3.23 amd64 libudev shared library
--ii  systemd           249.11-0ubuntu3.22 amd64 system and service manager
--ii  systemd-sysv      249.11-0ubuntu3.22 amd64 system and service manager - SysV links
-+ii  systemd           249.11-0ubuntu3.23 amd64 system and service manager
-+ii  systemd-sysv      249.11-0ubuntu3.23 amd64 system and service manager - SysV links
--ii  udev              249.11-0ubuntu3.22 amd64 /dev/ and hotplug management daemon
-+ii  udev              249.11-0ubuntu3.23 amd64 /dev/ and hotplug management daemon
+-ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.6 amd64 Clients provided with BIND 9
+-ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.6 amd64 DNS Lookup Utility
+-ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.6 amd64 Shared Libraries used by BIND 9
++ii  bind9-dnsutils             1:9.18.39-0ubuntu0.22.04.7 amd64 Clients provided with BIND 9
++ii  bind9-host                 1:9.18.39-0ubuntu0.22.04.7 amd64 DNS Lookup Utility
++ii  bind9-libs:amd64           1:9.18.39-0ubuntu0.22.04.7 amd64 Shared Libraries used by BIND 9
+-ii  curl                       7.81.0-1ubuntu1.29         amd64 command line tool for transferring data with URL syntax
++ii  curl                       7.81.0-1ubuntu1.30         amd64 command line tool for transferring data with URL syntax
+-ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.6 all   Transitional package for bind9-dnsutils
++ii  dnsutils                   1:9.18.39-0ubuntu0.22.04.7 all   Transitional package for bind9-dnsutils
+-ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.29         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
+-ii  libcurl4:amd64             7.81.0-1ubuntu1.29         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
+-ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.29         amd64 development files and documentation for libcurl (OpenSSL flavour)
++ii  libcurl3-gnutls:amd64      7.81.0-1ubuntu1.30         amd64 easy-to-use client-side URL transfer library (GnuTLS flavour)
++ii  libcurl4:amd64             7.81.0-1ubuntu1.30         amd64 easy-to-use client-side URL transfer library (OpenSSL flavour)
++ii  libcurl4-openssl-dev:amd64 7.81.0-1ubuntu1.30         amd64 development files and documentation for libcurl (OpenSSL flavour)
+-ii  openssh-client             1:8.9p1-3ubuntu0.17        amd64 secure shell (SSH) client, for secure access to remote machines
+-ii  openssh-server             1:8.9p1-3ubuntu0.17        amd64 secure shell (SSH) server, for secure access from remote machines
+-ii  openssh-sftp-server        1:8.9p1-3ubuntu0.17        amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
++ii  openssh-client             1:8.9p1-3ubuntu0.18        amd64 secure shell (SSH) client, for secure access to remote machines
++ii  openssh-server             1:8.9p1-3ubuntu0.18        amd64 secure shell (SSH) server, for secure access from remote machines
++ii  openssh-sftp-server        1:8.9p1-3ubuntu0.18        amd64 secure shell (SSH) sftp server module, for SFTP access from remote machines
+-ii  tzdata                     2026c-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
++ii  tzdata                     2026e-0ubuntu0.22.04.1     all   time zone and daylight-saving time data
 ```
