@@ -1,0 +1,14 @@
+{
+  "version": "0.13.2",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/uv/uv_0.13.2_linux_x64_cflinuxfs5_e0ba58f4.tgz",
+  "sha256": "e0ba58f4f0c69f1f32743224eeefc513c14fbd1a6f4690e71d4029b60a3eed42",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/34/c7/74a5051409a97ea8a7876048647c93aa5c4c96552a18ab88043826769136/uv-0.13.2.tar.gz",
+    "md5": "21d6eb4da9bbdc2cb1c0978ccfd0c229",
+    "sha256": "25ea922215786c18a741a2aba064fd854b5599cb19f7db26219213d46998f263",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "25ea922215786c18a741a2aba064fd854b5599cb19f7db26219213d46998f263",
+  "sub_dependencies": {}
+}
