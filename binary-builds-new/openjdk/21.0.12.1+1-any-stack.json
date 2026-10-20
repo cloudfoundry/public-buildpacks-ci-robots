@@ -1,0 +1,14 @@
+{
+  "version": "21.0.12.1+1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_21.0.12.1%2B1_linux_x64_cflinuxfs4_c0a7dac8.tgz",
+  "sha256": "c0a7dac8f8d8a631eda3630e123108e13507051b3e61adce7e1ee354fcd97776",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.12.1+1/bellsoft-jre21.0.12.1+1-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "c0a7dac8f8d8a631eda3630e123108e13507051b3e61adce7e1ee354fcd97776",
+  "sub_dependencies": {}
+}
