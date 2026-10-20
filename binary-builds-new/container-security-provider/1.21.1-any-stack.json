@@ -1,0 +1,14 @@
+{
+  "version": "1.21.1",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/container-security-provider/container-security-provider_1.21.1_linux_noarch_any-stack_b2d3382d.jar",
+  "sha256": "b2d3382d01bbf73e1a151412a53f3fa29b3203b6637803aefab79b7007e70170",
+  "source": {
+    "url": "https://github.com/cloudfoundry/java-buildpack-security-provider/releases/download/v1.21.1/java-buildpack-container-security-provider-1.21.1.jar",
+    "md5": null,
+    "sha256": "b2d3382d01bbf73e1a151412a53f3fa29b3203b6637803aefab79b7007e70170",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b2d3382d01bbf73e1a151412a53f3fa29b3203b6637803aefab79b7007e70170",
+  "sub_dependencies": {}
+}
