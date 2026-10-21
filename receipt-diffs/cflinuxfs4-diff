@@ -1,8 +1,16 @@
-newpackages_cflinuxfs4_1792462231:
+newpackages_cflinuxfs4_1792590493:
 
 ```
--ii  git     1:2.34.1-1ubuntu1.17 amd64 fast, scalable, distributed revision control system
--ii  git-man 1:2.34.1-1ubuntu1.17 all   fast, scalable, distributed revision control system (manual pages)
-+ii  git     1:2.34.1-1ubuntu1.18 amd64 fast, scalable, distributed revision control system
-+ii  git-man 1:2.34.1-1ubuntu1.18 all   fast, scalable, distributed revision control system (manual pages)
+-ii  ca-certificates   20260601~22.04.1            all   Common CA certificates
++ii  ca-certificates   20260816ubuntu0.22.04.1     all   Common CA certificates
+-ii  distro-info-data  0.72-0ubuntu0.22.04.1       all   information about the distributions' releases (data files)
++ii  distro-info-data  2026.10.12-0ubuntu0.22.04.1 all   information about the distributions' releases (data files)
+-ii  liblzma-dev:amd64 5.2.5-2ubuntu1.1            amd64 XZ-format compression library - development files
+-ii  liblzma5:amd64    5.2.5-2ubuntu1.1            amd64 XZ-format compression library
++ii  liblzma-dev:amd64 5.2.5-2ubuntu1.2            amd64 XZ-format compression library - development files
++ii  liblzma5:amd64    5.2.5-2ubuntu1.2            amd64 XZ-format compression library
+-ii  libunbound8:amd64 1.13.1-1ubuntu5.16          amd64 library implementing DNS resolution and validation
++ii  libunbound8:amd64 1.13.1-1ubuntu5.17          amd64 library implementing DNS resolution and validation
+-ii  xz-utils          5.2.5-2ubuntu1.1            amd64 XZ-format compression utilities
++ii  xz-utils          5.2.5-2ubuntu1.2            amd64 XZ-format compression utilities
 ```
