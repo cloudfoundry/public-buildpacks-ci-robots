@@ -1,0 +1,14 @@
+{
+  "version": "1.31.8",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.31.8_linux_x64_cflinuxfs5_cc8707a2.tgz",
+  "sha256": "cc8707a26a49e2a23fad61003de9e7ee2c5f0b3a61a7a7a2d4a2171db74eb9e7",
+  "source": {
+    "url": "http://nginx.org/download/nginx-1.31.8.tar.gz",
+    "md5": null,
+    "sha256": "0652b760b3b772d2ec17b47c2fc15d9a95e6fe35cd5b877eadc1a62d9bc75af1",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "0652b760b3b772d2ec17b47c2fc15d9a95e6fe35cd5b877eadc1a62d9bc75af1",
+  "sub_dependencies": {}
+}
