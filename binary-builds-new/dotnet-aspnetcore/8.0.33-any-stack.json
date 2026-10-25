@@ -1,0 +1,14 @@
+{
+  "version": "8.0.33",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-aspnetcore/dotnet-aspnetcore_8.0.33_linux_x64_cflinuxfs4_738dfeb8.tar.xz",
+  "sha256": "738dfeb87169c3ec40329ad8120f969cec0d03612884581830df87cb98ddb241",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/8.0.33/aspnetcore-runtime-8.0.33-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "08e37c6cd09edde60170f3f65531f1b688610f692f9de62125e2f7217bffa2ac130c9d6b49803266ac2d4916a91a277e095c226b83e8ea565d7de4014422aa6d",
+    "sha1": null
+  },
+  "source_sha256": "738dfeb87169c3ec40329ad8120f969cec0d03612884581830df87cb98ddb241",
+  "sub_dependencies": {}
+}
