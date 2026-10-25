@@ -1,0 +1,14 @@
+{
+  "version": "9.0.22",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/dotnet-aspnetcore/dotnet-aspnetcore_9.0.22_linux_x64_cflinuxfs4_1a63e2f2.tar.xz",
+  "sha256": "1a63e2f2790e6108c55223766f43a8700901e8defd859a2716f77c8649c0d0c6",
+  "source": {
+    "url": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.22/aspnetcore-runtime-9.0.22-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "eafa93b084b09ee587739bbfadda0e4b3c734afa5308095100c7a310cd269caef2ec734ae27dabae563150e30b909e5b351f917bb44fb6d608ed8a4caeb590c2",
+    "sha1": null
+  },
+  "source_sha256": "1a63e2f2790e6108c55223766f43a8700901e8defd859a2716f77c8649c0d0c6",
+  "sub_dependencies": {}
+}
