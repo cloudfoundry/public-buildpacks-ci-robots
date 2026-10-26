@@ -1,0 +1,14 @@
+{
+  "version": "25.0.5.0.3+5",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_25.0.5.0.3%2B5_linux_x64_cflinuxfs4_78846aee.tgz",
+  "sha256": "78846aeed480e29ba3c987e61d3c7b437163f005b20e41bb2cdf7cf8ccbe76f3",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/25.0.5.0.3+5/bellsoft-jre25.0.5.0.3+5-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "78846aeed480e29ba3c987e61d3c7b437163f005b20e41bb2cdf7cf8ccbe76f3",
+  "sub_dependencies": {}
+}
