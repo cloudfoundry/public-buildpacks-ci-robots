@@ -1,0 +1,14 @@
+{
+  "version": "17.0.21.0.2+5",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/openjdk/openjdk_17.0.21.0.2%2B5_linux_x64_cflinuxfs4_94354386.tgz",
+  "sha256": "94354386e0efd6093c15e9f6ffb2ee0d99d5ee75a843669025c3626c3e5adce0",
+  "source": {
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.21.0.2+5/bellsoft-jre17.0.21.0.2+5-linux-amd64.tar.gz",
+    "md5": null,
+    "sha256": "",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "94354386e0efd6093c15e9f6ffb2ee0d99d5ee75a843669025c3626c3e5adce0",
+  "sub_dependencies": {}
+}
