@@ -1,0 +1,14 @@
+{
+  "version": "20261026_RC00",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/google-stackdriver-profiler/google-stackdriver-profiler_20261026_RC00_linux_noarch_any-stack_bd443833.tgz",
+  "sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+  "source": {
+    "url": "https://storage.googleapis.com/cloud-profiler/java/cloud-profiler-java-agent_20261026_RC00.tar.gz",
+    "md5": null,
+    "sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+  "sub_dependencies": {}
+}
