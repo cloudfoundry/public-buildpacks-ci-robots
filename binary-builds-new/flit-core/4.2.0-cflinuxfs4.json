@@ -1,0 +1,14 @@
+{
+  "version": "4.2.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/flit-core/flit-core_4.2.0_linux_noarch_cflinuxfs4_a9f95a63.tgz",
+  "sha256": "a9f95a63040ff9ff8ad43ff94032954ccfa94970245836aefaea8839f5947ac1",
+  "source": {
+    "url": "https://files.pythonhosted.org/packages/d3/8b/0370578a456986d6995344967a479dd5c9d4e064681550c2a9594bb58b4a/flit_core-4.2.0.tar.gz",
+    "md5": "f31d6369b52accb2764e87177985f4fd",
+    "sha256": "84e4e4d8fdd45ba2613800a3ebc6834de26d47ec9746efc3719f94181137b460",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "84e4e4d8fdd45ba2613800a3ebc6834de26d47ec9746efc3719f94181137b460",
+  "sub_dependencies": {}
+}
