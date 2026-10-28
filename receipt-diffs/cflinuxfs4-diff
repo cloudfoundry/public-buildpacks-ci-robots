@@ -1,8 +1,6 @@
-newpackages_cflinuxfs4_1793108570:
+newpackages_cflinuxfs4_1793195003:
 
 ```
--ii  libbrotli-dev:amd64 1.0.9-2build6    amd64 library implementing brotli encoder and decoder (development files)
--ii  libbrotli1:amd64    1.0.9-2build6    amd64 library implementing brotli encoder and decoder (shared libraries)
-+ii  libbrotli-dev:amd64 1.0.9-2ubuntu0.1 amd64 library implementing brotli encoder and decoder (development files)
-+ii  libbrotli1:amd64    1.0.9-2ubuntu0.1 amd64 library implementing brotli encoder and decoder (shared libraries)
+-ii  linux-libc-dev:amd64 5.15.0-198.208 amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64 5.15.0-202.212 amd64 Linux Kernel Headers for development
 ```
