@@ -1,4 +1,4 @@
-newpackages_cflinuxfs4_1793889905:
+newpackages_cflinuxfs4_1793976230:
 
 ```
 -ii  apt                   2.4.14                     amd64 commandline package manager
@@ -11,6 +11,8 @@ newpackages_cflinuxfs4_1793889905:
 +ii  bind9-dnsutils        1:9.18.39-0ubuntu0.22.04.8 amd64 Clients provided with BIND 9
 +ii  bind9-host            1:9.18.39-0ubuntu0.22.04.8 amd64 DNS Lookup Utility
 +ii  bind9-libs:amd64      1:9.18.39-0ubuntu0.22.04.8 amd64 Shared Libraries used by BIND 9
+-ii  ca-certificates       20260816ubuntu0.22.04.1    all   Common CA certificates
++ii  ca-certificates       20260816ubuntu0.22.04.2    all   Common CA certificates
 -ii  dnsutils              1:9.18.39-0ubuntu0.22.04.7 all   Transitional package for bind9-dnsutils
 +ii  dnsutils              1:9.18.39-0ubuntu0.22.04.8 all   Transitional package for bind9-dnsutils
 -ii  libapt-pkg6.0:amd64   2.4.14                     amd64 package management runtime library
@@ -28,5 +30,5 @@ newpackages_cflinuxfs4_1793889905:
 +ii  libpcre2-dev:amd64    10.39-3ubuntu0.2           amd64 New Perl Compatible Regular Expression Library - development files
 +ii  libpcre2-posix3:amd64 10.39-3ubuntu0.2           amd64 New Perl Compatible Regular Expression Library - posix-compatible runtime files
 -ii  linux-libc-dev:amd64  5.15.0-198.208             amd64 Linux Kernel Headers for development
-+ii  linux-libc-dev:amd64  5.15.0-202.212             amd64 Linux Kernel Headers for development
++ii  linux-libc-dev:amd64  5.15.0-203.213             amd64 Linux Kernel Headers for development
 ```
