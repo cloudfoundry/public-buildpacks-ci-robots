@@ -1,0 +1,14 @@
+{
+  "version": "12.20.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/pnpm/pnpm_12.20.0_linux_x64_any-stack_568fd50d.tgz",
+  "sha256": "568fd50dd174a57e80efacc04be1d6a228bb41fbebe557f2ef63a1c3a721a5f4",
+  "source": {
+    "url": "https://github.com/pnpm/pnpm/releases/download/v12.20.0/pnpm-linux-x64.tar.gz",
+    "md5": null,
+    "sha256": "568fd50dd174a57e80efacc04be1d6a228bb41fbebe557f2ef63a1c3a721a5f4",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "568fd50dd174a57e80efacc04be1d6a228bb41fbebe557f2ef63a1c3a721a5f4",
+  "sub_dependencies": {}
+}
