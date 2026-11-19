@@ -1,0 +1,14 @@
+{
+  "version": "4.0.10",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/ruby/ruby_4.0.10_linux_x64_cflinuxfs4_94837051.tgz",
+  "sha256": "948370511589cc3da79b8b0f13bc0b6df5ef8567987eac222e6661043ee551d1",
+  "source": {
+    "url": "https://cache.ruby-lang.org/pub/ruby/4.0/ruby-4.0.10.tar.gz",
+    "md5": null,
+    "sha256": "b53eef3371fa5d3e3b74340edcd015f06d5d8853968d4e539a5264fce41ed9f1",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "b53eef3371fa5d3e3b74340edcd015f06d5d8853968d4e539a5264fce41ed9f1",
+  "sub_dependencies": {}
+}
