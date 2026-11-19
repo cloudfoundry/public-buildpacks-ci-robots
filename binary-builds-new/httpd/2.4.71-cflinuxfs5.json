@@ -1,0 +1,14 @@
+{
+  "version": "2.4.71",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/httpd/httpd_2.4.71_linux_x64_cflinuxfs5_6ff06243.tgz",
+  "sha256": "6ff062436bf57925d884a15eb80583d5e1e4dba785d75586db94f70fb5f8b82c",
+  "source": {
+    "url": "https://dlcdn.apache.org/httpd/httpd-2.4.71.tar.bz2",
+    "md5": null,
+    "sha256": "2bc5da5a33c247341de082717d4ebcb5cb49e8b73a05b7fddf7d5d6dc2f8de62",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "2bc5da5a33c247341de082717d4ebcb5cb49e8b73a05b7fddf7d5d6dc2f8de62",
+  "sub_dependencies": {}
+}
