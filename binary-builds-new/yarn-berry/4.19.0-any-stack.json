@@ -1,0 +1,14 @@
+{
+  "version": "4.19.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/yarn-berry/yarn-berry_4.19.0_linux_noarch_any-stack_070ffef2.tgz",
+  "sha256": "070ffef2a2b6877cd871864c16e29e8dd64a1a69cb493aaf4836c9d53c143163",
+  "source": {
+    "url": "https://repo.yarnpkg.com/4.19.0/packages/yarnpkg-cli/bin/yarn.js",
+    "md5": null,
+    "sha256": "070ffef2a2b6877cd871864c16e29e8dd64a1a69cb493aaf4836c9d53c143163",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "070ffef2a2b6877cd871864c16e29e8dd64a1a69cb493aaf4836c9d53c143163",
+  "sub_dependencies": {}
+}
