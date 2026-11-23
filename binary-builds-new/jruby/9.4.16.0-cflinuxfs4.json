@@ -1,0 +1,14 @@
+{
+  "version": "9.4.16.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/jruby/jruby_9.4.16.0-ruby-3.1_linux_x64_cflinuxfs4_688ac8f2.tgz",
+  "sha256": "688ac8f2ecfb58a91e98aa1e6d238a8b0626fb441cc0f6ff00d43ae88059941f",
+  "source": {
+    "url": "https://github.com/jruby/jruby/releases/download/9.4.16.0/jruby-src-9.4.16.0.zip",
+    "md5": null,
+    "sha256": "40e78776f4b5e3a9717784df1047e08b3d4c7dce8784f8cadeb355533d80a1f8",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "40e78776f4b5e3a9717784df1047e08b3d4c7dce8784f8cadeb355533d80a1f8",
+  "sub_dependencies": {}
+}
