@@ -1,0 +1,14 @@
+{
+  "version": "0.5.0",
+  "url": "https://buildpacks.cloudfoundry.org/dependencies/google-stackdriver-profiler/google-stackdriver-profiler_0.5.0_linux_noarch_any-stack_bd443833.tgz",
+  "sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+  "source": {
+    "url": "https://github.com/GoogleCloudPlatform/cloud-profiler-java/releases/download/v0.5.0/profiler_java_agent.tar.gz",
+    "md5": null,
+    "sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+    "sha512": "",
+    "sha1": null
+  },
+  "source_sha256": "bd44383322b51b4ddd45233306d318a4f89afa69d5461c412f06ccbb6e11f835",
+  "sub_dependencies": {}
+}
